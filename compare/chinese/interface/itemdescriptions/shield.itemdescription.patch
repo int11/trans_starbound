@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/cooldownTitleLabel/value","value":"冷却时间："},
+{"op":"replace","path":"/healthTitleLabel/value","value":"盾牌生命值："}]

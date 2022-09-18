@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/paneLayout/btnOk/caption","value": "确定"},
+{"op": "replace","path": "/paneLayout/labelError/value","value": "出现错误"}]
