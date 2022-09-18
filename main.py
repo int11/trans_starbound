@@ -2,6 +2,14 @@ from glob import glob
 import os
 
 
+def download_original_assets(starbound_dir):
+    current_dir = os.getcwd()
+    os.chdir(starbound_dir)
+    print('asset unpacking...')
+    os.system(f'.\\win32\\asset_unpacker.exe .\\assets\\packed.pak {current_dir}\\compare\\unpackedassets')
+    os.chdir(current_dir)
+
+
 def del_dir(x):
     return [i for i in x if not os.path.isdir(i)]
 
@@ -21,9 +29,9 @@ def tarns_lower(x):
     return [i.lower() for i in x]
 
 
-def compare_original(x):
+def compare_original(x, original):
     tmp = []
-    temp_en = del_absolute_path(en)
+    temp_en = del_absolute_path(original)
     for i in del_patch(del_absolute_path(x)):
         if i not in temp_en:
             tmp.append(i)
@@ -49,7 +57,6 @@ class patchfile:
     def gettext(x):
         temp = []
         with open(x) as f:
-            print(x)
             content = f.read()
             while content.find('}') != -1:
                 a = content[content.find('{') + 1:content.find('}')]
@@ -59,16 +66,14 @@ class patchfile:
         return temp
 
 
-def get_All_patchfiles(dir_list):
+def get_all_patchfiles(dir_list):
     return [patchfile(i) for i in dir_list if 'patch' in os.path.splitext(i)[1]]
 
 
+# download_original_assets('E:\SteamLibrary\steamapps\common\Starbound')
 # en = del_dir(glob('compare\\unpackedassets\\**', recursive=True))
 ko = del_dir(glob('compare\\sb_korpatch_union-master\\**', recursive=True))
 ch = del_dir(glob('compare\\chinese\\**', recursive=True))
 
-with open(ch[1], 'r', encoding='UTF-8') as f:
-    content = f.read()
-
-ch = get_All_patchfiles(ch)
-ko = get_All_patchfiles(ko)
+ch = get_all_patchfiles(ch)
+ko = get_all_patchfiles(ko)
