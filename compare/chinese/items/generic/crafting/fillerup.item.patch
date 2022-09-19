@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "填满你飞船的燃料。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "加满油箱"}]

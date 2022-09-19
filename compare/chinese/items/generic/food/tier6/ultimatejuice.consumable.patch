@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "包含所有水果的果汁。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "终极果汁"}]

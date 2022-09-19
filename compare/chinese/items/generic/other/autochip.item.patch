@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用来维修载具的关键零件。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "载具芯片"}]

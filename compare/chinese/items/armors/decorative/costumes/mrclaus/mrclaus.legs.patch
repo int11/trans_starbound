@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "传统的裤子和鞋，适用于走雪地。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "节日裤"}]

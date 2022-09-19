@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "乘坐轨道！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "轨钩"}]

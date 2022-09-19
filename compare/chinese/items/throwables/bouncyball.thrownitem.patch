@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "弹力球"},
-{ "op" : "replace", "path" : "/description", "value" : "你敢扔，它就敢弹。"}]

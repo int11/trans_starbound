@@ -1,6 +1,0 @@
-[{"op": "replace","path": "/selectText","value": "<species>"},
-{"op": "replace","path": "/paneLayout/windowtitle/title","value": "图书馆"},
-{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;旅途中发现的书籍^green;[L]"},
-{"op": "replace","path": "/paneLayout/pageLabel/value","value": "页"},
-{"op": "replace","path": "/paneLayout/prevButton/caption","value": "< 前页"},
-{"op": "replace","path": "/paneLayout/nextButton/caption","value": "后页 >"}]

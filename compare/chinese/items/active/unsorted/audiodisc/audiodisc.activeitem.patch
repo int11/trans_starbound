@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个数据光盘包含音频文件。我应该听听！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "音频数据光盘"}]

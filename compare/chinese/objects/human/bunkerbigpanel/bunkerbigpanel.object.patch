@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "屏幕上滚动着大量的数据。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大型显示屏"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一组显示器。我很期待能看到大猿人的脸。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个显示屏，可能用来…读取数据。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很难在短时间内接受这么大量的数据信息。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。显示器的读数涵盖了最近的星球。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这中间的屏幕似乎在分析当地的星球。提示：它非常热。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "通过显示器可知，当地的星球还没有崩溃的危险。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "数据读取。为啥读取？"}]

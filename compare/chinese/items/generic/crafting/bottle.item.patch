@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "适合储存液体。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "空瓶"}]

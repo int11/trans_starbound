@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "黏液"},
-{ "op" : "replace", "path" : "/description", "value" : "黏黏的液体。"}]
