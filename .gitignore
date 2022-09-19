@@ -1,2 +1,4 @@
 # Project exclude paths
-/compare/unpackedassets/
+/assetfile/unpackedassets/
+/venv/
+/.idea/

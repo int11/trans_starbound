@@ -25,15 +25,15 @@ class patchfile:
         self.lines = self.getline(patch_dir)
 
     def getline(self, x):
-        temp = []
+        lines = []
         with open(x, encoding='UTF-8') as f:
             content = f.read()
             while content.find('}') != -1:
                 a = content[content.find('{') + 1:content.find('}')]
-                tmp = line(self.dir, getdata(a, 'path'), getdata(a, 'value'))
-                temp.append(tmp)
+                line = line(self.dir, getdata(a, 'path'), getdata(a, 'value'))
+                lines.append(line)
                 content = content[content.find('}') + 1:]
-        return temp
+        return lines
 
 
 class asset:
@@ -59,8 +59,15 @@ class asset:
     def download_original_assets(starbound_dir):
         current_dir = os.getcwd()
         os.chdir(starbound_dir)
-        print('asset unpacking...')
+        print('original asset unpacking...')
         dir = f'{current_dir}\\assetfile\\unpackedassets'
-        os.system(f'.\\win32\\asset_unpacker.exe .\\assets\\packed.pak {dir}')
+
+        try:
+            os.system(f'.\\win32\\asset_unpacker.exe .\\assets\\packed.pak {dir}')
+        except:
+            if os.path.exists(dir):
+                os.remove(dir)
+            raise
+
         os.chdir(current_dir)
         return dir
