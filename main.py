@@ -120,12 +120,3 @@ for i in ch.iter_all_lines():
         li0[3].append(dirpath)
 
 print(li)
-li0[2].sort()
-li0[0].sort()
-
-for i, e in zip(li0[0], li0[2]):
-    print(i)
-    print(e)
-    if not i == e:
-        print(1111111111)
-        time.sleep(10)
