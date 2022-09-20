@@ -21,7 +21,7 @@ def unicodeString_to_string(str):
 def getdata(x, ward):
     b = x[x.find(ward) + len(ward) + 1:]
     c = b[b.find('"') + 1:]
-    return c[:c.find('"')]
+    return c[:c.rfind('"')] if ward == 'value' else c[:c.find('"')]
 
 # def compare_original(x, original):
 #     tmp = []
