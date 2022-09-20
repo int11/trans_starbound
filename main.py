@@ -1,7 +1,7 @@
 import sys
 from trans_star import *
 
-from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QTableView
+from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QTableView, QTabWidget
 from PyQt5.QtGui import QStandardItemModel, QStandardItem
 from PyQt5.QtCore import Qt
 from PyQt5 import QtCore
@@ -9,20 +9,28 @@ from PyQt5.QtCore import pyqtSlot
 from PyQt5.Qt import QFileSystemModel
 
 
-class standardItemModel(QStandardItemModel):
-    def __init__(self):
-        QStandardItemModel.__init__(self)
-        self.setHorizontalHeaderLabels(["path", "value", "korea"])
+class patch_viewer(QTreeView):
+    def __init__(self, parent):
+        super().__init__(parent)
+        self.setEditTriggers(QAbstractItemView.DoubleClicked)
+        self.setGeometry(600, 0, 1500, 1500)
 
-    def setting(self, path):
-        self.removeRows(0, self.rowCount())
+        self.model = QStandardItemModel()
+        self.setModel(self.model)
+        self.model.setHorizontalHeaderLabels(["path", "value", "korea"])
+
+        self.setColumnWidth(0, 600)
+        self.setColumnWidth(1, 500)
+
+    def reload(self, path):
+        self.model.removeRows(0, self.model.rowCount())
         a = patchfile(path)
         lines = [i for i in a.get_lines()]
         for e, i in enumerate(lines):
-            self.insertRow(e)
-            self.setData(self.index(e, 0), i.path)
-            self.setData(self.index(e, 1), i.get_value())
-            self.setData(self.index(e, 2), i.get_value('unicode_escape'))
+            self.model.insertRow(e)
+            self.model.setData(self.model.index(e, 0), i.path)
+            self.model.setData(self.model.index(e, 1), i.get_value())
+            self.model.setData(self.model.index(e, 2), i.get_value('unicode_escape'))
 
 
 class explorer(QTreeView):
@@ -46,18 +54,17 @@ class Form(QWidget):
         QWidget.__init__(self, flags=Qt.Widget)
         self.setWindowTitle("ItemView QTreeView")
         self.move(100, 100)
-
-        # QTreeView 생성 및 설정
-        qtree0 = QTreeView(self)
-        qtree0.setEditTriggers(QAbstractItemView.DoubleClicked)
-        self.standard = standardItemModel()
-        qtree0.setModel(self.standard)
-        qtree0.setGeometry(600, 0, 1500, 1500)
-        qtree0.setColumnWidth(0, 600)
-        qtree0.setColumnWidth(1, 500)
-
         self.ko_explorer = explorer(self, 'sb_korpatch_union-master')
+        self.ch_explorer = explorer(self, 'chinese')
         self.ko_explorer.clicked.connect(self.cil)
+        self.ch_explorer.clicked.connect(self.cil)
+
+        self.tab = QTabWidget(self)
+        self.tab.addTab(self.ko_explorer, 'Korea')
+        self.tab.addTab(self.ch_explorer, 'Chinese')
+        self.tab.setGeometry(0, 0, 600, 1500)
+
+        self.viewer = patch_viewer(self)
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
@@ -67,7 +74,7 @@ class Form(QWidget):
 
         ex = os.path.splitext(filename)[1]
         if ex == '.patch':
-            self.standard.setting(filepath)
+            self.viewer.reload(filepath)
 
 
 if __name__ == "__main__":
