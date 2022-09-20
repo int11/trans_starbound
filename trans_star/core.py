@@ -10,30 +10,38 @@ class line:
     def get_dir(self, del_patch=False, del_absolute_path=False):
         dir = self.dir
         if del_patch:
-            dir = os.path.splitext(dir)[0] if 'patch' in os.path.splitext(dir)[1] else dir
+            dir = function.del_patch(dir)
         if del_absolute_path:
-            dir = dir[dir.find('\\', dir.find('\\') + 1) + 1:]
+            dir = function.del_absolute_path(dir)
         return dir
 
     def get_dirpath(self, del_patch=False, del_absolute_path=False):
         return self.get_dir(del_patch, del_absolute_path) + self.path
 
+    def get_value(self, encoding=None):
+        value = self.value
+        if encoding == 'unicode_escape':
+            value = function.unicodeString_to_string(value)
+        return value
+
 
 class patchfile:
     def __init__(self, patch_dir):
         self.dir = patch_dir
-        self.lines = self.getline(patch_dir)
-
-    def getline(self, x):
-        lines = []
-        with open(x, encoding='UTF-8') as f:
+        self.lines = []
+        with open(patch_dir, encoding='UTF-8') as f:
             content = f.read()
             while content.find('}') != -1:
                 a = content[content.find('{') + 1:content.find('}')]
-                line = line(self.dir, getdata(a, 'path'), getdata(a, 'value'))
-                lines.append(line)
+                self.lines.append(line(patch_dir, getdata(a, 'path'), getdata(a, 'value')))
                 content = content[content.find('}') + 1:]
-        return lines
+
+    def get_lines(self):
+        for line in self.lines:
+            yield line
+
+    def get_dirpath(self, del_patch=False, del_absolute_path=False):
+        return [i.get_dirpath(del_patch, del_absolute_path) for i in self.get_lines()]
 
 
 class asset:
@@ -43,17 +51,16 @@ class asset:
         self.patchfiles = [patchfile(i) for i in patch_dirs if 'patch' in os.path.splitext(i)[1]]
         self.outerfile_dirs = [i for i in patch_dirs if 'patch' not in os.path.splitext(i)[1]]
 
-    def iter_patchfiles(self):
+    def get_patchfiles(self):
         for patchfile in self.patchfiles:
             yield patchfile
 
-    def iter_all_lines(self):
+    def get_lines(self):
         for patchfile in self.patchfiles:
-            for line in patchfile.lines:
-                yield line
+            yield from patchfile.get_lines()
 
-    def get_all_lines_dirpath(self, del_patch=False, del_absolute_path=False):
-        return [i.get_dirpath(del_patch, del_absolute_path) for i in self.iter_all_lines()]
+    def get_dirpath(self, del_patch=False, del_absolute_path=False):
+        return [i.get_dirpath(del_patch, del_absolute_path) for i in self.get_lines()]
 
     @staticmethod
     def download_original_assets(starbound_dir):
