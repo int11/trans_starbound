@@ -4,7 +4,7 @@ import trans_star
 # en_dir = asset.download_original_assets('E:\SteamLibrary\steamapps\common\Starbound')
 # en = asset(en_dir)
 ko = trans_star.asset('assetfile\\sb_korpatch_union-master')
-ch = trans_star.asset('assetfile\\SChinese')
+ch = trans_star.asset('assetfile\\chinese')
 ch_dirpath = [i.lower() for i in ch.get_dirpath(del_absolute_path=True)]
 ko_dirpath = [i.lower() for i in ko.get_dirpath(del_absolute_path=True)]
 
@@ -13,7 +13,6 @@ compare = [0, 0, 0, 0]
 
 for i in ko.get_lines():
     dirpath = i.get_dirpath(del_absolute_path=True)
-
     if dirpath.lower() in ch_dirpath:
         compare[0] += 1
     else:
