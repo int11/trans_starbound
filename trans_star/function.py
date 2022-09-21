@@ -18,10 +18,7 @@ def unicodeString_to_string(str):
     return str.encode('utf-8').decode('unicode_escape')
 
 
-def getdata(x, ward):
-    b = x[x.find(ward) + len(ward) + 1:]
-    c = b[b.find('"') + 1:]
-    return c[:c.rfind('"')] if ward == 'value' else c[:c.find('"')]
+
 
 # def compare_original(x, original):
 #     tmp = []

@@ -41,11 +41,6 @@
 	},
 	{
 		"op":"replace",
-		"path":"/gui/connect/successText",
-		"value":"^green;\uace0\ub300\uc5ed\ud3ed \uc5f0\uacb0 \uc131\uacf5\n\uc2dc\uc2a4\ud15c \ub370\uc774\ud130 \uc804\uc1a1 \uc911"
-	},
-	{
-		"op":"replace",
 		"path":"/connectedText",
 		"value":"^green;\uc5f0\uacb0\ub428"
 	},

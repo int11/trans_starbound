@@ -1,4 +1,5 @@
 from trans_star import *
+import json
 
 
 class line:
@@ -24,6 +25,52 @@ class line:
             value = function.unicodeString_to_string(value)
         return value
 
+    def original_value(self, originalAssetName):
+
+
+        temp = self.path.split('/')[1:]
+        asdf = os.path.join('assetfile', originalAssetName, self.get_dir(True, True))
+        # print(
+        #     f'C:\\Users\\injea\\PycharmProjects\\trans_starbound\\assetfile\\sb_korpatch_union-master\\{self.get_dir(del_absolute_path=True)}')
+        # print(
+        #     f'C:\\Users\\injea\\PycharmProjects\\trans_starbound\\assetfile\\chinese\\{self.get_dir(del_absolute_path=True)}')
+        # print(
+        #     f'C:\\Users\\injea\\PycharmProjects\\trans_starbound\\assetfile\\english\\{self.get_dir(True, del_absolute_path=True)}')
+        def del_slash(js):
+            index = js.find('//')
+            if index == -1:
+                index = js.find('/*')
+            if index == -1:
+                index = js.find('*/')
+            b = js[index:]
+            frist = js[:index]
+            return frist + b[b.find('\n'):]
+
+        with open(asdf, 'r', encoding='UTF-8') as f:
+            read = f.read()
+            while True:
+                try:
+                    jsdic = json.loads(read, strict=False)
+                    break
+                except :
+                    read = del_slash(read)
+                    continue
+
+        for i in temp:
+            try:
+                jsdic = jsdic[i]
+            except TypeError:
+                try:
+                    jsdic = jsdic[int(i)]
+                except IndexError:
+                    print(jsdic)
+                    raise print(f"""\n\n Can't find Value of original "{self.path}"\n {asdf + self.path}\n""")
+            except KeyError:
+                print(jsdic)
+                raise print(f"""\n\n Can't find Value of original "{self.path}"\n {asdf + self.path}\n""")
+
+        print(jsdic)
+
 
 class patchfile:
     def __init__(self, patch_dir):
@@ -31,10 +78,9 @@ class patchfile:
         self.lines = []
         with open(patch_dir, encoding='UTF-8') as f:
             content = f.read()
-            while content.find('}') != -1:
-                a = content[content.find('{') + 1:content.find('}')]
-                self.lines.append(line(patch_dir, getdata(a, 'path'), getdata(a, 'value')))
-                content = content[content.find('}') + 1:]
+            jsdir = json.loads(content, strict=False)
+            for i in jsdir:
+                self.lines.append(line(patch_dir, i['path'], i['value']))
 
     def get_dir(self, del_patch=False, del_absolute_path=False):
         dir = self.dir
@@ -53,8 +99,8 @@ class patchfile:
 
 
 class asset:
-    def __init__(self, asset_dir):
-        patch_dirs = del_dir(glob(asset_dir + '\\**', recursive=True))
+    def __init__(self, asset_name):
+        patch_dirs = del_dir(glob('assetfile\\' + asset_name + '\\**', recursive=True))
 
         self.patchfiles = [patchfile(i) for i in patch_dirs if 'patch' in os.path.splitext(i)[1]]
         self.outerfile_dirs = [i for i in patch_dirs if 'patch' not in os.path.splitext(i)[1]]
@@ -71,18 +117,21 @@ class asset:
             yield from patchfile.get_lines()
 
     @staticmethod
-    def download_original_assets(starbound_dir):
+    def download_original_assets(starbound_dir, asset_name):
         current_dir = os.getcwd()
         os.chdir(starbound_dir)
-        print('original asset unpacking...')
-        dir = f'{current_dir}\\assetfile\\unpackedassets'
+        dir = f'{current_dir}\\assetfile\\{asset_name}'
+        print('Original asset unpacking...')
+        print(dir)
 
         try:
             os.system(f'.\\win32\\asset_unpacker.exe .\\assets\\packed.pak {dir}')
+            print('Done')
         except:
             if os.path.exists(dir):
                 os.remove(dir)
+            print('Unpacking Fail')
             raise
 
         os.chdir(current_dir)
-        return dir
+        return asset_name

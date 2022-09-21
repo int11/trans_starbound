@@ -1,10 +1,8 @@
 import trans_star
 
 
-# en_dir = asset.download_original_assets('E:\SteamLibrary\steamapps\common\Starbound')
-# en = asset(en_dir)
-ko = trans_star.asset('assetfile\\sb_korpatch_union-master')
-ch = trans_star.asset('assetfile\\chinese')
+ko = trans_star.asset('sb_korpatch_union-master')
+ch = trans_star.asset('chinese')
 ch_dirpath = [i.lower() for i in ch.get_dirpath(del_absolute_path=True)]
 ko_dirpath = [i.lower() for i in ko.get_dirpath(del_absolute_path=True)]
 

@@ -87,11 +87,11 @@ class Form(QWidget):
 
 
 if __name__ == "__main__":
-    # en_dir = asset.download_original_assets('E:\SteamLibrary\steamapps\common\Starbound')
-    # en = asset(en_dir)
-    # ko = asset('assetfile\\sb_korpatch_union-master')
-    # ch = asset('assetfile\\chinese')
-    size = (800, 1000)
+    # name = asset.download_original_assets('E:\SteamLibrary\steamapps\common\Starbound', 'english)
+    # en = asset(name)
+    # ko = asset('sb_korpatch_union-master')
+    # ch = asset('chinese')
+    size = (1600, 2000)
     app = QApplication(sys.argv)
     form = Form()
     form.show()
