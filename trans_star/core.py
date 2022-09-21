@@ -28,20 +28,13 @@ class line:
 
     def original_value(self, originalAssetName):
         if self.op == 'add':
-            print(self.dir)
+            return None
 
         temp = self.path.split('/')[1:]
         asdf = os.path.join('assetfile', originalAssetName, self.get_dir(True, True))
-
-        def del_slash(js):
-            index = js.find('//')
-            if index == -1:
-                index = js.find('/*')
-            if index == -1:
-                index = js.find('*/')
-            b = js[index:]
-            frist = js[:index]
-            return frist + b[b.find('\n'):]
+        # print(f'{os.getcwd()}\\assetfile\\sb_korpatch_union-master\\{self.get_dir(del_absolute_path=True)}')
+        # print(f'{os.getcwd()}\\assetfile\\chinese\\{self.get_dir(del_absolute_path=True)}')
+        # print(f'{os.getcwd()}\\assetfile\\english\\{self.get_dir(True, del_absolute_path=True)}')
 
         with open(asdf, 'r', encoding='UTF-8') as f:
             read = f.read()
@@ -49,8 +42,16 @@ class line:
                 try:
                     jsdic = json.loads(read, strict=False)
                     break
-                except :
-                    read = del_slash(read)
+                except json.decoder.JSONDecodeError as e:
+                    index = read.find('//')
+                    if index == -1:
+                        index = read.find('/*')
+                    if index == -1:
+                        index = read.find('*/')
+                    if index == -1:
+                        read = read[:e.pos] + ',' + read[e.pos:]
+                    b = read[index:]
+                    read = read[:index] + b[b.find('\n'):]
                     continue
 
         for i in temp:
