@@ -7,6 +7,6 @@ ko = trans_star.asset('sb_korpatch_union-master')
 ch = trans_star.asset('chinese')
 count = 0
 for i in ch.get_lines():
-    i.original_value('english')
+    print(i.original_value('english'))
     count += 1
 print(count)

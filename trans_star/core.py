@@ -3,8 +3,9 @@ import json
 
 
 class line:
-    def __init__(self, dir, path, value):
+    def __init__(self, dir, op, path, value):
         self.dir = dir
+        self.op = op
         self.path = path
         self.value = value
 
@@ -26,16 +27,12 @@ class line:
         return value
 
     def original_value(self, originalAssetName):
-
+        if self.op == 'add':
+            print(self.dir)
 
         temp = self.path.split('/')[1:]
         asdf = os.path.join('assetfile', originalAssetName, self.get_dir(True, True))
-        # print(
-        #     f'C:\\Users\\injea\\PycharmProjects\\trans_starbound\\assetfile\\sb_korpatch_union-master\\{self.get_dir(del_absolute_path=True)}')
-        # print(
-        #     f'C:\\Users\\injea\\PycharmProjects\\trans_starbound\\assetfile\\chinese\\{self.get_dir(del_absolute_path=True)}')
-        # print(
-        #     f'C:\\Users\\injea\\PycharmProjects\\trans_starbound\\assetfile\\english\\{self.get_dir(True, del_absolute_path=True)}')
+
         def del_slash(js):
             index = js.find('//')
             if index == -1:
@@ -69,7 +66,7 @@ class line:
                 print(jsdic)
                 raise print(f"""\n\n Can't find Value of original "{self.path}"\n {asdf + self.path}\n""")
 
-        print(jsdic)
+        return jsdic
 
 
 class patchfile:
@@ -80,7 +77,7 @@ class patchfile:
             content = f.read()
             jsdir = json.loads(content, strict=False)
             for i in jsdir:
-                self.lines.append(line(patch_dir, i['path'], i['value']))
+                self.lines.append(line(patch_dir, i['op'],i['path'], i['value']))
 
     def get_dir(self, del_patch=False, del_absolute_path=False):
         dir = self.dir
