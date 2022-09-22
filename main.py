@@ -12,7 +12,7 @@ from PyQt5.Qt import QFileSystemModel
 class patch_viewer(QTreeView):
     def __init__(self, parent):
         super().__init__(parent)
-        self.setGeometry(int(size[1] * 0.4), 0, int(size[1]*0.6), size[0])
+        self.setGeometry(int(size[1] * 0.4), 0, int(size[1] * 0.6), size[0])
         self.setEditTriggers(QAbstractItemView.DoubleClicked)
 
         self.model = QStandardItemModel()
@@ -24,14 +24,11 @@ class patch_viewer(QTreeView):
 
     def reload(self, lines):
         self.model.removeRows(0, self.model.rowCount())
-        for i in lines:
-            print(i.value)
+
         for e, i in enumerate(lines):
             self.model.insertRow(e)
             self.model.setData(self.model.index(e, 0), i.path)
-            self.model.setData(self.model.index(e, 1), i.value)
-
-
+            self.model.setData(self.model.index(e, 1), str(i.value))
 
 
 class explorer(QTreeView):
@@ -70,7 +67,7 @@ class Form(QWidget):
 
         self.viewer = patch_viewer(self)
         self.textedit = QTextEdit(self)
-        self.textedit.setGeometry(size[1], 0, int(size[1] * 0.2),int(size[0] * 0.2))
+        self.textedit.setGeometry(size[1], 0, int(size[1] * 0.2), int(size[0] * 0.2))
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
@@ -92,8 +89,10 @@ if __name__ == "__main__":
     # en = asset(name)
     # ko = asset('sb_korpatch_union-master')
     # ch = asset('chinese')
-    size = (1600, 2000)
+
     app = QApplication(sys.argv)
+    rect = app.desktop().screenGeometry()
+    size = (int(rect.height() * 0.8),int(rect.width() * 0.7))
     form = Form()
     form.show()
     exit(app.exec_())
