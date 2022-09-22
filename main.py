@@ -17,19 +17,19 @@ class patch_viewer(QTreeView):
 
         self.model = QStandardItemModel()
         self.setModel(self.model)
-        self.model.setHorizontalHeaderLabels(["path", "value", "korea"])
+        self.model.setHorizontalHeaderLabels(["path", "value"])
 
         self.setColumnWidth(0, int(size[1] * 0.3))
-        self.setColumnWidth(1, int(size[1] * 0.1))
+        self.setColumnWidth(1, int(size[1] * 0.5))
 
     def reload(self, lines):
         self.model.removeRows(0, self.model.rowCount())
-
+        for i in lines:
+            print(i.value)
         for e, i in enumerate(lines):
             self.model.insertRow(e)
             self.model.setData(self.model.index(e, 0), i.path)
-            self.model.setData(self.model.index(e, 1), i.get_value())
-            self.model.setData(self.model.index(e, 2), i.get_value('unicode_escape'))
+            self.model.setData(self.model.index(e, 1), i.value)
 
 
 
@@ -58,14 +58,14 @@ class Form(QWidget):
         self.setWindowTitle("trans_star")
         self.move(100, 100)
 
-        self.ko_explorer = explorer(self, 'sb_korpatch_union-master')
+        self.ko_explorer = explorer(self, 'korean')
         self.ch_explorer = explorer(self, 'chinese')
         self.ko_explorer.clicked.connect(self.cil)
         self.ch_explorer.clicked.connect(self.cil)
 
         self.tab = QTabWidget(self)
-        self.tab.addTab(self.ko_explorer, 'Korea')
-        self.tab.addTab(self.ch_explorer, 'Chinese')
+        self.tab.addTab(self.ko_explorer, 'korean')
+        self.tab.addTab(self.ch_explorer, 'chinese')
         self.tab.setGeometry(0, 0, int(size[1] * 0.4), size[0])
 
         self.viewer = patch_viewer(self)
@@ -80,6 +80,7 @@ class Form(QWidget):
         filepath = model.filePath(indexitem)
 
         ex = os.path.splitext(filename)[1]
+
         if ex == '.patch':
             a = patchfile(filepath)
             lines = [i for i in a.get_lines()]
