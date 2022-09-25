@@ -20,7 +20,7 @@ class patch_viewer(QTreeView):
         self.model.setHorizontalHeaderLabels(["path", "value"])
 
         self.setColumnWidth(0, int(size[1] * 0.3))
-        self.setColumnWidth(1, int(size[1] * 0.5))
+        self.setColumnWidth(1, int(size[1] * 0.28))
 
     def reload(self, lines):
         self.model.removeRows(0, self.model.rowCount())
@@ -67,7 +67,7 @@ class Form(QWidget):
 
         self.viewer = patch_viewer(self)
         self.textedit = QTextEdit(self)
-        self.textedit.setGeometry(size[1], 0, int(size[1] * 0.2), int(size[0] * 0.2))
+        self.textedit.setGeometry(size[1] - 2, 0, int(size[1] * 0.2), int(size[0] * 0.2))
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
