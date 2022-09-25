@@ -1,16 +1,13 @@
 import trans_star
 import time
 import os
-
-# C:\Users\injea\PycharmProjects\trans_starbound\assetfile\english\objects\ancient\hologramgalaxy\hologramgalaxy.object
+import shutil
 
 ko = trans_star.asset('sb_korpatch_union-master')
 ch = trans_star.asset('chinese')
 ko_dirpath = [i for i in ko.get_dirpath(del_absolute_path=True)]
 li = []
 new = trans_star.asset('korean')
-
-
 
 for i in ko.patchfiles:
     temp = new.newPatchAppend(i.dir)
@@ -41,3 +38,19 @@ for i in new.get_lines():
 print(count)
 
 new.save()
+
+for i in ko.outerfile_dirs:
+    if not os.path.exists(f"{new.dir}\\{os.path.dirname(i)}"):
+        os.makedirs(f"{new.dir}\\{os.path.dirname(i)}")
+    shutil.copy(f"{ko.dir}\\{i}", f"{new.dir}\\{i}")
+    print(f"{ko.dir}\\{i}", f"{new.dir}\\{i}")
+
+
+# hava to add outfile
+# count = 0
+# for i in ch.outerfile_dirs:
+#     if i not in ko.outerfile_dirs:
+#         print(i)
+#         count += 1
+# print(count)
+
