@@ -54,7 +54,7 @@ class patch_viewer(QTreeView):
             self.originaltext.setPlainText("""This line "op" flag is "add" """)
         elif op == 'replace':
             org = self.lines[self.selectindex].original_value('english')
-            self.originaltext.setPlainText(json.dumps(org if isinstance(org, str) else org, ensure_ascii=False))
+            self.originaltext.setPlainText(org if isinstance(org, str) else json.dumps(org, ensure_ascii=False))
         else:
             print(f"Not consider this line op flag : {op}")
             raise

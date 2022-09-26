@@ -2,7 +2,8 @@
   "author" : "int11 with KorPatchTeam",
   "description" : "Starbound korean patch",
   "friendlyName" : "Starbound korean patch",
-  "link" : "https://github.com/int11/trans_starbound",
   "name" : "trans_starbound_ko",
+  "priority" : -9999,
+  "requires" : ["base"],
   "tags" : "User Interface"
 }

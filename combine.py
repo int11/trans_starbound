@@ -3,11 +3,13 @@ import time
 import os
 import shutil
 
+combine_asset_name = 'korean'
+
 ko = trans_star.asset('sb_korpatch_union-master')
 ch = trans_star.asset('chinese')
 ko_dirpath = [i for i in ko.get_dirpath(del_absolute_path=True)]
 li = []
-new = trans_star.asset('korean')
+new = trans_star.asset(combine_asset_name)
 
 for i in ko.patchfiles:
     temp = new.newPatchAppend(i.dir)
