@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "저중력 부품"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "중력을 재구상해 천천히 떨어지도록 하는 EPP 확장 부품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/augment/displayName",
+        "value": "反重力"
+    }
+]

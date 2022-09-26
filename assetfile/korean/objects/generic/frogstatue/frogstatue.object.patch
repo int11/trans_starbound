@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "개구리가 무슨 수로 이렇게 앉아? 곧장 다리 분지르게 생겼는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "거대 개구리 상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이런 애들이 몇 명 더 있었으면 노래도 부를 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "평화로워보이는 개구리 조각상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 내가 알지 못 하는 종의 개구리를 묘사한 조각이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 개구리샤람 쓔신다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "고뇌에 잠겨 생각이 깊어보이는 생물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "개구리 조각상"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개구리가 평화로이 앉아있는 조각상이다."
+    }
+]

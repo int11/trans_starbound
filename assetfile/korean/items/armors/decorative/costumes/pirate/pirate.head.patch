@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해적 반다나"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우랴! 난 뚜껑을 열다가 눈 하나를 잃었지."
+    }
+]

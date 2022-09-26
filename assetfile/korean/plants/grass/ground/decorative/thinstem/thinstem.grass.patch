@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 얇은 수풀."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "얇은 슈풀."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얇은 수풀."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얇은 수풀이다."
+    }
+]

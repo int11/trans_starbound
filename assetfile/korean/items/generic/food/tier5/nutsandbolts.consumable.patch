@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "너트, 볼트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구리맛 한입을 맛볼 수 있다."
+    }
+]

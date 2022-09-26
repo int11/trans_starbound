@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕! 나는 윌리엄이야. 지구의 프로그래머지. 난 인공지능에 전문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "嗨！我是William。来自地球的程序员。我的专长是AI设计。"
+        ]
+    }
+]

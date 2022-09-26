@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주방장 자켓"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "주방장 시험에 합격한 모든 주방장에게 주어지는 자켓 입니다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "캡틴의 폭탄 머리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과장된 폭탄 머리 가발이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "듀라스틸 각반은 착용자가 오랜시간 주둔지에 주둔할수 있게 해준다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "호수 각반"
+    }
+]

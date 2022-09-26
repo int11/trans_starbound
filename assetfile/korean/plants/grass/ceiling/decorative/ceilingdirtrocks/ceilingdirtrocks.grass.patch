@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 흙으로 만들어진 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "흙 도오오올!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "흙돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "흙돌"
+    }
+]

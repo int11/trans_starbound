@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "서리낀 고산성 잔디다."
+    }
+]

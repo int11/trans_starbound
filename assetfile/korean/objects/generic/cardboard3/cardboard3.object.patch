@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아무 거나 담을 수 있는 근사한 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "골판지 상자. 예쁘진 않지만 물건 정돈할 때 딱이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "중간 크기의 판지 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "판지 상자. 전에 열린 적이 있는것 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "열린 채 버려진 판지 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 판지 상자는 가볍지만, 안에 물건을 잔뜩 넣을 수 있을 만큼 크다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "물건 안에 슈납할 때 쓰는 샹자."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "열린 판지 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "열린 판지 상자"
+    }
+]

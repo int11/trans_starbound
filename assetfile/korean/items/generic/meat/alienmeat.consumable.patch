@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생 스테이크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "힘줄이 많은 이상한 외계 생고기다. 요리를 해야 할 것 같다."
+    }
+]

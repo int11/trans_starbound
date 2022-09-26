@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화산게"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "항상 뿔나있다. 옆으로 걸으며 사소한 대립에도 폭발한다."
+    }
+]

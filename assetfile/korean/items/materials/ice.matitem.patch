@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "만지면 얼얼한 단단한 얼음이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "细心。看起来这冰是天然冻成的。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "结结结霜的坚坚坚冰。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一堆冰。"
+    }
+]

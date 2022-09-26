@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이런 모자라면, 아무도 나한태 명령을 내릴 생각은 안하겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도망자 모자"
+    }
+]

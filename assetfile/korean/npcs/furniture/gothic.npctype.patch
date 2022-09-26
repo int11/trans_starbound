@@ -1,0 +1,68 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/9",
+        "value": "우울. 어쩌면 밤의 공포를 진정으로 이해할 수 없다는 건 우리를 위한 자비일지도 모르겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "value": "공포. 심연을 지켜보면, 그 눈 하나가 대놓고 나를 되돌려본다오."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "value": "걱정. 어둠 속을 오랫동안 지켜보았네, 무엇을 찾아..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "value": "은닉. 과도한 주의를 끌지 말게. 우주엔 피해야 할 힘들이 넘쳐나니까 말일세."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "value": "병적. 내가 괴상하다고 생각하나? 어둠의 너머에 존재하는걸 본적이 없나 보군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "우울. 이 우주는 숨어있는 어둠이 짠 망과 같지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "기면. 지치고 약한 느낌이 드는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "걱정. 이 우주엔 나보다 훨씬 무서운 게 많지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "위협. 그림자를 두려워하지 않는다면, 그곳에 무엇이 있는지 모르는 것이겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "흥미. 고작 가면을 쓰는 것 때문에 이상하다고 생각하는 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "昏睡。我感到虚弱和疲惫。",
+            "阴暗。这片宇宙是由隐匿的黑暗编织成的网。",
+            "好奇。你觉得我戴着面具很奇怪？",
+            "恐吓。如果你不恐惧黑暗，那是你根本不知道它到底隐藏着什么。",
+            "担心。这个宇宙中有远比我更可怕的事。",
+            "痛苦。如果你认为我令人毛骨悚然，那么你应该看看其他隐藏在黑暗之中的东西。",
+            "鬼祟。尽量不要吸引太多的注意。那有着你应该避开的力量",
+            "担心。我在漫长的黑暗里窥探着，沉思着…",
+            "惊慌。如果你凝视深渊，深渊里那颗肆无忌惮的大眼睛也会瞪着你。",
+            "忧郁。这也许是一种幸运，我们并不能完全理解黑夜的恐怖之处。"
+        ]
+    }
+]

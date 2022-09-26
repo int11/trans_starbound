@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "폭탄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무언가를 터트리고 싶을 때 좋다. 그래도 어디에 던질지는 조심하자."
+    }
+]

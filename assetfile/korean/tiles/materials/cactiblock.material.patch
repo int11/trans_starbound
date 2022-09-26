@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "선인장으로 만들어졌다. 여기에 기대지 않는게 좋겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조심. 이 건설용 블럭은 가시 투성이인 선인장으로 만들어졌군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 가시 투성이 션인장 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "블럭구조로 된 선인장이다. 아직 가시로 뒤덮여 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선인장 블럭."
+    }
+]

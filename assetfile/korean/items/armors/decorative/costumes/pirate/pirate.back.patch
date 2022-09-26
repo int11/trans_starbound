@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해적통"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화약통은 아니겠지? 입기전에 꼭 채크하자."
+    }
+]

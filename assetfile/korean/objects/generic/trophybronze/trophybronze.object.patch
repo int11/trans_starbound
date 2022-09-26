@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전사의 우승컵"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"전체가 반짝이지 않는 금. 영웅적인 승자에게 수상한다.\"라고 적혀있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "这个奖杯很小但是是个不错的象征。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "开心。这个小奖杯看上去让人很愉悦。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一个小奖杯，是做了什么让人印象深刻的事之后赚回来的。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점액 덩어리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹색 점액의 덩어리다."
+    }
+]

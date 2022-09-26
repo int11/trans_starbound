@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "돈에 밝은 올챙이 행상인"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "프로그 상인"
+    }
+]

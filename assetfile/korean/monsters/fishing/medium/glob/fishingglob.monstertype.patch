@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빛나는 점액고기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몸통에는 육체가 없다, 완전히 유기물 점액으로 만들어져있다."
+    }
+]

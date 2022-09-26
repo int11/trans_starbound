@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "철 표본"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"철 광석의 완벽한 표본이다.\"라고 적혀있다."
+    }
+]

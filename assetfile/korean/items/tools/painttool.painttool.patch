@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "채색 모드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "왼쪽 클릭은 색을 칠하고, 오른쪽 클릭은 색을 변경한다. ^green;[Y] 키로 빠르게 선택할 수 있다."
+    }
+]

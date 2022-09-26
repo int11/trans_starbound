@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오, 땅성계 젤리다! 농담이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "젤리같은 작은 생명체가 단지안에 갇혀있네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "어어어... 작은 심바이오트가 있어. 딱해라."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 심바이오트가 든 단지다. 여러 실험에 자주 써먹지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "동정. 심바이오트가 조금 슬퍼하는거 같소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 작은 젤리 생명체다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "병 안의 심비오트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "공상에 잠긴 병안의 생물."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我怀疑这个共生体比我还要喜欢呆在这个罐子里。"
+    }
+]

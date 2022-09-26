@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 갑옷의 거대한 앞판은 착용자의 진중함을 느끼게 해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "최전방군의 흉갑"
+    }
+]

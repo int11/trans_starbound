@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가시 주스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "주스에 가시가 많다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강철 잠금쇠가 달린 조끼가 모든 날씨로 부터 따뜻하게 지켜준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "노상강도의 조끼"
+    }
+]

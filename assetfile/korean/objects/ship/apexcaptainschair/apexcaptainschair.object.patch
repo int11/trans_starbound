@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "선장이 이곳에 앉아서 함선을 운영한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "선장의 의자. 여기에 앉는 놈이 우주선이 어디로 갈지 결정하지! 바로 나다!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "선장석에 앉는 것이 내가 이 함선을 운항할 수 있도록 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "선장의 의자. 바로 나야! 이 의자에서 우주선의 항해 장치를 사용할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "선장의 의자. 여기 앉는 사람이 우주선이 어디로 갈지 결정하지!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "아... 달콤한 자유. 이 의자에서 우주선의 항해 장치를 사용할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "신남. 선장석에 앉는 것이 이 함선을 운항할 수 있도록 하지. 다음은 어디로 갈까."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "우주선에서 가장 좋은 의자. 플로란은 항해 장치를 쓰고 우주션을 운항하기 위해 여기 앉아."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 선장석"
+    }
+]

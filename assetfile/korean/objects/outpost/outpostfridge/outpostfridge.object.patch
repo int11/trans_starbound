@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "냉장고잖아! 누군가 뭐 특별한거라도 남겼을지 궁금한걸?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조심. 이 냉장고 비위생적인 냄새가 나는군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "세련된 냉장고"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "음식-냉각 기기."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "냉장고 안에 뭐가 들어있을지, 궁금한데?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "냉장고네. 이 안에 계란이 있을지 궁금한걸."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "냉장고군. 저 안에 음식이 있기를 바라야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "차가워!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "냉장고다. 맛나는 것들이 가득하길!"
+    }
+]

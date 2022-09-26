@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "양치기의 파이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "으깬 감자로 토핑한, 잘게 썬 육즙 많은 고기가 든 파이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "웬 덩치 큰 사람이 선물을 나눠주는 그림이다. 낯이 익다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "위대한 존재가 자기 아래에 있는 사람들에게 중대한 사명을 지닌 선물을 주는 그림 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "커다란 존재가 행복해보이는 사람들에게 선물을 주는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 그림 얼마나 오래 됐을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 고대의 존재가 지금 플로란에게 뭘 주는 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 아주 오래 전 일어난 사건을 조잡하게 묘사한 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "큰 놈이 플로란한테 션물 주는 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "의미심장한 동굴벽화"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "제안을 묘사한 동굴벽화다."
+    }
+]

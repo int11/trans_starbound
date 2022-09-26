@@ -1,0 +1,43 @@
+[
+    {
+        "op": "replace",
+        "path": "/destinations/0/name",
+        "value": "빔 다운"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/0/planetName",
+        "value": "현재 궤도 중심 천체"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/1/name",
+        "value": "메크 전개"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/1/planetName",
+        "value": "현재 궤도 중심 천체"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/0",
+        "value": {
+            "name": "传送到星球",
+            "planetName": "飞船停靠的星球",
+            "warpAction": "OrbitedWorld",
+            "icon": "beamdown"
+        }
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/1",
+        "value": {
+            "name": "部署机甲",
+            "planetName": "飞船停靠的星球",
+            "warpAction": "OrbitedWorld",
+            "deploy": true,
+            "icon": "deploy"
+        }
+    }
+]

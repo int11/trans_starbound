@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "금이잖아! 금으로 만든 플랫폼이네!."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "화려함. 이 플랫폼은 순금으로 만들어짐."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "금 플랫폼. 환샹적이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진정으로 부유를 위한, 금으로 만든 플랫폼."
+    }
+]

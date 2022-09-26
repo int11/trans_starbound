@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "검은 돌로 만들어진 벽돌이네"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "통찰. 매우 튼튼한 재료로 만들어진 벽돌 이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "튼튼한 검정 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "그림자 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그림자 바위를 조각한 벽돌이다."
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+        "value": "이 좋은 유우머를 알아보지 못하는 사람이 누구인들 내 재능을 낭비하지 않는 것이라고 말할 수가 있을까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "이 좋은 유우머를 알아보지 못하는 사람이 누구인들 내 재능을 낭비하지 않는 것이라고 말할 수가 있을까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0",
+        "value": "이 좋은 유우머를 알아보지 못하는 사람이 누구인들 내 재능을 낭비하지 않는 것이라고 말할 수가 있을까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/avian/0",
+        "value": "이 떠나는 나라에서 훠이 훠이 날아가라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/human/0",
+        "value": "에이펙스 몸에 난 털을 밀어버리면 어떻게 보이는지 알아? 인간!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/apex/0",
+        "value": "에이펙스 남성이 여성에게 한 눈에 반하면 어떻게 말하는 지 아니? 저 여자 바나나 같은 Girl!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/glitch/0",
+        "value": "글리치는 무슨 춤을 즐겨 추게? 기계 춤이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/floran/0",
+        "value": "플로란 꽃친구는 무엇을 즐겨 먹을까? 꼬치구이!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "不再有人能够欣赏一个有趣的笑话了！我的喜剧天赋就在这些毫无幽默感的白痴身上浪费掉了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default",
+        "value": [
+            "不再有人能够欣赏一个有趣的笑话了！我的喜剧天赋就在这些毫无幽默感的白痴身上浪费掉了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/avian",
+        "value": [
+            "你一个人出来的？我猜你是真的…飞出了牢笼！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/apex",
+        "value": [
+            "你知道一个痴情的猿族人是怎么对妻子表白的吗？你像香蕉一样让我痴狂！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/floran",
+        "value": [
+            "你平时怎么称呼一个叶族朋友？一个大花苞！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/glitch",
+        "value": [
+            "什么是电子人最喜欢的舞蹈？机械舞！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/human",
+        "value": [
+            "如果你给猿族剃完毛会变成什么样子？一个人类！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/hylotl",
+        "value": [
+            "不再有人能够欣赏一个有趣的笑话了！我的喜剧天赋就在这些毫无幽默感的白痴身上浪费掉了。"
+        ]
+    }
+]

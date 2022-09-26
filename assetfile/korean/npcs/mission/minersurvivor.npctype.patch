@@ -1,0 +1,116 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+        "value": "휴우, 너 상당히 잘 싸우는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/3",
+        "value": "살아남은건가?! 구해주셨군요! 감사합니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/2",
+        "value": "저게 날 잡아놓았죠. 당신이 부숴버리지 않았다면 전 돌연변이가 됬을겁니다. 감사합니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/1",
+        "value": "괴물을 파괴하셨군요! 전 갇혀있었습니다, 아마 다른 사람들 처럼 절 변이 시켰겠죠."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/1",
+        "value": "전 계속 살아갈겁니다, 아니면 그럴려다 죽겠죠."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/2",
+        "value": "이곳의 모두의 경의를 받으실겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/2",
+        "value": "이 막장을 치울려면 엄청난 정리팀을 불러와야겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/0",
+        "value": "구해주셨군요! 저 녀석에게 잡혔을때 끝인줄 알았습니다. 당신은 저의 영웅입니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/1",
+        "value": "당신의 도움을 절대 잊지 않을겁니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+        "value": "모험가이신가요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/3",
+        "value": "앞에 가면 상자가 있을겁니다, 그 안에 있는걸 전부 가져가셔도 좋습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/1",
+        "value": "이 광산에서 살아남은 다른 사람이 있나요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/0",
+        "value": "이제 이 광산을 다시 고쳐놔야겠군요..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/0",
+        "value": "이것들에게 참교육을 내려주죠!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default",
+        "value": [
+            "我们来给这些怪物上一课！",
+            "不胜利，毋宁死！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default",
+        "value": [
+            "你救了我！当那个东西抓住我的时候，我认为我已经完蛋了。你是我的英雄！",
+            "你摧毁了这只怪物！我被困在里面，它本会把我感染成和其他怪物一样…",
+            "那个东西抓住了我。如果你不摧毁他，我现在可能就变异成一只怪物了！谢谢！",
+            "我活下来了？！你救了我！谢谢你！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default",
+        "value": [
+            "呼，你自己处理的不错。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default",
+        "value": [
+            "我觉得我最好开始修复这个矿井…",
+            "矿井中有别人在这场袭击中存活下来么？",
+            "你赢得了这里所有人尊重。",
+            "前方有个箱子，你可以拿走里面的东西。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default",
+        "value": [
+            "你是个冒险者吗？",
+            "我永远不会忘记你和你给过的帮助！",
+            "要有一只大型清除队伍才能处理这烂摊子。"
+        ]
+    }
+]

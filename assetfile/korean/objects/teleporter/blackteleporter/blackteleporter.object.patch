@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "텔레포터지만 이건 겉모습이 꽤 깔끔한걸!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "집행관형 순간이동기"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "개인용 텔레포터다. 맞춤 디자인으로 되어있따."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "순간이동할 때마다 깃털이 바짝 서는 기분이 참 좋아!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "개인용 텔레포터다! 이제는 신사처럼 이동할 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "개인용 텔레포터다. 제대로 작동하면서도 재밌기까지 한 장비다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "유혹. 개인용 텔레포터다. 맞춤형 디자인이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "개인용 텔레포터 깔썀하다!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개인용 텔레포터다. 북마크해둔 장소로 이동할 수 있다. \n^red;부서지면 회수할 수 없다."
+    }
+]

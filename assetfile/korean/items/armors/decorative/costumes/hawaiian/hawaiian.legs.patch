@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지푸라기로 만든, 하와이 치마"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하와이 치마"
+    }
+]

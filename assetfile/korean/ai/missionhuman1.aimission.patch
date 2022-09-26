@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "에르키우스 채굴 시설 다시 가기"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/buttonText",
+        "value": "에르키우스 채굴 시설"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/selectSpeech/text",
+        "value": "이 시설은 에르키우스 수정의 주요 생산지입니다. 이 수정으로 당신의 함선 FTL 드라이브를 업그레이드 할 수 있습니다."
+    }
+]

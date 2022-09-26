@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 금속 패널은 굉장히 매끄러운 느낌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 금속이 글리치 몸처럼 부드럽게 연마되어 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "매끄러운 금쇽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매끄러운 금속"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매끄러운 금속, 만지면 차갑다."
+    }
+]

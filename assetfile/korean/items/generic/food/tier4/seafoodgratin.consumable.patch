@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해산물 그라탱"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "엄선한 생선을 생선같은 과일과 함께 구웠다. 엄선 생선 요리!"
+    }
+]

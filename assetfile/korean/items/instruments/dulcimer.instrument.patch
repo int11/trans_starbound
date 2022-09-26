@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "평평한 둘시머"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "평평한 둘시머, 음조를 때려 만들자."
+    }
+]

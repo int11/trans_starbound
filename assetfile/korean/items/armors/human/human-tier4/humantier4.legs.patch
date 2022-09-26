@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선도자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 듀라스틸 바지는 호버바이크 주행자를 위해 제작됬다."
+    }
+]

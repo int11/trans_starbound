@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/label",
+        "value": "다색의 일소"
+    }
+]

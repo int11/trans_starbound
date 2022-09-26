@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점박이 꿀꺽여행어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몸무게의 10배나 삼킬 수 있는 신비로운 물고기."
+    }
+]

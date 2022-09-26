@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오버드라이브 기타"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "디스토션 사운드를 좋아하는 이들을 위한 기타."
+    }
+]

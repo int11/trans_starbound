@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 매서운 바람이 이 돌들을 깎아냈지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "도오올."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "풍화된 돌들."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매서운 바람이 풍화시킨 돌들이다."
+    }
+]

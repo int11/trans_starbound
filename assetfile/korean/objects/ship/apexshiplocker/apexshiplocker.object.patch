@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 장치는 많은 아이템을 안전하게 저장해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "저장쇼."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 함선 저장 시스템은 정말 유용하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔갈 집어넣을 수 있는 사물함."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "보관 사물함. 유용하지!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사물함. 물건을 보관해야지, 왜 안 하겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "우아한 저장고 해결책."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "우주선의 저장 시스템."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "함선 사물함"
+    }
+]

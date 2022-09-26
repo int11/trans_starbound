@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;엘리엇^reset;에게 말을 걸어 ^orange;장애물 코스^reset;로 입장하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;전초기지^reset;에 있는 ^orange;엘리엇^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "^orange;돌진 기술 장애물 코스^reset;를 통과하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "내  ^orange;돌진^white;이 대량 생산되기 전에 검증이 필요해. 혹시 ^green;이걸 장착한 다음 빠른 속도로 내 ^orange;장애물 코스^green;를 통과해줄래^white;? ^green;준비가 되면 나한테 다시 와서 말을 걸어^white;. 그러면 코스로 보내줄께."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "^orange;돌진^white;의 기능이 완벽하게 작동하고 있어! 훌륭해! 그 기술은 보답의 표시로 그냥 줄께. 나는 다른 검증이 필요한 프로토타입들도 가지고 있으니, 나중에 준비가 되면 다시 와보도록해."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questStarted/title",
+        "value": "엘리엇"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "엘리엇"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^orange;달리는 사람"
+    }
+]

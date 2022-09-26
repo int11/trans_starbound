@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 금속은 굉장히 녹쓸었군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "소름. 이 녹슬어 버려진 금속은 잔뜩 찢겨지고 닳아있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "녹슨 금쇽 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹슬고 오래된 금속 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 블록"
+    }
+]

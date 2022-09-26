@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 찬다 반짝이 공!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "황금 공 휴일 장식"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "황금으로 된 공이다. 휴일 장식으로도 인기있다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一颗闪闪发光的金球。漂亮。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一颗雄伟的金球。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "喜悦。一个可爱的装饰。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "要小心不要打碎这小玩意。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "有些人对这种闪亮的球着迷。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "我不认为这个金球完全是由金子做的…"
+    }
+]

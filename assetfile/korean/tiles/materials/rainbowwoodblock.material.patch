@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 화려한 나무 판자는, 보는 것 만으로도 기분이 좋아지는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "엄청 다채로운 나무로 만든 판자네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 알록달록 무지개 판자 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무지개 나무 판자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단순히 멋지다."
+    }
+]

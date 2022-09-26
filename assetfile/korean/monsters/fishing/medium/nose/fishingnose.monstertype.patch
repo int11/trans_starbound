@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코큰 정찰고기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사냥감의 냄새는 수km 밖에서도 맡을수있지만, 반응하기엔 너무 느리다."
+    }
+]

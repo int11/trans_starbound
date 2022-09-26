@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무서운 눈알 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나의 꿰뚫는듯한 시선은 아무리 용감한 자에게 라도 공포를 심을 수 있다."
+    }
+]

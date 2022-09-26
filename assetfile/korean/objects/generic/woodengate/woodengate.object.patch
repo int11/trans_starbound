@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "꾸며진 나무 출입문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 이것은 출입문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "얇은 나뭇가지로 문짝 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "나무로 만들어진 작은 출입문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "출입문이다. 뛰어넘기 쉽다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "정원 울타리로 쓰기에 적당한 출입문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 나무 출입문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 출입문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "허술한 나무 출입문이다. 매우 안전하지 않다."
+    }
+]

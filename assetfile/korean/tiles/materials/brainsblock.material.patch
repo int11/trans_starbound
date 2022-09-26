@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "조금의 신선한 뇌야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경보. 이 물질안에서 뇌의 활동이 일어나고 있소?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 질퍽한 뇌를 찌르고 싶어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뇌."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아직도 맥동하고 있습니다... 생각을 하고 있는건지 궁금하군요."
+    }
+]

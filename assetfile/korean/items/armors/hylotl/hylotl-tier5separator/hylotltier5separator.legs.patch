@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대양 각반"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바이올리움 각반은 대양 탐사자들이 쉽게 가라앉아, 계속 잠수하고 있도록 도와준다."
+    }
+]

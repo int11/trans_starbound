@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "티라노사우르스 아랫꼬리 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 티라노사우르스의 꼬리 끝부분이다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "쌓아올릴 수 있는 큰 장난감 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빨간 장난감 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "愉快。这些玩具方块可以互相拼接在一起。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人喜喜喜欢可堆叠叠叠的玩具方块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这些鲜艳的方块是用来玩的。"
+    }
+]

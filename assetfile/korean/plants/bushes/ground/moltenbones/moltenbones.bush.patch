@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 탄화된 뼈들이오."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "탄화된 뼈."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "그을린 뼈야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탄화된 뼈."
+    }
+]

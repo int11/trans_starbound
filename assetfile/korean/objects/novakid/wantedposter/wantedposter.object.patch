@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "현상수배지? 범인을 잡긴 했을려나 몰라."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아주 오래된 벽보다. 여기 제시된 현상금 누가 받아가긴 했을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이  현상수배지는 아주 낡았다. 여기 이 범죄자 잡히긴 했을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 수배지에 나온 범죄자 잡혔을려나?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 수배지에 나온 사람이 범죄자였을까, 영웅적인 반동이었을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 범죄자를 잡으면 현상금을 주겠다고 하는 벽보다. 잡히긴 했을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 경이로운 샤냥꾼 샤진 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "현상수배지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "흐려진 벽보다. 아주 오래 전 제시된 현상금이다."
+    }
+]

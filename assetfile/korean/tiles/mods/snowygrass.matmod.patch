@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "갓 내린 눈으로 덮힌 풀이다."
+    }
+]

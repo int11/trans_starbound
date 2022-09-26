@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스턴 글러브"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깜짝 놀라게 할수 있습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "电击手套^yellow;^reset;"
+    }
+]

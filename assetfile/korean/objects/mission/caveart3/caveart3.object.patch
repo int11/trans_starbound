@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아이고 별님 맙소사 이게 다 뭐야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "예술가가 보는 이들에게 뭔가 영감을 주려 한 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 거대한 건 뭐지? 태양처럼 빛나잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "태양처럼 빛나는 거인 그림같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "두려움. 이 그림 어딘가 말도 안 되게 고대적이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란도 이게 뭔지 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사람 동굴벽화"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거인의 모습을 묘사한 동굴벽화다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "무슨 의식이나 행사를 묘사한 건가?"
+    }
+]

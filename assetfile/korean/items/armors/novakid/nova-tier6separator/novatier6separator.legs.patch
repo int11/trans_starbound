@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강인한 카우보이를 위한 바지이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "카우보이의 바지"
+    }
+]

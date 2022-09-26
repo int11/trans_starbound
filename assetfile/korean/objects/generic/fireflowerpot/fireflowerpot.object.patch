@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "화려한 꽃이 화분에서 자라고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "꽃이 활기가 넘치는데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "바람에 흔들리는 꽃의 모습이 꼭 타오르는 불같아."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아름답고 부드러운 꽃은 무슨 힘을 갖고 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 꽃의 꽃잎은 마치 불꽃처럼 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 꽃의 색과 모양은 마치 불과도 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "못섕긴 꽃 꼭 불꽃같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불타는 꽃"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화분에 심어진, 불타는 것처럼 보이는 꽃."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "1단계에 도달한 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "처음부터 하나씩 시작하자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "단계가 얼마나 더 있길래?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "1단계라. 얼마나 더 많은 단계가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "1단계에 오른 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "애매. 난 지금 1단계다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "1단계 섕략할 슈 있어?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 01 단계 표시"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가랏 영장류!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프로세서"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아주 강력한 프로세서."
+    }
+]

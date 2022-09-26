@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아기곰이 머리위에서 쉬는듯한 모습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아기곰 모자"
+    }
+]

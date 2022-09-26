@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "광전사의 검은 너를 감전시켜 느리게 만들고 권투사에게 따라잡힐거야. 항상 그에게서 거리를 두게."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "저격수는 너에게서 항상 거리를 두려고 하지만, 근접할 수 있다면 가장 쉬운 상대일거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "권투사는 가장 크고 강한 검투사야. 하지만 큰 덩치 때문에 느리고 도망쳐 나오기 쉽지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "세 명의 검투사들은 모두 다른 방식으로 싸우지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "那有三个角斗士，各自战斗方式不同。",
+            "彪汉是最强壮的斗士，但大块头让其行动缓慢且容易躲开。",
+            "枪手会与你保持距离。如果你能够靠近，她是最容易被K.O。",
+            "狂战士的电弧刀会减缓你的移动使你容易遭到彪汉的攻击。保持你的距离。"
+        ]
+    }
+]

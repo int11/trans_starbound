@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개척자의 신세계로의 첫 걸음을 수호하는 갑옷이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "개척자의 흉갑"
+    }
+]

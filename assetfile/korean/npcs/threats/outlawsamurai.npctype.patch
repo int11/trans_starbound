@@ -1,0 +1,50 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/4",
+        "value": "우리가 싸워야한다면, 너는 죽을것이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/3",
+        "value": "와라! 너의 열정을 시험할때다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/2",
+        "value": "나를 멈추러 왔다고? 어디 할수있으면 해보도록!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/1",
+        "value": "네놈의 상대가 누군지 모르나 보지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+        "value": "혈전을 바란다고? 어디, 해볼까!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "进攻！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default",
+        "value": [
+            "你想死战到底？如你所愿！",
+            "你不会知道是在面对的是谁！",
+            "你要来阻止我？如你所愿！",
+            "来吧，试试你的勇气吧！",
+            "如果我们必须战斗，那么你必须死！"
+        ]
+    }
+]

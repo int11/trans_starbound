@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "건방진 느낌의 가죽 모자, 세련된 모드."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "건방진 배랫"
+    }
+]

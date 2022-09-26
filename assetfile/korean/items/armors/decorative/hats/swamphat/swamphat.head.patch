@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "낡았다. 하지만 야외 스포츠인의 매력이 느껴진다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "늪지대 모자"
+    }
+]

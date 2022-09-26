@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 스타일리쉬한 투사의 가면을 쓰고 영예를 쟁취하라."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투사의 가면"
+    }
+]

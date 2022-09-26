@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "제목 없는 도표다. 뭔가 표시가 많다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "무슨 도표같다. 사냥 기록같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샤냥감 종이에 적는다. 플로란 기억력 안 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 도표"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "도표다. 제발 사냥감 표시는 아니길."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "수를 세는 데 쓰는 도표같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오랜 도표다. 나도 가끔은 이런 걸 쓰곤 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무감명. 단순 10진수다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "도표로 보인다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "앞치마는 요리중에 엎질러진 오염물을 막아준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주방장 앞치마"
+    }
+]

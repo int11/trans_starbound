@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "점토로 만든 작지만 완벽한 벽돌들로 만들어져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "满意。这些砖块是经过精心排列形成的。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "普普普通的砖块块块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "好看的砖块。"
+    }
+]

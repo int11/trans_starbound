@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주조소 수위 장갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 장갑은 가슴까지 닿지 않는다."
+    }
+]

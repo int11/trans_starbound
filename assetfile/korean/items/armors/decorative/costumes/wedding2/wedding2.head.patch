@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "결혼식 베일"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "실크 그물로 만들어진 결혼식용 베일."
+    }
+]

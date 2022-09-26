@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뿔이난 악마의 투구, 파멸을 예언한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파멸기사의 투구"
+    }
+]

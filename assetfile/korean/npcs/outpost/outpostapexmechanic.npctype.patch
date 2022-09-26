@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "별 거 아니지만 그래도 이곳이 계속 돌아갈 수 있도록 돕고있지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "별 건 아니지만 나도 이곳이 계속 돌아가도록 돕고있지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/0",
+        "value": "환영한다! 빅 에이프의 폭정에서 도망친 사람을 보게 돼서 즐겁군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "这不算什么，但是我会尽我所能保持这地方滴答作响的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "这不算什么，但是我会尽我所能保持这地方滴答作响的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex",
+        "value": [
+            "欢迎，我的朋友！很高兴看见另一个人逃离大猿人的暴政。"
+        ]
+    }
+]

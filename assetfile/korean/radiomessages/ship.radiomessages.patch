@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/activeCrewLimit/text",
+        "value": "동행할 수 있는 최대 승무원 수에 도달했습니다. 함선에 몇 명을 올려보내거나 총원을 늘리십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/gainedCrewMember/text",
+        "value": "첫 번째 승무원을 발견하셨습니다! 함선에서 저를 통해 승무원을 관리하고 상태를 확인하십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/crewLimit/text",
+        "value": "이 함선은 더 이상의 승무원을 지원하지 않습니다. 함선을 확장할 방법을 찾거나 저를 통해 승무원을 해고하십시오."
+    }
+]

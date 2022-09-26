@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;누루^reset;에게 말을 걸어 ^orange;투기장^reset;로 이동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;아웃포스트^reset;에 있는 ^orange;누루^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "투기장 대전에서 승리하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이제 너한테 마지막 도전장이 날아왔어! ^orange;지옥의 기사단^white;라는 괴상하게 생긴 놈이 너와 쌰우길 원해. 그는 불을 좋아해, 많은 의미로. 어쩌면 화염 면역 스프레이를 챙겨서 그의 불타는 몬스터 무리들에게 대비할 수도 있어... ^green;어쨌든, 준비가 됬을때 나에게 와서 말을 걸면 내가 너를 보내줄게^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "네가 해냈어! 심지어 그 불들도 있었는데! 감명적이야! 여기, 지옥의 기사단의 검을 받아. 넌 그걸 받을 자격이 있어, 챔피언! 그걸 어떻게 갖고 왔는지는 묻지 말고."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;불의 전장"
+    }
+]

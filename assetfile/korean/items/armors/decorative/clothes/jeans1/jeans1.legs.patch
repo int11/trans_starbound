@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "패션에 민감한 우주여행자들을 위한 아주 딱 붙는 청바지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스키니 진"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "윤기나게 입은 우주 승객을 위하여."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "격식 조끼"
+    }
+]

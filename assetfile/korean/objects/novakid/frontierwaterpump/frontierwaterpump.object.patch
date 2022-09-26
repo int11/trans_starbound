@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 양수기, 쓰지 않은지 오래됫어. 그냥 장식에 불과해!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "강력하게 물을 끌어올리지. 뭐, 지금은 그냥 장식이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 오래된 양수기는 더이상 쓰이지 않는군. 그저 장식이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 양수기는 꽤 오랫동안 녹쓸었어. 이에 물을 끌어올릴 수 있을지 장당할 수 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 요점 모르겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 양수기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 놋쇠 양수기는 물을 끌어올릴데 쓴다. 다시 작동한다면 말이지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "鲛人的水泵绝不会生锈或像它这样破裂。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一个水泵。不过看上去它不在运作了。。"
+    }
+]

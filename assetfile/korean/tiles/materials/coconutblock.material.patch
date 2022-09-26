@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "난 이 코코넛 벽돌이 굉장히 강하다고 생각했지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀라움. 이 벽돌의 주 성분은 코코넛 이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "코코넛들은 엄청난 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "코코넛과 몰타르로 만든 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코코넛 블럭"
+    }
+]

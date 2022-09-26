@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "약탈자의 하의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "언제나 사냥할 준비가 되어있는 자를 위한 하의."
+    }
+]

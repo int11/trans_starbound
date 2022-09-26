@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "꽤 예쁘게 질해진 벽돌들."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 그려진 벽돌은 매우 흥미롭다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "예쁘게 칠해진 벽됼."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "그려진 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "멋지게 벽돌을 그렸다."
+    }
+]

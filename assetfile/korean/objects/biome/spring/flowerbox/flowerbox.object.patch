@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 이건 플로란 침대일 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이상한 대형 꽃들이다. 여기에 숨을 수도 있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "안 좋은 상황에선 이 꽃 상자를 은신처로 쓸 수 있겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "크고 이상한 꽃들이야. 이 뒤에 숨을 수도 있겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 꽃들은 편해 보이는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "숨바꼭질을 할때 좋은 장소다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "조심, 누가 이 꽃 뒤에 숨을 수도 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 꽃들 샤이로 슘는게 좋아"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이상한 식물 상자"
+    }
+]

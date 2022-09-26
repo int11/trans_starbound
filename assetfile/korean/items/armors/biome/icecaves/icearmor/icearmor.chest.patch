@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "견고한 얼음으로 이루어진 가슴 방어구"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음 가슴 방어구"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "갑주와 마스크로 이루어져있다 - 전사들이 침투하거나, 방어할 때 모두 유용"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강가 투구"
+    }
+]

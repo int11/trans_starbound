@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "푸른 사벨송어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "훈련시켜 그 작고 날카로운 앞니로 얼음 큐브를 수확하게 만들수있다."
+    }
+]

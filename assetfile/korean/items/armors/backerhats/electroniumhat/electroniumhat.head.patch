@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "일렉트로니움 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "쓰고있는것 만으로도 더 똑독해진것 같아!"
+    }
+]

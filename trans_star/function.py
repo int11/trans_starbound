@@ -11,7 +11,14 @@ def del_patch(dir):
 
 
 def del_absolute_path(dir):
-    return dir[dir.find('\\', dir.find('\\') + 1) + 1:]
+    if len(dir.split('\\')) >= 2:
+        return os.path.join(*dir.split('\\')[2:])
+    elif len(dir.split('/')) >= 2:
+        return os.path.join(*dir.split('/')[2:])
+    else:
+        raise
+
+
 
 
 def unicodeString_to_string(str):

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코코넛 음료"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "코코넛 껍질에 깨트려 열면 그속에 엄청 맛있는 것들이 들어있다."
+    }
+]

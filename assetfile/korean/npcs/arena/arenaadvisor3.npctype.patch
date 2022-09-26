@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "화상 방지 스프래이는 불에 타는건 막아주겠지만, 공격 그 자체를 막아주진 못하네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "최선은 인페르노를 최대한 빨리 치우는걸세, 그의 지원수는 끊임없이 오니까 말일세."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "플랫폼을 사용해서 함정을 피하고 인패르노의 검이 닿지 않는 길이를 유지하게."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "템플러 인페르노와 그의 지원수는 불로 부터 힘을 얻지, 그들이 함정 근처에 가도록 놔두지 말게."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "圣殿骑士炼狱和他的宠物从火焰中汲取力量。让他们远离那些火焰陷阱。",
+            "烧伤喷雾剂能有效防止你被火焰灼伤，但当直接接触火焰时毫无效果。",
+            "注意使用平台来躲避陷阱以及远离炼狱的剑。",
+            "你最好尽快解决炼狱，否则他的宠物会越来越多。"
+        ]
+    }
+]

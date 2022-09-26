@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고전적인 벽지다. 마무리용으로 딱이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 벽지"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "困惑。电子人从来无法理解在墙上贴上壁纸的意义。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "奇奇奇怪的纸贴在墙墙墙上。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "壁纸。用于装饰再完美不过了。"
+    }
+]

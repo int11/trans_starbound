@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불사조 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 흉갑의 바이올리움 강판은 일반적인 무기로는 사실상 관통이 불가능하다."
+    }
+]

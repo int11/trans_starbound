@@ -1,0 +1,74 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/2",
+        "value": "실험을 좀 하고 있지, 마침 이곳이 그러기 딱 좋더군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/1",
+        "value": "필드 테스트중 입니다, 마침 이곳이 적절한 환경을 가지고 있어서요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+        "value": "재대로 된 안경 없이 연구를 하니 이상한 느낌이 드는군요. 뭐, 그게 하이로틀의 삶이지만요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/2",
+        "value": "생물 다양성에 대한 연구 보고서를 쓰고있습니다. 매우 중요한 녀석이죠."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/1",
+        "value": "환상적으로 많은 데이터가 있군요, 언제 다 기록할지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "걱정말게, 내 연구는 개인용이야, 지정부와는 관련 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+        "value": "이 안경들이 재대로 맞았으면 좋았을텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+        "value": "요즘 괜찮은 하이로틀용 안경을 찾기가 참 힘들단 말이지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/0",
+        "value": "참고로 지금 대화는 녹화하고 있습니다, 데이터로 필요하거든요. 신경쓰지 않길 바랍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "别担心，我的研究是私下进行的－不是为科技发展部效力。",
+            "我在进行一些实地实验。这个地方是个理想的环境。",
+            "我正在进行一些实验，这个地方会很不错。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default",
+        "value": [
+            "我正在记录我们社交互动的全部数据。希望你不要介意。",
+            "这附近有那么多数据可以让我采集。真让人着迷。",
+            "我写了一份生物多样性的研究报告。这将是极为重要的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default",
+        "value": [
+            "现在要找到一副适合鲛人的好眼镜真是太难了。",
+            "希望这副眼镜能适合我。",
+            "没有合适的眼镜就进行研究让我感到自己很愚蠢。这就是鲛人的生活方式。"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "볼트구근"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "볼트구근! 생각보다 훨신 부드럽다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "떨어지는 중 펼쳐서 사뿐히 착지하자. 집 안에서 열면 불운이 따라온다고도 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파라솔"
+    }
+]

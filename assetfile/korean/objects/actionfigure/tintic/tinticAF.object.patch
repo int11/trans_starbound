@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "틴틱 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"먹이를 먹거나 잠을 자는 모습이 보인 적이 없다... 기계인걸까?\"라고 적혀있다."
+    }
+]

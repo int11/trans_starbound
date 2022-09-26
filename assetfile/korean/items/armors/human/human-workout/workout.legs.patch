@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "운동을 하거나 TV 앞에 앉아서 피자를 먹을 때 딱 좋은 바지다. 다재다능!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "운동복 바지"
+    }
+]

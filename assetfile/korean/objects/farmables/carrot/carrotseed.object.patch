@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "당근을 익히면 바나나처럼 되지만... 바나나 맛은 나지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "소박한 당근."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "인정. 당근은 기분 좋게 아삭하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "가끔씩 당근 돌돌 말려셔 자란다. 그래셔 플로란 웃긴다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지구에서 맛있는 당근을 키워서 온 우주로 퍼트렸다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "당근은 다재다능하고, 어찌 보면 단촐한 채소다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "그냥 당근이다. 수프 끓일 때 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "당근이다. 먹기도 좋고 눈사람에 박기도 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "당근 씨앗"
+    }
+]

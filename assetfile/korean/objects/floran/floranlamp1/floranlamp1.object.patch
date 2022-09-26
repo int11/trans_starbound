@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 나무가 전등이라니?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오묘한 초록 빛을 내고 있어. 꼬투리 안엔 뭐가 있을까."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 이 식물은 낮 중에 태양광을 흡수해 빛을 내는군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "줄기 꼬투리 전등"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 식물의 무언가가 부자연스러운데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "식물이 초록 빛을 내고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "발광식물의 한 종류인 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 원예가는 식물이 빛나게 만드는 법 알아. 불 없을슈록, 플로란도 덜 데여."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이상한 초록 빛의 꼬투리가 굽은 나무 기둥에 헐겁게 걸려있다."
+    }
+]

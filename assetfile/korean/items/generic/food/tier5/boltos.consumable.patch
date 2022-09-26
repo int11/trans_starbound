@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "볼트 시리얼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "볼트 시리얼, 아침에 배가 고프게 일어나서 아무거나 입에 넣어도 괜찮은 사람에게 적합하다."
+    }
+]

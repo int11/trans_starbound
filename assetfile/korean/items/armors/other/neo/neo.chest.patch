@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "호흡하는 천으로 만들고 이중으로 꿰어 강화했다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네오 상의"
+    }
+]

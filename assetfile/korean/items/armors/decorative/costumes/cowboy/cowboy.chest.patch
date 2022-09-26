@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "땀과 흙먼지에 절은 재킷입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "카우보이의 재킷"
+    }
+]

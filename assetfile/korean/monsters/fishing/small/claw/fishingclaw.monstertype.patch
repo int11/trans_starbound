@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "밤 발톱개비"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 버섯같은 몸의 피부는 위협을 받으면 색을 바꾼다."
+    }
+]

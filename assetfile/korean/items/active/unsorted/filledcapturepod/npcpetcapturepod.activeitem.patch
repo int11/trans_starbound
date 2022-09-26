@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생명체가 들어있는 포획 장치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "포획한 생명체를 불러낼 수 있다!"
+    }
+]

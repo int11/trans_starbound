@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고위 관측자들이 입는걸로 아는 날개다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "별관측자 예언자 날개"
+    }
+]

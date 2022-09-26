@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보라색 페인트건"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 총으로 보라색 비를 내려보자."
+    }
+]

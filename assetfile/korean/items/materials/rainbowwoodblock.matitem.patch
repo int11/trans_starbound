@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무지개 나무 판자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단하게 화려한 장식을 하는 방법이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "高兴。这些七彩的木板呈现着明亮欢快的气息。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人喜喜喜爱鲜艳的彩虹木木木板。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些鲜艳的彩虹木制成的木板。"
+    }
+]

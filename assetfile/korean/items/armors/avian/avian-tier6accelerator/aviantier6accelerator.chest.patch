@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 감춤 없는 셔츠는 순수한 솔라리움 실로 짜여서 스타일과 힘을 동시에 잡아냈다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "앵무새 셔츠"
+    }
+]

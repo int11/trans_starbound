@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "매끄러워보이는 판벽이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 금속 판은 정성들여 평탄화 했군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드럽고 반짝이는 금쇽 판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "의료 센트리의 내부를 생각나게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매끄러운 판금 블록"
+    }
+]

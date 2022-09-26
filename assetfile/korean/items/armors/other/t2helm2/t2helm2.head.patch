@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 깔끔한 용접용 마스크가 없다면 죽음을 조심하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "깔끔한 용접공 마스크"
+    }
+]

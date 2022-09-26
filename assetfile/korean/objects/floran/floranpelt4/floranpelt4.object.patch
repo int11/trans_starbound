@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "검정색과 흰색 줄무늬를 가진 짐승의 털가죽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "아름다운 무늬의 털가죽이야. 이 동물은 꽤나 멋있었을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "무늬 있는 질 좋은 모피야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "백호가 생각나네. 몇 세기 전에 멸종했었지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 색을 보니 추운 환경의 동물이였음을 유추할 수 있소. 그 무엇도 플로란의 사냥욕구를 억제할 수 없군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커다란 흰색 모피"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈 덮인 곳에 사는 커다란 동물의 모피다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "특이한 무늬와 섁 가진 털가죽이야. 아주 귀중해."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "저런 아름다운 동물을 사냥하다니. 야만스러워."
+    }
+]

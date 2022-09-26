@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지나치게 화려하면서도 무진장 강력한, 겨우 머리 장식이라고 못 막는 위험이 있을 거라 생각하면 곤란하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "앵무새 머리장식"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "FTL 기술을 가동하기 위해 쓰이곤 했다. 아직도 원리를 완벽히 알지 못한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에르키우스 수정"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "好奇。 能源晶体有着神秘的力量。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "巨大大的闪亮的水晶晶晶！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一个巨大的古老的能源晶体。"
+    }
+]

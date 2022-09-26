@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "당근 케이크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "맛있는 당근 케이크!  듣던것보단 훨씬 맛있다."
+    }
+]

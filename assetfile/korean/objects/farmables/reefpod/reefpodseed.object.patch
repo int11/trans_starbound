@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "맛있게 맛있네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "암초구슬은 딱 하이로틀 입맛에 맞는 단맛을 지니고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "암초구슬은 달면서 짜고 바삭하다. 팝콘 생각나네."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "암초구슬 이거 단 음식이야 짠 음식이야? 전혀 모르겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "암초구슬은 달콤짭짜름한 맛이 난다. 독특하지만 기분 나쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 암초구슬은 확실히 독특하다. 어떻게 과일에서 짠 맛이?"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "암초구슬, 바삭한 스무디에 바닷물을 섞은 맛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섕션샤람 맛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암초구슬 씨앗"
+    }
+]

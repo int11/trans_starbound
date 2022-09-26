@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "이 화석화된 하이로틀 뼈대는 수중 생활에 적합한 적응이 시작되는걸 보여준다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "하이로틀 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하이로틀 두개골 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 하이로틀 두개골이다."
+    }
+]

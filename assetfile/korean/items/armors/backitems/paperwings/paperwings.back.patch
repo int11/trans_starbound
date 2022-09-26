@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무와 종이로 만든 장식용 날개. 날기에 쓰기엔 너무 무겁다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "종이 날개"
+    }
+]

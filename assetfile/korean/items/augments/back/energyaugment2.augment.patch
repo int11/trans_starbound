@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에너지 II 확장 부품"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "내 에너지를 높여주는 EPP 확장 부품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/augment/displayName",
+        "value": "能量增强 II"
+    }
+]

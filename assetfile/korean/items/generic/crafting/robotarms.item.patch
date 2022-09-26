@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "로봇 팔"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한때, 코알라 버전에 있었던 존재의 일부분이였다. 그리워라..."
+    }
+]

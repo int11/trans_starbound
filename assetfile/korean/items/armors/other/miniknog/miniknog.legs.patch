@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지정부 각반"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지정부 군사들이 쓰는 강화 각반."
+    }
+]

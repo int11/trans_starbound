@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "착용자의 신원을 어느정도 숨겨주는 강철 마스크이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탈주자의 가면"
+    }
+]

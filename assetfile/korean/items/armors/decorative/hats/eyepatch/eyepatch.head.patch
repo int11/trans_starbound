@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깊이감을 느낄수 없지만 이 패치는 그걸 감수하고도 장비할 가치가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "비겁한 아이패치"
+    }
+]

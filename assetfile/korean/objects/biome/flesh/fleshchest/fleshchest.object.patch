@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "생고기 냄새까지 나잖아. 진짜 토쏠린다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "역겨운 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "그닥 열고 싶지도 않은데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "징그럽다. 뭐 열어봐야지 어째."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이리 징그럽고도 자연스러운 방범장치가 다 있다니."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 뭐 이리 추악한 상자가."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살점 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "질척한 고기 상자다. 물건을 보관할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샹자 쑤셔셔 연다."
+    }
+]

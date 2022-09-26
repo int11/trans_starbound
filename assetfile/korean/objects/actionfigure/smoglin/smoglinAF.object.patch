@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스모글린 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"뱃 속에서 화학 반응을 일으켜, 유독 가스를 내뿜는다.\"라고 적혀있다."
+    }
+]

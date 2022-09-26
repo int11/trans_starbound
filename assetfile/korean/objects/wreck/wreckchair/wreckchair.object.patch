@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "의자가 더러운 것들로 떡칠이 되어있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "흙과 벌레들로 둘러짜여 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저 의자에 벌레가 가득해!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "역겹게 더러운 낡은 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "소름. 이 의자는 감염됐다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "발빠른 곤충이 득시글해."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "곤충들이 의자 안에 둥지를 틀었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만신창이 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "불결한 의자.벌레들이 구멍 뚫린 천 사이로 드나니고 있다."
+    }
+]

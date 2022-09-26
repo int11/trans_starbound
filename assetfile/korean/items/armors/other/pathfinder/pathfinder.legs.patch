@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "길잡이의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 부츠 자국은 세계의 여기저기에 수백개도 넘게 남아있을 것 같다"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외피거북"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "날카로운 가시는 우주 부츠를 관통 시킬 수 있다."
+    }
+]

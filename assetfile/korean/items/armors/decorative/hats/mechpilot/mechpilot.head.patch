@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一种头盔，通常用来连接个人机甲。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "机甲飞行员头盔"
+    }
+]

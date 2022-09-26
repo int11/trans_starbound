@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "건조하고 먼지투성이인 달바위네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "추론. 이 바위는 달에서 자연적으로 생긴 거군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 매마른 달바위 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달바위"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거칠고, 꺼끌한 달바위."
+    }
+]

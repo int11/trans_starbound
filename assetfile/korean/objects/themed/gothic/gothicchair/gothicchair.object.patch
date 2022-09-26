@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "고딕풍으로 매력이게 만들어진 의자야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "긴 고딕풍의 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 고딕풍이 확실한 의자로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "의자는 크고 앉는덴 짧아."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고딕풍 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유난히 고딕풍이 풍겨오는 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一个奢侈的座椅。但是相当阴沉。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "衬垫的天鹅绒材质相当细腻。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一把漂亮的椅子。它看起来很舒适。"
+    }
+]

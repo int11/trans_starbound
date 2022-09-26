@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "어떤 일로 여기에 온건가요? 당신도 무언가 연구중인가요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "이곳이 춥긴하지만, 정말 아름답지요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "내가 하는 연구가 이 행성에 가는걸 포함하지 않았으면 좋았을텐데..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "이 기후에선 내 손가락들도 거의 느껴지지 않는군. 이래서야 어떻게 노트를 쓰지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "여긴 무지 추워요! 제 실험복은 별로 따뜻하지 않다구요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "这里外面真冷！我的白大褂不是很保暖。",
+            "真希望我的研究不包括被分配到这个星球…",
+            "这种鬼天气下，我几乎都感觉不到自己的手指。我要怎么做记录呢？",
+            "这地方虽然寒风刺骨，但却也美不胜收。",
+            "什么风把你吹来了？你也是带队来这儿做研究吗？"
+        ]
+    }
+]

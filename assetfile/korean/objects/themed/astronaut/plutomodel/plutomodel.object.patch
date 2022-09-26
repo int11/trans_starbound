@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "명왕성은 지구의 고대 지하 신의 이름을 사용해. 왠지 아비안의 신화가 떠오르는데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "당혹. 왜 인간은 명왕성에 깊게 심취하는가? 행성조차 아닌데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 쪼끄만 난쟁이 행셩은 인간 태양계 변두리에 아무러케나 돈다고 해."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "난 이 작은 난쟁이 행성에 대한 인류의 집착을 이해할 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "명왕성 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "난쟁이 행성인 인류 태양계의 명왕성을 본뜬 천장걸이 모형이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "可怜的冥王星…你真的撞倒了一个钉子。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我了解到在学院这颗矮行星的文化地位在地球文化101的会议中具有争议性。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "冥王星被认为是太阳系中的第九颗行星，在它被撤销太阳系成员之前。它只是个小流氓。"
+    }
+]

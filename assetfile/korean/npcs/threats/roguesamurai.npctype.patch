@@ -1,0 +1,44 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/3",
+        "value": "난 최강으로 부터 훈련받았지! 넌 어떤 기회도 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/2",
+        "value": "여긴 우리들 만의 영토다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/1",
+        "value": "우리의 검술은 절대적이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+        "value": "싸우고 싶다고? 좋아!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "进攻！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/hylotl/default",
+        "value": [
+            "你想要来一场战斗？很好！",
+            "我们的剑法无与伦比！",
+            "这是我们的领地，并且只有我们！",
+            "我接受过最好的训练！你没机会打赢我！"
+        ]
+    }
+]

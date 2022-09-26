@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 기와는 지붕을 만들기에 딱 이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 지붕기와는  빗물을 쉽게 흘려보내기 위해서 경사져있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "지붕용 기와다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지붕기와"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "풍화된 지붕기와. 그 모양들은 나를 불안하게 만든다."
+    }
+]

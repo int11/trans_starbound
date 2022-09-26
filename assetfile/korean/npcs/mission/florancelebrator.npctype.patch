@@ -1,0 +1,134 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/16",
+        "value": "셩공!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/9",
+        "value": "우승자 탄섕했다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/6",
+        "value": "무승부!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "너한테 할 말 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/18",
+        "value": "최우슈 샤냥꾼에게 경배!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/17",
+        "value": "전리품은 승자의 것!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/15",
+        "value": "축하도 받아라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/14",
+        "value": "누루가 승자다! ...또."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/13",
+        "value": "샤냥감이 쓰러졌다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/12",
+        "value": "우승자다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/11",
+        "value": "누루 또 이겼다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/10",
+        "value": "대샤냥 끝났다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/8",
+        "value": "낯션 샤람 샬아남았어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/7",
+        "value": "잠깐, 대샤냥 무승부였다고?!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/5",
+        "value": "누루 동반자 섕겼어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/4",
+        "value": "신션한 고기 이겼어!?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/3",
+        "value": "낯션 샤람 이겼냐!?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/2",
+        "value": "끝났다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/1",
+        "value": "누루 돌아왔다! 근데 낯션 샤람 누구?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/0",
+        "value": "대샤냥 이겼다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我和你没什么好说说说的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default",
+        "value": [
+            "狩猎大胜利！",
+            "努鲁凯旋归来！但这个陌陌陌生人是谁？",
+            "已经结束了了了！",
+            "这个陌陌陌生人赢了！？",
+            "这块小鲜肉赢了？",
+            "努鲁有有有伴儿了？",
+            "这是是是场平局！",
+            "等等，这次狩猎平局？！",
+            "这个陌陌陌生人活下来了？",
+            "我们之中出了个大大大英雄！",
+            "狩猎猎猎结束了！",
+            "努鲁又赢赢赢了！",
+            "胜利者者者！",
+            "猎物被杀杀杀了！",
+            "努鲁是是是胜利者！…又一次。",
+            "准准准备庆祝！",
+            "成功功功！",
+            "战战战利品，向大赢家致敬！",
+            "向猎猎猎人们敬礼！"
+        ]
+    }
+]

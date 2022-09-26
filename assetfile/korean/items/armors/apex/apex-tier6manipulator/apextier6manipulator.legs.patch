@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "찬탈자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "너무나도 깔끔한 모습을 보고 무시한다면, 굉장한 내구성에 놀라게 된다."
+    }
+]

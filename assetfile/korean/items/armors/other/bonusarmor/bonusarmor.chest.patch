@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "신비로운 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신비로운 물질로 만들어진 흉갑이다."
+    }
+]

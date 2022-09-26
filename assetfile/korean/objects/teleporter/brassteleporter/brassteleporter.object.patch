@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "텔레포트기는 작동할 때가 환상적이지!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "디자인이 썩 괜찮은 개인 텔레포터로군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "텔레포트할 때 들리는 휙 하는 소리가 정말 좋다니까!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "개인 텔레포터다! 이게 내 여행 스타일이지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "개인 텔레포터, 유용하면서 재미있는 장치야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "유혹. 자체 디자인의 개인 텔레포터다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개인 텔레포터, 미리 지정한 다른 텔레포터로 이동할 수 있다. \n^red;회수 불가능."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 텔레포터 짱 좋아!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "황동 텔레포터"
+    }
+]

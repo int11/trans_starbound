@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 자수정 꽤 이쁜데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경외. 보라색 수정 사이로 빛이 춤을 추는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "예쁜 자슈정."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "자수정 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자수정 안에서 뒤틀린 빛이 보인다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "처클피시"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물고기 어디서 본 것 같은데?"
+    }
+]

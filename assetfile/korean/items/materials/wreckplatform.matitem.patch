@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "망가진 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹슨 발판이다. 그리 안전해보이진 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "惊慌。这个生锈的支架看起来结构很不稳定。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "生生生锈了而且不安安安全。叶族人很喜喜喜欢。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这生锈了的平台摇摇欲坠。"
+    }
+]

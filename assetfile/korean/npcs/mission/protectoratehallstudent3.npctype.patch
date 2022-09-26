@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "당황. 바라건대 아무도 내 유니폼에 묻은 커피 얼룩에 대해 알리지 않았으면..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "후회. 어쩌면 아침에 내 관절에 기름칠을 해야 했어야 했을텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "긴장. 내 모습이 괜찮아 보이니? 아침에 내 머리를 연마했어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "紧张。我看起来还可以吧？今天早上我擦亮了我的头。",
+            "遗憾。也许今天早上我应该给我的关节上点油。",
+            "尴尬。希望没有人注意到我的制服上的咖啡渍…"
+        ]
+    }
+]

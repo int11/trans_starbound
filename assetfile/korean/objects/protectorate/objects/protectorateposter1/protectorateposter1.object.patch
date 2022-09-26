@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나같은 애들이 물질조작기로 할 수 있는 일이지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "물질 조작기, 무한한 가능성을 지닌 도구. 얼마나 자극적인지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "물질조작기는 보호국 졸업식에 받는 상품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "보호국으로부터 수상받는 다용도 도구 물질조작기를 홍보하는 벽보다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "물질조작기의 극적인 벽보다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "격려. 이 벽보를 보고 있자니 온 우주를 돌아다니며 여행을 하고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "보호자들의 필슈 도구!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벽보"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물질 조작기 벽보다."
+    }
+]

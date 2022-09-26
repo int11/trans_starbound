@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "알파카 처럼 생긴, 두쌍의 다리를 포함했다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 알파카 다리"
+    }
+]

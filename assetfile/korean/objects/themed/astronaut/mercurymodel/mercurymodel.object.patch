@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "인간 태양계의 작은 행셩. 태양에셔 가장 가까운 행셩. 못샬겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우리 태양계에서 가장 작은 행성이고 태양이랑 가장 가까워."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수성 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가장 작은 인류 태양계의 수성을 본뜬 천장걸이 모형이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "水星在太阳系属第一颗行星，引力被太阳锁定，导致极长的白昼。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "水星，太阳系中的第一颗行星。来自一位名叫古地球商业之神称为赫尔墨斯。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "惊奇。水星一天的时间几乎是59个地球日，它的时间长度约为88个地球日。。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "水星。除了作为一个太阳系的行星，也许出名是因为几十年前一件最有名的采矿事故。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "水星虽小，却是太阳系中的小淘气。"
+    }
+]

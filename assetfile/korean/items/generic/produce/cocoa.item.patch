@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "코코아 콩으로 가득 찬 꼬투리다. 갈아내면 초콜릿이 완성!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코코아 열매"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/15",
+        "value": "우리들의 문화가 모두 사라졌더라 해도, 과학은 언젠가는 다시 발견될 겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/12",
+        "value": "이 슈트 너머의 제 얼굴을 볼 수 있나요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/9",
+        "value": "\"위험한 외계행성에 연구하러 가자\" 라고?! \"뭔일 있겠어?\" 라고?!?!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "value": "방사능 활동이 이 행성의 불안정한 성장을 증폭시켰으려나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "value": "나와 동료 과학자들은 전 우주의 외계 행성을 조사하고 있죠!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "사실 이 슈트는 강력한 방사선을 막는데 큰 도움이 되진 않아요, 그래도 입고 있는 편이 안전하게 느껴져서요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "제가 분석해야할 샘플들이 넘쳐나는군요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/14",
+        "value": "이 노란 슈트 아래엔, 제 가슴이 발견에 들떠서 울리는군요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/13",
+        "value": "건들지 마세요. 전 지금 확인이 불가능한 미생물에 덮여있습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/11",
+        "value": "이 슈트를 더 친절하게 만들면 안 되는 건지 참..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/10",
+        "value": "배운다는건 멋진 거지요, 그 누구도 반박할 수 없는 사실이랍니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "value": "연구하는 중입니다. 샘플을 오염시키지 말아 주세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "value": "이 행성의 샘플로는 어떤 약품을 만들 수 있을까요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "이 행성은 저 같은 사람들에게 위험하죠. 멋져요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "적대적 생물체가 넘쳐나는군요, 흥미롭습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "이 행성은 듣지도 보지도 못한 형태를 지녔군요! 어떻게 명칭 해야 할지..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "这些行星本质上是完全不同的！我们没有办法对它们进行分类！",
+            "有太多的组织样本需要我去研究！",
+            "这套装备实际上并没有对抵抗恶劣的辐射环境有多少帮助，我只是觉得穿着它更安全！",
+            "这个地区有大量的敌意生物存在!这可真迷人…",
+            "这个星球对大多数生物来说都太过于危险了，比如我。但是我爱死这里了！",
+            "我不知道我们能够在这个星球的样本中制造出什么新药物？",
+            "我和我的同伴们正启程探索考察宇宙中的所有的外星行星！",
+            "我不确定这个星球上的辐射会不会使这里的生物产生变异？！",
+            "我正在做一些研究。不要污染我的样品！",
+            "“让我们在这个危险的外星行星上做些研究”，他们这么说！“怎么可能会出事？”他们很肯定！",
+            "学习是很酷的，不要让任何人告诉你问题的答案！",
+            "他们其实真的可以把这些衣服弄得舒服一点，不是吗？",
+            "你能透过防护服看到我的脸吗？",
+            "别碰我－我被包在不明微生物里！",
+            "穿着这件黄色的外套，我的探索之心砰砰直跳！",
+            "即使文明随着光阴流逝不留一丝痕迹，人们还是会再一次发现科学。"
+        ]
+    }
+]

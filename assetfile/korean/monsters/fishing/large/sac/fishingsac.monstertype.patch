@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "갈색 코도포드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물고기의 배는 항상 유독성 액채로 넘쳐서, 간신히 지고 다닌다."
+    }
+]

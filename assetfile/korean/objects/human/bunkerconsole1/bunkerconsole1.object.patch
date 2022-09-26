@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "인간이 가장 큰 호기심을 느낀다는 레버와 버튼. 제가 직접 한 번 해보지 않겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 콘솔 하나에 배정된 레버가 많을 수록 위험한 법."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "단추랑 레버 잔뜩 달린 기계! 끌리지만 플로란 이거 갖고 안 논다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "강한... 레버... 왜곡된... 충동..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "건드리면 위험할 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "포드 문을 열거나 뭔가를 터트리는 장치 같다. 무슨 일이 나긴 하겠지 뭐."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "조종 콘솔이다. 정확히 뭐에 쓰는 지는 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "명령 조작기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정말 구미가 당기는 래버들이지만 저대로 둬야 할 것 같다."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "친절한 낯선 사람임. 잡담할 수 없음. 심부름중!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "관문기지는 추움.  목초지는 따듯함. 그냥 말해보는거임!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "못보던 사람. 남아있을수 없음. 잠시 방문중!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "잠시 방문중. 물자가 필요함. 잡담할 수 없음!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "随便看看。需要补给用品。不能聊天！",
+            "新面孔。不要停留。到处看看！",
+            "前哨站很冷。草原温暖。我只是随口说说！",
+            "友好的陌生人。不能聊天。我跑路了！"
+        ]
+    }
+]

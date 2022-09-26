@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "짚으로 만든 층을 이룬 지붕이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 지푸라기는 내 일상을 더욱 떠오르게 해주는구만."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "마른 지푸라기 지붕이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초가지붕"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전통적인 초가 지붕이다."
+    }
+]

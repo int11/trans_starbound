@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;누루^reset;에게 말을 걸어 ^orange;투기장^reset;로 이동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;아웃포스트^reset;에 있는 ^orange;누루^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "투기장 대전에서 승리하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "또 다른 누군가가 너를 투기장 전투에서 도전했어. 이 놈은 플로란의 몬스터 조련사 ^orange;볼로^white;라고 해. ^green;준비가 됬을때 나에게 와서 말을 걸면 내가 너를 보내줄게^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "네가 볼로를 쓰러트렸어! 이거 꽤나 재미있는데. 여기 네 두번째 우승컵이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;내부의 영광"
+    }
+]

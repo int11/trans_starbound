@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고래가죽 해적외투-어쨌든 고래냄세 같은게 난다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해적 외투"
+    }
+]

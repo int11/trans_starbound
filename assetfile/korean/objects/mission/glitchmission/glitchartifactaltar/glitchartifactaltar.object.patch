@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "글리치 유물 제단"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뭔가 중요한 걸 보관하기 위해 만들어진 것 같다."
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "보물 교환소"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "귀한거 얻고 싶어? 그럼 여기로 가자"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "귀한 아이템들을 모아 보상품으로 바꾸자"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보물 교환소"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "在这儿我能用稀有的东西买到更稀有的东西。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "用稀有物品来交易独特物品的地方。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "这这这个商人想要稀有的物品去换他的商品。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "吸引。一家以物换物而不是换像素的店？"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我能在这拿到传说物品！前提是我能用相当稀有的物品去交换。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我能用一些更稀有的东西来换这马车上的商品。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "我要拿我的靴子换一些商品！但这商人对靴子不感兴趣…"
+    }
+]

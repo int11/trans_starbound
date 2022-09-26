@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 놀라운 내구성을 자랑하는 투구는 예상치 못할만큼 편합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투칸의 투구"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "혁명가의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "듀라스틸로 보강된 바지와 강화된 부츠는 멋지고 실용적이다. 혁명을 위하여!"
+    }
+]

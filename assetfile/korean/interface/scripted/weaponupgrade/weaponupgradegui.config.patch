@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "무기 강화 모루"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "당신의 무기들을 업그레이드하세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/essenceCostDescription/value",
+        "value": "필요 에센스"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/btnUpgrade/caption",
+        "value": "업그레이드"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/cancel/caption",
+        "value": "취소"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/emptyLabel/value",
+        "value": "업그레이드 할 수 있는 무기를 가지고 있지 않습니다!"
+    }
+]

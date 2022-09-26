@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이름에 '독'이 들어가있는 건 안 믿을란다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "독성 파인애플이다. 그냥 파인애플이 그닥 독하지 않을 때 먹는다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "당혹. 이 식물은 주점 펭귄이라는 종족에게 특히 톡하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 친구에게 재미로 독무 먹인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "독무 씨"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유독해보이는 과일인데, 하지만 진짜 그렇게 나쁠까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 과일의 독성은 영리하게 사용해서 질병을 치료할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "시큼하고 맛있다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 식물은 날 아프게 할 거다. 아니면 아픈 걸 낫게 해주려나?"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "조심해야겠다. 저 광선에 튀겨지겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "수정에서 나오는 광선의 패턴을 파악하면 제대로 움직일 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "저 광선에 걸리기 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "진짜 아플 것 같은 광선이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "수정에서 치명적인 광선이 나온다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경악. 죽음의 광선을 쏘는 수정이라! 나도 이제 살 만큼 살았네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈정 광션 플로란 해친다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 조각 함정"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "침입자들을 제거하는 수정 함정이다."
+    }
+]

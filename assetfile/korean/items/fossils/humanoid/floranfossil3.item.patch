@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플로란 다리 화석 (Floran Legs)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 플로란의 다리 한 쌍이다."
+    }
+]

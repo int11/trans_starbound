@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그놈의 집. 집은 모자에 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "집 모자"
+    }
+]

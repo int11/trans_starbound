@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커다란 전파 탐지기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "너네 텔레비전 보라고 있는거 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "普通的雷达。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "漂亮的盘子。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人自上次后不打算去碰任何雷达。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "有趣。雷达。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "用来定位扫描其他东西的雷达。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "接收无线电波的盘子。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "某种科学盘子。"
+    }
+]

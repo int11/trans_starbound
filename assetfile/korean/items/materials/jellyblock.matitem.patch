@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "젤리 덩어리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "끈적거리고 밝은 색의 젤리 덩어리."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "不适。我不喜欢凝胶抖动的样子。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "摇晃抖动的凝胶。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一团看着黏糊糊的凝胶。"
+    }
+]

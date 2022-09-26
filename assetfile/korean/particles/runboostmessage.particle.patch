@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/definition/text",
+        "value": "^shadow;달리기 가속"
+    }
+]

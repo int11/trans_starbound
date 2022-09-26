@@ -1,0 +1,308 @@
+[
+    {
+        "op": "replace",
+        "path": "/converse/novakid/default/3",
+        "value": "난 떠도는 영혼. 그리고 이건 내 천직!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/novakid/default/2",
+        "value": "뭔가 좀 쏘고 싶은걸. 곧 그럴 일 생기겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/novakid/default/1",
+        "value": "당신 눈매가 날카롭군. 우리끼리 사격 시합 한 번 해볼까?"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/apex/default/2",
+        "value": "이것이 진정한 자유군."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/apex/default/1",
+        "value": "여기에 있게 되어 너무나도 좋다. 친구여."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/apex/default/0",
+        "value": "오늘의 임무는 뭔가?"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/14",
+        "value": "우리 집안은 용병 가문이야! 나랑 같이 있으면 안전해. 의심할 거 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/13",
+        "value": "우리 부모님은 두 분 다 용병이었고, 부모님의 부모님도 용병이었고. 내 혈통은 꽤 나쁘지 않다고."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/12",
+        "value": "돈만 잘 주면 충직하게 일하마."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/11",
+        "value": "네 옆에 펭귄이 같이 있을 때보다 안전을 보장할 수는 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/10",
+        "value": "난 거친 '새'나이라고. 걱정 하지 마."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/9",
+        "value": "나는 그냥 너의 평범한 우주주기 펭권 용병이라고."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/8",
+        "value": "난 유능한 전문가라고."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/7",
+        "value": "총기수입 완료. 다음 작업 준비도 완료."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/6",
+        "value": "난 돈값 해. 아무나 붙잡고 물어봐."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/5",
+        "value": "모험! 재미! 금화!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/4",
+        "value": "난 내 몸무게만큼의 금덩이 값이 나간다고! 잠시만 정정하지, 난 네 몸무게 만큼의 금값이 나간다고."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/3",
+        "value": "신변보호엔 펭귄만한 녀석들이 없고, 펭귄중엔 나만한 녀석들이 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/2",
+        "value": "난 용병으로 태어나 자랐어."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/1",
+        "value": "괜찮아, 대장? 경비원이 필요해?"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default/0",
+        "value": "야, 큰놈! 안전하게 지켜줄게, 걱정 말더라고!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/hylotl/default/2",
+        "value": "그 어느 것도, 친구와 함께하는 여행보다 마음이 진정되는것은 없습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/hylotl/default/1",
+        "value": "전투에는 글의 영감이 있지요. 어쩌면 곧 그 영감으로부터 시를 노래하게 될지도 모르겠군요!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/hylotl/default/0",
+        "value": "우리의 미래는 정해지지 않았고, 우리의 운명은 별들의 바다에 떠 있는 배와 같군요!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/avian/default/3",
+        "value": "그래서, 다음 임무는 뭐죠?"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/avian/default/2",
+        "value": "나는 별들 사이로 날아올라요. 날개가 아니라 친구들과 함께 말이에요."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/avian/default/1",
+        "value": "모험이 우리를 기다려요!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/avian/default/0",
+        "value": "우리 오늘은 무얼 하기로 계획되어 있나요?"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/human/default/4",
+        "value": "저 앞에는 뭐가 도사리고 있을까? 모험, 음모, 약탈? 약탈은 아니겠지, 그치?"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/human/default/3",
+        "value": "걱정 마, 나랑 있으면 안전해!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/human/default/2",
+        "value": "우주선에서 보내는 삶이라... 이보다 두근 거리는게 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/human/default/1",
+        "value": "우주를 날아다니며 재난에 뛰어들고... 삶이란 이런 거지!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/human/default/0",
+        "value": "신난다 모험이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/0",
+        "value": "딱히 할말이 없군요."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/novakid/default/0",
+        "value": "안녕하신가!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/floran/default/2",
+        "value": "플로란 빨리 쓔셔대고 싶다!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/floran/default/1",
+        "value": "플로란 엄청 능슉하다!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/floran/default/0",
+        "value": "플로란 별들 샤이로 샤냥하는 거 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/glitch/default/3",
+        "value": "다정. 내 옆에 있으면 안전할걸세!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/glitch/default/2",
+        "value": "신남. 해결할 임무들이 오늘도 많구려!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/glitch/default/1",
+        "value": "신남. 임무를 수행하지!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/glitch/default/0",
+        "value": "열망. 오늘 할 일이 정말로 많네!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default",
+        "value": [
+            "我对你无话可说。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/apex/default",
+        "value": [
+            "所以今天的任务是什么？",
+            "在这很棒，我的朋友。",
+            "这才是真正的自由！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/avian/default",
+        "value": [
+            "我们今天有什么计划？",
+            "冒险正等待着！",
+            "我翱翔星辰之间，不靠羽翼而靠朋友的伴随。",
+            "那么，下一个任务是什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/floran/default",
+        "value": [
+            "叶族人喜喜喜欢在星星星球之间狩猎。",
+            "叶族人非非非常专业。",
+            "叶族人非非非常想要马上戳戳戳点东西！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/glitch/default",
+        "value": [
+            "渴望。我今天有非常多的计划！",
+            "兴奋。咱们做点任务去！",
+            "兴奋。有好多任务要做！",
+            "友善。靠近我你会很安全！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/human/default",
+        "value": [
+            "冒险啊！",
+            "穿梭太空，闯入意外…这就是生活！",
+            "飞船上的生活…有什么更激动人心的吗？",
+            "别担心，在我身边你会很安全。",
+            "接下来的路上有什么？冒险、阴谋、掠夺？不掠夺，对吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/hylotl/default",
+        "value": [
+            "我们的未来尚未成文，我们的命运遍布星球之间！",
+            "战斗如诗。也许我现在就该吟诵几句。",
+            "没什么比和朋友一起旅行更能让人平心静气了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/novakid/default",
+        "value": [
+            "你好啊！",
+            "你有一双锐利的眼睛。让我们来场射击比赛吧？",
+            "好想射点什么。希望我们能有所行动。",
+            "我的心中是个流浪的灵魂，所以这工作就是为我准备的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/converse/penguin/default",
+        "value": [
+            "嘿，大家伙！我会保护你的安全的，不必担心！",
+            "好吧，大枪？需要安全保障吗？",
+            "我生来就是佣兵。",
+            "没人比企鹅更擅长保证身体安全，而且没有企鹅做的比我更好。",
+            "我比等体重的黄金还值！事实上，我指的是你的体重。",
+            "冒险！兴奋！企鹅硬币！",
+            "我绝对物超所值，不信你问任何人。",
+            "我的枪都擦得锃亮，准备开始下一步的工作。",
+            "我是完美的专业人士。",
+            "我只是你典型的太空企鹅佣兵。",
+            "我是个有老又强的鸟，你不必担心我。",
+            "没有比你身边有个企鹅更安全的时候了。",
+            "薪水多高，我就忠诚多久。",
+            "我父母都是佣兵，他们的四个父母在此之前也是。我有个很棒的血统。",
+            "我家世代佣兵。别怀疑，你和我在一块很安全！"
+        ]
+    }
+]

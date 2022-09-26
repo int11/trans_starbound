@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 작은 꽃 꼬투리군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쟉은 꼬투리."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 꼬투리."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 꼬투리 하나."
+    }
+]

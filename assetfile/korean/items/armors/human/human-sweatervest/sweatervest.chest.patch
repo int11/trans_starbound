@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스웨터 조끼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가슴은 따뜻한데 옆구리가 시리다."
+    }
+]

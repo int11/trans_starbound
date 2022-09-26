@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 고 퀄리티 바지엔 밝고 화려한 장식물이 가득."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네오 하의"
+    }
+]

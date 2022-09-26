@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그들의 비행기기의 작동 원리는 신비에 쌓여있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "헬리광신도"
+    }
+]

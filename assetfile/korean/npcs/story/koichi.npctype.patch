@@ -1,0 +1,55 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/greet/default/default/1",
+        "value": "당신도 유물을 찾아오셨단 말입니까? 흥미진진하군요..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/greet/default/default/0",
+        "value": "여기까지 오시다니! 해내셨습니다! 그 두건쓴 놈들은 물리치셨습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/giveRelic/default/default/1",
+        "value": "그게, 어... 당신과 동행해도 되겠습니까? 이 유물 말입니다, 좀 더 알아보고싶습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/giveRelic/default/default/0",
+        "value": "당신에게 맡기는 게 최선일 것 같습니다. 당신의 행동에 대한 보상인 셈입니다. 여긴 절대 안전하지 않습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/end/default/default/0",
+        "value": "대사상가들이 말씀하시길 '경험은 지식의 어머니다'라고 하셨습니다. 전 엄청나게 현명해질 겁니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/npcname",
+        "value": "光一"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/greet/default/default",
+        "value": [
+            "你来了！你做到了！你打败了那些戴头巾的恶棍！",
+            "所以你来这儿也是为了这个神器吗？真有趣啊…"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/giveRelic/default/default",
+        "value": [
+            "我觉得最好将其委托与你-作为对你的正直的奖赏。它放在这里确实不安全。",
+            "不过，呃…我可以跟你一起走吗？这个东西，这件神器-我想知道更多。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/koichi/end/default/default",
+        "value": [
+            "大思想者曰，“经验乃智慧之母”。我也将会变得很有智慧！"
+        ]
+    }
+]

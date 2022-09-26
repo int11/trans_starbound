@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/noCrewSpeech/text",
+        "value": "^#6f6f6f;$ crew\n^cyan;> 이 함선의 유일한 선원은 당신입니다.\n> 선원을 모집하는 것은 효율을 높이는데 도움이 될 것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/noMissionsSpeech/text",
+        "value": "^#6f6f6f;$ 미션\n^cyan;> 현재 가능한 미션 좌표가 없습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shipStatus/0/text",
+        "value": "> 쿨... 쿨... 쿨..."
+    },
+    {
+        "op": "replace",
+        "path": "/shipStatus/1/text",
+        "value": "^#6f6f6f;$ status\n^cyan;> 함선 추진기는 가동 불능입니다.\n> 함선 순간이동 시스템은 정상입니다.\n> ^green;현재 궤도 하의 행성에만 접근할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shipStatus/3/text",
+        "value": "^#6f6f6f;$ status -f\n^cyan;> 함선 추진기는 정상입니다.\n> FTL 드라이브는 정상입니다.\n> 함선 순간이동 시스템은 정상입니다.\n> ^green;전 우주에 접근할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shipStatus/2/text",
+        "value": "^#6f6f6f;$ status\n^cyan;> 함선 추진기는 정상입니다.\n> 함선 순간이동 시스템은 정상입니다.\n> ^green;현재 항성계의 모든 행성에 접근할 수 있습니다."
+    }
+]

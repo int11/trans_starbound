@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매콤한 갈비"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달고 맵지만 맛있다!"
+    }
+]

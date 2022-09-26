@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "영웅의 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전설의 영웅이 쓰던 모자라고 전해진다"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "광합자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 바지는 장비자의 민첩성을 향상시킨다, 무장된 다리를 사용한 발차기는 뼈를 갈아버린다."
+    }
+]

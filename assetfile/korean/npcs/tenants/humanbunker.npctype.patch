@@ -1,0 +1,74 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/2",
+        "value": "전 가끔 이곳이 최고수준으로 운영되는지 체크하러 온답니다, 별로 신경 쓰진 마세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/4",
+        "value": "전 항상 점검 중이니 이곳의 기준이 떨어뜨리는 일은 없길 바라죠."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/3",
+        "value": "한때 군대에서 일했죠, 지금은 소유지 감독자입니다. 그렇다고 물렁물렁해졌다고 생각하진 마시길."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/1",
+        "value": "이곳의 보안 상태를 점검하러 왔습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/0",
+        "value": "점검하러 왔습니다, 똑바로 서시길!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human/4",
+        "value": "전 항상 점검 중이니 이곳의 기준이 떨어뜨리는 일은 없도록 하시길."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human/3",
+        "value": "한때 군대에서 일했고, 지금은 소유지 감독자입니다. 그렇다고 물렁물렁해졌다고 생각하진 마시길."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human/0",
+        "value": "점검하러 왔습니다, 똑바로 서시길!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human/2",
+        "value": "전 이곳이 최고수준으로 운영되도록 확인하러 왔습니다., 별로 신경 쓰진 마세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human/1",
+        "value": "이곳의 보안 상태를 점검하러 왔습니다. 지구에 일어난 일을 생각해보면, 아무리 조심해도 부족하죠."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default",
+        "value": [
+            "我来视察这个地方。立正！",
+            "我来核查这个地方的安全状况。",
+            "我来确认这个地方是否达标。不要在意我！",
+            "我曾在军队服过役，现在我是物业主管。别以为我是个软柿子！",
+            "我在这里巡查，所以你最好别犯什么错！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human",
+        "value": [
+            "我来视察这个地方。立正！",
+            "我来核查这个地方的安全状况。在地球出事之后，你再怎么小心也不为过。",
+            "我来确认这个地方是否达标。不要在意我！",
+            "我曾在军队服过役，现在我是物业主管。别以为我是个软柿子！",
+            "我在这里巡查，所以你最好别犯什么错！"
+        ]
+    }
+]

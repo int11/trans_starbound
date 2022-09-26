@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "복잡하게 장식된 탁자야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "꽃무늬 식탁보가 아주 마음에 들어!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "꽃 무늬 식탁보가 수제인거 같네. 생전 처음봐!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "식탁보가 꽤 괜찮아 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 탁자엔 여러가지의 파스텔풍 색상이 사용되었네"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 꽃 탁자 좋아"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파스텔 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밝은 색으로 이뤄져있고 꼴 무늬 식탁보가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这确实是一张很漂亮的桌子。"
+    }
+]

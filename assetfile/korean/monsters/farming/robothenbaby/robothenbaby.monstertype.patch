@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아기 로봇 암탉"
+    }
+]

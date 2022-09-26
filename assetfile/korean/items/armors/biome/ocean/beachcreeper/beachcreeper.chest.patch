@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이건 오싹하고 기묘하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "크립링 흉갑"
+    }
+]

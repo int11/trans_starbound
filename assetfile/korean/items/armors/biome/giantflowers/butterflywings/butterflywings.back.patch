@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나비 날개"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "마침내 난 요정이 될수있어!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코코넛 밥"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "코코넛을 볼 수 없지. 거기, 거기있다고!"
+    }
+]

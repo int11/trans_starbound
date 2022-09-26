@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 과일 잼 "
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "외계 과일로 만든 잼. 끈적하다."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/altAbility/name",
+        "value": "전기 구체"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "테슬라 지팡이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "공기로 부터 이온화된 강력한 전기를 조종한다."
+    }
+]

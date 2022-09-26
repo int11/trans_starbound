@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정찰병의 각반"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "천에 튼튼한 철 섬유를 더해 만든 각반이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초콜릿 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "하트 모양 상자에 하트 모양 초콜릿이 들어있다!"
+    }
+]

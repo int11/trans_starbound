@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "작동하질 않는데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "다이얼이 한 곳에 고정되어 있잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 신호를 받지 않고 있는 라디오군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "적막..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "라디오다. 아비안은 결정의 진동을 이용해서 라디오를 만들지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "멀리에다 말하는 기계."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "제식 라디오"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "켜져 있지만 조용하다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "예전에 이 라디오는 지정부의 방송용으로 쓰였지. 잠시 동안 반군들이 해적판 방송국을 돌렸고."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "요란한 새들이 직접 바를 운영하고 있네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바의 간판은 절제되지 않았지만 나름의 매력이 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "와우, 술집! 펭귄과 함께하는!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이목을 끄는 바 간판."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 고장난건지, 원래 그렇게 디자인된건지?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "꼬리 짧은 새가 하는 바."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "펭귄 바 간판"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "황홀해라. 눈을 못 떼겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这个酒吧招牌需要凝视。"
+    }
+]

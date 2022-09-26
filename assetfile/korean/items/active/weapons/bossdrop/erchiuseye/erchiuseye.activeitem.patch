@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에르키우스 눈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에르키우스 호러의 눈이다! 적들에게 집중시키자."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "能源之眼^yellow;^reset;"
+    }
+]

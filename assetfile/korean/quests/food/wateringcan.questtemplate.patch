@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "농작물이 성장하려면 흙을 계속 축축하게 유지해야돼. 그러기 위해서는 ^orange;나무 물뿌리개를 제작해야돼^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "훌륭해! 이 물뿌리개와 괭이만 있으면 농사를 시작할 수 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;난 할 수 있다!"
+    }
+]

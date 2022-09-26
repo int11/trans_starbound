@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시드라곤"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 섬새한 생물은 작고 날개같은 지느러미를 사용해서 용암의 부드러운 수류를 탄다."
+    }
+]

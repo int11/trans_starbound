@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점액"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "미끌미끌한 점액이다."
+    }
+]

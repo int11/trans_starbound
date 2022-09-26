@@ -1,0 +1,157 @@
+[
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+        "value": "농작물을 기를 때 딱인 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "value": "농작물을 기를 때 딱인 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;목축, 농사 그리고 사냥"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "씨를 뿌림이란 언젠가 자연의 현상금을 수확하는 것."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "value": "씨를 뿌림이란 언젠가 자연의 현상금을 수확하는 것."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "value": "씨를 뿌림이란 언젠가 자연의 현상금을 수확하는 것."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "농사 능력시험을 볼 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+        "value": "농사 능력시험을 볼 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+        "value": "야외작업을 할 수 있게 해주는 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+        "value": "영감. 농사 모듈 활성화."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 테이블 쓴다. 플로란 샤냥 좋아한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+        "value": "플로란 테이블 쓴다. 플로란 샤냥 좋아한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "농업 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "수렵 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+        "value": "^orange;농업 탁자^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;수렵 탁자^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^orange;수렵 탁자^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "농사와 채광, 사냥등에 사용되는 여러 아이템들을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "농사와 채광, 사냥에 사용되는 여러 아이템들을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/description",
+        "value": "농사와 채광, 사냥에 사용되는 여러 아이템들을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+        "value": "농사 능력시험을 볼 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "value": "야외작업을 할 수 있게 해주는 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "농작물을 기를 때 딱인 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;목충, 농사 그리고 사냥"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "야외작업을 할 수 있게 해주는 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+        "value": "농업용 도구가 잔뜩인 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+        "value": "농업용 도구가 잔뜩인 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "농업용 도구가 잔뜩인 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "value": "영감. 농사 장치들을 활성화하겠소."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 농사 모듈 활성화."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "value": "플로란 테이블 쓴다. 플로란 샤냥 좋아한다!"
+    }
+]

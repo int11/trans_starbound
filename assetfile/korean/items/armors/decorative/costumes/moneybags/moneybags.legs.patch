@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금수저 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화려한 턱시도 바지로 트랜디하게 다니자."
+    }
+]

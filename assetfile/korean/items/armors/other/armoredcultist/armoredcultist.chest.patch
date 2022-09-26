@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무장 광신도의 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "광신도의 흉갑이다. 금속에 촉수로 보강한듯 하다."
+    }
+]

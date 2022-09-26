@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "변절자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가볍고 유연한 바지와 부츠 - 잠입에 이상적인 장비"
+    }
+]

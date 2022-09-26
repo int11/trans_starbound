@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "만약 저 수정이 쏘는 빔의 패턴을 기억할 수 있다면, 그에 맞춰서 행동할 수 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "격분. 저 수정은 치명적인 빔을 발사하는군! 앞으로 주의할 필요가 있어보이는구려."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 수정 함정"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "미친 수정이 빛을 나한테 쏘고있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "저 빔에 잡히고 싶지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저 빔 아파보이는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "치명적인 광선을 발사하는 종류의 수정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈정 빔이 플로란 아프게 해."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "침입자를 저지하기위한 수정 함정."
+    }
+]

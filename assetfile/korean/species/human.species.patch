@@ -1,0 +1,78 @@
+[
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "인간은 길고 혼란한 역사를 밟아 왔음에도 삶과 세계를 긍정적인 시각으로 바라보고 있으며, 전 세계를 하나로 묶을 사회를 계획하고 있기도 합니다. 바로 행성 보호령입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/9",
+        "value": "성격"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/7",
+        "value": "하의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/6",
+        "value": "상의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/5",
+        "value": "머리 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/4",
+        "value": "속옷"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/3",
+        "value": "하의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/2",
+        "value": "상의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/1",
+        "value": "머리 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/0",
+        "value": "피부 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "인간"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/8",
+        "value": "인간"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels",
+        "value": [
+            "肤色",
+            "发型",
+            "上衣",
+            "裤子",
+            "内裤",
+            "发色",
+            "上衣颜色",
+            "裤子颜色",
+            "人类",
+            "人物性格"
+        ]
+    }
+]

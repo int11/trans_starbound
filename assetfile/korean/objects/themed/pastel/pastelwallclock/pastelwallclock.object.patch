@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "상당히 재미있게 생긴 시계야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "상당히 독특하게 생긴 벽 시계야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "연보라색 벽 시계다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 매우 이상한 모양의 시계로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 매우 짧은 시간에 확인한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파스텔 벽 시계"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "직사각의 파스텔풍 벽 시계이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "亮色调的方形钟正合我的品味！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "时间正在滴塔滴塔地溜走。"
+    }
+]

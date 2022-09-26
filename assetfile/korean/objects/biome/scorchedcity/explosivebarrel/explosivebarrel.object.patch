@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "드럼통처럼 생긴 신상품 다이너마이트같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "폭발물이 담긴 금속제 보관함인 것 같다. 무슨 이유에서인지 밀봉되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "폭발물 보관함. 나한텐 안 맞는다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "앞에 폭발물 라벨이 붙어있는 걸 보니 열면 안 될 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "폭발물 드럼통이다. 거리를 유지해야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경고. 통에 붙은 라벨이 내부에 폭발성 물질이 있음을 경고하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "라벨 불 같다. 플로란 떨어져있을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "폭발성 드럼통"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "폭발물 금속 통이다. 위험해보인다."
+    }
+]

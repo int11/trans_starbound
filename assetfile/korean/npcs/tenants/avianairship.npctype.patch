@@ -1,0 +1,74 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian/2",
+        "value": "난 클루엑스를 믿는걸 때려치웠을 때 비공정의 승무원으로 자원했지. 바람을 타는 지금이 훨씬 행복해."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian/1",
+        "value": "요호호, 내 인생은 배교인생!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/4",
+        "value": "보이는 걸로 날 판단하지 말라고! 난 우아하다고."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/3",
+        "value": "맑은 공기와 자유! 그게 인생이지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/2",
+        "value": "클루엑스를 믿는걸 때려치웠을 때 비공정의 승무원이 되기로 했지. 상쾌한 바람과 즐겁게 살고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/0",
+        "value": "원래 더 큰 비공정에서 일했지요. 여긴 조용하군요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian/3",
+        "value": "시원한 공기와 자유로운 하늘! 그게 나의 생활이지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian/0",
+        "value": "훨씬 더 많은 선원들과 일했던 때가 기억나는군요. 여긴 꽤 조용하거든요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/1",
+        "value": "요호호, 내 인생은 배교인생!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian/4",
+        "value": "다른 녀석들이 한 말은 무시해. 배교자가 되는 것이 진정한 자유를 찾는 길이라구."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default",
+        "value": [
+            "我曾经是一个巨大船队的一员！但是这里更安静。",
+            "唷嗬嗬，这就是我想要的折翼者的生活！",
+            "我放弃信仰克鲁西斯后加入了一个飞船队伍。那段乘风破浪的日子太棒了。",
+            "新鲜的空气和自由，这就是我想要的生活！",
+            "不要以貌取鸟！我通常可是很优雅的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian",
+        "value": [
+            "我曾经是一个巨大船队的一员！但是这里更安静。",
+            "唷嗬嗬，这就是我想要的折翼者的生活！",
+            "我放弃信仰克鲁西斯后加入了一个飞船队伍。那段乘风破浪的日子太棒了。",
+            "新鲜的空气和自由，这就是我想要的生活！",
+            "忘了你曾经听过的话，做一名折翼者是真正的解放。"
+        ]
+    }
+]

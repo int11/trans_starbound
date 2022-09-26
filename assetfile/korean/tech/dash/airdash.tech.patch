@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "공중에서 빠르게 움직일 수 있습니다! 재사용 대기시간: 0.8초"
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "空中冲刺"
+    }
+]

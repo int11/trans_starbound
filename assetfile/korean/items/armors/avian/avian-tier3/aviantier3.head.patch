@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매추라기 관모"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "티탸늄 깃털로 꾸며진 일반적인 아비안 모자다."
+    }
+]

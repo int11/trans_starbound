@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 녹슨 플랫폼은 곧 부숴질 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "망가진 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹슨 발판이잖아. 안전하지 않겠는데"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불안. 이 낡은 발판은 견고하진 않은거 같소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "녹슬고 안 안전하다. 플로란 이런거 좋다."
+    }
+]

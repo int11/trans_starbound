@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "세포 물질, 이걸로 뭔가 만들수 있다고 들었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "세포 물질"
+    }
+]

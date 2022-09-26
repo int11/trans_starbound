@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꽃더미 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "길러 낼수 있는 바지."
+    }
+]

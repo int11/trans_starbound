@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 발판은 구리로 만든게 분명해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 구리로 만들어진 것 같은 발판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "구리로 만든 발판이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구리로 만든 플랫폼이다."
+    }
+]

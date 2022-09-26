@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "글리치를 본따 만들어진 인간용 핼맷, 마치 생명을 컨셉으로 잡은 예술과 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모험가의 투구"
+    }
+]

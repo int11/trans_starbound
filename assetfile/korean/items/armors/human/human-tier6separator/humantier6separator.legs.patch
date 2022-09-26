@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만능자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 바지는 일생동안 수천가지 외계 세계에 발자취를 남길것이다."
+    }
+]

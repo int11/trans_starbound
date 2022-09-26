@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "낚싯대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "티타늄이 장착된 간단한 나무 낚싯대다."
+    },
+    {
+        "op": "replace",
+        "path": "/lureName",
+        "value": "基础鱼饵"
+    },
+    {
+        "op": "replace",
+        "path": "/reelName",
+        "value": "基础鱼线轮"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+        "value": "너는 플로란 고대 유물들의 수집가로구나! 보아하니 네가 이미 유물의 위치를 찾을 만한 충분한 단서들을 모았단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findClues",
+        "value": "^green;물체를 조사^reset;하여 ^orange;플로란 단서^reset;를 찾으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/complete/text",
+        "value": "훌륭해. 이제 유물의 위치가 어디인지 알 것 같구나! ^#71f2f6;준비가 되면 방주로 오거라^white;, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text",
+        "value": "이 유적을 관리하던 생물은 이 지역의 고유 생물이 아니야. 아무래도 내 분류 서적을 찾아서 이 생물의 기원과 중요한 정보를 찾아봐야겠구나."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+        "value": "모든 단서들이 우리에게 모이고 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+        "value": "상당히 독특하구나! 하지만 더 놀라운 사실은 우리가 알아낸 정보보다 더욱 가치있는 물건 일 수도 있어..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+        "value": "흥미로운건 그들이 어떠한 물건을 소중히 여기고 있고, 그것을 이런 방식으로 보여준다는 것이란다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+        "value": "흥미로운 발견이구나! 계속해, 잘하고 있단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+        "value": "이 단서는 내가 추측하고 있었던 게 맞다는걸 증명해주는군!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+        "value": "플로란은 폭력 문화가 형성되어있어. 가끔은 무질서 하기도했고, 가끔은 조직적으로 움직이기도 했단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+        "value": "작은 단서지만, 그래도 의미 있는 단서지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+        "value": "플로란은 역사에는 관심을 두지 않지만, 그들은 전통을 매우 소중하게 생각한단다. 이건 문화를 창조하는 데 많은 도움이 된단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+        "value": "흠, 내 생각엔..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+        "value": "흐음, 기묘하군... 이 정보와 다른 정보를 같이 봐야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/text",
+        "value": "전통적인 꽃 문화가 그들의 사냥과 사냥꾼에게 중요한 영향을 끼쳤다라... 분명 이 정보가 그들의 유물 위치를 찾는데 도움을 줄 수 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/text",
+        "value": "이 방적돌기는 비정상적으로 커. 도데체 어떤 생물이 이런 기관을 갖지? 이건 분명히 당첨된 복권일거야. 내 생각엔..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/text",
+        "value": "이 그림은 플로란 사낭꾼의 모습을 그린것 같아, 그들의 의상은 의식 절차에 입는 옷 처럼 보이는구나."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/text",
+        "value": "이 찐득한 거미줄은 특이한 색조와 질감을 사용했구나. 이 물건의 외형은 생산되었을때 특별한 특징을 가져야만 했을거야. 그리고 아마 환경적 요소로 인해 제한되어 있었겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startWithProgress/text",
+        "value": "아무래도 네가 유물의 행방을 찾을 단서가 포함된 물건을 미리 찾은 모양이구나. 네가 찾아다니는 동안 내가 분석하도록하마!"
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이제 니가 스캔에 익숙하니, ^green;이제부터 우리는 저 ^orange;유물들^green;을 찾는데 집중해야 한단다,^white; 얘야. 그래, 플로란 부터 시작해보자꾸나... 분명 그들의 식민지에서 유물의 위치를 찾을 ^orange;단서^reset;가 있을거란다. 플로란은 이제 어디든지에 분포하고 있지만, 여전히 ^orange;숲^white;으로 밀집한 구역을 좋아한단다. 식물들로 가득한 행성은 ^orange;온화한 항성^white;에서 찾을 수 있을거야.. 행운을 빈단다 얘야, 그리고 고맙단다."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "네가 해냈단다! 그게 우리가 필요한 마지막 단서였단다. 이제 플로란 유물이 어디에 있는지 알겠구나."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "플로란 유물의 단서 찾기"
+    }
+]

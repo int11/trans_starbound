@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 문양은 나에게 썩 친숙하진 않은걸."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 나무 문, 꽤 크고 이상한 문양을 달고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이것은 색다른 금속이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 문 오래되고 말랐어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "철제 문양이 큼지막하게 박혀있는 나무 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "我想知道门上的符号意味着什么。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "这扇门有着一个闪闪发亮的门把手。我喜欢它！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "在开拓者建筑中这样的门很常见。"
+    }
+]

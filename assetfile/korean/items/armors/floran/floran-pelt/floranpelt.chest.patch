@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가죽 가슴 장식"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "식물들로 절연처리 되서 따듯하다."
+    }
+]

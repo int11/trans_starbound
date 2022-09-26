@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "끊어진 전선 뭉치."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "피복이 벗겨져 있는 느슨한 전선이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "손상입은 전선이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "노출된 전선! 위험해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 이 전선들이 살아있지 않길 바랄 뿐."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끊어진 전션 꼭 구리넝쿨같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "끊어진 전선."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "박살나 매달려있는 전선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래 된 전선. 끊겨있다."
+    }
+]

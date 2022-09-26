@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 사막의 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "모래 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사막의 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사막의 바위."
+    }
+]

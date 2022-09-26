@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 알록달록한 블록들은 갖고 놀라고 있는거지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 이 장난감 블록들은 쌓이며 함께 맞물리는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 썋을 슈 있는 장남감 블록 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "크게 쌓을 수 있는 장난감 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빨간 장난감 블록"
+    }
+]

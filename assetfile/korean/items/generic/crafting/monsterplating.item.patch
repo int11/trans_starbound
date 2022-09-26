@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강화된 몬스터갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몬스터로 부터 구한 갑주."
+    }
+]

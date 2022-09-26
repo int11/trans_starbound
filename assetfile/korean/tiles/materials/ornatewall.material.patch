@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 진짜 화려해보이는 벽이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지각. 이 벽은 미묘하게 전통적인 방식으로 장식되어 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "벽이 부수기에 너무 이쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전통적으로 보이는 벽."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 벽"
+    }
+]

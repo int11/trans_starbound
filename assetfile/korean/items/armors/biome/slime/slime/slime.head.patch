@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "슬라임 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "머리를 커다란 슬라임 방울로 덮는다. 뭐가 문젠데?"
+    }
+]

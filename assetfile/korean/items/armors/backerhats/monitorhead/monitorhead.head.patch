@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모니터 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구형 모니터 화면을 재활용해서 만든 핼멧이다."
+    }
+]

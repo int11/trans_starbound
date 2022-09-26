@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "냄새가 좋은 꽃더미 셔츠."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꽃더미 셔츠"
+    }
+]

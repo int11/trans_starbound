@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "탑승물 수리를 위한 중요한 요소이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탑승물 부품"
+    }
+]

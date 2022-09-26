@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주황 아쉴랫"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몸에 있는 회색 무늬는 용암 표면의 돌 껍질을 통해서 자신을 위장하는데 쓴다."
+    }
+]

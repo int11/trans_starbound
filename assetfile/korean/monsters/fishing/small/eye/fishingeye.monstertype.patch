@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "그을림눈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 생물의 깃털 덩쿨손은 수영중 단단한 껍질에서 나와 용암에서 식량을 걸러낸다."
+    }
+]

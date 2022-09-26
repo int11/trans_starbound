@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바이올륨 광석 (Violium Ore)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바이올륨 광석이다. 제련해서 사용할 수 있다."
+    }
+]

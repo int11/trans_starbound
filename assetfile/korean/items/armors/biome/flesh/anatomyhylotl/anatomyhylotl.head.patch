@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "교육적이군! 하이로틀의 근육 해부도를 본뜬 가면이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하이로틀 해부도 가면"
+    }
+]

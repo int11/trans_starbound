@@ -1,0 +1,107 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findClues",
+        "value": "^orange;전초기지^reset;의 ^green;이곳저곳을 스캔^reset;하여 ^orange;전초기지^reset;에 대해 알아보세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/terramart/text",
+        "value": "테라마트는 많은 물건들 중 농사와 정원에 필요한 물자를 판매한단다. 심지어 그들은 원격 배송 서비스를 통해 네 집에서 키운 농작물을 사가기도 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;아크^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text",
+        "value": "이 가구 상점에서는 전 우주의 이국적인 가구들을 판매하고, 정기적으로 새로운 물품을 들여온단다. 또한, 건물에 입주자를 들여보낼 수 있는 식민지 증서를 판매하기도 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text",
+        "value": "이 상점은 개인 텔레포터를 구입할 수 있단다. 매우 유용한 물건이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+        "value": "훌륭해! 너는 확실히 탐구심이 넘치는 마음을 갖고있구나."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/complete/text",
+        "value": "이것으로 오늘의 여행을 마치자꾸나! 준비가 됬으면 ^#71f2f6;나를 찾아오렴^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+        "value": "스캔은 보람있는 취미지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text",
+        "value": "이 상점은 열려있을때 개인 텔레포터를 구입할 수 있단다. 매우 유용한 물건이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text",
+        "value": "Beakeasy에 있는 이 바텐더는 다이아몬드를 주면 만족스러워하며 펭귄 용병을 고용할 수 있는 금화를 준단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/signstore/text",
+        "value": "이 상점에서는 자신만의 표지판을 만들 수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text",
+        "value": "이 상점이 열리면, 자신만의 표지만을 여기서 만들 수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text",
+        "value": "이 콘솔은 자네의 이동성과 민첩성을 향상시키는 기술들을 장비 할 수 있게 해준단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text",
+        "value": "테라마트가 열리면, 많은 물건들 중 농사와 정원에 필요한 물자를 판매한단다. 심지어 그들은 원격 배송 서비스를 통해 네 집에서 키운 농작물을 사가기도 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text",
+        "value": "Beakeasy에 있는 이 바텐더는 다이아몬드를 주면 만족스러워하며 펭귄 용병을 고용할 수 있는 금화를 준단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text",
+        "value": "이 가구 상점에서는 전 우주의 이국적인 가구들을 판매하고, 정기적으로 새로운 물품을 들여온단다. 또한, 건물에 입주자를 들여보낼 수 있는 식민지 증서를 판매하기도 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text",
+        "value": "펭귄 피트는 하이테크 우주선과 호버 바이크로 각종 차량 업계의 일인자란다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startWithProgress/text",
+        "value": "전초기지는 호기심이 가득한 멋지고 활기찬 장소란다. 아직도 더 볼게 있단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "떠나기전에, 내가 ^orange;물질 조작기^white;의 ^orange;스캔 모드^white;를 어떻게 ^green;장비하고 쓰는지^white; 알려주겠네. 이 주변에 알아야 할 물건들은 많고, 전초기지도 예외는 아니란다. ^#71f2f6;[N]^green; 키를 ^green;눌러 ^orange;스캐너^green;를 장비하고^white;, 가장 흥미롭고 중요한 영역은 초록색으로 표시될거란다. 이제 한번 알아보도록 하자꾸나!"
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "훌륭하게 해냈구나. 사소해 보일지도 모르지만, 스캔은 유물을 찾는데 매우 중요한 필수적인 기술이란다."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "전초기지를 방문하기"
+    }
+]

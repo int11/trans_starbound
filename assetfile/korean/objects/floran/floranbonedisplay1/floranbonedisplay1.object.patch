@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "공포. 뼈의 크기로 보아, 이 뼈를 가졌던 생물은 글리치 성 전체보다 컸겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 놈을 잡으려면 고생 좀 했겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "대체 이... 트로피를 얻기 위해 플로란들이 어떤 동물을 죽인거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 뼈의 주인이였던 동물은 얼마나 컸던거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "트로피마냥 전시되어있는 거대한 뼈야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 전리품"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플로란의 성공적인 사냥의 결과물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "정말로 커다란 뼈구만."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 플로란이 샤냥한 동물들만 장식해."
+    }
+]

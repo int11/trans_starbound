@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 풀."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "훌륭한 잔디야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "풀."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "풀. 그저 풀이다."
+    }
+]

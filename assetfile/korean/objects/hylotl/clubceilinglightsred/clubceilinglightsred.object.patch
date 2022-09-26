@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "방을 제대로 밝혀주는 빨간 불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "은은한 빨강 클럽 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "무슨 수정이길래 빨간 빛을 내는 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "분위기를 내는 은은한 빛이다. 무슨 분위기일까? 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "안개 뿌리는 기계만 있으면 진짜 나이트클럽 분위기가 나겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 빨간 불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "밝고 빨간 불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빨간 클럽 전등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "클럽에서 찾아볼 수 있는 화려한 전등이다."
+    }
+]

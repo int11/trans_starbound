@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;엘리엇^reset;에게 말을 걸어 ^orange;장애물 코스^reset;로 입장하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;전초기지^reset;에 있는 ^orange;엘리엇^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "^orange;왜곡 구 기술 장애물 코스^reset;를 통과하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "내 ^orange;왜곡 구 기술^white;이 실험 준비가 되었어! 난 네가 ^green;새로운 장애물 코스^white;를 좋아하길 바래. 그 안에 있는 좁은 공간으로 들어가는데 문제없을거야. ^green;실험을 시작할 준비가 됐으면 나에게 말을걸어^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "완벽해! ^orange;왜곡 구 기술^white;이 내가 생각했던대로 작동하고있어. 제발, 그걸 가져줘 - 덕분에 내 연구에 큰 발전이 있었어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questStarted/title",
+        "value": "엘리엇"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "엘리엇"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^orange;공 구르기"
+    }
+]

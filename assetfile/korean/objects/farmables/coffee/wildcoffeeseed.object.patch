@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "커피는 향이 좋지, 하지만 이걸 마신다고 좋은 작용이 있다고 들어본 적은 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커피 콩을 잘 말려 끓여서 컵 안에 씁쓸한 어둠을 퍼뜨려보자."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "커피는 기운찬 식물로 알려져있지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "커피는 플로란을 말똥말똥하게 해줘."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커피 씨"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "咖啡因提供能量的特质而广受欢迎。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "咖啡豆看上去是个诱人的礼物，但是苦极了。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "沉重。电子人不知道这些苦豆子有什么好用途。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "看破其苦涩的口感后会发现，咖啡是种很有用的物资。"
+    }
+]

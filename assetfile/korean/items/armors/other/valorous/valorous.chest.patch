@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고대 하이로틀 갑주의 녹슨 조각이다. 중앙에 다이아몬드로 장식되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "용맹한 흉갑"
+    }
+]

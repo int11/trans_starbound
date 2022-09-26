@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아비안 우주여행가가 쓰고 다니는 고강도강 핼멧. 물론 진공의 우주에서 착용자를 보호하는건 아니지만."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부엉이 투구"
+    }
+]

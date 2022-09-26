@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초록색 크래용"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "초록색 크래용이다. 외관에 색을 칠하고 착용한다."
+    }
+]

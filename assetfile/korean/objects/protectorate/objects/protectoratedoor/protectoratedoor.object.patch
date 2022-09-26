@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "감압실이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 학원 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보호국 학원 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一扇气密门。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "客观。一扇气密门。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "一扇气密门。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "一扇气密门。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一扇气密门。"
+    }
+]

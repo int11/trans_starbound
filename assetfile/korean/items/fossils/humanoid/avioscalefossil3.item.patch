@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비오스케일 다리 화석 (Avioscale Legs)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 아비오스케일의 다리다."
+    }
+]

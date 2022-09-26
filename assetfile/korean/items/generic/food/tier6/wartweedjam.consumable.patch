@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사마귀풀 잼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "먹고 난 뒤에 입을 마르게 만드는 거칠고 초라한 잼이다."
+    }
+]

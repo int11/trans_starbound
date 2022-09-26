@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "피해 III 목줄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "애완동물의 피해량을 크게 높여주는 목줄이다."
+    },
+    {
+        "op": "replace",
+        "path": "/collar/displayName",
+        "value": "伤害 III"
+    }
+]

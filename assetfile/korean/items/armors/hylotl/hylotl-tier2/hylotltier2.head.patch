@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "텅스턴으로 만들어진 이 투구는 아주 우아하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "연못 투구"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "군단기사의 다리 장갑. 사람들이 가리개라고 부르면 준 킬트라고 우기자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "군단기사의 각반"
+    }
+]

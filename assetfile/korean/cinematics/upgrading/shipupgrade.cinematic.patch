@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/panels/1/text",
+        "value": "함선 업그레이드중..."
+    }
+]

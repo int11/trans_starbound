@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "지구를 부순 생명체가 다른 행성을 공격하러 갈지도 몰라. 반격할 만한 방법을 찾아야해!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/0",
+        "value": "지구를 부순 생명체가 다른 행성을 공격하러 갈지도 몰라. 반격할 만한 방법을 찾아야해!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human/0",
+        "value": "아, 생존자군요! 혹시나 물어보는 거지만 당신은 제가 하는 연구를 도와줄 과학자에 대해서 알고 있나요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "摧毁地球的东西可能还会袭击其他世界。我们必须制定一些反击的手段！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default",
+        "value": [
+            "摧毁地球的东西可能还会袭击其他世界。我们必须制定一些反击的手段！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/human",
+        "value": [
+            "一个幸存者伙伴！你不会恰巧知道有哪些可以对我研究产生帮助的科学家吧？"
+        ]
+    }
+]

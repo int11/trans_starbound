@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "고대 문자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고대 룬 문자 번역용 지침서이다."
+    }
+]

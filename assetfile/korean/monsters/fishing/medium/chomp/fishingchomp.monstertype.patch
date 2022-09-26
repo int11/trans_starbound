@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이빨 진흙씹이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진흙으로 뒤덮힌 해저에 효과적으로 숨어 사냥한다."
+    }
+]

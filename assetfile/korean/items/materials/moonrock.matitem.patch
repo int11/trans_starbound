@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "월석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거칠고, 견실한 월석"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "推论。这些是月球上的天然岩石。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人不喜喜喜欢干燥的月岩岩岩。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些看起来布满了尘埃的干燥的石头。"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명, 유독한 해초."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "따가운 해초."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "독성 뿔초"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "독성 뿔초다."
+    }
+]

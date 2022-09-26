@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "야호! 어디 DDR좀 벌여보실까!"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "댄스 댄스는 발톱 달린 사람들이 할 게 못 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "댄스 댄스 제작자들에게 이 게임이 천정부지로 치솟았다고 말해주고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "난 절대 댄스 댄스 장인이 못 될 거야. 화살표가 너무 빠르다고!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 패턴만 익히고 나면 아주 쉬운 게임이다. 10점 만점에 9점."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "멍청한 댄스 댄스 화샬표 너무 잽쌰다!! 플로란 열받는다!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "댄스 댄스의 미학을 달관함은 과연 엄청난 난이도의 도전이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "댄스-댄스 기계"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "댄스-댄스를 하자!"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;가구, 상자, 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "기본적인 목공예를 하는 데에 딱 맞는 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "공업 작업대"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;가구, 상자, 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "나무 작업대"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^orange;나무 작업대^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+        "value": "^orange;나무 작업대^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;나무작업대^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "탁자, 침대, 문, 의자 와 같은 가구에서 부터 전등이나 블럭까지 각종 건축 자재들을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "탁자, 침대, 문, 의자 와 같은 가구에서 부터 전등이나 블럭까지 각종 건축 자재들을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一个展示自己木工能力的机会。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人使使使用合成台来制造漂亮的房房房子。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "灵感。工匠模块已激活。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我能用这个打造一个精心布置的家。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "你所要做的就是将一个房子打造成一个家。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "我能在这个合成台上制做一些很好的家具。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/description",
+        "value": "木制合成台是用来生产建造殖民地必须的材料与物品的。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+        "value": "一个适合进行基础木匠活的合成台。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+        "value": "一个展示自己木工能力的机会。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "value": "叶族人使使使用合成台来制造漂亮的房子子子。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "value": "灵感。工匠模块已激活。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "value": "我能用这个打造一个精心布置的家。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "value": "你所要做的就是将一个房子打造成一个家。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "value": "我能在这个合成台上制做一些很好的家具。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+        "value": "一个适合进行基础木匠活的合成台。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+        "value": "一个展示自己木工能力的机会。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+        "value": "叶族人使使使用合成台来制造漂亮的房子子子。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+        "value": "灵感。工匠模块已激活。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+        "value": "我能用这个打造一个精心布置的家。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "value": "你所要做的就是将一个房子打造成一个家。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+        "value": "我能在这个合成台上制做一些很好的家具。"
+    }
+]

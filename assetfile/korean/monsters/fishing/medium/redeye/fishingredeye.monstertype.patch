@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가시 돋친 적눈어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그 소름돋는 눈은 예상하지 않고 잠수한 사람들의 산소를 빼앗는다."
+    }
+]

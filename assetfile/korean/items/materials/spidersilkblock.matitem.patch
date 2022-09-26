@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거미 비단 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거미줄를 압축하여 만든 블럭이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "难忘。 整个材料都是有机的！大自然总能给我们留下深刻的印象。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "粘粘粘粘的蜘蜘蛛网。 叶族人认认为蜘蜘蜘蛛是一位很棒的猎人！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一坨看起来很诡异的蜘蛛网。"
+    }
+]

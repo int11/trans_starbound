@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "루모스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "루모스가 날개짓을 하면, 몸에 달린 전구에 불이 들어온다."
+    }
+]

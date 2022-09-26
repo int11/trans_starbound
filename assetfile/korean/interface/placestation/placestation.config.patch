@@ -1,0 +1,92 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "우주 정거장 통신기 설정"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "^#b9b5b2;당신의 우주 정거장 전개 프로브를 설정하고 발사하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/connectingLabel/value",
+        "value": "S.A.I.L.에 연결하는 중..."
+    },
+    {
+        "op": "replace",
+        "path": "/gui/configure/children/configureLabel/value",
+        "value": "설정"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/configure/children/name/hint",
+        "value": "우주 정거장의 이름을 입력하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/configure/children/description/hint",
+        "value": "우주 정거장의 설명을 입력하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/connect/connectText",
+        "value": "^green;S.A.I.L.에 연결하는 중"
+    },
+    {
+        "op": "replace",
+        "path": "/connect/failText",
+        "value": "^red;S.A.I.L. 고대역폭 연결 실패\n당신의 함선에서 다시 시도하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/connectedText",
+        "value": "^green;연결됨"
+    },
+    {
+        "op": "replace",
+        "path": "/deployingText/dispatching",
+        "value": "^green;프로브 발송 요청중"
+    },
+    {
+        "op": "replace",
+        "path": "/deployingText/traveling",
+        "value": "^green;프로브 발송됨.\n목표 궤도로 프로브 접근 중"
+    },
+    {
+        "op": "replace",
+        "path": "/deployingText/deploying",
+        "value": "^green;프로브 목표 궤도 도달.\n우주 정거장 전개중"
+    },
+    {
+        "op": "replace",
+        "path": "/deployingText/deployed",
+        "value": "^green;우주 정거장 전개 완료"
+    },
+    {
+        "op": "replace",
+        "path": "/deployingText/error",
+        "value": "프로브 전개 실패.\n연결 끊김"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/configure/children/saveButton/caption",
+        "value": "保存"
+    },
+    {
+        "op": "replace",
+        "path": "/connect/successText",
+        "value": "^green;建立高带宽连接\n传输系统数据中"
+    },
+    {
+        "op": "replace",
+        "path": "/nameLabel",
+        "value": "名称 > "
+    },
+    {
+        "op": "replace",
+        "path": "/descriptionLabel",
+        "value": "描述 > "
+    }
+]

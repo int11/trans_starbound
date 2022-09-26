@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "다양한 표식이 인쇄되어있는 이 물채는, 인공 아비안 물질로 만들어져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 기술 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "好奇。这些方块是用一种未知的人造材料制成的。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "被奇奇奇怪的标识识识覆盖的方方方块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这些坚固的方块全被标上了符号。"
+    }
+]

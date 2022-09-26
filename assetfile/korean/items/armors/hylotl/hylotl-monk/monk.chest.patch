@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "하이로틀 스도승이 입는 전통 예복이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수도승 상의"
+    }
+]

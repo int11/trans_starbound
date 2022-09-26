@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "임펄가오리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그 부드러운 피부는 열에 저항력을 가진 임펄비움으로 코팅되어있다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "단단한 사탕의 크고 오래된 조각이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이건 단단한 사탕의 큰 조각을 보여주는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "알록달록한 줄무니가 있는 샤탕이댜."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사탕 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달콤한 향기가 나는 단단한 사탕!"
+    }
+]

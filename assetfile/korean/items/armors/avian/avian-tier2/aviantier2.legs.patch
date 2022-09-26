@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유혹적인 줄무니 패턴의 가리개. 텅스텐으로 강화됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "참새 가리개"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/unlockMessage",
+        "value": "훌륭합니다! FTL 드라이브의 모든 기능이 다시 정상 작동 할 수 있습니다. 우리는 드디어 이 항성계를 벗어날 수 있습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "FTL 수리 키트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것을 이용하면 우주선의 FTL 드라이브를 완벽하게 고칠 수 있다!"
+    }
+]

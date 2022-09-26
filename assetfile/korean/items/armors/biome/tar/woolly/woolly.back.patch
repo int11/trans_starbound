@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 털꼬리는 균형을 잡는 데는 전혀 도움이 되지 않는다. 대신 날 털난 매머드처럼 보이게 해줄 거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선사시대 털꼬리"
+    }
+]

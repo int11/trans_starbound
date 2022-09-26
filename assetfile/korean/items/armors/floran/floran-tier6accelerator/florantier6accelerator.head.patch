@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한때 악명 높았던 사냥감의 뿔과 턱뼈로 치장되고 솔라리움 강판으로 받쳐졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수호자의 투구"
+    }
+]

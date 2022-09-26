@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "향수. 글리치 침대보처럼 부드러운 커튼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "부드러운 커튼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "커튼 비단결처럼 부드럽다. 그래도 플로란 샬가죽 더 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "숨어있기 딱 좋은 곳이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "잘 만든 커튼이다. 호화스러운 느낌이 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "하늘거리는 커튼이다. 산들바람을 맞는 깃털같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "커튼이다. 꽤 좋은 물건인데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "호화스러운 커튼이다. 에이펙스에게 있어서 사생활이란 영 익숙치 못하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커튼"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "꽃 침대다. 원예가들에게 맡기는 게 가장 최선인 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "꽃 침대다. 엄청 비싸다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "잘 만든 꽃 침대다. 얼마 안 되는 에이펙스의 기쁨이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "꽃 장식을 상당히 어린 아이가 한 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "지독하게 달콤한 냄새가 공기 중에 퍼진다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "존경. 놀라울 만큼 잘 가꾸인 꽃 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 전에 꽃더미에 한 번 슘었다. 그러다 튀어나와셔 팝탑 놀래켰다! 팝탑 안 좋아했다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꽃 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아름다운 꽃 침대다. 벌 조심!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기묘한 형태의 외계 출신 나무이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기묘한 외계 나무"
+    }
+]

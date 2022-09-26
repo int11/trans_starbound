@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래되고 녹슨 금속 덩이이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 금속 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "惊悸。这种生锈的废弃金属饱受了风化与磨损。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "生生生锈的金属方方方块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这个金属看起来生锈得很严重。"
+    }
+]

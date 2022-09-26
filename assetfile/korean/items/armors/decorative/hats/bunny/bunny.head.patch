@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바니 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "살아있는 토끼가 머리위에서 쉬고있다!"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/altAbility/name",
+        "value": "에너지 부여"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수호자의 장검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "행성 보호국에서 만들어진 강력한 실험적인 검이다."
+    }
+]

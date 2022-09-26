@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구운 생선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "맛나게 구운 생선살이다."
+    }
+]

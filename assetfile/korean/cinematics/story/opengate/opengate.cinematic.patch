@@ -1,0 +1,62 @@
+[
+    {
+        "op": "replace",
+        "path": "/panels/41/text",
+        "value": "^orange;최초의 물질 조작기^white;란다. 그리고 인간에게 주어진 유물이기도 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/40/text",
+        "value": "내가 들고 있는 이 물질 조작기가 딱 하나 남은 물건이란다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/39/text",
+        "value": "맞단다. 그 이유는 바로 여태까지 우리 수호자들이 지니고 있었기 때문이지."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/38/text",
+        "value": "사실, 마지막 유물에 관한 정보가 전혀 없어요."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/37/text",
+        "value": "맞아요. 그리고 우리의 연구에 따르면..."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/36/text",
+        "value": "이제 마지막 하나의 유물만 남았네!"
+    },
+    {
+        "op": "add",
+        "path": "/panels/36/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/37/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/38/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/39/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/40/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/41/fontSize",
+        "value": 12.5
+    }
+]

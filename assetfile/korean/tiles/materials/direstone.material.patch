@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 벌레 같은 형태는 이 유리같은 돌의 표면 밑에서 꿈틀거린다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "꿈틀거리는 작은 벌레가 돌 안에 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 돌 안의 벌레들은 이것의 강성을 유지하는 것으로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "꾸불꾸불 벌레 바위댜!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "끔찍한 돌"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 과일은 깃투성이 깜짝선물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "깃털 달린 당근이라. 간지럽히는 것 만큼이나 먹기에도 좋겠는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "당근이랑 아비안을 교접시킨 것 같다. 말로 하니 그나마 덜 이상하네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "철학. 언젠가 깃털관에게 자각이 생겨서 하늘로 날아오를 지도 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깃털관 위에 깃털이 자라나 바람에 흘러간다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "깃털은 물 아래에선 번창하기 힘들다. 깃털관이라고 다를 바 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안 별미. 가장 최고급 요리에만 깃털관이 들어간다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섀 샤럄처럼 생겼는데, 흙 맛 난다. 섀 샤럄 훨씬 맛있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "깃털관 씨앗"
+    }
+]

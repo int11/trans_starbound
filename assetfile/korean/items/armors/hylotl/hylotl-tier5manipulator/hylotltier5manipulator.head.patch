@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "좁은 바이져와 강력한 패로지움 껍질은 이 투구를 누구가 쓰든 훌륭한 활용성을 보여준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암초 투구"
+    }
+]

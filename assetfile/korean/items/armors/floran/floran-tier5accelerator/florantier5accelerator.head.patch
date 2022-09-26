@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "두뇌를 보호하기 위한 핼멧. 플로란도 머리를 굴린다구요! 다른 사람들과는 목적이 다르긴 하지만."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "현자의 명상모"
+    }
+]

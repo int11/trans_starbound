@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "불쾌하고, 찐득한 슬라임이다."
+    }
+]

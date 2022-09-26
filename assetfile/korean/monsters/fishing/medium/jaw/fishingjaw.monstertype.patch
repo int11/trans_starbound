@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 뼈턱어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부드러운 턱으로 시작해서 시간이 지남에 따라 석회화되고 단단해진다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "포획 장치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생명체에게 힘차게 던지면 집으로 데려갈 수 있다."
+    }
+]

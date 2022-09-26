@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원동력"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "계속 눈에 띄지만 손이 가질 않는다."
+    }
+]

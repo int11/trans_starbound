@@ -1,0 +1,78 @@
+[
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/9",
+        "value": "성격"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "평화를 사랑하는 하이로틀은 조상 대대로 내려오는 전통을 중요시하며, 예술 활동에서 큰 안식을 얻습니다. 본래 땅에서 살았으나, 이들의 온건한 성향 덕분에 플로란에게 쫓겨 지금까지도 바다 밑바닥에 살고 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/7",
+        "value": "하의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/6",
+        "value": "상의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/5",
+        "value": "지느러미 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/4",
+        "value": "배 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/3",
+        "value": "하의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/2",
+        "value": "상의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/1",
+        "value": "지느러미"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/0",
+        "value": "피부 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "하이로틀"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/8",
+        "value": "하이로틀"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels",
+        "value": [
+            "肤色",
+            "鱼鳍",
+            "上衣",
+            "裤子",
+            "腹部颜色",
+            "鱼鳍颜色",
+            "上衣颜色",
+            "裤子颜色",
+            "鲛人",
+            "人物性格"
+        ]
+    }
+]

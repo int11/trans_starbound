@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一组大型推进器，牺牲了速度来提高控制力。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "铁锤机甲推进器"
+    }
+]

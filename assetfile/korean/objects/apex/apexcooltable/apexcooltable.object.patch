@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "연구소 탁자 같아 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "기본적인 연구소 탁자."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "금속 탁자."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "과학적인 사용을 위해 설치된 탁자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "연금술사의 혼합 장소."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "비꼼. 아주 흥미로운 발견이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "실험을 위한 탁자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멋진 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "분명히 멋진 탁자다."
+    }
+]

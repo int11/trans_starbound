@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강도의 반다나"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강도의 반다나."
+    }
+]

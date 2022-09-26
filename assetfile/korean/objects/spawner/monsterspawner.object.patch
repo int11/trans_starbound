@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "몬스터 생성기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "설정할 수 있는 다양한 방법으로 몬스터를 생성한다."
+    }
+]

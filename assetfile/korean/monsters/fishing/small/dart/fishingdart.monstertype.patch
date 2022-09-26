@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "현무암 살어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 좁고 모난 몸으로 화산석의 균열에 비집고 들어가 잠든다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 외뿔 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보호구로는 영 좋지 않아 보여도, 안경만큼은 쿨하다."
+    }
+]

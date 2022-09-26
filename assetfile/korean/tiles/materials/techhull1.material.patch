@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "속에 전선이 들어있는 비싸 보이는 패널이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "시기. 이 철판은 안에 있는 전선을 극도로 잘 씌워져 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 철판 찢고, 전선 가른다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강화 기술 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강화 첨단기술 도금 재료 아래에 배선을 숨겼다."
+    }
+]

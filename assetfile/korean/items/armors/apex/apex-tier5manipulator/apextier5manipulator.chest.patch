@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "다중으로 겹친 페로지움을 사용한 이 갑옷은 착용자를 거의 무적으로 만듭니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "첩자의 상의"
+    }
+]

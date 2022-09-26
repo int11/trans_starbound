@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "최신 유행의 물뿌리개로 작물에 물을 줘보자"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물뿌리개"
+    }
+]

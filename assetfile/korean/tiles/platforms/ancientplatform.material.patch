@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 플랫폼에는 뭔가 수상해보이는 기술이 적용되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "당황. 이 플랫폼에는 내가 이해하지 못하는 기술이 작용하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 기슐로 만들어진 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어떤 기술로 만들어진 바위로 만든 고대의 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 플랫폼"
+    }
+]

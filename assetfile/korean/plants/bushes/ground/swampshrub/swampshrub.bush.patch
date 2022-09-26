@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 늪지대의 관목인건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "질척 질척!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "늪지대의 관목."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "늪지대의 관목."
+    }
+]

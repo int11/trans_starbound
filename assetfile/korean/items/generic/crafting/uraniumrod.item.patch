@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "우라늄 막대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것은 우라늄 막대이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔지도 모르겠고. 뭔지 알고 싶지도 않고."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "정말 토나오는 유기체 구조물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "징그러워. 살아있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우웩. 이건 또 뭐라냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "느낌이 안 좋아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불편. 유기물로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "질척거린다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "촉수 부위"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "끈끈한 유기체..."
+    }
+]

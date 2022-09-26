@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔가 좀 아냐. 이 블록은 버섯으로 만들어 졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 버섯은 블록으로 조립되었어도 여전히 살아있군!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샤랑스러운 버셧"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부드러운 버섯으로 만든 블록이다."
+    }
+]

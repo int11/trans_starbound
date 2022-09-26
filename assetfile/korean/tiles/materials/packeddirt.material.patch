@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "부드러워 보이는 벽돌이고, 흙으로 만들어졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 이 벽돌은 간단히 포장되어 있으며, 흙의 형태를 지녔군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "포장된 흙으로 된 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "다진 흙으로 된 작은 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "다져진 흙"
+    }
+]

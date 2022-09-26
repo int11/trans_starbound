@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "폐허장어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈을 가지고있지 않아서 사냥감이 보지 못하는 밤에 사냥을 하는걸 선호한다."
+    }
+]

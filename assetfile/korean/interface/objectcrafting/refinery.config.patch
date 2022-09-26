@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/toggleCrafting/caption",
+        "value": "정제"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblText/value",
+        "value": "^#b9b5b2;왼쪽 칸에 픽셀로 정제할 광물을 놓으세요."
+    }
+]

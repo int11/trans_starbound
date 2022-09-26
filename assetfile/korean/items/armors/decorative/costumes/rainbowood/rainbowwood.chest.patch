@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무를 닮게 만들어진 상의이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무지개 나무 상의"
+    }
+]

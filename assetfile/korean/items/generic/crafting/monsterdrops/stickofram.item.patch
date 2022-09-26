@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "RAM 막대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "역사적으로 빠짐없이 사용된 컴퓨터 칩. 제작을 위해 사용된다."
+    }
+]

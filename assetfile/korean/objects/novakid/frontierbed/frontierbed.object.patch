@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "가죽 시트에서 잔다고? 난 짚 침대가 더 좋아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "가죽 시트가 따뜻하게 자게 해준다고 생각하지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란이 이 시트를 실제로 동물 가죽으로 만들었다고?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샤냥 포샹으로 만든 침대? 플로란 감명받았다. 이거 좋다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 튼튼한 나무 침대에 무시 가죽 시트가 덮어져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我…想知道这是否是真的兽皮？?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我可以说制作这张床的始作俑者脑子肯定没有保护野生动物的意识。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这才是一张我能好好睡上一觉的床。"
+    }
+]

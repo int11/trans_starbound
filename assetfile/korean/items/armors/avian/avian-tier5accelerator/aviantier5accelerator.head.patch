@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "허세라고 보일 정도로 과도하게 치장된 이 머리 장식은 에지솔트 로 보강되어 뛰어난 아비안 전사들이 쓴다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "공작 머리 장식"
+    }
+]

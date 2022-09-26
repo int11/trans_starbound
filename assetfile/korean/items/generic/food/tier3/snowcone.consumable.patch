@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스노우크림"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈과 설탕만으로 세가지맛을 한번에!"
+    }
+]

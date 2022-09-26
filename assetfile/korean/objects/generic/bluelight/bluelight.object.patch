@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 불빛은 마치 차가운 항성같다. 좀 작긴 해도."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "파란 불을 보고있자면 사파이어빛 바닷물에 걸러들어오는 햇살이 떠오른다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "파란 불빛 때문에 닭살이 돋는다. 그닥 춥지도 않은데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "파란 불빛이다. 방에 좀 차분한 분위기를 내고 싶을 때 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 불빛에선 차가운 느낌의 푸른 빛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "수상. 왜 이 불빛 하나때문에 추위를 타는 거람?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 파란섁 좋다. 빨강이랑 초록만큼은 아니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파란 불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "차가운 파란 불이다."
+    }
+]

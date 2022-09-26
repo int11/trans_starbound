@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "내구성있는 가슴 보호구, 탐험하기에 완벽하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탐험가의 가슴 보호구"
+    }
+]

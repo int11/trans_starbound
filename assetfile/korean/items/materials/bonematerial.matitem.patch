@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 패키지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "여러 개의 뼈를 빡빡하게 포장한 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "惊悚。不同来源的骨头都挤在了一起。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "骨骨骨头！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一堆骨头。会有谁需要它们！"
+    }
+]

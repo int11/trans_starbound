@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아무 방향으로 갈 수 있는 공중 부스터를 사용할 수 있습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "火箭跳跃"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불타는 꽃이라 아뢰오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "타고 있는 꽃이 플로란을 혼란스럽게해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불타는 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강렬하게 불타는 꽃."
+    }
+]

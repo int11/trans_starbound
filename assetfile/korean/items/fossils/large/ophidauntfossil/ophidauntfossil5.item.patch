@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오피다운트 아래꼬리 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 오피다운트의 아래꼬리이다."
+    }
+]

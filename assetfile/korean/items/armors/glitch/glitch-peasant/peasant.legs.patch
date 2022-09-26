@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "소작농 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단하고, 더러운 바지다. 손수 만든듯 하다."
+    }
+]

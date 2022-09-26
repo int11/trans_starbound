@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯 키시"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신선한 버섯과 치즈가 가득 든 키시다."
+    }
+]

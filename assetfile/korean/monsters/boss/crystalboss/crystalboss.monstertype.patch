@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에르키우스 공포"
+    }
+]

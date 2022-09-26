@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕, 나는 릴리야! 나는 별들을 건너서 각각의 몬스터들을 잡고싶어. 특히 토실토실 살찐 것."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "嗨，我是Lili！想要抓住星际间的每一个怪物。尤其是胖乎乎圆滚滚的那种。"
+        ]
+    }
+]

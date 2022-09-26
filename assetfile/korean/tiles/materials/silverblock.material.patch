@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "순 은으로 만들어진 것 같은 빛나는 블록이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 블록은 전체가 단단한 은으로 되어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "은, 굉장히 빛나."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "은 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "블록 전체가 은이다."
+    }
+]

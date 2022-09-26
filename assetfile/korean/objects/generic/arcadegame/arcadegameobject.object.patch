@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "메이즈바운드64? 미궁 그거 완전 시간낭비 아니냐."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "흐릿한 빛이 들어오는 통로를 지나 자유로이 벗어난다... 메이즈바운드64에는 그 단순성이 아름답다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "메이즈바운드64는 아비안 팀에서 만든 거다. 아비안 비디오 게임이 많지 않은데... 내가 하나 만들어볼까."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "메이즈바운드64는 지구에서 처음 플레이했던 게임을 떠오르게 해준다. 매력적이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "난 메이즈바운드64는 별로다. 지정부 실험에 관한 괴담을 들은 적이 있어서... 미궁 얘기만 나와도 기겁한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의지. 언젠가 이 지옥같은 미궁을 벗어나 메이즈바운드64를 깨고야 말겠어! 10점 만점에 8점."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 메이즈바운드64 완전 재미없다. 다 깨고 고기도 안 준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "메이즈바운드64 기기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"메이즈바운드64\" 게임을 위한 오락실 기기이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "레이저 다이오드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "레이저 다이오드이다."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 이건 뼈로된 꽃인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "죽은 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뼈 꽃."
+    }
+]

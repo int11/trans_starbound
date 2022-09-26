@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 셔츠"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "특별한 때에 사용하는 우아한 셔츠이다."
+    }
+]

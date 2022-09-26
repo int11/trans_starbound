@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "냉동 추출물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "냉동 상태의 유기 화합물. 제작에 사용할 수 있다."
+    }
+]

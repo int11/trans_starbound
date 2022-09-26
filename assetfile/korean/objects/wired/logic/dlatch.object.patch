@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료. 걸쇠. 와이어 상태를 저장하는 데 쓸 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "걸쇠. 와이어 샹태를 저장하는데 쓸 슈 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "걸쇠. 와이어 상태를 저장하는 데 쓸 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "걸쇠"
+    }
+]

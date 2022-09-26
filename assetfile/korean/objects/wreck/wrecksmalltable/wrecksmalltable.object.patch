@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 탁자 꼴이 말이 아니군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 테이블은 낡고 부서졌을 뿐 아니라 챙길 것도 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "낡은 탁자다. 상태도 말이 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 탁자는 그냥 쓰레기다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 이 낡은 탁자는 상태가 끔찍하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낡은 탁자 파숀됐다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "박살난 작은 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "망가진 작은 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "망가진 작은 탁자다."
+    }
+]

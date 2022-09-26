@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뾰족한 삼각모"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼굴가리개도 딸려오는 근사한 삼각모다."
+    }
+]

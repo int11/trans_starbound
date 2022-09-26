@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "침입자!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/1",
+        "value": "찢고 죽인다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/0",
+        "value": "찢고 죽인다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "入侵者！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default",
+        "value": [
+            "死亡和眼泪相伴！",
+            "死亡和眼泪相伴！"
+        ]
+    }
+]

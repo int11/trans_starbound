@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "말라서 죽은지 오래된 곤충의 껍질이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "곤충 껍데기"
+    }
+]

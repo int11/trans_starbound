@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "복합 활"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몬스터로부터 고기와 여러 아이템을 추가로 얻을수 있다."
+    }
+]

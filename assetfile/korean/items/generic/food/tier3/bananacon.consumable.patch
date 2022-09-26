@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바나나컨"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "베이컨과 바나나에 마법을 약간 섞으면 바나나컨이 탄생한다."
+    }
+]

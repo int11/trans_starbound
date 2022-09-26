@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 블록들 은 꼭 뭔가 억센 소재를 다 함께 엮어 놓은 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 고리 버들 소재는 견고하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 튼튼한 고리 버들 블록 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "촘촘하게 짜인 고리 버들 물체이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고리 버들 지원 블록"
+    }
+]

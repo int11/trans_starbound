@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "곰 모자, 곰곰이 생각해볼때 좋을지도?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "곰 모자"
+    }
+]

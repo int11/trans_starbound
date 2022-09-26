@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바름보기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물고기의 거대한 눈은 복잡한 물 온도와 소금기로 인해 발생하는 시야 왜곡을 교정해준다."
+    }
+]

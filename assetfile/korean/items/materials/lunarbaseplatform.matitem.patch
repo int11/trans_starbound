@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달 기지 발판"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잘 만들어진 금속 발판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "自信。这种金属平台能够承受极大的重量。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人不喜喜喜欢冰冷的金属平平平台。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一种看起来闪闪发光的平台。"
+    }
+]

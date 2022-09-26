@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기초적인 망토다. 누가 염색좀 해봐!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "간단한 망토"
+    }
+]

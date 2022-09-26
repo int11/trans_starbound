@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화염방사 검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사실 화염방사기를 검처럼 보이게 만든것이다. 그 반대가 아니라."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멋진 햇빛가리개"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정말 멋진 햇빛가리개, 아주 유명한 사람이 썻을법 하다."
+    }
+]

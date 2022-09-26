@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불타는 눈알"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "조심! 이거 엄청 맵다고!"
+    }
+]

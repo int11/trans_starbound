@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 뿌리오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뿌우우리!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뿌리다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뿌리다."
+    }
+]

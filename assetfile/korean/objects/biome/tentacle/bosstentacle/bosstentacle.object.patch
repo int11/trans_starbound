@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보스 촉수"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파멸 촉수."
+    }
+]

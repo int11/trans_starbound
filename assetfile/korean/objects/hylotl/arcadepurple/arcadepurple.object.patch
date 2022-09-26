@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "어려움. 소리지르는 패션 요원이라는 게임인데 꽤 적응하기 힘들다. 10점 만점에 6점."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보라 오락실 게임기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 기계는 '소리지르는 패션 요원'라는 게임을 가동한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 패션 요원인지 뭔지 소리는 진짜 많이 지르네. 왜 이러는 지 알아야 하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "소리지르는 패션 요원 게임은 사실 실제 범죄 이야기를 예술적으로 재구성한 게임이라는 루머가 있었다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "소리지르는 패션 요원이라는 추리 게임이다. 왜 소리지르는 건데? 그 이유를 추리해야 하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "패션 요원들이 다들 소리지르는 패션 요원의 그놈처럼 무섭나? 애초에 패션요원이라는 게 뭔데?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "소리지르는 패션 요원이라는 게임이다. 여기서 본 것들... 절대 잊지 못 할 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "소리지르는 패션 요원이라는 게임이다. 플로란 이 게임 좋다."
+    }
+]

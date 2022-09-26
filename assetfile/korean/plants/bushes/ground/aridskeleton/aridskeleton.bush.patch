@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뮤셔윤 뼈!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈"
+    }
+]

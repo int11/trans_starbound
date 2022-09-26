@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "먼 거리에 폭발물을 발사할때 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "특별한 유탄 발사기"
+    }
+]

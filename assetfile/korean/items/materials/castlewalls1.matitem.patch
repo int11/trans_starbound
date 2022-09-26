@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무거운 돌 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 돌 석판, 성을 만들때 쓰면 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "了解。像这样的石砖经常被用于城堡的建筑。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "巨大的石石石砖。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "我才不想成为当年搬这些笨重砖块的家伙。"
+    }
+]

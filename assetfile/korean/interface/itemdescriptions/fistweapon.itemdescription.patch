@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/damagePerShotTitleLabel/value",
+        "value": "타격 당 피해:"
+    },
+    {
+        "op": "replace",
+        "path": "/speedTitleLabel/value",
+        "value": "공격 속도:"
+    }
+]

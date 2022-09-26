@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "키시 로렌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고전적인 베이컨으로 만든 키시다. 소풍에 딱이다!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "텅스턴으로 보강한 머리뼈로 만들어진, 실용적이고 멋진 녀석이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈공예가의 해골모자"
+    }
+]

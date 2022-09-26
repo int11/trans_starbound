@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "훌륭한 미장품이다만, 하이로틀 손재주엔 못 미친다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "둥지에서 떠난 이후로 이렇게 편안한 건 본 적이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "솜털이니 프릴이니 이런 걸 침대에 달 이유가 있나? 엄청 편해보이긴 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이야, 침대 죽인다. 지금 당장이라도 자고 싶어진다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지정부는 이런 데에서 자는 걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "편안. 침대가 내 감지기를 황홀경에 빠트린다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 비단결."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "값비싼 나무와 비단으로 만든 침대다."
+    }
+]

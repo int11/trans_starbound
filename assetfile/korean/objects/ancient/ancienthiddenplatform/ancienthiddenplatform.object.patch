@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이렇게 믿음이 안 가는 발판은 본 적이 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 벽돌은 뭔가 특이한 방식으로 만들어졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": " 진짜로는 안 보이는 벽돌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "뭔가 특이하게 보이는 벽돌이네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 벽돌 중 몇몇개는 잘못 놓였어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "회의적. 뭔가 숨어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "다른 벽돌이랑 다른 남새가 나."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 숨겨진 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뭔가 잘 맞지않는 벽돌로 이루어졌다."
+    }
+]

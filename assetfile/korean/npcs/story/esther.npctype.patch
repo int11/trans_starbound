@@ -1,0 +1,31 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "네가 날 필요로 할때 난 항상 여기에 있단다, 얘야. 특히 네가 박하사탕을 좋아한다면 말이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/arkOpened/default/default/0",
+        "value": "아크가 개방되었단다! 무엇이 기다리고 있는지는 알고 있겠지, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/npcname",
+        "value": "艾丝特"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "当你需要我的时候我都在这儿，亲爱的。特别是当你需要薄荷硬糖的时候。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/arkOpened/default/default",
+        "value": [
+            "方舟开启了！你知道什么在等待着我们，亲爱的。"
+        ]
+    }
+]

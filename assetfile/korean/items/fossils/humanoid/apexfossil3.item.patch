@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 다리 화석 (Apex Legs)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 에이펙스 다리 한 쌍이다."
+    }
+]

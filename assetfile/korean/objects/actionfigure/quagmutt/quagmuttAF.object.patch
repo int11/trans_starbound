@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "퀘그멋 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"비위생적인 습관이 아쉬운 점이 많다.\"라고 적혀있다."
+    }
+]

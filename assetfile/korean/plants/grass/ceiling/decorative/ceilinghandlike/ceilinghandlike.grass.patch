@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "손처럼 생긴 뿌리"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 손과 유사한 모양 뿌리"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "매혹적인 뿌리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "손처럼 보이는 뿌리"
+    }
+]

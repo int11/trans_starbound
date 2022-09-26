@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "마그마로돈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "용암이 되살렸다고 전해지는 준전설급 물고기. 잡는것은 극한의 도전이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 가게 주인은 어디 간걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 금속 형체는 상점처럼보이고. 지금은 비어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "금속으로된 이 상점은 패점한거 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 상점인가? 내생각엔 오늘은 닫혀있는거같네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "상점이 닫혀있다. 어쩌지?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미, 가게처럼 보이는데 주인은 어디 간거요?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 가게 뭔지 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "문닫은 2-스탑 텔레포터 상점"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깔끔한 느낌의 상점이다. 문을 닫은듯하다."
+    }
+]

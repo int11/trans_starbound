@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "소금 샐러드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "산호크리프, 암초꼬투리, 진주콩으로 만든 소금간 샐러드다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "등에 멜 수 있는 빛나는 수정이다. 아주 멋지구만."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 등장식"
+    }
+]

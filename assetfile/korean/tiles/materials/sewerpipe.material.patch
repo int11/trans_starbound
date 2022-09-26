@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진짜 더럽고, 지저분한 하수도 관이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 이 하수관은 진짜 더럽고, 안에 뭔가 들었는지 보고싶지도 않군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "냄섀나는 하슈도 관이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "하수도 관은 폐기물 운송에 쓰였다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하수도 관"
+    }
+]

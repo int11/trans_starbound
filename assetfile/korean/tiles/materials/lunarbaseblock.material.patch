@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "튼튼해보이는 금속인데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 내구 합금은 익숙치 않군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "튼튼한 금쇽 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달 기본 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 합금은 믿을 수 없을정도로 내구성이 뛰어나 보인다."
+    }
+]

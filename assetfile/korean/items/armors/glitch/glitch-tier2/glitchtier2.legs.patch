@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "병사의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사슬갑옷 바지와 무거운 텅스텐 부츠, 한단계 높은 장비다."
+    }
+]

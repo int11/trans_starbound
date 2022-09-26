@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "당근 수프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "건강에 좋고, 맛있고, 크림이 가득!"
+    }
+]

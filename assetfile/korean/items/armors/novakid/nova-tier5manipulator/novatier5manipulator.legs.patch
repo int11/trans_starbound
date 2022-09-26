@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "골절자의 불길한 바지이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "골절자의 바지"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "으깬 감자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "감자를 으깨는 것은 감자를 5배로 맛있게 한다는 건 과학적으로 입증되었다."
+    }
+]

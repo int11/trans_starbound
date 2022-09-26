@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 부속물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "금속과 살점이 혼합된 공포스러운 존재다."
+    }
+]

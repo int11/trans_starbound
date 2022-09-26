@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생선 파이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간을 한 생선을 구워 으깬 감자를 얹었다."
+    }
+]

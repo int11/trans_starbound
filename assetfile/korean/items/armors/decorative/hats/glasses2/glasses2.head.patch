@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외알 안경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진짜 신사같이 보인다."
+    }
+]

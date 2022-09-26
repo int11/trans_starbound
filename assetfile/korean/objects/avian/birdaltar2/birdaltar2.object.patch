@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "클루엑스의 조각으로 장식된 제단이다. 별관측사들이 이를 통해 클루엑스와 교감하고 죽은 뒤의 영계에서 우리를 받아들여주시길 빌었다. 공물도 여기에 바친다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오래 된 제단같다. 사방에 조각이 새겨져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이리 독실해서야 진전할 수가 없거늘."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "제단에 아비안 조각이 새겨져있다. 혹시 이게 그 사람들 신일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "제단이다.  날개 달린 아비안이 복잡하게 새겨져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 내가 이해할 수 없는 종교적 목적을 가진 제단이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "셕재 섀 샤람 셕재 탁자에 섀겨져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 기도용 제단"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 제단은 날개 달린 신이 조각되어 뒤덮여있다."
+    }
+]

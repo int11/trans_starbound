@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "밀봉된 금속 통."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "금속 컨테이너. 닫혀있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "금속 컨테이너. 못 따겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "좌절. 금속 통. 열 수 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "금속 드럼. 내용물을 볼 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "금속 통. 밀봉돼있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "둥근 금속 큐브. 문이 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속 통"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "일반적인 금속 통. 밀봉되어있다."
+    }
+]

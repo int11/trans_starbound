@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진해보이는 타르로 난장판이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 이 타르는 두껍고 굉장히 끈적해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 끈적한 타르 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "두껍고, 악취가 나는 타르, 그냥 끈적한 느낌이 나는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "타르"
+    }
+]

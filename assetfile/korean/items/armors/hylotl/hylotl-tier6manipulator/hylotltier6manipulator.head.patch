@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지상의 사람들이 구하려고 하는 심해의 위험으로 부터 착용자를 보호하는 강력한 투구."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "심해생물 지느러미"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커피"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "갓 끓인 신선한 커피다."
+    }
+]

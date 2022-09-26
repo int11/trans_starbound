@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "내배엽형 젤리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "건들이면 반응을 보이는 이상한 젤리이다."
+    }
+]

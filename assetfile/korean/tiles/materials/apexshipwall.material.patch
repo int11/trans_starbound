@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "철로 만들어진 패널이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 패널들은 부드러우면서 강하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "금쇽 판때기 힘셴 벽 짓는다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매끈한 금속 벽 판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벽 금속판"
+    }
+]

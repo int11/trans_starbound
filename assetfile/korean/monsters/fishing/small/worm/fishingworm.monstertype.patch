@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "밴디드워밀"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "워밀 머리위의 긴 안테나는 인근 행성에서 으로부터의 무선 전파도 받을 수 있다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아베스밍고 주스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어떤 맛이든 날 수 있는 주스!"
+    }
+]

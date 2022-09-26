@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "꽉꽉 씹어 먹자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진주콩"
+    }
+]

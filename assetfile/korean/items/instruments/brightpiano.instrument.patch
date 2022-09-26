@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "밝은톤 피아노"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밝은 톤을 가진 피아노. 신나는 느낌의 노래를 연주하는데 재격!"
+    }
+]

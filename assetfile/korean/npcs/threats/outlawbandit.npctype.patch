@@ -1,0 +1,44 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/3",
+        "value": "나에게 도전하러 온건가? 내가 누군지는 알고?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/2",
+        "value": "벌집이 되서 돌아가게 해주지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/1",
+        "value": "도적들과 싸워봤을진 몰라도, 나와 싸워본적은 없지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/0",
+        "value": "나같은 도적과 상대해 본적은 없지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "进攻！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default",
+        "value": [
+            "你从来没有遇到过像我这样的强盗！",
+            "你可能曾经和强盗战斗过，但你没有和我打过！",
+            "你将浑身血洞地离开！",
+            "你要在这挑战我？你知道我是什么人吗？！"
+        ]
+    }
+]

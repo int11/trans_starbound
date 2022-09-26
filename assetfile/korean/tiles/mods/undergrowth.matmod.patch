@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "천장에서 자라는 단단한 잔디다."
+    }
+]

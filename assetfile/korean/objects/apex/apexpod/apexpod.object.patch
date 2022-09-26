@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 무슨 괴기한 공정이람?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여기 대체 뭔 일이 벌어지고있는 거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "충격. 뭐가 어떻게 되는 거지!?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "맙소사... 무슨 짓을 한 거야? 자유롭게 해주고 싶지만 생명유지장치에 의존하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈프!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생명 유지 장치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "여기엔 전선과 튜브에 연결된 에이펙스가 있는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 옳지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "가엾은 영혼이여..."
+    }
+]

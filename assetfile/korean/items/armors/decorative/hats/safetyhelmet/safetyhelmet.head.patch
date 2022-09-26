@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밝은 안전모는 작업 도중의 머리 위의 사고를 막아준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "안전모"
+    }
+]

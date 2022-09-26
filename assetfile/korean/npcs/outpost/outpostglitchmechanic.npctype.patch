@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
+        "value": "친절. 자네의 수리기술은 어떤가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "자랑. 우리 글리치들은 이것들 보다 훨신 복잡한 기계를 고쳐왔지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/0",
+        "value": "자랑. 우리 글리치들은 이것들 보다 훨신 복잡한 기계를 고쳐왔지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "自夸。比起你们在这里所见到的玩意儿，我们电子人已经熟悉修理更复杂的机械。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default",
+        "value": [
+            "自夸。比起你们在这里所见到的玩意儿，我们电子人已经熟悉修理更复杂的机械。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/glitch",
+        "value": [
+            "友好。你修东西的水平如何？"
+        ]
+    }
+]

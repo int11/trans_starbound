@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "솔라리움으로 강화된 관통하기 극단적으로 힘든 각반이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "침투자의 각반"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 모자와 함께라면... 말장난이 안 떠오르네"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯모"
+    }
+]

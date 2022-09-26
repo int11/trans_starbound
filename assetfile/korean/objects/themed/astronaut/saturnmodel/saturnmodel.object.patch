@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "토성 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "토성은 지구의 고대 농업 신의 이름을 사용해. 아비안 종교의 신이랑도 아주 비슷한거 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "토성은 인류 태양계에서 커다란 가스로 이뤄진 여섯번째 행성이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매력. 이 거대한 고리는 작은 우주먼지에서 부터 수 미터 가량의 큰 바위등으로 이뤄져있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "토셩은 거대한 가스 행셩이야. 고리도 아주 커."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고리가 있는 인류 태양계의 토성을 본든 천장걸이 모형이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "土星是太阳系中最大的气体行星。它的行星环使它不同于其他行星。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "土星的六角是自然的雷同以及是逻辑美的其中一个例子。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "土星是宇宙空间亡命之徒的匪窝。他们会把自己隐藏在尘埃环里以抢劫贸易船。"
+    }
+]

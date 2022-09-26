@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "장교 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에이펙스의 장교를 위한 표준 규격의 바지이다."
+    }
+]

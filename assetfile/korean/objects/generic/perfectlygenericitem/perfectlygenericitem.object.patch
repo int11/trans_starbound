@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "딱히 뭐 할 말이 없네. 완벽은 재미없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 큐브는 완벽하게 기하학적 구조로 구현돼있군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이전까지 정말로 완벽하게 대칭을 이루는 물체는 본적 없었어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "완벽한 정육면체 모양의 큐브 따위가 뭐 그리 대단한 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 물체는 뭔가 좀 이상해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "심란. 물리적 결함이 없는 물체로구만."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "완벽한 큐브 부자연스럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "완벽하게 일반적인 아이템"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "완벽하게 일반적인 아이템이다. 어쩌면 좀 심하게 완벽한 걸지도."
+    }
+]

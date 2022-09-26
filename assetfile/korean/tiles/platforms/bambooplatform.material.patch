@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "대나무가 플랫폼처럼 매달려있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "희망. 이 대나무 플랫폼은 놀라울 만큼 튼튼하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 굳셴 대나무 키워셔 플럣폼 만든댜."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대나무 줄기로 만들어진 튼튼한 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대나무 플랫폼"
+    }
+]

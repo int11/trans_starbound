@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고급 화석 붓"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석 발굴에 필요한 도구이다. 도구가 다양하다."
+    }
+]

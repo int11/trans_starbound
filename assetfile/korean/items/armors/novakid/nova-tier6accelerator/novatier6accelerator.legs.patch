@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "충분히 여유를 두고 절단한 바지, 교활한 인물에게 완벽하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도박꾼의 바지"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/gaterepair-findGate/text",
+        "value": "제 스캔 결과 이곳에는 일종의 ^orange;고대 에너지 발신원^reset;이 있는 것 같습니다. 제가 계산해보니 ^green;32%의 확률로 그것이 조사할만한 가치가 있으며^reset;, 98%의 확률로 당신이 할 일이 없다는 결과가 나왔습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/gaterepair-gateFound1b/text",
+        "value": "혹시 이 메세지를 들으셨다면, 당신은 이 ^orange;고대의 관문^reset;을 찾으신겁니다. 이걸 사용해서 저를 찾아오세요. ^green;이 관문을 열려면 ^orange;핵 파편^green;이 필요할겁니다^reset;."
+    },
+    {
+        "op": "replace",
+        "path": "/gaterepair-gateFound2/text",
+        "value": "이 근처에 있는 ^orange;핵 파편^reset;을 스캔해봤습니다. 이것은 자연적으로 행성의 땅속에 생성된다고 합니다. 확인 결과 이 행성의 중심에 많은 량의 파편이 발견되었습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/gaterepair-gateFound1/text",
+        "value": "제 스캔 결과 이 ^orange;고대 에너지 발신원^reset;에서 이상한 라디오 신호가 송출되고 있습니다. 당신이 들을 수 있도록 수정해 드리겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/gaterepair-gateOpened1/text",
+        "value": "당신은 관문을 성공적으로 작동시켰습니다. 또다른 ^orange;메세지^reset;가 관문을 통해 수신되고 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/gaterepair-gateOpened2/text",
+        "value": "^green;들어오세요^reset;. 저는 도움이 급히 필요합니다; 우주의 운명이 달린 문제입니다. ^orange;이 관문을 이용해서 방주에 있는 저를 찾아오세요. 아웃포스트 건너편에 있습니다^reset;."
+    }
+]

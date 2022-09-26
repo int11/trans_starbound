@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생체발광하는 식물섬유. 여러가지 색으로 빛난다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "발광 섬유"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/0",
+        "value": "모든 플로란 샤냥에서 영광 찾는다. 그래셔 여기 있는 거 아니냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "플로란 힘셴 녀셕만 존경한다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/floran/0",
+        "value": "다른 플로란. 너 분명 샤냥의 영광 이해할 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "只有最最最强者可以得到叶族人的尊重。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default",
+        "value": [
+            "所有的叶族人都应该打猎并追追追寻荣耀。你也是为这而来的吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/floran",
+        "value": [
+            "另一个叶族人。你必须理理理解打猎的荣耀。"
+        ]
+    }
+]

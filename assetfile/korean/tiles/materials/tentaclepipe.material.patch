@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "일종의 촉수인 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "염려. 이 촉수는 분명 뭔가 꽤 큰 것에게서 나온거야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "크고 튼튼한 촉슈다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큰 촉수"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 촉수다."
+    }
+]

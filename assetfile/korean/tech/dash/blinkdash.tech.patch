@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "돌진으로 순간 이동하여 함정이나 적들을 피해 넘어갈 수 있다! 재사용 대기시간: 2.5초"
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "瞬间移动"
+    }
+]

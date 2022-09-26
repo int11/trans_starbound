@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에그슛"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에그슛, 질감이 달걀 반숙같다. 노른자를 볼려면 깨서 열어보자."
+    }
+]

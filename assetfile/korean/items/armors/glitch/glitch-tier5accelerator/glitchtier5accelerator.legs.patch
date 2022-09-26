@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 각반들은 전장에 약간의 스타일을 더해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "성전사의 각반"
+    }
+]

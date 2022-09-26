@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "음, 오븐에서 막 꺼낸것 처럼 신선하다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "식빵"
+    }
+]

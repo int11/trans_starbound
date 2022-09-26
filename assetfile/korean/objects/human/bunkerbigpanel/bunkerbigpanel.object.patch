@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "데이터 읽는 중. 뭐에 쓰려고?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 판독 결과 이 구역은 인간들이 살기 적절한 곳이라고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란이 받아들이기엔 정보 너무 많다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "모니터에 따르면 이 지역의 물은 깨끗하다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "모니터다. 데이터 해독용이겠지. 아마도."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "불가사의한 해독문이 모니터에 떠있다. 누군가는 이해할 수 있을 지도 모르지만... 난 아니야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "모니터 여러 대다. 빅 에이프 얼굴이 보일까 내심 기대하게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큰 모니터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 스크린의 정보량이 압도적이다."
+    }
+]

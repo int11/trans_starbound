@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해부도 셔츠"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "교육적이군! 이 셔츠는 몸통의 근육 구조를 보여주고 있다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼음으로 형성된 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음 갑옷 마스크"
+    }
+]

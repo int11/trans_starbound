@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뼈 무더기다. 누군가 이게 필요해!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "소름 끼침. 다양한 뼈들이 함께 뭉쳐져 있소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뼈다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 무더기."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뼈로 빽빽하게 짜여진 무더기입니다."
+    }
+]

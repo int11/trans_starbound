@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 강력한 솔라리움 재킷을 입고 광대한 우주의 존재들과 싸우자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만능자의 기술상의"
+    }
+]

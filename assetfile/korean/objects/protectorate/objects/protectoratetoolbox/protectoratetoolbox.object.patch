@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빨간 공구상자"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "유용한 빨간 공구샹자다! 크고, 무겁지만 굉장하고 둔탁한 무기를 만들어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 매우 튼튼한 공구상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매우 튼튼해보이는 공구상자다."
+    }
+]

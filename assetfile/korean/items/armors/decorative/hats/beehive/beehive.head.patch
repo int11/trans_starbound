@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벌집"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "음? 꿀이 있는 건가? 에... 그냥 꿀벌들이구나."
+    }
+]

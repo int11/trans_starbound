@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "마을에서 최고의 복장으로 칭송받는 조끼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보안관의 조끼"
+    }
+]

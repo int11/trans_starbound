@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "죽은 뼈들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "먼 옛날의 죽은 생물들의 흔적."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 죽은 생물의 흔적이구려."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "먼 옛날의 죽은 생물들의 흔적."
+    }
+]

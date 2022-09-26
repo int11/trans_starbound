@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "적들은 이 육안의 투구의 시선 아래에서 공포에 떨 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "신전기사의 투구"
+    }
+]

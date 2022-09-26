@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "축하합니다! 당신의 함선 선원이 두명이 되어 스패로우 라이센스를 받을 자격이 생겼습니다. 당신은 함선을 업그레이드 하실 수 있습니다! ^orange;2개의 업그레이드 모듈^reset;을 가지고 ^green;전초기지에 있는 펭귄 피트를 만나보세요^reset;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "내가 함선을 업그레이드 해주겠네. 자네가 이 장인의 능력에 만족할 거라고 확신하네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "펭귄 피트"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;스패로우 함선 업그레이드"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/conditions/0/description",
+        "value": "^orange;<itemName>^reset;을 : ^green;<current> / <required>^reset;개 획득하기"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/turnInDescription",
+        "value": "提供^orange;升级模块^reset;给位于^orange;前哨站的^reset;^orange;企鹅皮特^reset;。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어린 플로란이 이른 사냥에 입고 가도록 디자인된 강철 장갑이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "새싹의 서클릿"
+    }
+]

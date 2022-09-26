@@ -79,7 +79,10 @@ class patchfile:
         if del_patch:
             dir = function.del_patch(dir)
         if not del_absolute_path and self.asset_target is not None:
-            dir = os.path.join(self.asset_target.dir, dir)
+            if isinstance(self.asset_target, asset):
+                dir = os.path.join(self.asset_target.dir, dir)
+            else:
+                dir = os.path.join(self.asset_target, dir)
         return dir
 
     def get_dirpath(self, del_patch=False, del_absolute_path=False):

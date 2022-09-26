@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "휘발성 가루 (Volatile Powder)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위험한 가루 물질로, 폭발물을 만드는데 유용하게 쓰인다."
+    }
+]

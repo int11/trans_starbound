@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 고대의 룬의 의미는 파멸이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 오래된 돌의 룬 문자는 파멸을 의미해 - 천천히 흘러오는 시간의 조류가 모든걸 집어 삼킨다는걸 상기시켜주고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 파멸을 의미하는 오래된 룬 문자야. 불길해라."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 오래된 룬의 의미는 파멸이야. 이 나선형이 어떻게 그런 의미를 가지는지 궁금하네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의함. 이 오래된 룬은 파멸과 부식을 상징하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "고대의 룬... 이건 파멸을 의미해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파멸의 룬"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파멸의 상징인 고대의 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 고대의 룬 문자는 우리가 가지고 있는거랑 비슷해. 의미는 파멸이야."
+    }
+]

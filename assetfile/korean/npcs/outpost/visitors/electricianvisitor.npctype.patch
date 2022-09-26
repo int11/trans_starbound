@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "전기공학자라 업무 용품을 가지러 자주 관문기지에 오지요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "전 전기공학자랍니다. 지금은 잠시 인피니티 익스프래스에서 배터리를 좀 사러 왔어요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "전기공학자입니다. 잠시 인피니티 익스프래스에서 건전지를 좀 사러 왔지요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我是一名电工！我来这里买一些新的电池。",
+            "我是一名来交易的电工，我想买些新的电池。",
+            "我是一名电工，所以我来到前哨站为我的贸易准备一些物资。"
+        ]
+    }
+]

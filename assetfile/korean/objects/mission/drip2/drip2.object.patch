@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "산성액 원천"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "산성액이 흘러나온다."
+    }
+]

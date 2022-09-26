@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물웅덩이 가슴보호대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고대 하이로틀 기술로 철을 지푸라기처럼 꼬아서 만든 가슴보호대"
+    }
+]

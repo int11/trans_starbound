@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "복합 레일"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강하게 보강된 레일."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "满意。这种铁路如此坚硬结实的原因在于制作它的材料。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "闪亮的金属轨道。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些看起来很坚固的轨道，我开始渴望搭乘它们了。"
+    }
+]

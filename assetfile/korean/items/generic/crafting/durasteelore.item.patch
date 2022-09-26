@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고강도강 광석 (Durasteel Ore)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고강도강 광석이다. 제련에 쓰일 수 있다."
+    }
+]

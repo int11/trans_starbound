@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "넛미지링"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물량으로 힘과 안전을 찾기위해 다른 넛미지링과 자주 뭉친다."
+    }
+]

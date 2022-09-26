@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "라벨에는 \"딥십삼산\" 이라고 써있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점프 슈트 바지"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "어멋 멋진 드릴!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀이 심해바닥에 구멍을 뚫을 때 쓰던 물건이랑 비슷하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여태까지 본 것중 가장 큰 드릴이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "끝장나는 광경이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥분. 경이로운 기계다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "갖고 놀기 재밌는 드릴."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "채광 드릴"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 산업용 채광드릴이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여태까지 본 것중 두 번째로 큰 드릴이다!"
+    }
+]

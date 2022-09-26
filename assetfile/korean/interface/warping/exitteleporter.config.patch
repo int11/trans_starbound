@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/destinations/0/name",
+        "value": "함선으로 돌아가기"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/0/planetName",
+        "value": "이곳을 떠나기"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/0",
+        "value": {
+            "name": "返回飞船",
+            "planetName": "将这个世界抛到脑后",
+            "warpAction": "OwnShip",
+            "icon": "beamup"
+        }
+    }
+]

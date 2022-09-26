@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "우주 정거장 콘솔"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "우주 정거장 시스템 조작"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblGravity/value",
+        "value": "중력"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblHideExpansionSlots/value",
+        "value": "확장 슬롯 숨기기"
+    }
+]

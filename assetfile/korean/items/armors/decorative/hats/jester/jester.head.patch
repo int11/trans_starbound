@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "광대의 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한번 속이면, 내 잘못이고. 두 번 속이면…. 이 모자를 씌워주지."
+    }
+]

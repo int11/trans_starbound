@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 바이올륨으로 만든 시제품 흉부보호대는 믿을 수 없을 정도로 강하다. -사용 안함-"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모험가의 흉갑"
+    }
+]

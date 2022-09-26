@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물방울 원천"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물방울"
+    }
+]

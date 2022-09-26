@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "비어있는 산소탱크. 장식용을 제외하고는, 더이상 쓸만하지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "산소 탱크"
+    }
+]

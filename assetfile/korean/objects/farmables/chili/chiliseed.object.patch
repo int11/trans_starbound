@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "고추를 노랗게 칠하는 건 젊은 에이펙스 사이에서 유명한 장난이었다. 걸린 대부분은 살아남지 못 해 장난도 치지 못 했다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "노바키드는 고추의 광팬이다. 매울수록 좋아!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "향과 매운 맛의 균형. 적절히 쓰이기만 하면 맛있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "맵고 강렬한 식물. 기묘해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "고추는 맵지만, 너무 중독된단 말야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불타고 강렬한 과일. 이 식물 입천장 다친다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고추 씨"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지루. 스스로를 해하는 음식을 누가 먹으려하겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뜨거운 정렬의 매운맛! 인간이 아니라면 더 맵게 느껴진다."
+    }
+]

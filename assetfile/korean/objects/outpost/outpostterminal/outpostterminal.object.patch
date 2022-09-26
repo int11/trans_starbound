@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기초 단말기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아마도 유용할거 같기는한 단말기이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "某种终端。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "终端。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "嘟嘟叫的终端。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "冷漠。终端。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "终端。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "交互终端。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "仅仅是终端，可能连接到了什么东西。"
+    }
+]

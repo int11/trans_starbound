@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "반란군의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "충격 흡수 바지와 티타늄 강판 부츠의 조합이다."
+    }
+]

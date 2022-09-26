@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기사도적인 머리와 고결한 정신을 지키는 투구다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "성기사의 투구"
+    }
+]

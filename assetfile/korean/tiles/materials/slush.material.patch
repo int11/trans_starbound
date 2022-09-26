@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "엄청 차가운 슬러시로 뒤덮여있잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "박식. 이 같은 슬러시는 녹은 얼음으로 부터 만들어지지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "질척거리고 차갑고 축축한 슬러쉬다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "슬러시"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹는 얼음은 두꺼운 슬러시를 만든다."
+    }
+]

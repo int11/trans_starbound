@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "산호콜라"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "산호콜라와 함께, 바다를 맛보세요."
+    }
+]

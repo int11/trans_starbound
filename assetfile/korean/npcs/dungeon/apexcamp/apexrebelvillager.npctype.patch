@@ -1,0 +1,632 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/9",
+        "value": "지정부에 대해 아는 게 있나?  그들이 에이펙스 시민을 통제하는데, 매우 잔혹하다는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/0",
+        "value": "너도 집 잃은 사람인 모양이군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/1",
+        "value": "우리의 끝없는 저항을 도와주러 온 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/2",
+        "value": "우리가 지정부에게서 도망치고 있는 걸지도 모르지. 하지만 이런 자유를 느껴 본 적은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/3",
+        "value": "지정부는 우릴 반동분자라 하지만, 우린 자유의 투사다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/4",
+        "value": "우리는 우리 종족의 자유를 위해 싸운다. 플로란, 너는 뭘 위해 싸우지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/5",
+        "value": "그 어떤 때보다 힘든 시기이지만, 희망을 잃어서는 안 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/6",
+        "value": "빅 에이프를 실제로 보면 어떨지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/7",
+        "value": "내 생각엔 빅 에이프도 별로 크지 않을 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/8",
+        "value": "플로란 친구, 에이펙스가 처한 곤경을 알고 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/10",
+        "value": "여기 반군 대부분은 지정부에게 가족과 친구들을 잃었어. 그들을 무너뜨리기 전까지는 절대 앉아 쉴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/11",
+        "value": "방해하지 마. 사악한 체제를 전복시킬 준비를 하고 있으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/13",
+        "value": "너희 종족도 비정한 독재자가 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/0",
+        "value": "너도 집 잃은 사람인 모양이군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/3",
+        "value": "지정부는 우릴 반동분자라 하지만, 우린 자유의 투사다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/4",
+        "value": "우리는 우리 종족의 자유를 위해 싸운다. 글리치, 너는 뭘 위해 싸우지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/6",
+        "value": "빅 에이프를 실제로 보면 어떨지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/7",
+        "value": "내 생각엔 빅 에이프도 별로 크지 않을 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/8",
+        "value": "글리치 친구, 에이펙스가 처한 곤경을 알고 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/5",
+        "value": "그 어떤 때보다 힘든 시기이지만, 희망을 잃어서는 안 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/9",
+        "value": "지정부에 대해 아는 게 있나?  그들이 에이펙스 시민을 통제하는데, 매우 잔혹하다는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/10",
+        "value": "여기 반군 대부분은 지정부에게 가족과 친구들을 잃었어. 그들을 무너뜨리기 전까지는 절대 앉아 쉴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/11",
+        "value": "방해하지 마. 사악한 체제를 전복시킬 준비를 하고 있으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/12",
+        "value": "이 동네에서 심한 말썽만 일으키지 않으면 돼, 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/13",
+        "value": "너희 종족도 비정한 독재자가 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/0",
+        "value": "너도 지정부에게 가족을 잃은 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/1",
+        "value": "우리의 끝없는 저항을 도와주러 온 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/2",
+        "value": "우리가 지정부에게서 도망치고 있는 걸지도 모르지. 하지만 이런 자유를 느껴 본 적은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/3",
+        "value": "지정부는 우릴 반동분자라 하지만, 우린 자유의 투사다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/4",
+        "value": "우리가 최선을 위해 싸운다면, 언젠가 우리 종족은 압제로부터 자유로워지겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/5",
+        "value": "그 어떤 때보다 힘든 시기이지만, 희망을 잃어서는 안 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/6",
+        "value": "빅 에이프를 실제로 보면 어떨지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/8",
+        "value": "지정부에게서 도망쳐나왔나? 행운을 빈다. 친구."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/7",
+        "value": "내 생각엔 빅 에이프도 별로 크지 않을 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/9",
+        "value": "지정부는 우리에게 한 짓의 댓가를 반드시 치를 거다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/10",
+        "value": "여기 반군 대부분은 지정부에게 가족과 친구들을 잃었어. 그들을 무너뜨리기 전까지는 절대 앉아 쉴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/13",
+        "value": "당신도 반군인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/10",
+        "value": "여기 반군 대부분은 지정부에게 가족과 친구들을 잃었어. 그들을 무너뜨리기 전까지는 절대 앉아 쉴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/11",
+        "value": "방해하지 마. 사악한 체제를 전복시킬 준비를 하고 있으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/12",
+        "value": "이 동네에서 심한 말썽만 일으키지 않으면 돼, 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/13",
+        "value": "너희 종족도 비정한 독재자가 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/0",
+        "value": "너도 집 잃은 사람인 모양이군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/1",
+        "value": "우리의 끝없는 저항을 도와주러 온 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/2",
+        "value": "우리가 지정부에게서 도망치고 있는 걸지도 모르지. 하지만 이런 자유를 느껴 본 적은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/3",
+        "value": "지정부는 우릴 반동분자라 하지만, 우린 자유의 투사다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/4",
+        "value": "우리는 우리 종족의 자유를 위해 싸운다. 하이로틀, 너는 뭘 위해 싸우지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/5",
+        "value": "그 어떤 때보다 힘든 시기이지만, 희망을 잃어서는 안 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/6",
+        "value": "빅 에이프를 실제로 보면 어떨지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/7",
+        "value": "내 생각엔 빅 에이프도 별로 크지 않을 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/8",
+        "value": "하이로틀 친구, 에이펙스가 처한 곤경을 알고 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/0",
+        "value": "너도 집 잃은 사람인 모양이군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/1",
+        "value": "우리의 끝없는 저항을 도와주러 온 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/2",
+        "value": "우리가 지정부에게서 도망치고 있는 걸지도 모르지. 하지만 이런 자유를 느껴 본 적은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/3",
+        "value": "지정부는 우릴 반동분자라 하지만, 우린 자유의 투사다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/4",
+        "value": "우리는 우리 종족의 자유를 위해 싸운다. 아비안, 너는 뭘 위해 싸우지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/5",
+        "value": "이보다 더 힘들었던 적은 없었지만, 희망을 잃어서는 안 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/6",
+        "value": "빅 에이프를 실제로 보면 어떨지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/7",
+        "value": "내 생각엔 빅 에이프도 별로 크지 않을 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/8",
+        "value": "아비안 친구, 에이펙스가 처한 곤경을 알고 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/10",
+        "value": "여기 반군 대부분은 지정부에게 가족과 친구들을 잃었어. 그들을 무너뜨리기 전까지는 절대 앉아 쉴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/11",
+        "value": "방해하지 마. 사악한 체제를 전복시킬 준비를 하고 있으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/12",
+        "value": "이 동네에서 심한 말썽만 일으키지 않으면 돼, 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/13",
+        "value": "너희 종족도 비정한 독재자가 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "너도 집 잃은 사람인 모양이군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/1",
+        "value": "우리의 끝없는 저항을 도와주러 온 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/2",
+        "value": "우리가 지정부에게서 도망치고 있는 걸지도 모르지. 하지만 이런 자유를 느껴 본 적은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/3",
+        "value": "지정부는 우릴 반동분자라 하지만, 우린 자유의 투사다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/4",
+        "value": "우리는 우리 종족의 자유를 위해 싸운다. 인간, 너는 뭘 위해 싸우지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/5",
+        "value": "그 어떤 때보다 힘든 시기이지만, 희망을 잃어서는 안 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/6",
+        "value": "빅 에이프를 실제로 보면 어떨지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/7",
+        "value": "내 생각엔 빅 에이프도 별로 크지 않을 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/8",
+        "value": "인간 친구, 에이펙스가 처한 곤경을 알고 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/10",
+        "value": "여기 반군 대부분은 지정부에게 가족과 친구들을 잃었어. 그들을 무너뜨리기 전까지는 절대 앉아 쉴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/11",
+        "value": "방해하지 마. 사악한 체제를 전복시킬 준비를 하고 있으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/12",
+        "value": "이 동네에서 심한 말썽만 일으키지 않으면 돼, 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/13",
+        "value": "너희 종족도 비정한 독재자가 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/0",
+        "value": "너도 집 잃은 사람인 모양이군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/1",
+        "value": "우리의 끝없는 저항을 도와주러 온 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/2",
+        "value": "우리가 지정부에게서 도망치고 있는 걸지도 모르지. 하지만 이런 자유를 느껴 본 적은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/3",
+        "value": "지정부는 우릴 반동분자라 하지만, 우린 자유의 투사다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/4",
+        "value": "우린 우리 종족들의 자유를 위해 싸운다. 빛나는 이상한 친구, 너는 뭘 위해 싸우지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/5",
+        "value": "이보다 더 힘들었던 적은 없었지만, 희망을 잃어서는 안 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/6",
+        "value": "빅 에이프를 실제로 보면 어떨지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/7",
+        "value": "내 생각엔 빅 에이프도 별로 크지 않을 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/8",
+        "value": "에이펙스가 처한 곤경을 알고 있나? ...그나저나 넌 대체 어떤 종족이지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/9",
+        "value": "지정부에 대해 아는 게 있나?  그들이 에이펙스 시민을 통제하는데, 매우 잔혹하다는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/10",
+        "value": "여기 반군 대부분은 지정부에게 가족과 친구들을 잃었어. 그들을 무너뜨리기 전까지는 절대 앉아 쉴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/11",
+        "value": "방해하지 마. 사악한 체제를 전복시킬 준비를 하고 있으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/12",
+        "value": "이 동네에서 심한 말썽만 일으키지 않으면 돼, 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid/13",
+        "value": "너희 종족도 비정한 독재자가 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran/12",
+        "value": "이 동네에서 심한 말썽만 일으키지 않으면 돼, 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/11",
+        "value": "방해하지 마. 사악한 체제를 전복시킬 준비를 하고 있으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/2",
+        "value": "우리가 지정부에게서 도망치고 있는 걸지도 모르지. 하지만 이런 자유를 느껴 본 적은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian/9",
+        "value": "지정부에 대해 아는 게 있나?  그들이 에이펙스 시민을 통제하는데, 매우 잔혹하다는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/12",
+        "value": "이 동네에서 심한 말썽만 일으키지 않으면 돼, 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch/1",
+        "value": "우리의 끝없는 저항을 도와주러 온 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl/9",
+        "value": "지정부에 대해 아는 게 있나?  그들이 에이펙스 시민을 통제하는데, 매우 잔혹하다는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/9",
+        "value": "지정부에 대해 아는 게 있나?  그들이 에이펙스 시민을 통제하는데, 매우 잔혹하다는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "你看起来也像是一个失去了家园的人。",
+            "你是来支持我们与科技发展部之间无休止的斗争的吗？",
+            "也许我们是在躲避科技发展部的追捕，但我从未感到如此自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "我们为人民的自由而战！人类，你为什么而战？",
+            "战况从未如此艰难过，但我们不能失去希望！",
+            "我想知道大猿人看起来会是什么样子的。",
+            "我敢打赌大猿人其实也没多大。",
+            "人类，你体会过猿人所处的困境吗？",
+            "关于科技发展部你知道多少呢？他们统治着猿族的人们，但他们都是残忍和冷酷的。",
+            "我们许多反抗军战友都因为科技发展部而失去了家人和朋友。但我们不会停歇，直到打败他们！",
+            "不要打扰我，我正忙着推翻一个邪恶政权。",
+            "尽量不要在这里对我们造成太大的干扰，好吗？",
+            "你那里也有一个无情的独裁者吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex",
+        "value": [
+            "你也因为科技发展部失去了你的家人吗？",
+            "你是来支持我们与科技发展部之间无休止的斗争的吗？",
+            "我们从科技发展部那里逃了出来，我从未感到如此自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "只要我们一直努力奋斗，我们终有一天会获得自由，没有压迫。",
+            "战况从未如此艰难过，但我们不能失去希望！",
+            "我想知道大猿人看起来会是什么样子的。",
+            "我敢打赌大猿人其实也没多大。",
+            "你是从科技发展部那里逃出来的吗？祝你好运，朋友。",
+            "科技发展部将为他们对我们做过的事付出代价！",
+            "我们许多反抗军战友都因为科技发展部而失去了家人和朋友。但我们不会停歇，直到打败他们！",
+            "不要打扰我，我正忙着推翻一个邪恶政权。",
+            "尽量不要在这里对我们造成太大的干扰，好吗？",
+            "你也是反抗军成员吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/avian",
+        "value": [
+            "你看起来也像是一个失去了家园的人。",
+            "你是来支持我们与科技发展部之间无休止的斗争的吗？",
+            "也许我们是在躲避科技发展部的追捕，但我从未感到如此自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "我们为人民的自由而战！翼人，你为什么而战？",
+            "战况从未如此艰难过，但我们不能失去希望！",
+            "我想知道大猿人看起来会是什么样子的。",
+            "我敢打赌大猿人其实也没多大。",
+            "翼人，你体会过猿人所处的困境吗？",
+            "关于科技发展部你知道多少呢？他们统治着猿族的人们，但他们都是残忍和冷酷的。",
+            "我们许多反抗军战友都因为科技发展部而失去了家人和朋友。但我们不会停歇，直到打败他们！",
+            "不要打扰我，我正忙着推翻一个邪恶政权。",
+            "尽量不要在这里对我们造成太大的干扰，好吗？",
+            "你那里也有一个无情的独裁者吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/floran",
+        "value": [
+            "你看起来也像是一个失去了家园的人。",
+            "你是来支持我们与科技发展部之间无休止的斗争的吗？",
+            "也许我们是在躲避科技发展部的追捕，但我从未感到如此自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "我们为人民的自由而战！叶族人，你为什么而战？",
+            "战况从未如此艰难过，但我们不能失去希望！",
+            "我想知道大猿人看起来会是什么样子的。",
+            "我敢打赌大猿人其实也没多大。",
+            "叶族人，你体会过猿人所处的困境吗？",
+            "关于科技发展部你知道多少呢？他们统治着猿族的人们，但他们都是残忍和冷酷的。",
+            "我们许多反抗军战友都因为科技发展部而失去了家人和朋友。但我们不会停歇，直到打败他们！",
+            "不要打扰我，我正忙着推翻一个邪恶政权。",
+            "尽量不要在这里对我们造成太大的干扰，好吗？",
+            "你那里也有一个无情的独裁者吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/hylotl",
+        "value": [
+            "你看起来也像是一个失去了家园的人。",
+            "你是来支持我们与科技发展部之间无休止的斗争的吗？",
+            "也许我们是在躲避科技发展部的追捕，但我从未感到如此自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "我们为人民的自由而战！鲛人，你为什么而战？",
+            "战况从未如此艰难过，但我们不能失去希望！",
+            "我想知道大猿人看起来会是什么样子的。",
+            "我敢打赌大猿人其实也没多大。",
+            "鲛人，你体会过猿人所处的困境吗？",
+            "关于科技发展部你知道多少呢？他们统治着猿族的人们，但他们都是残忍和冷酷的。",
+            "我们许多反抗军战友都因为科技发展部而失去了家人和朋友。但我们不会停歇，直到打败他们！",
+            "不要打扰我，我正忙着推翻一个邪恶政权。",
+            "尽量不要在这里对我们造成太大的干扰，好吗？",
+            "你那里也有一个无情的独裁者吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/glitch",
+        "value": [
+            "你看起来也像是一个失去了家园的人。",
+            "你是来支持我们与科技发展部之间无休止的斗争的吗？",
+            "也许我们是在躲避科技发展部的追捕，但我从未感到如此自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "我们为人民的自由而战！电子人，你为什么而战？",
+            "战况从未如此艰难过，但我们不能失去希望！",
+            "我想知道大猿人看起来会是什么样子的。",
+            "我敢打赌大猿人其实也没多大。",
+            "电子人，你体会过猿人所处的困境吗？",
+            "关于科技发展部你知道多少呢？他们统治着猿族的人们，但他们都是残忍和冷酷的。",
+            "我们许多反抗军战友都因为科技发展部而失去了家人和朋友。但我们不会停歇，直到打败他们！",
+            "不要打扰我，我正忙着推翻一个邪恶政权。",
+            "尽量不要在这里对我们造成太大的干扰，好吗？",
+            "你那里也有一个无情的独裁者吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/novakid",
+        "value": [
+            "你看起来也像是一个失去了家园的人。",
+            "你是来支持我们与科技发展部之间无休止的斗争的吗？",
+            "也许我们是在躲避科技发展部的追捕，但我从未感到如此自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "我们为人民的自由而战！我奇怪的发光的朋友，你为什么而战？",
+            "战况从未如此艰难过，但我们不能失去希望！",
+            "我想知道大猿人看起来会是什么样子的。",
+            "我敢打赌大猿人其实也没多大。",
+            "你体会过猿人所处的困境吗？…不过你到底是什么生物啊？",
+            "关于科技发展部你知道多少呢？他们统治着猿族的人们，但他们都是残忍和冷酷的。",
+            "我们许多反抗军战友都因为科技发展部而失去了家人和朋友。但我们不会停歇，直到打败他们！",
+            "不要打扰我，我正忙着推翻一个邪恶政权。",
+            "尽量不要在这里对我们造成太大的干扰，好吗？",
+            "你那里也有一个无情的独裁者吗？"
+        ]
+    }
+]

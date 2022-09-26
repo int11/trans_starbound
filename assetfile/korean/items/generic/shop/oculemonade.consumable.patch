@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈알레모네이드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "더운 날에는 시원하고 상쾌한 눈알레모네이드 한 캔보다 더 나은 것은 없다."
+    }
+]

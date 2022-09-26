@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "일종의 으스러진 생물로 만들어진 벌집인가."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "역겨움. 이 벌집의 주 요소는 으스러진 생물로 구성되어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "으깨진 동물로 만든 벌집이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "떨어진 생물의 잔해로 만든 끈적이는 벌집."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벌집돌"
+    }
+]

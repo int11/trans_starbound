@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우주를 여행하려면 따뜻한 스웨터 한 벌 잊지 말라고."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 알파카 스웨터"
+    }
+]

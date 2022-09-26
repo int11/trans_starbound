@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "NPC 검투사의 장검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이건 아주 거대하군!"
+    }
+]

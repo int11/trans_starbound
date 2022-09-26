@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "반달 테고기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몸에 있는 고리로 강력한 흐름을 만들어서 추진력을 얻는다."
+    }
+]

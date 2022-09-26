@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "페도라 - 누군가는 존경을 받기 위해 입고, 누군가는 증오 받기 위해 입는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "페도라"
+    }
+]

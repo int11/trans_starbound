@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "반다나와 모자 조합으로 신분을 숨기기에 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "노상강도 모자"
+    }
+]

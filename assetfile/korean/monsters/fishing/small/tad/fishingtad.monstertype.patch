@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "황어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물고기의 몸통은 계속 화학 작용으로 자신을 추진시킨다."
+    }
+]

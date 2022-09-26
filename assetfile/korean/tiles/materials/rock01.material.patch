@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이건 평범한 거친 돌이군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 돌 뭉텅이."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "딱딱한 거친 돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거친 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거칠고, 가공되지 않은 돌이다."
+    }
+]

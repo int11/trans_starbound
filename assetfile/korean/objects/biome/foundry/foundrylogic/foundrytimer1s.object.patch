@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주조 공장 타이머 (1 초)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "<당신이 도망칠 시간이 필요할 때를 위한 타이머다.>"
+    }
+]

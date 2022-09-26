@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어둠 보석막"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대부분의 몸이 튼튼한 앞껍질로만 보호되는 뇌조직으로 이루어져있다."
+    }
+]

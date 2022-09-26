@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "니 얼굴의 영원한 동반자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "자비로운 얼굴 거머리"
+    }
+]

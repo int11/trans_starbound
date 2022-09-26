@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "체력 I 목줄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "애완동물의 체력을 조금 올려주는 목줄이다."
+    },
+    {
+        "op": "replace",
+        "path": "/collar/displayName",
+        "value": "生命 I"
+    }
+]

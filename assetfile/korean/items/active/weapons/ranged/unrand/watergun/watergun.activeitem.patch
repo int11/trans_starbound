@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물총"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "펌프를 작동시킴으로서 발생하는 압력으로 물을 발사하는 물총이다. 빵야!"
+    }
+]

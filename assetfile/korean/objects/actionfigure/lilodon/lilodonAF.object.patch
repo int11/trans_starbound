@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "릴로돈 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"바다에서 살던 것들의 조상격쯤 되는 것이다. 보기엔 조그마하지만, 위협적인 주둥이를 가졌다.\"라고 적혀있다."
+    }
+]

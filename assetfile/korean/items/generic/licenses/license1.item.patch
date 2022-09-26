@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스패로우 면허"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "스패로우 급 함선의 비행 자격증"
+    }
+]

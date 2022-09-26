@@ -1,0 +1,57 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "발렌타인 데이를 기념하며 무언갈 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 용광로로 기념품을 만들자!"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "사랑을 나눠요"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "사랑의 용광로"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사랑의 용광로"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一张配备有制作节日装饰的工具的桌子。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这个节日的桌子让我传播节日的欢乐。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族制作红色的蝴蝴蝴蝶结。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "喜庆。我要制作最美味的水果糖。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我可以用这张桌子做出节日装饰。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "用这张桌子，我能制作最通俗的节日装饰。"
+    }
+]

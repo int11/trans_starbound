@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 액체는 독성이 있는 것 같다."
+    }
+]

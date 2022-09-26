@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "질척 쌈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "산호크리프 속을 땅성게로 채웠다. 끔찍한 소리와 맛으로 식사를 장식하기엔 썩 괜찮다."
+    }
+]

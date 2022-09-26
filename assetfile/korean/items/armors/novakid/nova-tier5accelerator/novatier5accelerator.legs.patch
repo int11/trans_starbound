@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "장물일지도 모르는 들적의 바지이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "들적의 바지"
+    }
+]

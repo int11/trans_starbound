@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 벽 판자"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 나무 판자를 보면 여기가 얼마나 끝내주는지 알 수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 나무 벽이 마치 장식인듯하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 장식용 나무 판자다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이건 머나먼 옛날에나 유행한 거잖아."
+    }
+]

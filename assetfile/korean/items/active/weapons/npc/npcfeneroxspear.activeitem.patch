@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "NPC 페네록스 창"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사정권 밖의 적에게 효과적이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "서랍장이 매력적이네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "서랍장 손잡이가 별모양 이야. 만지기 딱이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "어어.. 이 서랍장에 하트가 그려져있네!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "꽤 매력적인 작은 서랍장이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 손잡이는 막은 별과 같군. 아주 세심해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 꽃같은 섁 좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파스텔 서랍장"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밝은 파스텔풍 색상으로 이뤄진 작은 서랍장이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "颜色有点太花哨了，不合我的口味。"
+    }
+]

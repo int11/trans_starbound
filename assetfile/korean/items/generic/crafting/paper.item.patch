@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "종이 (Paper)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "종이 한 장이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 관습은 정말 말도 안 돼. 이 탁자는 부숴버려야 해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경멸. 글리치는 이런 장비들을 만들어다 적들의 비밀을 캐내는 데 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "반동분자들에게 예약된 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "고문... 인류가 아주, 아아주우 오래 전에 금지한 행위."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "내 수많은 형제들이 이 탁자에 묶였지..."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "악랄한 장비."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이런 장비로 저녁식샤 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "깨우친 사회에 고문이 설 자리는 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "심문 탁자"
+    }
+]

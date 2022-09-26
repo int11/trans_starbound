@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 외뿔 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전면에 솟아오른 뿔이 부착된 강철 투구."
+    }
+]

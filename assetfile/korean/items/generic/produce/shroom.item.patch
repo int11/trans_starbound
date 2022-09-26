@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것으로 만들 수 잇는 것은 생각보다 몇가지 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯"
+    }
+]

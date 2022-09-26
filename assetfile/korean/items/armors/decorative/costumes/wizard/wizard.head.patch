@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "펄럭거리는 파란색 러버콘이다. 머리에 써보는 건 어떨까?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "마법사 모자"
+    }
+]

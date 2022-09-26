@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 날개의 생동감은 믿기 힘들 정도로 놀랍다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 신익"
+    }
+]

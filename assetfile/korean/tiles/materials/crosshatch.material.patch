@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "가는 나무 조각이 모두 서로 교차하고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 이 격자 기능은 울타리나 창문에도 적절하지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 십자모양 나무 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무로 만든 간단한 나무 격자이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "창문 격자"
+    }
+]

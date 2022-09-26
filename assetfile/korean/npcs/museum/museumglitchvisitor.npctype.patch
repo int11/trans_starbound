@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/1",
+        "value": "놀람. 종족간의 문화 차이가 상당했었군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/0",
+        "value": "궁금. 자네가 생각하기엔 이 콜랙션을 만드는데 얼마나 오래 걸렸을거라 생각되나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "놀람. 다양한 종족들의 문화적 차이가 눈에 띄는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "궁금. 자네가 생각하기엔 이 전시회를 준비하는데 얼마나 걸렸을거라 생각하는가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "好奇。你花了多久把这些藏品摆放好？",
+            "惊讶。我们两个种族之间的文化差异让人震惊。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default",
+        "value": [
+            "好奇。你花了多久把这些藏品摆放好？",
+            "惊讶。我们两个种族之间的文化差异让人震惊。"
+        ]
+    }
+]

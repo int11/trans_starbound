@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구운 스테이크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "맛있는 외계 고기 한 조각이다."
+    }
+]

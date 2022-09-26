@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "갑자기 하나도 피곤하지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아마 딱딱한 표면에서 자면 등허리 건강엔 좋겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "바닥에서 자는것보단 낫겠지 뭐..."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "편안하라고 만든 침대가 아닌 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자부. 이 단단한 침대면 수 세대를 지나도 남아있을 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바위로 만든 침대이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "차갑고 딱딱한 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바위로 만든 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바위 침대"
+    }
+]

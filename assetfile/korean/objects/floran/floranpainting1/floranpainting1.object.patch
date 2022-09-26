@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "불을 만드는 법을 보여주는 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "불하고 연기인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "우려. 불을 만드는 것에 대한 설명같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 불 그림"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란이 하이로틀을 시켜 젊은 세대에게 불피우는 법을 가르치도록 했을 지도 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "불을 피우는 것에 대한 교육용 삽화다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이건 설명선가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "어린 플로란 이렇게 불 피우는 법 배운다. 어린 플로란 많이 데인다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 그림은 불을 피우는 법을 묘사하고 있다."
+    }
+]

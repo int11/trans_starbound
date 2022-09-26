@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 플랫폼은 이끼와 나뭇잎이 있고 미끌 미끌하다. 미끄러지지 않게 조심!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이끼낀 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "小心。这长满青苔的平台泥泞又湿滑。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人能沿着黏糊糊的苔藓平台滑滑滑行。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这些苔藓使得这平台非常滑。"
+    }
+]

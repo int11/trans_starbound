@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "회수자의 핼맷은 시력을 강화해주는 장비가 딸려 나옵니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "회수자의 핼맷"
+    }
+]

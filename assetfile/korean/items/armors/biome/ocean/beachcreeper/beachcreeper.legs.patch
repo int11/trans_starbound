@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "크립링 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아 바지는 맛이간 가죽의 질감을 가지고있다. 우왝."
+    }
+]

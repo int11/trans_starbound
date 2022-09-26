@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뾰족한 귀가 달린 큰 후드다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "귀가 달린 후드"
+    }
+]

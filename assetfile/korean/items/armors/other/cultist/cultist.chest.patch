@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "재킷에 덧대 입는 것,  이교도들이 흔하게 입는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이교도 흉갑"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "으스러진 돌과 자갈이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "초조. 굵고, 쏟아질 것 같은 자갈이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "으스러진 자갈이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "굵은 자갈."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "자갈"
+    }
+]

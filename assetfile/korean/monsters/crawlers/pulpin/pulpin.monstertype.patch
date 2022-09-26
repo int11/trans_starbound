@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "펄핀"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "끈적한 표피로 벽을 쉽게 타고 오를 수 있다."
+    }
+]

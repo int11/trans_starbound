@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "익숙. 콘크리트는 흔히 사용되는 건축 자재다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "콘크리트는 강하고 견고한 블럭을 만들지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 차가운 콘크리트 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "콘크리트 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "차갑고, 단단한 콘크리트다."
+    }
+]

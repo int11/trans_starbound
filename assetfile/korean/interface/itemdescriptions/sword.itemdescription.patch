@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/damagePerShotTitleLabel/value",
+        "value": "타격 당 피해:"
+    },
+    {
+        "op": "replace",
+        "path": "/speedTitleLabel/value",
+        "value": "연사 속도:"
+    },
+    {
+        "op": "replace",
+        "path": "/handednessLabel/position/0",
+        "value": 70
+    }
+]

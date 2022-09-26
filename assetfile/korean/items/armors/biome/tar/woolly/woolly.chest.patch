@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "따뜻하게 지내려고 입는 털옷인데, 몸을 그렇게 많이 가려주지도 않는다. 신기해!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선사시대 털코트"
+    }
+]

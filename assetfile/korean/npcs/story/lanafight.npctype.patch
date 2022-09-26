@@ -1,0 +1,55 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/leave/default/default/0",
+        "value": "잘했다. 병사여. 네가 방주로 돌아오길 빌지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/start/default/default/0",
+        "value": "안녕하신가 병사여. 상황 정리좀 하러 왔다. 알아 들었나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/2",
+        "value": "목표 포착!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/1",
+        "value": "내가 적을 유인하겠다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "목표가 내 시야에 들어왔군!"
+    },
+    {
+        "op": "replace",
+        "path": "/npcname",
+        "value": "拉娜"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/start/default/default",
+        "value": [
+            "你好，士兵。我们来处理好这个情况吧？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/leave/default/default",
+        "value": [
+            "干得不错，士兵。我会在方舟那等着你的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "目标在我的视野中！",
+            "遇到了敌人！",
+            "发现目标！"
+        ]
+    }
+]

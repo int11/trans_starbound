@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "외계 생명체의 뒷다리살을 구웠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구운 햄"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기본적인 오븐구이 식사이다. 격식은 없어. 하지만 만족스럽군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오븐구이 식사"
+    }
+]

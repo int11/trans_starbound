@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파란 크레용"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파란크레용, 옷을 파란색으로 만들수 있다."
+    }
+]

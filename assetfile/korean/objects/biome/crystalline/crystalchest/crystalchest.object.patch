@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 상자 정말 차갑네. 잘 상하는 것들 보관하기 좋겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아름다운 상자군. 마치 바다처럼 빛나고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "분명 엄청난 게 들어있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이런 상자에는 가장 값비싼 물건들만 보관하겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "매우 아름다운 수정 상자다. 이것만으로도 가치가 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감상. 이 상자는 엄청난 비밀을 담고 있었겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈정 샹자 무겁고 차갑다. 냉장고같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수정 상자다. 이것 자체가 엄청난 보물아냐?"
+    }
+]

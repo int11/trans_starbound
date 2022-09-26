@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주조소 가슴 갑주"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위험하고 뜨거운 일을 위한 조끼와 장갑."
+    }
+]

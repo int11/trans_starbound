@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모두가 착용자의 권력을 존중하게 만드는 보안관의 바지이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보안관의 바지"
+    }
+]

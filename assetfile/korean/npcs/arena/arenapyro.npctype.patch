@@ -1,0 +1,116 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+        "value": "네가 어디로 도망쳐도 내 화염에서 도망칠 순 없다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cantReach/default/default/0",
+        "value": "내 화염에서 도망칠 수 있을까 보냐!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/killedTarget/default/default/2",
+        "value": "불타올라라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/killedTarget/default/default/1",
+        "value": "화염을 지배하는 자가 힘을 지배한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+        "value": "불은 생명을 주고, 빼앗는다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+        "value": "돌격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/3",
+        "value": "템플러 인페르노의 분노를 맛봐라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/2",
+        "value": "불에 먹혀 사라져라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/1",
+        "value": "이 힘 앞에 공포에 떨어라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "체크메이트다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+        "value": "숨을 수 있을까 보냐!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/reattack/default/default/0",
+        "value": "다시 한 번 태워주마!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "燃烧把！",
+            "在火焰面前颤抖吧！",
+            "你将灰飞烟灭！",
+            "你正面对着圣殿骑士炼狱的怒火！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/reattack/default/default",
+        "value": [
+            "又一次，面对我的怒火吧！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/killedTarget/default/default",
+        "value": [
+            "火焰带来生命，且带走生命！",
+            "掌控火焰者强大无比！",
+            "灰飞烟灭！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/lostTarget/default/default",
+        "value": [
+            "我的火焰无处不在！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/outOfSight/default/default",
+        "value": [
+            "躲藏没有意义！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cheerOn/default/default",
+        "value": [
+            "前进！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cantReach/default/default",
+        "value": [
+            "你不可能逃脱我火焰的围剿！"
+        ]
+    }
+]

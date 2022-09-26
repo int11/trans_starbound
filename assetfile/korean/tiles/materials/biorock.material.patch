@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기이함. 작은 박테리아가 이 바위를 희미하게 빛나게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 돌 노랗게 빛나긴 하지만 열기는 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 노랗게 빛나는 돌 좋아."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "노란 빛 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 바위는 생물발광을 통해 희미하게 빛나고 있습니다."
+    }
+]

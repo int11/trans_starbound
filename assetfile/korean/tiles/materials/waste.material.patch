@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "구역질. 이 폐기물에 있는 화학물질은 독성이 강해서 빛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "냄섀가 고약하고 유독한 폐기물이다. 지독한 독셩이 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "빛나는 유독성 화학 폐기물 덩어리다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "폐기물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "역겹고, 희미하게 빛나는 유독성 폐기물이다."
+    }
+]

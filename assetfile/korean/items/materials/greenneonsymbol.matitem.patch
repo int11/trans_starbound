@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹색 네온 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "중간에 이상한 녹색 글리프가 새겨져있는 타일."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "心慌。我忘了这个符号的含义 。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人喜喜喜欢绿色的图案。"
+    }
+]

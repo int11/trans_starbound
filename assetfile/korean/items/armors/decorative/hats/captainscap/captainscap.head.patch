@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "누가 선장이지? 누구나 이 모자만 쓴다면 할 수 있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선장의 모자"
+    }
+]

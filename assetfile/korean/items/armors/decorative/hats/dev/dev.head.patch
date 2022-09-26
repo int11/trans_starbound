@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "안전모. 안전하다. 그리고, 모자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "안전모"
+    }
+]

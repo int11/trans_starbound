@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "속도 확장 부품"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이동속도를 올려주는 EPP 확장 부품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/augment/displayName",
+        "value": "移速增强"
+    }
+]

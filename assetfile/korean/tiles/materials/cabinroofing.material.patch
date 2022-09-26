@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오두막 지붕, 빗속에서 건조함을 유지하기에는 딱이지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 오두막 지붕은 소박한 매력을 갖고있군"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이 오두막 지붕을 키이이웠어"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오두막 지붕"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단하게 오두막 지붕으로 사용된다."
+    }
+]

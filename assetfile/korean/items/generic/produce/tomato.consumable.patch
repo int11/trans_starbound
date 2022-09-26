@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "토마토"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수분이 많고, 잘 익은 토마토야!"
+    }
+]

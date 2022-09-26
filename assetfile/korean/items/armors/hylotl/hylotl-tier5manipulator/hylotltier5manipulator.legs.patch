@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암초 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 딱맞는 패로지움 바지는 실용적이고 트랜디하다."
+    }
+]

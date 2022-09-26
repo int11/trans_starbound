@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물 담긴 병"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "상쾌하고, 깨끗한 물이다. 마음을 진정시켜주고 원기를 회복시켜준다."
+    }
+]

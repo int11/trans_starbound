@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무에서 초콜릿이 자라네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "햇빛, 물, 인내심이 바로 풍작의 비결."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "코코아 열매 내용물은 갈아서 맛있는 반죽을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "코코아는 초콜릿 만들 때 쓰는 거잖아! 초콜릿 나무다!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "코코아의 원천. 맛있는 초콜릿을 만들 때 쓰인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 코코아 식물, 초콜릿의 원전."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "열매 다 익으면 플로란 맛있는 반죽 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코코아 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "코코아 식물, 다 익으면 열매를 초콜릿으로 만들수있다."
+    }
+]

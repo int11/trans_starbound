@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "금강불괴에 가까운 가슴 보호대, 잘 가공된 솔라리움 강판으로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "군단기사의 흉갑"
+    }
+]

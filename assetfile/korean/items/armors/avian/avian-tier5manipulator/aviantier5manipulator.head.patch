@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 정교한 머리장식에 있는 하나 하나의 깃털은 순수한 패로지움으로 새겨졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플라밍고 머리장식"
+    }
+]

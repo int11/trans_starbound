@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 시계 직접 만든거 같아. 목공 솜씨가 아주 좋아보여!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지정부에서 만든 많은 것들보다 이 시계가 더 괜찮아 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매력. 이 시계는 직접 손으로 제작한거 같네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "흔들리는 거 도끼같아. 이거 무기야?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 오래된 시계"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 오래된 스타일의 고정식 시계에 윤이 나는 놋쇠추가 달려있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "在我看来，这台钟一直在这里等待着。但我想时间并不会等任何人？"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我必须承认制作这台座钟肯定花去了大量的时间。我几乎被感动了。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "座钟滴答滴答响，时间一分一秒溜走。"
+    }
+]

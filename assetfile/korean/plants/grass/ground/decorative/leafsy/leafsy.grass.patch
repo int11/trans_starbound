@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 잎이 많은 식물인가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 여기에 슘어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잎이 많은 식물."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잎이 많은 식물."
+    }
+]

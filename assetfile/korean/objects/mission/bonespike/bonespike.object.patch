@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저런 건 피하는 게 답이지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "날카롭고 표족하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기꺼이 피해주도록 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "면도날같은 뼈다귀다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "만지지 않는 게 좋을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "뾰족한 쐐기다. 뼈로 되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조심. 날카로운 뼛조각은 글리치 외장을 뚫고 들어갈 수도 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 쐐기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "여기 떨어지긴 싫은데..."
+    }
+]

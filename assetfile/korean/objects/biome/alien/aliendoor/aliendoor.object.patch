@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이게 어떻게 만들어졌지?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 이 문 살아있는건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 식물로 만들어진 문이 좋아."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "외계에서 자란 식물로 만들어진 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아주 이상한 문 같아 보인다..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 문은 영혼을 가지고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "문이 나를 쳐다보는 듯한 느낌이 들어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이런 문을 좋은 발상이라고 판단했던 사람은 누구일까?"
+    }
+]

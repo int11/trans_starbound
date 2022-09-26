@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "착용자의 얼굴을 감추는 장비. 고글은 세상을 핏빛으로 비춘다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "첩자의 복면"
+    }
+]

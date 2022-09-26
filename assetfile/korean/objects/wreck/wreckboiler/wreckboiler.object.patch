@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아무 쓸모 없는 녹슨 보일러."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "악취나는 물로 가득 찬 오일러 탱크."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 보일러 완전히 갔어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "보일러 안 쪽에 남은 물이 환상적으로 역겨운 냄새를 내고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "낡고, 녹슨 물 난방기."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "안타까움. 이 보일러는 녹이 슬어서 물이 샐거다"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낡고 녹슨 보일러 탱크."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만신창이 보일러"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "낡은 보일러. 안 쪽에서 메아리가 울린다."
+    }
+]

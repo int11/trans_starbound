@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕, 나는 카이렌이야! 나는 매우 우주의  태생에 관심있어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "嗨，我是Kyren！我在宇宙的起源非常感兴趣。"
+        ]
+    }
+]

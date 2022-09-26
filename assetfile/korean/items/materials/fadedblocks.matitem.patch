@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부드러운 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "색바랜 부드러운 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "推论。这些褪色的砖块随着时间的流逝变得平滑了。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "褪色色色的柔软砖块块块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "看着表面平滑的砖块。"
+    }
+]

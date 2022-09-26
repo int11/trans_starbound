@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "멀리 있는 달을 연상시키는 빛나는 돌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "발광 기둥이다. 우주는 역시 아름다워."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "고대의 가로등인가!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "고대의 발광 기둥이다. 경외감에 빠지는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 돌! 플로란 셕양이 섕각나."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 우뚝 솟은 기둥에서 역사를 많이 볼 수 있어야하지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "인지. 이 미묘한 불빛은 내가 알지 못 하는 물질로 빛나는군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 기둥"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "게이트 근처의 고대 기둥이다. 빛을 내고 있다."
+    }
+]

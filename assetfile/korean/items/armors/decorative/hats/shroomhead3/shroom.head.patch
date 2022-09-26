@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아가란의 광대 버섯을 본뜬 모자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아가란 광대 모자"
+    }
+]

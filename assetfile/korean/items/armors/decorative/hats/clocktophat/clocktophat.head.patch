@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시계 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "시계가 들어있는 정장용 모자."
+    }
+]

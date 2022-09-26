@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 머리뼈 화석 (Avian Skull)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 아비안의 머리뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "아비안 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "화석이 된 아비안의 가장 흥미로운 특징은 속이 빈 뼈와 짧고 유연한 부리다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "질겨....하지만 좋은 방법이군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구운 촉수"
+    }
+]

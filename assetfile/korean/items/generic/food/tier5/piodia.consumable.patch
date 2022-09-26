@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파이오디아 한조각"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "피잡의 또다른 형태, 구리같은 맛이 난다."
+    }
+]

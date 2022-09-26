@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좋아보이는 벽돌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 벽돌들은 주의 깊게 형성 및 배치되었소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "평범한 벽돌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작지만 완벽히 모양낸 진흙으로 만든 벽돌."
+    }
+]

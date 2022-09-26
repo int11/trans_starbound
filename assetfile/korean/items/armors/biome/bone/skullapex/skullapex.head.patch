@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 에이펙스 머리뼈는 과학을 위해 기부된걸지도 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 머리뼈 가면"
+    }
+]

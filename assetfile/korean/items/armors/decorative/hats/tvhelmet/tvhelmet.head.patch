@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "텔레비전 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신호가 죽어서 이걸론 스포츠 경기는 못보겠다."
+    }
+]

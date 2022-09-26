@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밋밋한 느낌의 삶은 진주콩 한 접시다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "삶은 진주콩"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진기한 바나나"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오호, 이건 뭐지?"
+    }
+]

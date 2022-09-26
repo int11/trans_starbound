@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지금까지 가장 용감한 박스맨이었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "박스맨의 용감함"
+    }
+]

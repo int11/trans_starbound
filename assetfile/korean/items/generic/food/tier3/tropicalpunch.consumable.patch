@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "트로피컬 펀치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "셰프의 킥이 담긴 열대과일 믹스다."
+    }
+]

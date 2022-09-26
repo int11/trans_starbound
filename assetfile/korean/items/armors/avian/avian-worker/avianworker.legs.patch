@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "노동자 스커트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가볍고, 통풍이 잘되며, 도구를 넣기 편한 많은 주머니로 노동자에게 적합한 의복이다."
+    }
+]

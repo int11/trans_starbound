@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "발톱 글러브"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아만티움은 아니지만 여전히 멋지다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "狼爪^yellow;^reset;"
+    }
+]

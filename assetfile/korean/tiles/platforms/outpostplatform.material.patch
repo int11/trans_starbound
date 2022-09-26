@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "꽤 낮설어보이는 금속 플랫폼인데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매혹. 이 빛나는 플랫폼은 휴대하기에 좋아보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "그냥 또 다른 금속 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단순한 조명 플랫폼은 일반적으로 원격 관문기지에서 발견된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "관문기지 플랫폼"
+    }
+]

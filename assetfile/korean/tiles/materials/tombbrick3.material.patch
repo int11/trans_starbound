@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "작은 벽돌 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 석조물은 매우 인상 깊군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "작은 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 작은 벽돌은 훌륭하게 제작됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 무덤 벽돌"
+    }
+]

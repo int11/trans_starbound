@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스푸킷"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈을 감는 것으로 위상에 들어서 공격에 면역이 된다."
+    }
+]

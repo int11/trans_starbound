@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "갈대로 만든 살짝 매력이 있는 모자이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "갈대 모자"
+    }
+]

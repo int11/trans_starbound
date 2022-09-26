@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 눈 비슷한 것으로 만든 광신도 복면이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무장 광신도 복면"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "납"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "납 블록이다."
+    }
+]

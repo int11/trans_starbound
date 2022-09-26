@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 마그마를 담은 콘이지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불타는 액체...."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "마그마를 담은 콘이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "마그마를 담은 콘이다."
+    }
+]

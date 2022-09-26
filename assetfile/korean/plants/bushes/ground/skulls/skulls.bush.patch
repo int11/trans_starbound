@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 옛날 옛적에 죽은 생물이 남긴 뼈라오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "죽은 뼈어다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오래전 죽은 생물의 뼈."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래전 죽은 생물의 뼈야."
+    }
+]

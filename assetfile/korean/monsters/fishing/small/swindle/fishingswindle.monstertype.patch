@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빛나는 사기어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "빛나는 머리 보블로 사냥감을 유혹한다. 물고기들 중에선 나쁜놈으로 유명하다."
+    }
+]

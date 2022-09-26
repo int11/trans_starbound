@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "기능성 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기본 의자. 밥값을 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "평범한 의자로군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 의자. 글리치는 가끔 앉는거 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "패드 금속 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "심플한 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "괜찮은 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "앉자!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "의자야. 앉아도 돼. 그럼."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "넓은 챙이 태양으로 부터 그늘을 만들어준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "카우보이 모자"
+    }
+]

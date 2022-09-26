@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "액션 피규어"
+    }
+]

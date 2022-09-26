@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "실크피그"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신비롭고 부드러운 질감과 흥미로운 교배용 외침으로 인기있는 애완동물이 됬다."
+    }
+]

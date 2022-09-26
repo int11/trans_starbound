@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오큘러스 리버"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "검의 눈으로 보는건 처음엔 심하게 어지럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "目珠掳掠者^yellow;^reset;"
+    }
+]

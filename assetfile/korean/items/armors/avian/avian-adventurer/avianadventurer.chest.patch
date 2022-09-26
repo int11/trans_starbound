@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가죽 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "처리된 가죽으로 제작된 흉갑이다."
+    }
+]

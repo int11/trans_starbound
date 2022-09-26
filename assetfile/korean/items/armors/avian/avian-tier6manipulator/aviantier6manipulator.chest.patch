@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 코트는 순수한 솔라리움으로 짜여진 아비안 갑옷이다. 아름답군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "까마귀의 흉갑"
+    }
+]

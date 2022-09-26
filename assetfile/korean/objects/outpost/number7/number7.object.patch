@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "숫자 \"7\""
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "숫자 \"7\" 을 벽에 새긴다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "七。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "七。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "七七七。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "客观。七。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "七。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "七。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "七。"
+    }
+]

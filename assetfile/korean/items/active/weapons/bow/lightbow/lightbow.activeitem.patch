@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빛의 활"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "순수한 빛의 광선을 쏜다!"
+    }
+]

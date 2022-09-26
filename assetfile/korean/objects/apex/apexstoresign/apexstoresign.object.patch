@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "상점인가."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "상점 표지판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "\"상점\"이라 쓰여있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "상점에서 쓰는 표지판같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "상점 표지판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "편의. 표지가 상점을 가리키고있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샹점 간판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가게 표지판"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물건을 사라고 광고하는 표지판이다."
+    }
+]

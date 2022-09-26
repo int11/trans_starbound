@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "엄청 오래된 먼지낀 실트더미."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "실트. 너무 먼지투셩이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "푸석한 실트"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불편. 내 부품들에 실트가 스면들지 못하게 하는건 너무 어렵군."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "실트다. 매우 실트같다."
+    }
+]

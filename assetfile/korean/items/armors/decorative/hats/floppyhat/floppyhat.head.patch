@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플로피 화려한 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잔디밭에서 차를 마시기에 완벽하다."
+    }
+]

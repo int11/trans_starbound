@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석의 일종, 진흙과 바위가 전부 덮혀있다. 한 조각씩 꺼내 조심히 닦아야만 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화석"
+    }
+]

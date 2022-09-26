@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "던지기 딱 알맞은 크기의 눈덩이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈덩이"
+    }
+]

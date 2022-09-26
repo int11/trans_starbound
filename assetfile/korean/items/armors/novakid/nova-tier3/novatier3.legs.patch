@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "법망을 피하기엔 이상적인 곁바지이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도망자 바지"
+    }
+]

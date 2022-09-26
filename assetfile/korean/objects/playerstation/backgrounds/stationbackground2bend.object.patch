@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "2折弯背景"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "2折弯背景"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "당근 주스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "액체 형태의 당근이다. 의외로 달콤하고, 당연하게도, 건강에 좋다."
+    }
+]

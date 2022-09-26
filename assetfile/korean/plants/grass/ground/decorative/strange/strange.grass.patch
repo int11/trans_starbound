@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "싫증. 추한 식물 아닌가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 식물이다. 플로란 공명할슈있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기묘한 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기묘한 식물이다."
+    }
+]

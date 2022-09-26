@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "가짜 식물이다 - 작동하지 않는 자연이지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "역겨운 플라스틱 가짜 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "가짜 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "대기실을 떠오르게 하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 식물은 진짜가 아니야!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불확실. 가짜 식물이 진짜보다 나은가 별로인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 식물 사칭꾼 찌른다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플라스틱 식물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플라스틱제 가짜 식물이다. 나무가 아니다."
+    }
+]

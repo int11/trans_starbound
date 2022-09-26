@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "어째 보기엔 이 환자 심장이 두 개인 것 같아. 좀 아닌데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "황당. 심장이 두 개 달린 인간이라고? 글리치 문화에서 이러한 결함을 지닌 개체는 말살 대상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "심장이 두 개인 인간이다... 욕심쟁이!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "한 몸에 두 심장. 의사가 필요한 이유를 알겠구만."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "심장이 두 개인 환자다. 인간이 진화하고 있을 지도."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 사람 심장이 두 개잖아! 나도 심장이 두 개였으면 좋겠다. 나누고 싶은 사랑이 엄청 많은데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "심장이 두 개 달린 인간이라. 누가 이런 생물학적 난제를?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "의료 데이터 패널"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "환자 파일이다. 인간인데... 심장이 둘이라고?"
+    }
+]

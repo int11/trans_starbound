@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리선 (Copper Wire)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한 통의 구리선이다."
+    }
+]

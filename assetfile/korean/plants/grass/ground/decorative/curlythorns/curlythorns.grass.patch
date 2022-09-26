@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 날카로운 가시다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "날카롭고 뾰족한 가시다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "날카로운 가시."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "날카로운 가시다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무섭게 생긴 강력한 곤충이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부식성 숫사슴 헬멧"
+    }
+]

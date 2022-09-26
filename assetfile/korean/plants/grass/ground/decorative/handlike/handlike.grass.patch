@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 손을 연상시키는 뿌리다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "잡는 뿌리."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "손처럼 생긴 뿌리다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "손처럼 생긴 뿌리다."
+    }
+]

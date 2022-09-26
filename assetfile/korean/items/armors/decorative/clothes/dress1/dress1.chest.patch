@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "블라우스와 허리띠"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 블라우스는 띠로 꾸며져 있다."
+    }
+]

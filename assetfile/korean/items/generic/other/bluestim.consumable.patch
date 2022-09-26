@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파란색 액체로 가득 찬 자극제로, 이게 나의 도약을 강화시켜 줄 것이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파란색 자극제"
+    }
+]

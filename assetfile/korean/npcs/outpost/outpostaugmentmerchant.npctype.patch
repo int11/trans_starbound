@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "당신의 장비를 강화하세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "확장 부품 상인"
+    }
+]

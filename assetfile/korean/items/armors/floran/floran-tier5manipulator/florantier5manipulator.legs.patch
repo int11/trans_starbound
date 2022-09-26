@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "동족섭취는 전통이죠! 욕먹는 전통이지만. 폭발한 원예가로부터 도망칠 때 이 바지를 입으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "동족섭취자의 바지"
+    }
+]

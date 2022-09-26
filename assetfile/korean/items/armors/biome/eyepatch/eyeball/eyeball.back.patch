@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시신경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 시신경."
+    }
+]

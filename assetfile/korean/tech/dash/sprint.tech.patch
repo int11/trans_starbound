@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "돌진을 대신해 에너지를 소모하여 달릴 수 있습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "加速"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "영혼 가장 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진정한 주인을 위하여 비범한 어둠의 힘을 내뿜는 투구이다."
+    }
+]

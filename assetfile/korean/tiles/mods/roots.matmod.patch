@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "천장에 박힌 작은 뿌리다."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/friendlyName",
+        "value": "매마른 소행성"
+    }
+]

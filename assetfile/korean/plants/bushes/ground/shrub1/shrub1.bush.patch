@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 관목이 아닌가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "관목."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "관목이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "관목이다."
+    }
+]

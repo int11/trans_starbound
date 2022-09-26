@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아름다운 풍경을 그렸어. 난 저런데 가기 좋아하는데!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 그림은 풍경을 상당히 생생하게 그렸군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 이 아름다운 푼경은 무엇인가"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 보기엔 셰상 작아. 플로란 작은데로 안가. 플로란 실망이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 소소한 그림"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아름다운 풍경을 자세하게 그렸다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "如此美丽的一道风光！我想知道创作它的灵感从何而来？"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这幅画几乎到达了鲛人的艺术标准了。我特别喜欢画里的那条小河。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这真是幅不错的画。"
+    }
+]

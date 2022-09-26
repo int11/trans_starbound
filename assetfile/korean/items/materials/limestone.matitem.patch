@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정제가 안된 거친 석회암."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "석회암"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "敏锐。这石灰石有着白垩一样的密度。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "满是尘尘尘土的石石石灰岩。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些看起来像白垩的石灰石。"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "경금속"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가벼운 금속 타일, 연구 실험실에 완벽하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "금속으로 만든 타일이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "긍정. 이 타일들은 살균하기 쉽다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 금쇽 타일"
+    }
+]

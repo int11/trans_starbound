@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초읽기 시계"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "시간 간격 정하는 시계."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 시간 간격을 정하는 시계다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "시간 간격을 정하는 시계다."
+    }
+]

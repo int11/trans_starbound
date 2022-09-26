@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 블록은 진짜로 무슨 가스 같은걸로 채워진듯 한데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매혹. 이 블록은 네온 가스로 가득 찬 듯 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "밝은 색깔 네온이 채워진 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "네온 가스로 가득 찬 색칠된 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네온 블록"
+    }
+]

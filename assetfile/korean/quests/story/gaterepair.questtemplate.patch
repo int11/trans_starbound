@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGate",
+        "value": "^orange;고대 에너지 발신원^reset;를 탐색."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "우리는 현재 알 수 없는 세계 주변을 돌고있으며, 이 함선은 상당한 피해를 입어 이 궤도를 벗어나는게 불가능합니다. 제 생각엔 당신이 ^green;저 아래의 행성 표면에 ^orange;텔레 포터^green;를 이용해서 진입해야 할 것 같습니다.^white; 그런 다음 충분한 물자와 함선을 수리할 것을 챙겨오십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findEsther",
+        "value": "^orange;알 수 없는 메세지^reset;의 발신인을 탐색."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/collectRepairItem",
+        "value": "^orange;코어 파편^reset;을 수집."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/explore",
+        "value": "^orange;궤도를 돌고있는 행성^reset;을 탐사."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/repairGate",
+        "value": "^orange;코어 파편^reset;을 사용해서 관문을 작동."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "내 말에 동의해줘서 고맙구나, 얘야. 네 도움이 있으면 우리는 성공할 수 있을거란다."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "모험의 시작"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/outpostBookmark/bookmarkName",
+        "value": "前哨站－方舟"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼어붙은 방패"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "추위를 차단한다."
+    }
+]

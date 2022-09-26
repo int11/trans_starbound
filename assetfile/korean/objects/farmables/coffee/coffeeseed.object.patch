@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "커피. 인간에게 알려진 가장 활기찬 식물."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지루. 글리치는 이런 쓰기만 한 콩의 사용법을 찾을 수가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "커피 냄새는 좋은데, 마셔서 생기는 이로운 쪽의 부작용은 들어본 적이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "쓴 맛을 넘어 사용처를 살펴보면 커피는 훌륭한 자원이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "커피는 진 빠지는 일을 하고 나면 찾게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커피콩은 우려내어 맛있는 음료를 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "커피 자꾸 플로란 깨운다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "커피콩은 맛있게 생겼는데, 엄청 쓰다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커피 씨"
+    }
+]

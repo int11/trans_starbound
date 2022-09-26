@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사냥감을 스토킹하기 위한 스커트이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "채집자의 스커트"
+    }
+]

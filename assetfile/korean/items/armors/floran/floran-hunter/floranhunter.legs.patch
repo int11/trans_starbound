@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "야만자 다리 장식"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 다리 장비는 사냥꾼에게 자유로운 행동 범위를 재공한다."
+    }
+]

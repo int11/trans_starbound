@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바이저"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "안경처럼 쓰면 된다! 시력을 더 좋게 해주냐고? 아니."
+    }
+]

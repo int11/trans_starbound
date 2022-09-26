@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지속 스위치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한번 스위치를 작동시키면 바뀐 상태로 남게된다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "这个开关一旦被触触触发就会一直保持它的开关状状状态。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "客观。这个开关一旦被触发就会一直保持它的开关状态。"
+    }
+]

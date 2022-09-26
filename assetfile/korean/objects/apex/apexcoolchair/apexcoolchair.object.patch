@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "알 모양의 의자다. 내 생각엔 꽤 멋진데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 의자는 마치 종이 위의 문자들처럼 움직이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "알?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "꽤 멋진 의잔데. 에이펙스에게도 미적 감각이 있긴 했구나."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "멋진데, 지정부만 이런 가구를 갖겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "부러움.이 의자는 가장 마음에 드는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 가죽."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멋진 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매우 멋진 의자이다."
+    }
+]

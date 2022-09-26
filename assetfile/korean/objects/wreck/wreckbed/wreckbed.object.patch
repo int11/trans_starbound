@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "잠자기에 대단히 안좋은 곳이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기서 잘라면 꽤 아주 엄청 피곤해야 할걸."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 녹슬었어!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "녹슨 침대."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "손쓸 수 없을 정도로 녹슨 침대. 시간은 결국 우리를 거두어 가지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 어떻게해도 매력적으로 못 보겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "잠자기에 끔찍하기 짝이 없는 곳."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만신창이 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오물과 녹이 이 침대를 침식하고 있다. 전혀 피곤하지 않다는 것에 감사하자."
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/9",
+        "value": "성격"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/7",
+        "value": "하의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/6",
+        "value": "상의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/5",
+        "value": "기호"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/3",
+        "value": "하의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/2",
+        "value": "상의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/1",
+        "value": "머리 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/0",
+        "value": "가스 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "노바키드"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "노바키드는 '항성계를 떠도는 가스덩어리 사람'으로 통하는 미지의 종족입니다. 알려진 거주지도 없고 기록된 역사도 없습니다. 얽매일 과거도 없는 자유로운 존재들입니다. 무엇으로 만들어졌는지, 어디에서 왔는지 아무도 모릅니다."
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/8",
+        "value": "노바키드"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels",
+        "value": [
+            "气体颜色",
+            "发型",
+            "上衣",
+            "裤子",
+            "",
+            "烙印",
+            "上衣颜色",
+            "裤子颜色",
+            "星之子",
+            "人物性格"
+        ]
+    }
+]

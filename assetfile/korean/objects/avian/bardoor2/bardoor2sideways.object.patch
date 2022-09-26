@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 철문이라면 어디든 지키는데도 유용하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "튼튼해보이는 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "튼튼한 강철이다. 보기엔 아니어도 원치 않는 손님을 멀리하는 데는 제격이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 육중한 철문은 옆으로 정렬해있다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 철문은 안쪽으로 열리는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "염려. 이 날카로운 금속 철창은 적잖이 위험해 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "금쇽 문 무겁다. 쇠창샬 셰다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "여닫이 쇠창살 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 무거운 여닫이 쇠창살문은 안쪽으로 열린다."
+    }
+]

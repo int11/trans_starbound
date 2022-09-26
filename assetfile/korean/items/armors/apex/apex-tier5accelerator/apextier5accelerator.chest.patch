@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에지솔트로 짜인 흉갑은 강력한 방어력과 잠입에 적합한 이동성을 제공한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "변절자의 흉갑"
+    }
+]

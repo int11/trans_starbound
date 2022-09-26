@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "땅성게에 진주콩을 풍부하게 담았다. 단지 맛은 빈약하다..."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "땅성게 쌈"
+    }
+]

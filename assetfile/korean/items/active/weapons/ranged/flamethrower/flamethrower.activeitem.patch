@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "네이팜의 향기를 사랑한다면, 언제라도"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화염방사기"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "喷火器^yellow;^reset;"
+    }
+]

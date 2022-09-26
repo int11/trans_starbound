@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 전기 랜턴이니까 기름이 바닥나진 않겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "찬란한 날들을 떠올리게 해주는 빛이로다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "간단한 디자인의 전기 랜턴이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "밝은 광원이다. 너무 쳐다보지 말아야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작지만 알찬 랜턴."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 아아. 좋은 조명이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 가는 길 밝혀주는 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 전기등은 기분 좋게 따뜻한 빛을 만든다."
+    }
+]

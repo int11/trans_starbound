@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈이 너무 추워 천장에 붙었다."
+    }
+]

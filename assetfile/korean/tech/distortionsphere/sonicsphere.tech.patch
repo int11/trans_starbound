@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "변신후 ^green;[F]^white;를 꾹 눌러 구체 상태에서 돌진을 사용합니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "音速球"
+    }
+]

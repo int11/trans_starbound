@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과녁에 조준하자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투척용 다트"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불안. 녹은 시체다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바닥에 몸 던진다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "끔찍한 송장."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "끔찍한 송장."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과일과 휘발성 가루 한줌으로 무서운 짓을 해낼 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가시 수류탄"
+    }
+]

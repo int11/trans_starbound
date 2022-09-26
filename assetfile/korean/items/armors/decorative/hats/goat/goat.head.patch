@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "염소 두개골 마스크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "친구와 적 모두를 놀래키게 할 악마의 염소 두개골 마스크다. 워!"
+    }
+]

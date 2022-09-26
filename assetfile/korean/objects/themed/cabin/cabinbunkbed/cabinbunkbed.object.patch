@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "접근하는 적을 찾기 위한 최고의 침대? 뭔 소릴 하는건지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": " 2단 침대가 공간활용상 좋긴하지"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 땅이랑 떨어진데션 못잔다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나, 나야말로 별이랑 좀더 가까이 자고 싶다고"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 독창적인 침대는 아-주 깔끔한 침구 덕분에 망했군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "2층 침대는 정말 훌륭한 발명품이야. 내가 발명품 시험에 참가할 수 있다는게 기뻐."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 내가 자는동안 무너지지나 않았으면 하네"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오두막 2단 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "침대 보다 더 나은거? 침대 두개!"
+    }
+]

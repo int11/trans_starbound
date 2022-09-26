@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "주변 사람들의 주의를 확실하게 끌도록 만들어진 크고 번쩍이는 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 경보 장치 덕분에 물건 훔치기는 힘들겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "경광등. 경비원들의 주의를 끄는 데 쓰인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "뭔가 안 좋은 일이 벌어지면 이 반짝이는 조명이 알리겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "방해 요소이기도 하지만, 경비 요소이기도 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 이것이 수많은 사람들의 관심을 끌 것이니 조심해야겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "경광등"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "영화였으면 내가 나가자마자 이게 미친 듯이 울리겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이건 모든 경비들의 주의를 끌 거다."
+    }
+]

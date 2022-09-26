@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "담황빛도는 석회암이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "통찰력. 이 석회암은 단단한 백악질이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "먼지투셩이 셕회암 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "석회암"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거친 정제되지 않은 석회암."
+    }
+]

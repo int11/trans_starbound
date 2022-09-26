@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "항공 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바쁜 우주 여행가를 위한 공기역학적으로 만들어진 투구다."
+    }
+]

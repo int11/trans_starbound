@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^orange;조종 부속 장치^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 장치를 복제기에 장착하면 첨단 기술의 전투 장비들을 복사할 수 있게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "多么有用，这个能给复制机附加上额外的高科技战术装备。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "我能用这个给复制机附加上额外的装备。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人用这这这个给复制机附加更多的东西西西。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "兴奋。使用这个模组能给复制机附加上高科技战术装备。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "使用这个给复制机附加上额外的高科技战术装备！"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这个有用的模组能给复制机附加上额外的高科技战术装备。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这个便利的模组能给复制机附加上更多的东西。"
+    }
+]

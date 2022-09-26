@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/destinations/0/name",
+        "value": "귀환"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/0/planetName",
+        "value": "우주는 아직 당신을 기다립니다"
+    }
+]

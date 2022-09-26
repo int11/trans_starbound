@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전기톱"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무를 베는 데 아주 효과적이다. 나무를 학살하는 일은 피할 것."
+    }
+]

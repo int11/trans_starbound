@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "우주복 등장비"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "본디 착용자의 호흡문제를 해결한다. 이건 아니지만"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거의 관통이 불가능하다고 하는 이 갑옷은 유연한 연결점으로 빠른 전투를 가능캐 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "침투자의 흉갑"
+    }
+]

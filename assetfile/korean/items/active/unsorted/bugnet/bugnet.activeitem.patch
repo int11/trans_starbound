@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잠자리채"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "곤충을 잡기위한 그물채, 곤충을 잡고, 병에 담고, 수집품으로 간직해보자!"
+    }
+]

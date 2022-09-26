@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "지저분하고 드러운 거미줄 덩이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "어떤 이상한 동물이 만들어낸 악취나는 거미줄이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "악취가 나는 거미줄이야. 만지지 않는게 좋겠어!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아마 거미줄인것 같은데. 더러워!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "어... 끔찍한 냄새가 나는 거미줄이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "끔찍. 그저 커다랗고, 끈적거리는 거미줄일 뿐이오. 하나도 안 무섭소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": " 끔찍해도 이 거미줄 좋은 트로피 만드는데 도움 돼."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거미줄 걸이대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "트로피 전시대가 냄새나는 거미줄로 덮여있다."
+    }
+]

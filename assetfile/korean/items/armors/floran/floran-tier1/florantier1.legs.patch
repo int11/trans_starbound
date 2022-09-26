@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "약간 부족해 보이는 이 앵클렛은 어린 플로란이 태양의 힘을 흡수할 수 있도록 해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "새싹의 앵클렛"
+    }
+]

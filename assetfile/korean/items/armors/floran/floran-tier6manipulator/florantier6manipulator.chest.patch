@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "솔라리움을 사슬갑옷에 꿰어넣어 강화한 튼튼한 흉갑이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주술사의 흉갑"
+    }
+]

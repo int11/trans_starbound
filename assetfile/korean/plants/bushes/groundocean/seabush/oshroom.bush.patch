@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명.  해초? 버섯?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끈적 거리는 버셧."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오쉬룸"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오쉬룸이다."
+    }
+]

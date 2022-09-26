@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "텅스텐 각반은 모양이 찌그러지면서 충격을 흡수해 착용자를 보호한다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "연못 각반"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "자기 혼자 고동치는 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "어떤 명상을 해도 이런 침대에서 잠들 순 없을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "대체 왜?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이뭐병?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지정부와 맞먹는 공포다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "반성. 글리치에게 있어서 강철로 만든 침대와 다를 바 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 요란하게 자고 일어나셔 아침으로 이불 먹는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살점 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신선한 고기로 만들어진 침대다."
+    }
+]

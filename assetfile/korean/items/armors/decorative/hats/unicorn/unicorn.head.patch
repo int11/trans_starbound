@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유니콘 머리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신세대에서 온 물건이다."
+    }
+]

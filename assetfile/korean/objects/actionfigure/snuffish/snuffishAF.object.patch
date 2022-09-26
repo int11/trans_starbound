@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스너피쉬 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"아무나 공격해 놀래키곤 한다. 그리고 그만큼 잘 놀란다.\"라고 적혀있다."
+    }
+]

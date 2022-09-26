@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "타락니"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 느리게 움직이는 양서 동물은 수시간동안 사냥감에 접근해 독있는 송곳니로 마비시킨다."
+    }
+]

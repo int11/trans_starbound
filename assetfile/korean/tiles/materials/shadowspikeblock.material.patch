@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 블록들은 달없는 밤보다도 어두운 걸."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 알 수 없는 재료로 제조 된 블록이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "검은 블록은 밥에도 어둡다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가시 블록은 그림자 물질러 형성됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "그림자 가시 블록"
+    }
+]

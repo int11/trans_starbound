@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "이 스나운트의 먼 조상은 대지가 아니라 바다에서 사냥을 했다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "오피다운트 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오피다운트 머리뼈 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 오피다운트의 머리뼈이다."
+    }
+]

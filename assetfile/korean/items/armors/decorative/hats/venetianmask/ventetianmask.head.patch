@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "베네치아 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모자 달린 베네치아 가면이다. 지금이 무슨 시간이지? 카니발 시간!"
+    }
+]

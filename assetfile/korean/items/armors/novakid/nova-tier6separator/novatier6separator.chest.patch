@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보강된 가슴호보대가 있는 외투이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "카우보이 가슴보호대"
+    }
+]

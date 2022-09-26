@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 사다리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구리로 된 사다리"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "惊讶。这梯子是用铜制成的。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "用闪闪闪亮的铜制成成成的梯子。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一节用铜制成的梯子。"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무로 만든 단순한 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "나무 상자다. 기능적이지만, 예쁘진 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작은 나무 판자로 만들어진 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "단순한 나무 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 나무 상자는 단순하지만, 효율적이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 나무 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나무로 만든 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "나무 샬점을 벗겨 만든 샹자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 상자"
+    }
+]

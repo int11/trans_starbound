@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잃어버린 고향을 향해 경례!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "군인의 핼멧"
+    }
+]

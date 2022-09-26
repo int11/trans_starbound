@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "줄기 실"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "살아있는 뿌리를 가공한 것이다."
+    }
+]

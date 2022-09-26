@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가짜 이글 면허"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "함선을 영구히 더 큰 이글급 순양함으로 업그레이드 하게 허용해준다."
+    }
+]

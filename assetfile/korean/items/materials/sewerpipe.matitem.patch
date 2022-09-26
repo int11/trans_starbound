@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "폐물을 수송하기 위해 사용되는 하수도관."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하수도관"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "厌恶。 这些管道可真是污秽，我压根不想看见里面有些什么。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "臭臭的下水水水水管。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "看上去很肮脏的下水管。"
+    }
+]

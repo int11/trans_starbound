@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "흠. 좀 무서운 신발이군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "최전선군의 각반"
+    }
+]

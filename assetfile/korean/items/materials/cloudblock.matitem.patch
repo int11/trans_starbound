@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구름"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "충분히 걸을 수 있을 정도로 조밀한 구름이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "吃惊。这云的密度都可以支撑得住我的体重了。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "云块真松松松软！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这里的云块都是由某些沉重又松软的材料组成的。"
+    }
+]

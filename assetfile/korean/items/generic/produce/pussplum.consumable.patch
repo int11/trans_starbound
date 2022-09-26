@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고름자두, 몇몇 사람들이 맛있다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고름자두"
+    }
+]

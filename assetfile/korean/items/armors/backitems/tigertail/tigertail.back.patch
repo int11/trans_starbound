@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "장식용 꼬리를 제작하면서, 호랑이에게 해를 끼치진 않았다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "호랑이 꼬리"
+    }
+]

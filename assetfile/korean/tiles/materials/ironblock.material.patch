@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 블록들은 철로 공들여 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 건축에 사용된 철을 보게되어 반갑군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "차가운 철 금쇽 블록들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "철 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 철 블록."
+    }
+]

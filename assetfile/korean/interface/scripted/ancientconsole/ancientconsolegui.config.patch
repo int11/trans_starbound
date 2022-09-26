@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "고대 관문 조작기"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "행성 핵 파편으로 활성화"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/costDescription/value",
+        "value": "필요한 파편"
+    }
+]

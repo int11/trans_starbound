@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 돌 벽돌들은 작다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 돌 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 석판, 세밀한 부분에 제격이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 벽돌들은 모두 같은 돌을 깎은 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "돌을 깎아서 만든 벽돌이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "놈들이 쓰는 모자다. 아마 가장 큰 사이즈겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "놈 모자"
+    }
+]

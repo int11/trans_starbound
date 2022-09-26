@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "장비를 정지합니다. 정지하겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이건 미친 짓이야. 플로란은 여기서 나가겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이런 걸 전에 본 적이 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이런 일이 일어날 것 같은 조짐을 느꼈지. 하지만 넌 내 말을 듣지 않았어."
+    }
+]

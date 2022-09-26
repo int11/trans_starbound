@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바이올륨 소검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바이올륨 칼자루가 투사기를 둘러싸서 기괴한 에너지 칼날을 만들어낸다."
+    }
+]

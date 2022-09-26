@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "깔끔한 취침상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 침대 뭔가 내 신경을 곤두세운다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기서 자면 굉장히 불편할 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우주 흡혈귀들이 쓰는 침대일 지도 모르겠다. 우주 흡혈귀가 있긴 할까? 그랬음 좋겠다!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 침대 작은데다 폐쇄공포증도 생기겠다. 뚜껑까지 있잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "공포. 관짝을 닮은 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 관짝이랑 불편한 샤이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 관 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "관 침대다. 가장 인기있는 언데드 휴식처."
+    }
+]

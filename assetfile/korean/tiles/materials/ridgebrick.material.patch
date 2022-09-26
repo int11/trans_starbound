@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 돌 블록은 굉장히 멋지게 조각되어있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 능선 구조의 블록은 간단하면서도 효과적이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이랑형 돌 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이랑형 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "상단이 이랑처럼 조각된 돌 벽돌이다."
+    }
+]

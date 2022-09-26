@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "물방울 무늬 좋아하는 사람?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "평범한 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "전등이네. 별로 특별한건 없군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "전등에서 희미한 빛이 흘러나온다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "낡은 등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "발랄. 글리치는 빛을 좋아하지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "별 이샹한 점쟁이 전등!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표준 규격 전등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "점박이 전등갓이 쓰인 짧은 목제 전등이다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "강력한 철제 도리"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명받은. 이 보강된 철제 도리는 매우 강력하지 아니한가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "챠가운 철제 도리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼해 보이는 철제 도리"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도리"
+    }
+]

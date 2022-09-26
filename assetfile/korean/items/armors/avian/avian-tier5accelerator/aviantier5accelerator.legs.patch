@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "공작 스커트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에지솔트로 만든 부츠는 절대로 틀린 길을 밟도록 하지 않는다고 한다. 물론 아무도 확인해보진 않았지만"
+    }
+]

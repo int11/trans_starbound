@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 돌은 작은 정동 결정 으로 꽉차있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 돌 안에는 작은 정동 결정체가 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 정동셕안에 있는 작은 슈정 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정동석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정동 결정으로 가득찬 단단한 돌"
+    }
+]

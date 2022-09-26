@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 질척거리는 식물이구려."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "늪인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "늪지대의 식물."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "늪지대의 식물."
+    }
+]

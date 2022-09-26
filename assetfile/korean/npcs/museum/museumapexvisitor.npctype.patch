@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "언젠가는 사람들이 우릴 독재정뿐만 아닌 다른 걸로 기억해줄 날이 올 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "자네는 이것들이 얼마나 오래됬다고 생각하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "你觉得所有的这些东西已经存在多久了？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "会有这么一天，人们说起我们这个种族将不再仅仅想起我们猿族人的压迫政权。"
+        ]
+    }
+]

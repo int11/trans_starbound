@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위는 생각하고 아래는 춤춘다. 아무리 지혜롭더라도 가끔은 놀아야지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "현자의 가리개"
+    }
+]

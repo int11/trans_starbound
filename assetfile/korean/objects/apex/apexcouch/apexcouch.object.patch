@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 싸구려 폴카 점 무늬의 또 다른 희생자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "앉은다음에 쳐다보지도 않는 용인것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "정 떨어지는 가구 쪼가리야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "혐오스러운 천쪼가리가 이 의자를 뒤덮고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 의자는 방의 생기를 빨아먹는군."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "무고한 이에게 또 다른 흉한 가구 쪼가리가 강요되었군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "오싹함. 많은 디자인 원칙들이 무시되었군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 냄섀 나."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표준 규격 긴 의자"
+    }
+]

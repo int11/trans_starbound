@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화강암 바위"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자연의 화강암 벽돌이 채워져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "感兴趣。从这种花岗岩只能开采出鹅卵石。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人喜喜喜欢漂亮的花岗岩。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "在我看来就是些天然的花岗岩。"
+    }
+]

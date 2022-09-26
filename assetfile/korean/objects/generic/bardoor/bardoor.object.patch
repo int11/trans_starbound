@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "분명 사고뭉치 몇 명도 이 문짝 뒤에 처박힌 적이 있었겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경탄. 글리치 지하감옥의 감옥문과 매우 유사하게 생겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "강압적인 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안은 이런 문으로 무덤을 지킨다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "감옥에서나 찾아볼 수 있을 법한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "철제 감옥문."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "무거운 철문 좋은 거 지킨다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "쇠창살 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잠긴 두꺼운 쇠창살 문 달린 큰집은 가고 싶지 않다."
+    }
+]

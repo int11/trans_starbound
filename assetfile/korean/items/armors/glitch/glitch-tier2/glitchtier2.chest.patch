@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "미래의 글리치 영웅을 위해 만들어진 보호구. 몸 보다는 갑옷이 손상되는게 좋지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "병사의 흉갑"
+    }
+]

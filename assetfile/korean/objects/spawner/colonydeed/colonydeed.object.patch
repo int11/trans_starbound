@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 제대로 된 구조물에 설치하면 누군가는 이곳에 살기를 권장 받는다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "문과 조명을 설치한 집에 걸어두면 누군가가 들어오게 될거야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 장치로 다른 사람을 건물로 들일 수 있어. 문이랑 조명은 제대로 달려있겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "식민지 확장에 좋은 거지. 문이랑 빛이 있으면 누구든 들어오니깐."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "문과 빛이 있는 건물에 붙인다면 누군가를 들일 수 있게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 증셔 벽에 설치해서 오게 만들자!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "^green;밀폐된 공간, 문, 조명 하나^white;면 이주민을 받을 수 있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이주 증서로 다른 사람을 들일 수 있어. 문이랑 조명 똑바로 달렸는지 확인해보자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^yellow;이주 증서"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "컵 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신비한 액채로 채워진 컵 모자다!"
+    }
+]

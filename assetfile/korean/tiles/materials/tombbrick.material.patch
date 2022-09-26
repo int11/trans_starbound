@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좀 오래되고 먼지낀 벽돌이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 정밀검사 결과는 이 블록들이 꽤나 오래됬다 하오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "먼지 투셩이 오래된 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "먼지가 낀 고대의 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무덤 벽돌"
+    }
+]

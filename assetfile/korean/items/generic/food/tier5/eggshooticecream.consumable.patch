@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에그슛 아이스크림"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기분좋은 커스타드 맛이 나는 아이스크림이다."
+    }
+]

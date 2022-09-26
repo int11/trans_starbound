@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멍뭉이 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이제 강아지처럼 보일 수 있습니다!"
+    }
+]

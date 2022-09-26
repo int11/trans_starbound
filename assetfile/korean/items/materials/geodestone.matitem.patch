@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정동석 암석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 정동석 수정이 가득한 단단한 돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "细心。这石头里面有很小的水晶体。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人喜喜喜欢这晶石石石里的小水水水晶。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这石头里面满满的都是微小的水晶体。"
+    }
+]

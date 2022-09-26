@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모카치노"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커피와 핫초코로 만든 순한 블렌드다."
+    }
+]

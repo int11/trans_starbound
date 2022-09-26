@@ -1,0 +1,24 @@
+[
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "구칙들"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어느 플로란 사냥의식의 규칙들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/contentPages/0",
+        "value": "사냥의 구칙은:\n\n다른 플로란과 사우라\n큰 사냥감 죽여라\n빛나는 트로피를 차지해라"
+    },
+    {
+        "op": "replace",
+        "path": "/contentPages",
+        "value": [
+            "狩猎的规饭：\n\n凑别的叶族人\n杀大的猎物\n赢下闪闪的战利品"
+        ]
+    }
+]

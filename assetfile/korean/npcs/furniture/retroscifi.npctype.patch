@@ -1,0 +1,68 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "언젠간 나도 나만의 함선을 구해서, 별들을 여행할 수 있겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/9",
+        "value": "반짝이는 하얀 가구들은 현대적이면서도 복고풍 감각이 살아있지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "value": "난 나 자신을 우주 개척자라고 생각하고 싶지, 별로 개척하고 다니진 않지만..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "value": "우주를 여행하는건 너무나도 멋진일이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "value": "난 개척자지, 우주 여행을 하는. 흥미롭고 새로운 세계를 모험하지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "value": "난 지구를 대신할 세계를 찾고있지. 아직 이상적곳은 찾지 못했지만 말이지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "우주 여행은 항상 즐겁게! 까먹지 마."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "난 우주 개척자지! 내 번쩍이는 가구들이 그 증거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "최고의 집은 반짝이는 하얀색 가구로 단장되어있지, 동의하지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "우주의 미지를 여행하는건 나같은 개척자에게 매우 중요한 일이지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我是一个宇宙拓荒者！你可以看见我所有的家具是如此闪亮。",
+            "太空旅行要乐观。请记住这一点。",
+            "探索未知的空间对于像我这样的先驱来说是非常重要的。",
+            "嘿！你不认为房子充满了闪亮的白色家具是最好的吗？",
+            "总有一天我能买得起自己的船，然后在群星之中漫游探索。",
+            "我正寻找一个地球的合适替代品。但还没找到任何理想的选项！",
+            "我是一个宇宙拓荒者。我不断探索新的、令人激动的世界。",
+            "我是如此，如此热爱探索宇宙！",
+            "我喜欢把自己看成一个宇宙拓荒者。这并非是说我做了许多创举…",
+            "闪亮的白色家具：现代科技和复古艺术的并存。"
+        ]
+    }
+]

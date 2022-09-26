@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 문은 오래되고 중요해보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 으시시한 문 안좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 문의 칙칙함은 거의 그 자체야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 문은 오래됫다. 아니면 일부러 오래되게 만들었거나"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고딕풍 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우울한 나무로된 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "我喜欢色彩更自然一些的家具。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "把这放在地牢里会很合适，但出现在其他地方可就不那么协调了。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这扇门让我毛骨悚然。"
+    }
+]

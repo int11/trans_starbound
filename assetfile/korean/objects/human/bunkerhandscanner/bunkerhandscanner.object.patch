@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "손을 스캔하는 장치다. 내 손도 스캔해줄 것 같진 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "숀 스캔하는 장치. 플로란 숀 응답없다..."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지문 스캐너"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지문을 스캔한 뒤 개인정보에 대조한다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀 손이 이런 기기에 닿으면 기기가 개판이 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안들은 지문이 없다. 우리한텐 소용없는 보안장치다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "지문 스캐너. 안타깝게도 난 등록되어있지 않다. 항상 이런 걸 작동해보고 싶었지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지문 스캐너. 에이팩스 손보다 작네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분개. 생체 보안 장치는 특정 종족 입맛에만 맞춘 기기이다."
+    }
+]

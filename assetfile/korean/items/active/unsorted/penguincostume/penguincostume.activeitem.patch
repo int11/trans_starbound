@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "팽귄 코스튬"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진귀한 팽귄 코스튬들을 담고 있는 패키지."
+    }
+]

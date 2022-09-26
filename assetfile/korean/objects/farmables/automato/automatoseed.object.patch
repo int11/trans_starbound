@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오토마토는 짜릿한 금속 맛이 난다.."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "흔한 글리치 소작농의 음식. 내 취향은 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "오토마토다. 씨앗 자체로도 꽤 맛있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "나사로 가득찬 토마토다.  맛있지만 위험하다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "오토마토라.. 꽤 평범하다. 나사에 이빨이 부러지지만 않는다면."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "못마땅함. 다른 종족은 나사를 뺀다. 글리치는 그게 풍미를 돋군다고 생각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "다육질에 슈분 많고 바샥거린다. 인간처럼."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오토마토다! 나사는 꼭 뱉도록 하자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오토마토 씨앗"
+    }
+]

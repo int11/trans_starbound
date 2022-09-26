@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시계장치 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "언제나 너의 시간은 가고 있다."
+    }
+]

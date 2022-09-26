@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "손을 점유하지 않고 발광원을 재공하는 모험가의 필수품!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "등실 막대"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플로란 머리뼈 화석 (Floran Skull)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 플로란의 머리뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "식물로 이루어진 플로란은 뼈에 리그닌이 스며들어서, 나무와도 같은 외관을 가진다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "플로란 화석"
+    }
+]

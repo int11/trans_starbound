@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모랫빛 흙수염"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물고기는 단순히 실망해보이기 위해서 눈을 2개 더 가지도록 진화했다."
+    }
+]

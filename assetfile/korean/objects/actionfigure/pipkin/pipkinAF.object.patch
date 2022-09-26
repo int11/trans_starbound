@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "핍킨 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"친근한 표시에도 불구하고, 대부분 다른 핍킨과 상호 작용을 보이지 않는다.\"라고 적혀있다."
+    }
+]

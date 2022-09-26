@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진짜 독성 폐기물이 들어있다. 진짜로 이걸 등에 매려는 놈이 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유독성 폐기물 통"
+    }
+]

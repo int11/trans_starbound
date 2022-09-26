@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "재미. 최고점수를 얻기 위해 순서대로 버거를 뒤집는 건 지루한 일인데도 꽤 중독적이다. 10점 만점에 7점."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 게임은 추잡한 버거 영웅들이다. 왜 버거를 뒤집는 척만 할까? 홰?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "추잡한 버거 영웅들에서 좋은 점수를 따는 법은 반사신경을 최대한 곤두세우는 것 뿐."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "추잡한 버거 영웅들. 버거 뒤집는 게임이라! 이상하게 흥미진진하네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "추잡한 버거 영웅들은 버거를 뒤집는 게임이다. 나 버거 좋은데!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "추잡한 버거 영웅들은 어린애들을 바쁘고 또 재밌게 해주기 좋은 게임이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "고기 뒤집는 게임. 플로란 배고프다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주황 오락실 게임기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 기계는 '추잡한 버거 영웅들'라는 게임을 가동한다."
+    }
+]

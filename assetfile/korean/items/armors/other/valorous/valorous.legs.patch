@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "용맹한 정강이받이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "하이로틀 다리 갑옷이다. 사용하지 않은 지 수 년이 지나서 녹이 잔뜩 슬었지만 여전히 아름답게 제작되었다."
+    }
+]

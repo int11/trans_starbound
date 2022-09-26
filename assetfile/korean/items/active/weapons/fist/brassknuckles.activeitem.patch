@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 주먹을 푸는건 좀 힘들것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "브래스 너클"
+    }
+]

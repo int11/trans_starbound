@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바삭한 에이펙스의 요리다. 옥수수를, 당연하게도 바나나랑 같이 튀겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 튀김"
+    }
+]

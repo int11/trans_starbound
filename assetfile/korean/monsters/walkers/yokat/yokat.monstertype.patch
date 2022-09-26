@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "요캇"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자연스런 욕심과 교활함. 몰래 무언가 하는동안 방해하면 악마의 눈을 보여 준다."
+    }
+]

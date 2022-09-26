@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "꽃으로 만든 아름다운 왕관입니다. 완벽하게 하와이안 스타일이네요."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하와이안 꽃 왕관"
+    }
+]

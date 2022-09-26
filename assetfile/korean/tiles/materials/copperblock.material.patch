@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "구리 블럭, 뭐랄까 약간 톱니바퀴처럼 생겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 블럭의 톱니바퀴 모양을 보고있으니 즐겁군요."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "구리 블럭 기계 톱니바퀴처럼 섕겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 기어 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 구리 블럭은 별개의 기어같은 각인을 보유하고 있습니다."
+    }
+]

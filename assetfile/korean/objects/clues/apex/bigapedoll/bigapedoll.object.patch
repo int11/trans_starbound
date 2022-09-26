@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 인형 뭔가 심기를 불편하게 만드네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 인형 뭔가 심기를 불편하게 한다. 눈에 카메라가 달려있을 지도 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "멋있는 인형이긴 한데, 눈이 카메라일 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "인형 눈이 자꾸 깜박거리는데... 이거 분명 염탐장치일 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "잘 만든 빅 에이프 인형... 잠깐, 저거 눈알 혹시 카메라야?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "염려. 이 인형도 사실은 염탐장치의 일종일 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 인형 슈샹하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빅 에이프 인형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어딘가 수상한 빅 에이프 인형이다."
+    }
+]

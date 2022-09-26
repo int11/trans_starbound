@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오늘은 바람이 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀은 이거 비슷하게 물줄기를 측정하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안은 언제나 바람에 주의를 기울여야 해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "풍향계닭!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "바람이 부는 방향을 나타내는 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 잡동사니는 바람 방향을 측정한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바람 닭!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "풍향계"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아비안....혹은 닭."
+    }
+]

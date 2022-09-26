@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "방호용 공기 탱크, 하지만 텅 비어있어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "방호용 공기 탱크"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "칙칙한 판쵸와 어깨장구가 달린 검정색 상의이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도망자 가슴보호대"
+    }
+]

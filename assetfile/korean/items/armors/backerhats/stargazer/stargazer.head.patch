@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점성술사 복면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "마치 밤하늘의 별빛을 연상케한다."
+    }
+]

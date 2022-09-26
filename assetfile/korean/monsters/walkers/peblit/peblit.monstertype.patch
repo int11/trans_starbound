@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "페블릿"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몸에 비해 지나치게 큰 머리 탓에, 먼 거리를 오래 달리지 못한다."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/speedTitleLabel/value",
+        "value": "연사 속도"
+    },
+    {
+        "op": "replace",
+        "path": "/damagePerShotTitleLabel/value",
+        "value": "한 발당 피해량:"
+    },
+    {
+        "op": "replace",
+        "path": "/energyPerShotTitleLabel/value",
+        "value": "한 발당 에너지:"
+    }
+]

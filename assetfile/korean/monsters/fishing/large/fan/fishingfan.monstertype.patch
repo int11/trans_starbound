@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "피빛의 부채가리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 극피동물은 흥미로운 핑크빛 수족으로 장식된 물고기 같은 생물채로 위장한다."
+    }
+]

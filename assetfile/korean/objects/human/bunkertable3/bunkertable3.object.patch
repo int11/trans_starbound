@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "경고 딱지가 붙어있다. 발가락이라도 조심하라는건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "금속으로 만든 탁자야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "눈에 띄지도 않고 자세히 봐도 못생긴 탁자야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "집에선 안쓸거 같은 탁자인데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이렇게 산업적인 탁자라니."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 단단한 금속 탁자로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "금쇽 탁자 딱딱하고 견고해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큰 금속 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전투 전략을 세우고, 회의를 하고, 간식을 먹기 적합하다."
+    }
+]

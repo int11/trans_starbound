@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 글리프들이 이 돌을 덮고있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "글리프 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "着迷。我不知道这些符号意味着什么。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人无法理解符符符号。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些看起来挺老旧的符号。"
+    }
+]

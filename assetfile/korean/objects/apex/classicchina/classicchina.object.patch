@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 접시에 그려진 에이펙스는 훨씬 진화한 종으로 보인다. 왜 이런 그림이 이리 오래된 접시에 남아있는 거람."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "전시대에 접시가 한가득이다. 어떻게 꺼내야 할 지 감도 안 잡힌다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 그림들만 보고 판단하자면 에이펙스도 한때는 고귀한 종족이었던 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기 있는 에이펙스들은 털이 없다. 에이펙스가 확실하다는 전제 하에."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여기 있는 도자기엔 온통 털 없는 에이펙스 그림 뿐이네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "도자기에 유전자가 변질되기 이전의 에이펙스 그림이 그려져있다. 그 시절로 다시 돌아가기엔 우리 모두 너무 멀리 와버렸다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "웃긴 에이펙스다. 왜 접시 가둬놔? 도망칠 슈도 없을 텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 도자기 보관함"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "집 안에서 공놀이를 하면 안 되는 이유."
+    }
+]

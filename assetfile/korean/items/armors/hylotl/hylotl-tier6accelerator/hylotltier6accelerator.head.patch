@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 투구는 거품같은 디자인을 채용해서 넓은 시야를 확보해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표해생물 투구"
+    }
+]

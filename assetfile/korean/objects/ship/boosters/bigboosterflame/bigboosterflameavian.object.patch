@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "부스터다. 고장과 폭발이 있었지."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이게 얼마나 빨리 햄버거를 구워낼수 있을지 궁금한데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "추진체."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "부스터. 함선의 날개지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "연료를 먹어치우고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분석. 무언가를 측정하기엔 온도가 너무 높군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "무셔운 불."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부스터 플레임."
+    }
+]

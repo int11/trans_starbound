@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;누루^reset;에게 말을 걸어 ^orange;투기장^reset;로 이동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;관문기지^reset;에 있는 ^orange;누루^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "투기장 대전에서 승리하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이봐, 챔피언! 어떤 녀석이 나를 ^orange;검투사 토너먼트^white;에 초대하더라고, 하지만 내 생각엔 네가 대신 가야 될 거 같아. 준비가 됬다고 느끼면, ^green;나한테 와서 말을 걸면 내가 너를 첫 번째 경기를 할 수 있도록 보내줄게^white;!"
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "네가 샬아남았어! 네가 성공할줄 알았지. 잘했어, 챔피언!"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;도전자가 나타나다"
+    }
+]

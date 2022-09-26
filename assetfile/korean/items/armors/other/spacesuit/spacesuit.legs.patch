@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "우주복 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래된 형식의 우주복 바지다!"
+    }
+]

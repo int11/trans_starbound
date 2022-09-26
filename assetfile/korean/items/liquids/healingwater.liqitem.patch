@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "회복수"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "차갑고, 깨끗하며, 회복시켜주는 물이다. 마시면 몸이 회복될 것이다."
+    }
+]

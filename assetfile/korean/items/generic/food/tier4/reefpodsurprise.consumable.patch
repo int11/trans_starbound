@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암초구슬 깜짝스튜"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "짜잔! 예상보다 무지무지 시다구!"
+    }
+]

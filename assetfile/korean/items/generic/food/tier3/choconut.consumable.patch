@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초코넛"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "코코넛과 초콜릿의 맛있는 융합체가 도넛에 들어있다."
+    }
+]

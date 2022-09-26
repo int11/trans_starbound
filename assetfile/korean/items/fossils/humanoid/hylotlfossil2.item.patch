@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하이로틀 몸통 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 하이로틀 몸통이다."
+    }
+]

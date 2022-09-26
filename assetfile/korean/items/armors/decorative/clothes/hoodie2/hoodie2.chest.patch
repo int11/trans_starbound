@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "민소매 후드티"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "통기성이 좋고 편안한 민소매 후드티"
+    }
+]

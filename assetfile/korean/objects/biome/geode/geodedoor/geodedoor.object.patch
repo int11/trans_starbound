@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "윤이 나는 돌로 만들어진 큰 문."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 아름다운 돌이 유행을 이끄는 문이 될꺼야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "정동석 수정으로 문이 윤이 나."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "정동석 수정 덕분에 문을 열면 희미하게 빛이 나"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 무거운 돌은 초록색 정동석을 잘라 만들었군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "안심. 이 무거운 정동석 문으로 원치않은 손님을 쉽게 못 들이게 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 돌로 만든 문이야"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정동석 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 정동석의 단면을 조각해 만든 문이다."
+    }
+]

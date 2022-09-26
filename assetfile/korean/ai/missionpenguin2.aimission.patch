@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "병기 실험실 재도전"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/buttonText",
+        "value": "병기 실험실"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/selectSpeech/text",
+        "value": "무기 제작자 비기가 당신에게 도움을 요청했습니다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "얇은 황금 꽃병이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "얇은 황금 꽃병이다. 값이 좀 나갈지도."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "확신. 얇은 황금 꽃병이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "꽃병이 금으로 되어 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "앏은 황금 꽃병"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "호리호리한 황금 꽃병이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一个黄金细长花瓶。太奢侈了。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "一个细长的金色花瓶能作为一个很有吸引力的装饰物。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这个细长黄金花瓶会让我的船看起来更华丽。"
+    }
+]

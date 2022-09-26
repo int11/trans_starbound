@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "평상시에 쓰고 다니기 좋은 가발이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아주 정교한 가발"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "칼날과 같은 날카로운 깃털들로 만들어진 인상적인 날개다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "칼날 날개"
+    }
+]

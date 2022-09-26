@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 물건은 오래 전에 망가졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "터빈, 오래됬고 부숴졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이건 터빈... 이었던 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "낙담. 이 터빈은 완전히 부숴졌군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 기계. 작동 안 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래 전에 맛이 간 터빈이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "부숴진 터빈"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "망가진 터빈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "망가진 터빈, 완전히 작동하지 않는다."
+    }
+]

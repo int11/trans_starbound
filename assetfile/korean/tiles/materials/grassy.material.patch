@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "풀로 덮인 잔디 지붕이네, 단순함에 대해선 뭔가 괜찮은 걸."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매력. 이 잔디 지붕은 살아있는 풀을 갖고있는 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 풀로 덮인 잔비 지붕 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자라나는 잔디의 잔디 지붕 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잔디 블록"
+    }
+]

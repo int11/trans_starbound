@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "클루엑스 지팡이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강력한 지팡이로 전사들을 붇돋는게 사용된다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "克鲁西斯法杖^yellow;^reset;"
+    }
+]

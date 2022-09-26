@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "플로란 가구에는 흔치 않게 이 책상엔 뼈가 하나도 보이지 않네."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플로란 부족의 원예가의 것으로 보이는 책상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "원예가 말고 다른 플로란한테 책상이 쓸모가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란 가구에 뼈가 없다니? 거기다 책상에서 글을 쓰기까지! 드디어 말이 통하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "지금까지 플로란이 책상에서 일하는 모습을 한번도 상상한적 없는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "플로란의 책상이야. 플로란이 책상을 쓸만한 일이 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 다음 샤냥 계획할 때 책샹 쎠. 플로란 집중 안되면 안되니까 책샹엔 뼈 없어. "
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무덤덤. 평범한 나무 책상이오."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 책상"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어둠의 망토"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그림자를 선호하는 사람들을 위한 심야의 망토입니다."
+    }
+]

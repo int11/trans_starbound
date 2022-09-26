@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "외눈박이 설인으로 만든 몸체."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외눈박이 설인 셔츠"
+    }
+]

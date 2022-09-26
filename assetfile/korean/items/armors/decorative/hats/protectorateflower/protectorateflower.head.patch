@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 꽃"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우리가 기억하는 이상, 우리가 진정으로 잃어버린 건 없을것이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사마귀풀 스튜"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사마귀풀과 각종 야채를 넣고 끓인 걸쭉한 스튜이다."
+    }
+]

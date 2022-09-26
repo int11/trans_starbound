@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프로그 몸통"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 프로그의 몸통뼈"
+    }
+]

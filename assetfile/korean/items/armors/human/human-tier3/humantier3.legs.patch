@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "개척자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뒤쪽에 편리한 플랩이 장비된 티탸늄 바지."
+    }
+]

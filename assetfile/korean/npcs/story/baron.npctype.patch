@@ -1,0 +1,139 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/alerted/default/default/2",
+        "value": "결단. 알겠네. 거래를 제안하지. 저 징글징글한 광신도들을 처리해주거든, 내 그대에게 저 반짝이는 거시기를 주도록 하겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/alerted/default/default/1",
+        "value": "저 두건쓴 부랑쟁이들! 또 왔어! 이번만 벌써 네 번째야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/alerted/default/default/0",
+        "value": "동요. 자네도 들었나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/3",
+        "value": "아연실색. ..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/2",
+        "value": "충격. 하늘에 저건 또 뭔가?!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/1",
+        "value": "그대 거시기는 확실하게 챙겨주겠네!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/0",
+        "value": "감명. 훌륭하게 해냈네! 더 이상 저들이 또 날 찾아와서 귀찮게 할 일은 없을 것 같군... 흠. 자네에게서 왕년의 내가 보이는구만."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/beamOut/default/default/0",
+        "value": "고무. 위대한 미지의 세계로!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/start/default/default/2",
+        "value": "주의. 뭐지? 요구사항이 있다고? 내 뒤에 있는 거 말인가? 아, 저거..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/start/default/default/1",
+        "value": "그대를 기다리고 있었지... 저 대문을 통해 들어올 때부터 말일세! 하 하 하!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/start/default/default/0",
+        "value": "상냥. 내 성채에 당도한 것을 환영하오, 낯선 이여!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/missionComplete/default/default/2",
+        "value": "사색. 거기다, 여긴 꽤 지겹기도 하고."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/missionComplete/default/default/1",
+        "value": "내게 그대가 쓸 수 있는 텔레포터가 있네. 내 그대와 동행하지. 이 사업은 좀 고려할 게 있어서 말이네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/missionComplete/default/default/0",
+        "value": "자극. 이 유물과 함께 이 몸을 데려가게나."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/showRelic/default/default/1",
+        "value": "고압. 그럼! 잘 있게, 낯선 이여!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/showRelic/default/default/0",
+        "value": "그래, 몇 년 전에 찾아낸 물건이지. 자네에게 줄 순 없네. 되게 이뻐서 마음에 들거든."
+    },
+    {
+        "op": "replace",
+        "path": "/npcname",
+        "value": "拜隆"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/start/default/default",
+        "value": [
+            "友善。你好，陌生人！欢迎光临我的城堡！",
+            "我一直在等待着你的到来…从你穿过大门的那一刻开始！哈哈哈！",
+            "注意。那是什么？你有个请求？我后面那件东西？哦，那个啊…"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/showRelic/default/default",
+        "value": [
+            "没错，我在若干年前找到了它。你不能拿走它；它很漂亮，我也很喜欢它。",
+            "傲慢。好啦！再见吧，陌生人！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/alerted/default/default",
+        "value": [
+            "警觉。你听到了吗？",
+            "那些穿斗篷的混混！又回来了！这都第四次了！",
+            "决定。这样，我们来做笔交易；你帮我摆脱掉这些可恶的邪教徒的话，我就把这个闪亮的饰品给你。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default",
+        "value": [
+            "难忘。真是出色的表现！我还怀疑我又要遭受一次他们的旧地重游呢…唔，你让我想起了我风华正茂的时候。",
+            "你当然已经赢得了你的饰品！",
+            "震惊。天上那东西是什么？！",
+            "无语。…"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/missionComplete/default/default",
+        "value": [
+            "鼓舞。带上这个神器，也带上我吧。",
+            "我有个你能用的传送门。我会和你一起过去，我觉得这笔交易需要梳理一下。",
+            "沉思。而且，这里太无聊了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/baron/beamOut/default/default",
+        "value": [
+            "振奋。向着伟大的未知出发！"
+        ]
+    }
+]

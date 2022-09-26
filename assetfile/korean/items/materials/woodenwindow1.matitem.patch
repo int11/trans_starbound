@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무 테두리로 이뤄진 창문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 창문"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "高兴。这窗子使房间变得明亮起来了。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "不错的窗窗窗子，叶族人可以看到外面的风景。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "好看的木框窗子。"
+    }
+]

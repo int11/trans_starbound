@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "적들에게 가차없이 시간이 가고 있음을 되세기게 해주는 모자이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시계장치 모자"
+    }
+]

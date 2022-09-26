@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "허리에 찰 수 있는 끈이 달려있는 큰 장식된 작은 칼"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥꾼의 작은 칼"
+    }
+]

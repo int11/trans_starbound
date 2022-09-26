@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 톱니바퀴"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "톱니바퀴임."
+    }
+]

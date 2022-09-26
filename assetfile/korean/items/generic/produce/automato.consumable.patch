@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오토마토다! 나사는 꼭 뱉도록 하자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오토마토"
+    }
+]

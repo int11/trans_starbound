@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사암으로 만든 벽돌이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "통찰. 이 벽돌은 단단한 사암으로 만들어졌군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "튼튼한 샤암 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매끄러운 사암으로 만든 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사암 벽돌"
+    }
+]

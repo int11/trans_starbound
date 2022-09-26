@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "얼음 뭉치네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 자연적으로 얼은 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "무지 차가운 단단한 얼음"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 얼음,  만지면 간지럽다."
+    }
+]

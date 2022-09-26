@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여섯 종족이 뭔갈 들고 있어. 왜 우리네랑 비슷한 건 없는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여섯 종족이 중요한 아이템을 들고 있는 모습이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "야 봐봐, 제일 위에 인간이 있어! 가라!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "여섯 종족이 중요해보이는 물건을 들고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 우주에서 자각있는 여섯 종족을 묘사했다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란이 최고 종족이야! 전부 찔러버려!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 홀로그램"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신화 장면을 묘사한 고대 홀로그래픽."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我想知道这六个种族的重要性？"
+    }
+]

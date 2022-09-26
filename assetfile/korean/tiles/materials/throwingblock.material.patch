@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "어떤 블록들은 그냥 던지라고 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 어떤 힘이 이 블록을 한 자리에 붙잡고 있는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 블록 던지는거 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "표면에 붙는 작은 던지기 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "던지기 블록"
+    }
+]

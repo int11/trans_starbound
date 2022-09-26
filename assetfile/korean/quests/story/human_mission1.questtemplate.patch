@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;아웃포스트^white;에 있는 ^orange;조선소 선장^white;에게로 ^green;돌아가세요^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/missionRadioMessage/text",
+        "value": "방금 ^orange;에르키우스 채광 시설^reset;의 좌표를 전송받았습니다. 만약 ^green;함선으로 돌아오시면^reset; 제 콘솔을 이용해서 그곳으로 갈 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findCrystals",
+        "value": "^orange;에르키우스 채광 시설^white;에서 ^orange;에르키우스 수정^white;을 ^green;가져오세요^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "내가 그 함선을 수리할 수 있지. 하지만 20개의 ^orange;에르키우스 수정^reset;이 필요하네... 그것을 ^green;에르키우스 채광 시설에서 직접 구해오는게 좋을걸세.^reset;. 내가 ^green;자네 함선의 SAIL에^reset;위치를 담은 좌표를 전송했으니 확인해보게나."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "완벽하네! 이제 저들도 작업을 할테니. 내가 먼저 가서 자네 함선을 수리해주겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questStarted/title",
+        "value": "펭귄 피트"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "펭귄 피트"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "에르키우스 채광 시설"
+    }
+]

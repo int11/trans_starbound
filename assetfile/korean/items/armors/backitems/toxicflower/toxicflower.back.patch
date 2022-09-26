@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 독성 꽃이 빛을 에너지로 전환시킨다. 왜 이걸 안입으려 하는거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "독성 꽃 등 장식"
+    }
+]

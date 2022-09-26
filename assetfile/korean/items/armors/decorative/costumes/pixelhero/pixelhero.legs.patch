@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오로지 선택받은 자만이 입을수 있다고 하는데...?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "픽셀 히어로 바지"
+    }
+]

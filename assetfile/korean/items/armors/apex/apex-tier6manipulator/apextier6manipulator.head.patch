@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정부를 뒤엎고 싶어 하는 어둠 속의 사람들에게 어울리는 후드와 마스크이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "찬탈자의 후드"
+    }
+]

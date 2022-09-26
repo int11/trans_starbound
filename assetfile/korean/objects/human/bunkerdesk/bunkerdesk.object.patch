@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "화면이 책상에 박혀 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "내장형 모니터라. 기술과 편리성의 적절한 조합이군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "모니터가 내장된 평범한 책상이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 모니터는 책상에 내장되어 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "화면이 고정된 책샹."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 책상은 모니터가 내장되어 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "냉소. 내장형 전자기기는 동급의 분리형 기기만 못하지. 물론 글리치의 경우는 예외일세."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속 사무실 책상"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모니터가 내장된 사무실 책상이다. 누군가 코딩을 하는 중인것 같아 보인다."
+    }
+]

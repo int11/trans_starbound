@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "휴대용 보일러, 이동하면서 충전된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보일러"
+    }
+]

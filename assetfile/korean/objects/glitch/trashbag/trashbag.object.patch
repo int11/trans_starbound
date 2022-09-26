@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "쓰레기봉투,  여기선 전혀 쓸모가 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "무심히 버리고 간 폐기물 봉투군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "불필요한 물건들이 담긴 봉투다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "그냥 또 쓰레기봉투군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 쓰레기봉투."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "쓰레기봉투다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쓰으으으레기 날!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "쓰레기봉투"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "쓰레기봉투다. 쓰레기가 한 무더기야."
+    }
+]

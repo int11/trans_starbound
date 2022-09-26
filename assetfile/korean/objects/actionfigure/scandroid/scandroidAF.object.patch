@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스캔드로이드 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"스캔드로이드는 끝나지 않는 검색을 하고 있다. 아무도 그게 무엇을 위한 건지는 모른다.\"라고 적혀있다."
+    }
+]

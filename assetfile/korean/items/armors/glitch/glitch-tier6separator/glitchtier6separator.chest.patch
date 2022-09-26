@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 금도금 된 흉갑은 전쟁에 정통한자의 가슴을 장식한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파멸기사의 흉갑"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 옥좌는 불편해보이는군.  또 거의 사용되지 않은걸로 보아 그저 권력의 과시용인 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "새인간들의 의자로 멋진 플로란 트로피를 만들지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 옥좌"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "별관측자들의 옥좌야. 별관측자들 마다 수호할 신전을 할당받지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 의자는 돌로 만들어졌네. 엄청 불편해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "클루엑스를 위해 전문적으로 제작된 옥좌다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "옥돌 옥좌군. 하하, 이 말장난 괜찮은데?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "조각품으로 뒤덮인 옥좌라. 멋지군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기분좋음.글리치 지도자도 옥좌에 앉았지."
+    }
+]

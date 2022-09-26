@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전선 모드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "입력 지점 사이에 광학 전선을 설치할 수 있다. ^green;[T] 키로 빠르게 선택 할수 있다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "해저에선 이런 도구들은 쓸모가 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여러 도구들이 달려있네.  음, 이건 삽인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "땅에 의존해서 살아가는 자들을 위한 도구로군."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "用来完成各种繁重农活的铲子、耙子和扫帚。"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "耕作工具"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "用来处置植植植物的工工工具。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "怀念。很多普通的电子人都过着农民的生活。而这些是他们用来工作的工具。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "耕作工具。但是地球上的农业基本上都是自动化的。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "耕作工具。什么都不能阻止你的双手变脏！"
+    }
+]

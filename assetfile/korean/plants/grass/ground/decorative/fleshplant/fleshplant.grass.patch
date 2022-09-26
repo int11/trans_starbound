@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 살덩이의 소구체이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샬코기!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살점의 소구체이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "살점의 소구체이다."
+    }
+]

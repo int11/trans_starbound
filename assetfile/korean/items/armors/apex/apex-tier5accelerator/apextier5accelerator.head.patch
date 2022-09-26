@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "착용자의 얼굴을 숨기고 신비로운 분위기를 연출하는 후드로 은밀한 작전에 완벽하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "변졀자의 후드"
+    }
+]

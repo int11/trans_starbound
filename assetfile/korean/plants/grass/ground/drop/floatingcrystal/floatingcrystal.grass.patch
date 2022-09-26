@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "당황. 수정이 떠있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝이 붕 떠있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "신비한 공중부양 수정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신비한 공중부양 수정이다."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 얇은 고드름."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "얇고 뾰족한 얼음!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얇은 고드름."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얇은 고드름."
+    }
+]

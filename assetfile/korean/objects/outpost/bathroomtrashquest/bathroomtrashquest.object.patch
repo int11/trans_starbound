@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "역겨운 쓰레기들."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "쓰레기."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "쓰레기를 버려야지!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "쓰레기밖에 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무감명. 쓰레기."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "야 쓰레기! 작은 바나나 맛을 보여주마!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "그냥 쓰레기."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화장실 쓰레기 통"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "쓰레기, 온통 쓰레기. 아니면 쓰레기일까? 정답: 그렇다."
+    }
+]

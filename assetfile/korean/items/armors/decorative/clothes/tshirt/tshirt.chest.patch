@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "평범한 면 티셔츠다. 언제 어디서나 입어도 적절하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "평범한 티셔츠"
+    }
+]

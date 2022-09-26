@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "농사를 시작하려면, 먼저 땅을 경작할 방법을 찾아야돼.^green;구리 주괴와 몇개의 목재를^orange; 사용해서 괭이를 만들자^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "이거면 될거야! 이것과 물뿌리개만 있으면 농사를 할 수 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;괭이를 찍을 시간"
+    }
+]

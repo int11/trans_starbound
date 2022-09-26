@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "죽은 생물의 조각으로 만들어진 끈적끈적한 벌집 조각"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벌집 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "反感。这蜂巢的主要成分是生物的碎尸。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "动物碎碎碎尸制成的蜂巢。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些小动物的碎尸组成的蜂巢。"
+    }
+]

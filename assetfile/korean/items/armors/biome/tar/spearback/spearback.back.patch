@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전시용 창을 등에다가 맨다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "치장용 창"
+    }
+]

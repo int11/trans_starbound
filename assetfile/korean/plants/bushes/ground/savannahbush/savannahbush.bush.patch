@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 죽고 건조해서 잘 부스러지는 수풀이라오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "죽은 슈풀."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잘 부스러지는 죽은 수풀."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잘 부스러지는 죽은 수풀."
+    }
+]

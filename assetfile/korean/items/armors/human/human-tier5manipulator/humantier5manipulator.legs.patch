@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모든 무릎 활동을 위해 준비된 패로지움 무릎 보호대."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선구자의 각반"
+    }
+]

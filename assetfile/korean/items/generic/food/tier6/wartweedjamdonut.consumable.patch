@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 기분 나쁜 도넛을 장식하는데 많은 것을 낭비했다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사마귀풀 잼 도넛"
+    }
+]

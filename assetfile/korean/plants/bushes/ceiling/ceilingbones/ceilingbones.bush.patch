@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 벽걸이 뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뼈어"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벽걸이 뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "벽걸이 뼈"
+    }
+]

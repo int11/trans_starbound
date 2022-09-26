@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뚜렷하게 기어 처럼 만들어진 기어블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 기어 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "高兴。我发现这些齿轮块的形状令人愉快。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "这些铜块块块长得像机械齿齿齿轮。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "铜块，它们看起来有些像齿轮。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "듀라스틸 실로 엮어진 가죽들로 만들어진 스커트다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥꾼의 스커트"
+    }
+]

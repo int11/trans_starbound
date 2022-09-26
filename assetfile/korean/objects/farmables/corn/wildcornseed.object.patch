@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "옥수수는 많은 형태로 즐길수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "일반적으로, 독특한 맛이 없는 간식으로 메리트가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달고 노란 옥수수."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "옥수수 열매를 쪼아먹는건 대단한 간식이지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "단 옥수수의 꾸준한 보급은 멋진 일이지, 불변의 법칙이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "옥수수. 바나나처럼 보이지만, 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의심. 글리치가 옥수수를 먹을 시, 이는 안에서 튀겨질 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "딱딱한 노란색 옥수수. 요리할 시 팝콘이 될 거시다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "옥수수 씨앗"
+    }
+]

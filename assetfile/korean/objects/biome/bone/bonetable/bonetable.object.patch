@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 보기엔 무시무시한 해골 제단같이 생겼는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "죽음에서 태어난 탁자라. 수많은 육체가 이곳에 뼈를 묻었음은 지당한 사실이겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "잊고 싶었던 희생용 제단을 떠오르게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "멋있네! 무시무시한 탁자. 항상 하나 갖고 싶었는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "다리를 뻗을 만한 공간이 없구만."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 탁자 표면에 칼자국이 잔뜩 새겨져있다. 덕분에 훨씬 악랄해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 탁자에셔 고기 자른다. 탁자 준비 됐다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "소름끼치는 뼈 탁자다. 탁자라기보단 희생 제단처럼 생겼다. 피크닉에 제격."
+    }
+]

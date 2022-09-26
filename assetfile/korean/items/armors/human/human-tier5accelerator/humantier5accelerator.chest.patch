@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선봉대의 방탄조끼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전쟁터에서의 성적으로 선정된 이 방탄 조끼는 지금까지 수많은 생명을 구했다고 한다."
+    }
+]

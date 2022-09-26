@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "튼튼해보이는 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "간단하면서도 강인한 통풍시설이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "통풍시설이라. 순풍이 깃털을 흩날리는 게 느껴진다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "일반적인 통풍구."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "확인. 통풍구."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "통풍구!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "통풍구처럼 생겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "창살이 있는 통풍구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "창살이 있는 작은 통풍구다."
+    }
+]

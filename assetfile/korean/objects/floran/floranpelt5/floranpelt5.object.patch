@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 모피는 새끼의 것이야. 더더욱 걱정되는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아름답고 어린 짐승의 털가죽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 플로란에게 사냥당한 어린 동물의 모피다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "어린 눈짐승 모피 플로란한테 쇼중해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 흰색 모피"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "예쁜 동물이야. 아니면 예쁜 동물이였거나."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "무늬가 있는 동물 가죽이야. 이 동물은 꽤나 어렸었겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 털가죽은 새끼의 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈 덮인 곳에 사는 작은 동물의 모피다."
+    }
+]

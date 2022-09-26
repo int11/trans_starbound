@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/destinations/0/name",
+        "value": "함선으로 돌아가기"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/1/name",
+        "value": "코이치의 박물관"
+    },
+    {
+        "op": "replace",
+        "path": "/bookmarkName",
+        "value": "前哨站—2站传送商店"
+    }
+]

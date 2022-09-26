@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단순하고,  우아한 디자인의 텅스텐 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "연못 흉갑"
+    }
+]

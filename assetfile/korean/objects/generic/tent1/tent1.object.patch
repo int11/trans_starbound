@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "넓지는 않지만, 잘 수는 있을 거 같네."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초록색 원형 텐트"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "나는 텐트에서 자는 걸 자랑스러워 하지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "임시 처소."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "나는 아이 때 캠핑을 즐겼지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "간단한 텐트. 충분하네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "초조. 방이 너무 작소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "작은 초록섁 집이네."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기본적인 텐트입니다. 우주곰들을 조심하세요!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주조 공장 Or 스위치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一个‘或’逻辑门。允许你有多个独立的输入。"
+    }
+]

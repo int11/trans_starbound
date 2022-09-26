@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "용머리 피스톨"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "불타는 천성의 피스톨. 용이 여기 있다."
+    }
+]

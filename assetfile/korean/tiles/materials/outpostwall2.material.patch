@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "두꺼운 벽 형식은 극한의 요소에서 노출되기 위해 개발됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그 무엇도 이 두꺼운 벽을 옴기진 못해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족.  그 무엇도 구조적으로 보강된 벽을 움직일 수 없을테지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 벽 엄청 강하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "관문기지 두꺼운 벽"
+    }
+]

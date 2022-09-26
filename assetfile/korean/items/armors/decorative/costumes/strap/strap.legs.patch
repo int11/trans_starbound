@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "다리 붕대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "다리를 붕대같은걸로 묶는다. 뭔가 안 입은듯한 느낌이야!"
+    }
+]

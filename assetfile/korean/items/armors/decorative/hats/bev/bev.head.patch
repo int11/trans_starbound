@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "미지의 원리로 편리하면서도 살을 찌개 하는 모자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "브류마스터 모자"
+    }
+]

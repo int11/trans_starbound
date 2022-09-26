@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 빛나는 버섯."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "예쁜 버섯이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빛나는 버섯"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "발광하는 버섯이다. 독이 있을거야."
+    }
+]

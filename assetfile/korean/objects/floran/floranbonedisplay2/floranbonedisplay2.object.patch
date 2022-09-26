@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "대체 왜 이런 짓거리를 하는지 이해가 안가. 조각은 사냥에 관한 무언가를 암시하는 것 같긴 한데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "조각이 이 불쌍한 생물을 사냥하는데 적어도 한 명 이상의 플로란이 죽었다고 말해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 뼈의 조각은 영웅적인 사냥 이야기를 보여주고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "조각이 전설적인 사냥이 있었다고 말해주는군. 저 뼈가 사냥감에서 온건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "플로란들의 사냥 이야기가 뼈에 아로새겨져 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "심란. 이 뼈의 조각들은 사냥의 이야기를 말해주오. 그 플로란은 죽은 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란이 샤냥에서 죽으면, 샤냥감의 뼈에 샤냥꾼들의 마지막 샤냥 이야기가 조각돼."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "야만적인 플로란들의 이야기가 뼈에 아로새겨져 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 조각"
+    }
+]

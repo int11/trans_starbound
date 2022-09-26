@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "볼팁 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"과학 실험 실패의 산물이다.\"라고 적혀있다."
+    }
+]

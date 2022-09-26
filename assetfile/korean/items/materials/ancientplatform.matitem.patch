@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 난간"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기술적으로 제작된 바위로 이루어진 고대의 난간입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "困惑。我不明白制造这种古老的平台所用的科技。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "用奇奇奇怪的科技制造的平台。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "看起来制作这种平台使用了一些奇怪的科技。"
+    }
+]

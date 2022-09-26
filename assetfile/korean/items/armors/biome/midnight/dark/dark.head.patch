@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 마스크의 재료는 순수한 어둠을 배출한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어둠의 마스크"
+    }
+]

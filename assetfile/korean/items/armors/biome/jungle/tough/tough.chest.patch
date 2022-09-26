@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "근육질 상의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "근육질 스타일의 근육 슈트다!"
+    }
+]

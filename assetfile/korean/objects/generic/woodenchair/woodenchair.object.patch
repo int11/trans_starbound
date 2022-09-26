@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 의자를 편안하게 만들라면 약간의 수고가 필요하겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "거친 나무 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 안락감 불편."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "의자에 베게 필요해. 이 나무 너무 거칠어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 오래 못 앉겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "매우 간단한 나무 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "불편해 보이는 나무 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "난 이런 간단한 목공품의 팬이야."
+    }
+]

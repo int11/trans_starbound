@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진짜로 사람의 해골이다. 아, 불쌍한 요릭!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "인간 머리뼈 가면"
+    }
+]

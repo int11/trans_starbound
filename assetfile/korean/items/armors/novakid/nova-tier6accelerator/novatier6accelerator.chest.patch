@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위험한 모험을 계획하나? 이 도박꾼의 조끼가 함께 할꺼야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도박꾼의 조끼"
+    }
+]

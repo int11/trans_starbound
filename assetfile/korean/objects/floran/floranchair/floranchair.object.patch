@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "플로란 가구중에 플로란의 뼈로 만든게 있는지 궁금한데. 플로란들이 뼈가 있긴 한거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이게 의자면 이 정도로 뾰족하진 않을텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "의자 위의 뼈들... 죽음은 정말로 플로란들의 생활 구석구석에 녹아 들어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "뼈 부분이 날카로워보여. 이 위에 앉긴 싫은데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "나무와 뼈로 만든 평범한 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무심. 전형적인 플로란식 설계로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 뼈 낭비 안해. 작은 뼈더라도 모으면 의자를 지탱할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뼈를 강조한 단순한 목제 의자다."
+    }
+]

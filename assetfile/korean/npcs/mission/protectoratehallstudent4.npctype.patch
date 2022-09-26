@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "그렇게 나빠보이지는 않네. 방금 막 일어났는데도 말이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "혹시 SAIL의 알람이 울리는걸 그냥 무시하고 잔거야? 참 너 답다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕 <entityname>! 방금전까지 네가 올지 안올지 생각하고 있었어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "嘿<entityname>！我正好奇你是否会上台发言呢。",
+            "你居然没有被S.A.I.L.的闹钟吵醒，真是服了你了。",
+            "你看上去有点糟糕，仅仅只是因为你才刚刚睡醒！"
+        ]
+    }
+]

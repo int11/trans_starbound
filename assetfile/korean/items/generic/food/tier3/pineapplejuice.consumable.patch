@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달고 맛있는 파인애플 주스다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파인애플 주스"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 텅스텐 투구, \"옛날 같이 만들지 않아\" 라고 말하는 사람이 있다면 보여줘서 반박하자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "병사의 투구"
+    }
+]

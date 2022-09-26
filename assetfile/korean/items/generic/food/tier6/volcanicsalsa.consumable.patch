@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화산맛 살사 소스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과일과 채소로 만들어진 이 불타는 살사는 제대로 열받게 해준다!"
+    }
+]

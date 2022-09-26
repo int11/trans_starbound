@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "동그랗게 생긴 개그 코입니다. 그다지 재미있지는 않습니다만."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "개그 코"
+    }
+]

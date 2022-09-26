@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 살은 꽤 끔찍하게 생겼네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 살덩이는 맥동 하고 있는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "물컹하고, 끈적한 살."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살 더미"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우엑, 살아있는 것같은 물체다!"
+    }
+]

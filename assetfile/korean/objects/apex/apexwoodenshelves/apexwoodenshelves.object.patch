@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안 고향에는 좋은 기억을 상기시켜주는 용도로 이런 물건을 장식하곤 했다. 여기엔 그런 거 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 선반엔 개성이고 뭐고 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "텅 빈 선반이다. 장식품이나 기념품이 오길 기다리고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "우주의 돌덩이마냥 황량하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "비었네... 슬프다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지루. 재밌는 건 하나도 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 볼 거 없다. 다른 거 샬펴봐야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표준 규격 책꽂이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "책꽂이가 비어있다."
+    }
+]

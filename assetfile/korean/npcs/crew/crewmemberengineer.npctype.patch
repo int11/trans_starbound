@@ -1,0 +1,19 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/crew/role/name",
+        "value": "工程师"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/crew/role/field",
+        "value": "工程学"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default",
+        "value": [
+            "我会将你的引擎保养在良好的状态。推进速度提高25%！"
+        ]
+    }
+]

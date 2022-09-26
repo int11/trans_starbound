@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "트릭터스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "땅을 파서, 적은 양의 수분을 섭취하며 산다."
+    }
+]

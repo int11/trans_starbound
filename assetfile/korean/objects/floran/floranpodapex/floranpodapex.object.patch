@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 에이펙스는 살아 있고, 자발적으로 여기에 들어온 것으로 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 에이펙스 살아 있는거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "에이펙스가 정말로 이상한 장소에 숨었군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "비극적인 결말이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "내 생각엔... 아직 살아있는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이게 무슨... 이 에이펙스한테 무슨 일이 일어난거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스가 갇힌 꼬투리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에이펙스와 아가란은 잘 맞지 않는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人不想讨论这这这个。"
+    }
+]

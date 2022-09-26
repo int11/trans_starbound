@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "광원 목줄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "애완동물이 빛을 내게 하는 목줄이다."
+    },
+    {
+        "op": "replace",
+        "path": "/collar/displayName",
+        "value": "发光"
+    }
+]

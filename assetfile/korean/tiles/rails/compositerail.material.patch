@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 레일이 만들어진 재질 덕분에 매우 강력하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좀 튼튼하게 생긴 레일이군, 타고싶어 몸이 근질 거리네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝거리는 금쇽 레일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "복합 레일"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강한 강화 레일."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수수께끼의 반짝이는 물질로 만든 고대의 망토."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전부 보는 망토"
+    }
+]

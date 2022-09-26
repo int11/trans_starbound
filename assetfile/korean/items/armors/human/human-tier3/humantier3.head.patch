@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "개척자의 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개척자의 세끈한 티타늄 투구."
+    }
+]

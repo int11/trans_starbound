@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "방울."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 방울."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "방울 터트린다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "방울."
+    }
+]

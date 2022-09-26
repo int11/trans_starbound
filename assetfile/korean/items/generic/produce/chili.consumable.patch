@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고추"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사람에겐 많이 맵고, 다른 종족들에겐 진짜 엄청 많이 맵다."
+    }
+]

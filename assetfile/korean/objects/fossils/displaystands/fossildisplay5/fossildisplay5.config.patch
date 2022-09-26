@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/dragDrop/value",
+        "value": "화석을 삽입하세요."
+    }
+]

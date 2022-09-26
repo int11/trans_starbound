@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 에지솔트 핼맷은 가볍고 튼튼하다. 그리고 녹색은 언제나 모두에게 선호받지!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선봉대의 투구"
+    }
+]

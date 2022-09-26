@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "왕큰 테크 칩 쪼가리 홀로그램이네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "테크카드를 묘사한 홀로그래픽."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "테크카드 홀로그래픽."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "엄청난 테크카드 홀로그램. 이거 통과해서 지나갈 수 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "테크카드 홀로그램."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 홀로그램이 커다란 테크카드를 렌더링하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "대박 큰 테크카드 그림이 떠있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기술 연구소 접속 장치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기술 연구소의 홀로그램 장치."
+    }
+]

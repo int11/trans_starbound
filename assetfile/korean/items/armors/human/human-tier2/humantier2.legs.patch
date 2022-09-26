@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "회수자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 회수자의 바지는 여러 겹의 보호단을 쌓아 엮었다."
+    }
+]

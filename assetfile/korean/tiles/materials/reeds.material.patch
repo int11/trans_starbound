@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "한꺼번에 엮어놓은 갈대군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 튼튼한 블록은 갈대를 촘촘하게 짜서 만들어졌군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 튼튼한 갈대 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "갈대를 촘촘하게 짜 만든 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "갈대 블록"
+    }
+]

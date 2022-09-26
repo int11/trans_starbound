@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "주의깊은 군사를 보호하기 위해 제작된 흉갑."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "신전기사의 흉갑"
+    }
+]

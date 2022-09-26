@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "바람의 휘파람은 여전히 지나가고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "날개가 녹슬었어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "녹슬고 오래된 팬. 간신히 돌고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "음울. 한 때는 신선한 공기를 공급했겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "환풍기 날개가 멈춰있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "망가진 환풍기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "낡은 환풍기에서 삐걱임에 지나지 않는 퀴퀴한 공기가 흘러나온다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "낡고 망가지고, 이 환풍기는 공기순환을 안한지 오래야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "싹 다 녹슬었어. 좋을 거 하나 없지."
+    }
+]

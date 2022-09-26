@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "페닉스 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"자신의 꼬리를 쫓을때 가끔 실수로 불을 붙일 수 있다.\"라고 적혀있다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파스티"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전통적인 지구의 파스티로 지하에서 먹기 위해 만들어졌다고 한다."
+    }
+]

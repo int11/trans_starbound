@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 편리한 장치는 복사기에 더 많은 것들을 추가한다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 장치는 복사기에 원거리 장비와 갑옷을 추가하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이걸로 복제기에 장비와 갑옷을 추가할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이걸 쓰면 복사기에 원거리 장비와 갑옷을 추가할 수 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "정말 유용하겠군. 이것은 복사기에 원거리 장비와 갑옷을 추가한다. "
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기대. 이 장치를 쓰면 복사기에 원거리 장비와 갑옷을 추가할 수 있겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이결 써서 복사기에 물견을 추가할수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^orange;가속 부속 장치^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 장치를 복제기에 장착하면 원거리 전투 장비들을 복사할 수 있게 된다."
+    }
+]

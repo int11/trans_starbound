@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주조소 직공장 팩"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대량의 장비를 들고 다닐수있도록 도와주는 뾰족한 배낭."
+    }
+]

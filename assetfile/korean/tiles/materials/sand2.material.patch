@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "엄청 부드러운 모래."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 모래는 굉장히 곱고 촉감도 부드러운 듯 하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "먼지투셩이 모래다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모래"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부드럽고 따뜻한 모래다."
+    }
+]

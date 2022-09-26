@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 선인장."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뾰족뾰족."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선인장."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "선인장이다."
+    }
+]

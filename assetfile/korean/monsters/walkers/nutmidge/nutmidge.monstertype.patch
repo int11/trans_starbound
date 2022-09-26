@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "넛미지링들은 안전을 위해 보호용 외갑안에 자주 뭉친다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "넛미지"
+    }
+]

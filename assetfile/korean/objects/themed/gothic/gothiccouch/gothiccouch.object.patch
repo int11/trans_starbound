@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "아주 고딕풍인 소파다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 쇼파 냄섀 좋다고 섕각해"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "소파가 으시시하구만."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "소파에서 냄새가..."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고딕풍 소파"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "으시시하게 검게 마감한 소파다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "不适。这沙发的皮上还有许多深色的污渍。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这个沙发的时髦值与它自身的惊悚度不相上下。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "我不认为我会乐意坐在这个东西上面。"
+    }
+]

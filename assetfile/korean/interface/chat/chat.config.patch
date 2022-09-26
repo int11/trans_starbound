@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/say/value",
+        "value": "채팅:"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/filterGroup/buttons/0/text",
+        "value": "모두"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/filterGroup/buttons/1/text",
+        "value": "플레이어"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/filterGroup/buttons/2/text",
+        "value": "게임"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/filterGroup/buttons/3/text",
+        "value": "그룹"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/filterGroup/buttons/4/text",
+        "value": "지역"
+    }
+]

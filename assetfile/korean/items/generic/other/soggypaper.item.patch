@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꾸겨진 종이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "왜 내가 이런 쓸모없는 쓰레기를 가져가려고 할까?"
+    }
+]

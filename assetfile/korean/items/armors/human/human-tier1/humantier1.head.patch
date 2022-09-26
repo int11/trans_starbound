@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정찰병의 조준경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 정찰병의 헤드셋은 멋지게 생긴데다가 강화된 성능의 조준경까지 달려있다."
+    }
+]

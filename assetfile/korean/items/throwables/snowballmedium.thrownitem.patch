@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈뭉치를 조금 뭉쳤다. 그래도 던질 순 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뭉친 눈뭉치"
+    }
+]

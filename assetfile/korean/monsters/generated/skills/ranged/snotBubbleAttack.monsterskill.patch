@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/label",
+        "value": "씨끈거리는 거품"
+    }
+]

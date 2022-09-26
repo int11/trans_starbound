@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강철 전갈머리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대신 귀여운 강철 전갈은 어떤가요?"
+    }
+]

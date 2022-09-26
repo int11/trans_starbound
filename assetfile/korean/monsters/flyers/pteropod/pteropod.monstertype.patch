@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프테라포드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과일을 발효시켜서 만든 독성 반죽을 들고 다닌다."
+    }
+]

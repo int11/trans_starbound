@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 규격 상의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "행성 보호국의 전 요원이 입는 표준 규격의 유니폼이다."
+    }
+]

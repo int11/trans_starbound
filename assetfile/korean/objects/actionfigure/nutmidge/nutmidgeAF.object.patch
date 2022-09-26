@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "넛미지 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"머리다발이 남아있는 단 하나의 개체만이 황제 넛미즐링이 될 수 있다.\""
+    }
+]

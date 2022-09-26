@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뼈로 치장된 솔라리움 몸통 갑옷이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수호자의 가슴보호대"
+    }
+]

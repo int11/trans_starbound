@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오래 된 문양같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료. 이 새겨진 것들의 의미를 알 수가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 샹징 이해할 수 없댜."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 돌에는 작은 문양이 새겨져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "새김돌"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "value": "인텔을 모으려고 왔습니다. 빅 에이프를 타도 하는데 도움이 될만한 정보가 있으신가요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "value": "우리의 혁명을 위해 중요한 인텔을 모으는 중입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "value": "우리들의 상당수가 지정부에 가족과 친구를 잃었지요. 그들이 무너질때까지 우린 쉬지 않을겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "value": "나의 동료들과 빅 에이프를 무찌를거야! 말만 그렇지 사실 그렇게 크지도 않을껄."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "지금처럼 힘든 시간은 없었지만, 희망을 잃어선 안됩니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "우리 반군은 에이팩스의 자유를 위해 싸웁니다. 당신은 무엇을 위해 싸우나요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "지정부는 우리를 폭도라고 불러도, 우리는 엄연한 해방자입니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "지정부로 부터 도망치고는 있지만, 지금보다 더 자유로워본적은 없습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "...당신도 고향을 잃은겁니까?..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "你看上去也像是失去了家园的人。",
+            "我们可能是在躲避科技发展部的路上，但我却从未感到过如此的自由！",
+            "科技发展部称我们是叛乱分子，但我们是自由的战士！",
+            "我们反抗军为了人们的自由而战！你为了什么而战斗呢？",
+            "局势从未像现在那么艰难，但是我们不能失去希望！",
+            "我将和我的盟友一起打败大猿人！我打赌他压根没有宣传中的那么高大！",
+            "我们反抗军中的许多人被科技发展部夺去了亲人和朋友。我们不会停止脚步直到他们被消灭。",
+            "我在这里收集关键的物资为我们的反抗军所用。",
+            "我来这里收集物资。你有没有有关于我们如何才能推翻大猿人的任何情报和信息？"
+        ]
+    }
+]

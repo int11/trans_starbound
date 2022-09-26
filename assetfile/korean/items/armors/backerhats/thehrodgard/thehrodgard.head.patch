@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "흐로드가드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전설적인 드워프의 투구이다. 돌로 만들어진듯 하다."
+    }
+]

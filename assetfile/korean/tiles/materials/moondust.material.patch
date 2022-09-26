@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "달먼지 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "유쾌. 이 달먼지는 매우 부드러운 감촉을 지니고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 알록달록 달먼지 엄청 좋다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달먼지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달먼지,  꿈이 만들어지는 재료."
+    }
+]

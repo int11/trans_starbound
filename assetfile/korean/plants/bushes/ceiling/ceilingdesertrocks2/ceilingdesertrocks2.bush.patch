@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 걸이식 사막 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "모오래 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "걸이식 사막 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "걸이식 사막 돌"
+    }
+]

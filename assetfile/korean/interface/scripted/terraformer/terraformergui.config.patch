@@ -1,0 +1,72 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "행상 테라포머"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "^#b9b5b2;에센스를 사용해 행성 전체를 변환시키세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblCurrentStatus/value",
+        "value": "상태를 기다리는 중..."
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblEssenceLabel/value",
+        "value": "^green;에센스^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/statusMessages/worldComplete",
+        "value": "^gray;행성 테라포밍 완료."
+    },
+    {
+        "op": "replace",
+        "path": "/statusMessages/connecting",
+        "value": "^yellow;테라포머에 연결하는중..."
+    },
+    {
+        "op": "replace",
+        "path": "/statusMessages/active",
+        "value": "^yellow;테라포밍 진행중..."
+    },
+    {
+        "op": "replace",
+        "path": "/statusMessages/insufficientEssence",
+        "value": "^red;에센스 부족!"
+    },
+    {
+        "op": "replace",
+        "path": "/statusMessages/maxStepSize",
+        "value": "^gray;테라포밍 범위는 %s 섹터로 제한되어 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/errorMessages/needSurface",
+        "value": "행성 표면에 설치되어 있어야 합니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/errorMessages/tooClose",
+        "value": "다른 테라포머와 너무 가깝습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/errorMessages/alreadyActive",
+        "value": "테라포밍이 이미 진행중입니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/errorMessages/worldComplete",
+        "value": "행성이 이미 완전히 테라포밍되었습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/errorMessages/noExpansion",
+        "value": "목표 범위는 현재 범위보다 넓을 수 없습니다!"
+    }
+]

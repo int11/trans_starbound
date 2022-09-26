@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "식물 뭉텅이 와 이파리들이  한데 뭉쳐있어"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 식물 물질이 이 블록 안에 어떻게든 압축되어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 식물 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "식물 물질"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "포장된 식물 물질의 블록이다."
+    }
+]

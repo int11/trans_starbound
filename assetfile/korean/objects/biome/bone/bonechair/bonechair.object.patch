@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "여기 앉으면 잔혹한 폭군이 될 것 같다. 빅 에이프라면 좋아할 지도."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "사색. 여기 쓰인 뼈는 모두 오래 전 죽은 생물의 것이다. 멸종했을 가능성이 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뼈로 된 옥좌라. 해골왕에게 딱 맞겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 뼈다귀 의자 좋다. 플로란 앉아셔 맛있는 뼈다귀 생각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "죽은 자로 장식한 허술한 의자라니. 끔찍하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안 신전에서 이런 거 찾을 수 있지 않을까 기대했었는데. 아주 사악한 사원에서."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "징그러운 의자다. 놀라울 만큼 편안하다. 여기 앉아서 사악한 명령을 내리면 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해골 옥좌에 해골을!"
+    }
+]

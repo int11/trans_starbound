@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 스커트는 보이는것보다 놀라울정도로 질기고 유연하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주술사의 스커트"
+    }
+]

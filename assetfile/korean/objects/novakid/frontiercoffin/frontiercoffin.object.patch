@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이걸로 시체를 묻는다고? 어떻게...그런 끔직한 짓을."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "전통 아비안 문화도 웅장한 관으로 시체를 묻어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 실수로 내부가 잠겨있다면 어찌 되는가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 상자 숨기 좋아. 플로란 매복한다면 말이지..."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 관"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 나무 관이다. 운좋게도, 빈 관인거 같네!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "这副棺材也许并不是最漂亮的，但我想美学在你死后并没有什么用。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "触摸这个让我感觉自己被扎了根刺。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这东西给我一种病态的感觉。"
+    }
+]

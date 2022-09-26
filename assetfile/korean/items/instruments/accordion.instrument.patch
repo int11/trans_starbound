@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아코디언"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아코디언. 팔 좀 써보자!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼하고, 실용적인데다가, 세련됐다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥꾼의 상의"
+    }
+]

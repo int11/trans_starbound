@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 무시무시한 해골이 딱 맞는거 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무시무시한 해골"
+    }
+]

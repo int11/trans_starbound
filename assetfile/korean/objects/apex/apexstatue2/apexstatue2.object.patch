@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "과일을 좋아한단 말이지, 흠?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 석상엔 분명 사회적 의미가 있을 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "에이펙스는 자기들 음식도 섬기나?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "빅 에이프 먹을 빅 바나나?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "빅 에이프만한 바나나..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "재미. 거대한 바나나라."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "엄청 큰 바나나."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거대 바나나 석상"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모두 거대 바나나를 찬양하라!"
+    }
+]

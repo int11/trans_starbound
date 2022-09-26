@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "성급함. 그 검을 내게 줘! ...흠, 아무래도 구체적으로 설명해야겠군. 나한테 너의 ^orange;부러진 양손 검^reset;을 주면 내가 그것을 수리해주겠다! 에스더가 어떻게 하는지 알려줬지 - 그리고 나같은 검사에게 도전할 자가 없다고도 말이야! ^white;그런데, ^green;이 검을 수리하려면 ^orange;10개의 테크 카드^green;가 필요하다네^reset;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "감격. 여기 있네! 새 것보다도 좋아졌다네! 감사 인사는 필요없고!"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;영웅의 대장간"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/turnInDescription",
+        "value": "前往^orange;前哨站^reset;同^orange;拜隆先生^reset;交谈"
+    }
+]

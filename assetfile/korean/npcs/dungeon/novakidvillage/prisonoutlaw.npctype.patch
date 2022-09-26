@@ -1,0 +1,44 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/3",
+        "value": "나에게 도전하러 왔다고? 내가 누군지 알고도?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/2",
+        "value": "넌 벌집이 난 체로 떠나게 될거다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/1",
+        "value": "다른 강도들과 싸운 적은 있어도, 나랑 싸운 적은 없을거다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default/0",
+        "value": "너는 아마 나같은 강도를 본 적 없을 걸?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "攻击！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/human/default",
+        "value": [
+            "你可从没面对过像我这样厉害的匪徒！",
+            "你可能以前和一些小混混战斗过，但我可不一样！",
+            "你会带着千仓百孔的身体离开这！",
+            "你竟敢来这里挑战我？你知道我是谁吗？！"
+        ]
+    }
+]

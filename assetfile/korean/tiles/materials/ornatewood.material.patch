@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 나무는 뭔가로 처리되어있는걸로 보이는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 나무는 전문 장인에 의해 특별하게 처리 되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 특별 처리된 나무 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전문적으로 처리된 화려한 나무."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 나무"
+    }
+]

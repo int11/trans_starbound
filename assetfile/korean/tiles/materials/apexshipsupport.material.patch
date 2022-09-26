@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "함선이 만들어질 때 같이 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정보. 함선 건설이 종종 사용 됨"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "함션 구셩하는 데 쓰인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "함선 지지용"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 벽은 함선 건설할때 사용했음."
+    }
+]

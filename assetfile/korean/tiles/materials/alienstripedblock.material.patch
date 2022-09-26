@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 나무에 그어진 줄무늬들은 각 물질들이 서로를 밀어내며 생긴 것들이오."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기 나무들은 다 줄무늬가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "션 그어진 나무. 션 그어진 집 만든댜!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 줄무늬 나무"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "줄무늬가 그어진 외계 나무다. 줄투성이!"
+    }
+]

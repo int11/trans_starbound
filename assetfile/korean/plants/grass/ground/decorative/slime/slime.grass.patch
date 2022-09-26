@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 쓸모 많은 점액이지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끄으은적거려."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "끈적거리는 슬라임이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "역겨운, 끈적거리는 슬라임이다."
+    }
+]

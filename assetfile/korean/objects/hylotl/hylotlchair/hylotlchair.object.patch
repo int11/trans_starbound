@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "의자군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 앉을 필요는 없지..."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "의자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파란 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "청록색의 파란 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "간단한 청록색 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "파란 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "의자인걸."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "의자다."
+    }
+]

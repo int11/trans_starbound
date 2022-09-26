@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "은 드릴"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "빠르게 구멍을 뚫을 수 있지만 고장나는 속도도 빠르다. 물질 조작기의 일시적인 대체품이다."
+    }
+]

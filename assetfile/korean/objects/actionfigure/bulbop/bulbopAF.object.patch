@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불봅 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"크고 두툼한 파처럼 보인다. 자르면 피가 나온다.\"라고 적혀있다."
+    }
+]

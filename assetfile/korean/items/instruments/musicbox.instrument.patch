@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뮤직 박스다. 태엽을 돌리는 방식일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뮤직 박스"
+    }
+]

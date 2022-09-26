@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지정부 덕택에 에이펙스는 바나나를 사랑한다는 선입견이 있다. 그래도 맛은 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "유전자 개량을 한 바나나는 최고의 바나나다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "유전자를 가공한 바나나. 인공적인 맛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 바나나는 뭐라 콕 집을 수 없는 맛이 나네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "바나나 맛인데, 더 바나나 맛이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "냉소. 에이펙스는 이걸 좋아하지만 글리치에겐 별 거 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "원슝이샤람 냄섀같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바나나 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유전적으로 개선된 바나나. 더 작은 나무로 더 큰 과일이 열린다."
+    }
+]

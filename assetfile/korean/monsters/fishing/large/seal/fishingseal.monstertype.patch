@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "씨라칸스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "초고대의 조상과 거의 동일하지만, 좀더 두툼하다.."
+    }
+]

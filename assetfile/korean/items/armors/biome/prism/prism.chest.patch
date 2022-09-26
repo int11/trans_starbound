@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 푹신한 보온 재킷으로 추위를 따뜻하게 보내보자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프리즘 셔츠"
+    }
+]

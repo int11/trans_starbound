@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사탕 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달콤한 냄새가 나는 바위 사탕이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "高兴。这看起来似乎是一块巨大的硬糖。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "拥有彩色条纹的糖果。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一大块冰糖。"
+    }
+]

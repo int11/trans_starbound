@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "실용적인 구리 장화"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 장화"
+    }
+]

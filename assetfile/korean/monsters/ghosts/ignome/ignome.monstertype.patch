@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이그놈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "의외로 이들의 새까맣게 탄 피부는 부드러워서, 촉감이 좋다. 불타고 있는게 아니라면!"
+    }
+]

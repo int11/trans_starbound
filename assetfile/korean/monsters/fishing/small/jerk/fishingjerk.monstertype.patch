@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "개새고끼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물고기는 자연적 무례함을 가지고 있다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"위험!\"이라고 쓰여있다. 이보다 더 명확한 의미를 전달할 순 없을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "난 위험이랑 친구 먹은 사이라."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "주의해서 나아가야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "왜 에이펙스가 이리도 명확하게 위험요소를 표시해두는 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작은 위험요소는 아무도 해치지 못 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "에이펙스 삶에 안 위험한 게 어딨다고."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "긍정. 걱정할 게 없다는 뜻이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 위험에 샬고 위험에 죽는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "붉은 위험 표시"
+    }
+]

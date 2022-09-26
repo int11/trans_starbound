@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물곡이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이제 넌 내꺼야, 물고기."
+    }
+]

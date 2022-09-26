@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "상자 모양으로 자라났다고?"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "식물로 이뤄진 상자다. 아직도 자라고 있는듯 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "플로란이 이런걸 어떻게 키우는거지? 가구 카탈로그 같은걸로 씨앗을 주문하는건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "원예가만 흙에서 샹자 키우는 법을 알아"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 식물은 상자로 자라나도록 되어있는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 상자 만든거야, 아님 자라난거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 상자 자체가 유기적인거 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 과성장 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "叶族人好像已经学会如何控制大自然去生长他们所需要的东西。"
+    }
+]

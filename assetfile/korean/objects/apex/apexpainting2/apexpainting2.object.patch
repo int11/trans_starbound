@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "고귀한 정신을 지닌 에이펙스라."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 에이펙스 의기양양하게 웃고 있네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 에이펙스는 진짜로 행복해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "얘 웃고 있잖아. 왜지?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "평화 유지군이다. 지정부의 환심을 사기 위해서라면 자기 어머니도 팔아치울 작자들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 에이펙스는 뭐 때문에 이리도 행복할까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "미쇼짓는 에이펙스."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 초상화"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에이펙스 평화 유지군의 초상화다."
+    }
+]

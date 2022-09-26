@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "티타니움으로 제작되서 나뭇잎으로 보온 설계를 마친 이 머리장비는 긴 사냥에서 날 보호해 줄거다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유목민의 관"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 잡초."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "잡초다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잡초."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잡초."
+    }
+]

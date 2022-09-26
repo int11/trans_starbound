@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "플로란들은 뾰족한 가구들을 엄청 좋아하네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "어느 불쌍한 동물의 송곳니가 이 보관함을 장식하고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "보관함의 위에 있는건 큰 이빨이나 날카로운 뼈일거야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 보관함에 송곳니가 달려있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "공포. 이 보관함의 송곳니는 면도날처럼 날카롭소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 숑곳니로 가구를 꾸며. 날카로우면 더 좋고."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "크고 날카로운 송곳니로 치장된 보관함이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "플로란들의 보관함 안엔 뭐가 있을까? 열어보기 겁나는데."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큰 원시 보관함"
+    }
+]

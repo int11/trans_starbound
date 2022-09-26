@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스킴버스 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"가벼운 몸으로 바람을 타며 흘러간다.\"라고 적혀있다."
+    }
+]

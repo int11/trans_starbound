@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무지개 나무 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "즐거운 나무 소리가 걸을때마다 난다."
+    }
+]

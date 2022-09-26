@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모피식자 가슴장식"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "최근 사냥에서 입수한 모피의 자부심 있는 표명이라 할수있다."
+    }
+]

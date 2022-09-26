@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이상한 타일."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "숨겨진 노란색 스위치"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 타일 뭔가 이상해."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 타일은 제대로 맞춰져 있지 않군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "덜거덕 거리는 타일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 타일은 느슨해 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금점. 잘 맞춰지지 않은 타일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "흔들흔들 타일."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 타일은 다른  타일들과 달라보인다."
+    }
+]

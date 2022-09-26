@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥꾼의 우승컵"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"자연의 힘에 도전할 수 있는 자에게 수여한다.\"라고 적혀있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人可以在闪闪闪亮的奖杯上看见倒影。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "感动。这个奖杯被精心制造以纪念被授予者。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这儿的奖杯闪亮的就像一把崭新的六发式左轮手枪一样。"
+    }
+]

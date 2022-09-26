@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어디에 착용해도 멋지게 살아난다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네오 디스크"
+    }
+]

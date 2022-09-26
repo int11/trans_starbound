@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "회의적. 플로란의 기술론 보이지 않을 수준으로 이 벤치의 건설 방식엔 논리성이 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 벤치는 내 엉덩이를 붙이고 있기 좋아보여."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 벤치에서 생명이 느껴진다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 나무는 본적이 없어. 나무가 아직도 살아 있는 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 나무, 아직도 자라는 것처럼 보일 정도로 튼튼한데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 뼈들이 나무의 연결 부위를 받치고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 나무랑 뼈로 뭐든지 만들어. 그중에셔도 플로란은 섕목 잘 다뤄."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무와 뼈로 만든 벤치. 앉고 싶...으려나?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 벤치"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 귀여운 인형에 진짜로 장미향이 나"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "분홍 토끼 인형이라니. 이거 한대 쳐도 되겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "병약미에다가 장미 향이라니."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매혹. 이 인형 완전 사랑스럽군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "장미 냄섀가 나. 플로란 괜찮아보여."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파스텔 토끼 인형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "향기로운 분홍 토끼 인형이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这个毛绒玩具闻起来实际上很像玫瑰。不错的品味。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这难道不是世上最可爱的东西了吗？"
+    }
+]

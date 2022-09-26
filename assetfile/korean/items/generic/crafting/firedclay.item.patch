@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점토 벽돌 (Fired Clay)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "점토를 구워 단단한 벽돌로 만든 것이다."
+    }
+]

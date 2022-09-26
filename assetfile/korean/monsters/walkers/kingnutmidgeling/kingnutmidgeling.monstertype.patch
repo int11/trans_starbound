@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "넛미지링 왕"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "머리숱이 짓밟히지 않은 녀석이 넛미지링의 왕이다."
+    }
+]

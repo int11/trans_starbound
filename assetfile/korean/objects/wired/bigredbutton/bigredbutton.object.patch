@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이걸 어찌 안 누르고 그냥 간단 말이냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "버튼이 보이면 누르고 싶다는 충동은 이해한다. 하지만 충동을 조절하고 자기자신을 다룰 줄 알아야 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 위에 서면 뭔가 작동될 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거이거 버튼을 누를 수밖에 없다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "저항. 버튼을 누르고 싶다는 압도적인 충동이 인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "커다란 빨간 버튼."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "버튼 누른다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커다란 적색 버튼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "누르고 싶은... 욕망이... 솟구친다!"
+    }
+]

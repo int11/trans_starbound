@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "수집품"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "당신이 본 모든 것과 당신이 한 모든 행동을 목록으로 만드세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/selectLabel/value",
+        "value": "수집품"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/emptyLabel/value",
+        "value": "왼쪽에서 수집품 유형을 선택"
+    }
+]

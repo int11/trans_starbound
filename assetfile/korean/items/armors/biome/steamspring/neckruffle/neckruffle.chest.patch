@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "주름잡힌 셔츠를 안에 입은 형식적인 재킷."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "러플 재킷"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고름자두 푸딩"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "설탕 친 고름자두를 얹은 물기 있는 쌀 푸딩이다."
+    }
+]

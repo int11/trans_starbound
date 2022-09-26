@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "누군가의 경고문. 기억해 두도록 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "\"나갈 수 있을 때 나가라\". 그게 언제까지인지 어떻게 알지?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 심각한 경고문이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 쓴 사람 나갔는지 궁금하다?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 조언을 받아들여야 할지도 모르겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "그냥 농담이길 바래야겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아, 웃기는 놈들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "낙서"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "낙서. 사나운 경고문. 무시하자."
+    }
+]

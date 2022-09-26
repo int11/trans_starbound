@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구체로 변신하여 천장이 낮은 지역을 돌아다닐 수 있습니다! ^green;[F] "
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "变形球"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에르키우스 유령"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유령이 눈을 감으면 다른 위상으로 들어가서 공격에 면역이 된다."
+    }
+]

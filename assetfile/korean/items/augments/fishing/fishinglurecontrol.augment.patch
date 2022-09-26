@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전동 미끼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "내장된 자이로스코프로 강화된 조작성을 확보한 미끼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/lureName",
+        "value": "机动鱼饵"
+    }
+]

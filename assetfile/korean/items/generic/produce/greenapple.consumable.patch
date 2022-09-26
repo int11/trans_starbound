@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "풋사과"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "시큼한 풋사과로,  굽기도 얼굴에 바르기도 좋다!"
+    }
+]

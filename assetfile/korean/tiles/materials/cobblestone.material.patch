@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이런 조약돌을 발견하는게 드문일은 아니지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료됨. 이 조약돌은 부드럽기가 자연스럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뷰드러운 조약돌이댜."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 조약돌, 만지면 매끄럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "조약돌"
+    }
+]

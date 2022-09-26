@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "여름 치마"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "여름 축제 딱이다."
+    }
+]

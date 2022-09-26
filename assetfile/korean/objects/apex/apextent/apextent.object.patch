@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "군사용 텐트같군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "군사적으로 보이는 텐트다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "텐트는 고향에서 떨어져 사는 사람들이 자주 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "군사기지라면 이 텐트는 제자리를 벗어나지 않을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "집 밖에서 캠핑을 하고 있으면 텐트를 자주 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "방해. 공간이 충분치 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "텐트 야섕에서 좋은 은신처다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "군용 텐트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "군용 텐트다."
+    }
+]

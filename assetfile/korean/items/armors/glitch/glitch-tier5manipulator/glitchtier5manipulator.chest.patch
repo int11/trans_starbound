@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가볍고 튼튼하고 착용자의 속도와 민첩성을 고려해 제작되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "창기사의 흉갑"
+    }
+]

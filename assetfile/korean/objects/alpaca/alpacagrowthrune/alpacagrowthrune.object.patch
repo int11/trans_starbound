@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "개인 성장의 상징이지, 응? 예쁜 상위 물체다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개인 성장의 상징인 고대 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "개인 성장의 개념은 이 고대 문양의 아름다운 포착이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 고대 룬은 우리의 어떤 아비안 룬과 비슷하다. 이 의미는 개인 성장이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 룬은 단지 하나의 상징으로 개인 성장의 개념을 소통한다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이건 개인 성장의 의미를 생각하게 만드는 고대 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "고요. 알파카는 이 상징으로 개인 성장의 개념을 소통한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이 룬이 이햬하기 어렵다는 걸 알아냈댜."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "알파카 성장 룬"
+    }
+]

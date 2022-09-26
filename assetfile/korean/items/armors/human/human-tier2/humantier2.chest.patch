@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 회수자의 흉갑은 튼튼한 보호층을 제공합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "회수자의 가슴 보호대"
+    }
+]

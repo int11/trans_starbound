@@ -1,0 +1,57 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "모루. 있으면 언제나 유용하지."
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;무기와 갑옷"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "기본 모루"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기본 모루"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단한 모루. 금속을 두들겨 모양을 잡기위해 쓰인다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아마 금속작업을 위해 쓰일테지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "표면이 평평한 커다란 철판이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "모루다. 사람들은 역사 초기 이후로는 이걸 사용하지 않았었지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "모루다. 에이펙스가 금속공예에 이걸 쓰지 않은지 오래 됐지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "교육. 글리치는 모든 종류의 무기를 모루에서 제작한다. 우리는 모루에서 모루까지도 제작하지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "아주 무겁고, 덫에 쓸 만해"
+    }
+]

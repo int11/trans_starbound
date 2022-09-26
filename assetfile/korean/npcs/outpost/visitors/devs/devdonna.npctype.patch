@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕 난 도나야. 너는 클레멘타인이란 이름 좋아하니?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "你好，我叫Donna。你喜欢克莱门汀这个名字吗？"
+        ]
+    }
+]

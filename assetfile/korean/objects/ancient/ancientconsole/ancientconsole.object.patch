@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 이 낡은 물건을 움직일 수 있는지 보자고."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "문 조작기. 문처럼 신비로워."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 조작기는 분명 문보다 오래된걸꺼야. 정말 오래됐어!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "문 조작기 패널. 아마 문보다 오래된걸꺼야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "극도로 오래된 테크놀로지의 일부야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명깊음. 매우 오래된 게이트용 제어 판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "고대 문을 움직이는 고대 조작기다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 조작기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이건 문의 제어 판처럼 보인다. 아직 작동하는 것 같다."
+    }
+]

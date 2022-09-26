@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 행상인 외뿔"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "창백한 초록색 가면과 뿔."
+    }
+]

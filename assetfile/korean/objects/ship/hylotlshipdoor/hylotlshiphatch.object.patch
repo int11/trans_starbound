@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "해치군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기본적인 함선 해치다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "우주선 해치다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "멋진 해치다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 해치들은 우리의 모든 함선에 사용된다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자랑. 함선 해치다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "우주션 해치."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하이로틀 함선 해치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우주선에 적합한 해치다."
+    }
+]

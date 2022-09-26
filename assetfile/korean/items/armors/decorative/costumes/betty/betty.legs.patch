@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "변장 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 사교적인 장갑 바지로 항상 안전하게 활동해보자."
+    }
+]

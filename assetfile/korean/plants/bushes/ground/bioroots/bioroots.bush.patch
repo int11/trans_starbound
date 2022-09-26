@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 뿌리처럼보임"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부츠으으"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "컬링 뿌리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "컬링 뿌리 묶음"
+    }
+]

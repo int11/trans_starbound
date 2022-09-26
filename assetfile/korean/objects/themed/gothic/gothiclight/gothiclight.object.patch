@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "받침대가 고딕풍 그 자체로군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "누구도 이 해골이 받침대로 좋다는 말은 안했어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "받침대가 고딕풍에 어울리네. 해골 모양이라니"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 받침대가 꽤나 독특하군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고딕풍 양초"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "양초불, 으시시한 거리를 만들땐 딱이겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人同同同样也把那些砍砍砍下来的头中最中意的放在台座上。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "这显然是把他人放在台座上的一种方法…"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "我在想有这样一个玩意儿在你脑袋里是啥感觉。"
+    }
+]

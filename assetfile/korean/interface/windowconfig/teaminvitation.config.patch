@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/paneLayout/titleLabel/value",
+        "value": "队伍邀请"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/inviteLabel/value",
+        "value": "你想加入他们的队伍吗？"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/inviterName/text",
+        "value": "队长"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/ok/caption",
+        "value": "接受"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/close/caption",
+        "value": "拒绝"
+    }
+]

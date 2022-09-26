@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 버려진 쓰레기에는 다양한 기술이 담겨있어."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구식 기술의 쓸모없는 고철, 대부분 잔해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "벽돌 속에 오래된 기술 뭉텅이가 부서진채 혼합되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "기슐적인 쓰레기."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "쓰레기 기술"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈에 잘띄는 재킷, 물론 이런 상황에서 필요할것 같진 않다만..."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돌연변이 안전 재킷"
+    }
+]

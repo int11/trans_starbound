@@ -1,7 +1,8 @@
 import sys
 from trans_star import *
-
-from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QTableView, QTabWidget, QTextEdit
+import json
+from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QTableView, QTabWidget, QPlainTextEdit, \
+    QHBoxLayout, QGridLayout, QVBoxLayout
 from PyQt5.QtGui import QStandardItemModel, QStandardItem
 from PyQt5.QtCore import Qt
 from PyQt5 import QtCore
@@ -12,29 +13,48 @@ from PyQt5.Qt import QFileSystemModel
 class patch_viewer(QTreeView):
     def __init__(self, parent):
         super().__init__(parent)
-        self.setGeometry(int(size[1] * 0.4), 0, int(size[1] * 0.6), size[0])
         self.setEditTriggers(QAbstractItemView.DoubleClicked)
 
         self.model = QStandardItemModel()
         self.setModel(self.model)
         self.model.setHorizontalHeaderLabels(["path", "value"])
+        self.setColumnWidth(0, int(parent.size().width() * 0.2))
+        self.setColumnWidth(1, int(parent.size().width() * 0.05))
+        self.clicked.connect(self.cil)
 
-        self.setColumnWidth(0, int(size[1] * 0.3))
-        self.setColumnWidth(1, int(size[1] * 0.28))
+        self.koreatext = QPlainTextEdit(parent)
+        self.koreatext.textChanged.connect(self.textchange)
+        self.originaltext = QPlainTextEdit(parent)
 
     def reload(self, lines):
+        self.lines = lines
         self.model.removeRows(0, self.model.rowCount())
-
         for e, i in enumerate(lines):
             self.model.insertRow(e)
             self.model.setData(self.model.index(e, 0), i.path)
-            self.model.setData(self.model.index(e, 1), str(i.value))
+            self.model.setData(self.model.index(e, 1),
+                               json.dumps(i.value, ensure_ascii=False) if isinstance(i.value, dict) else i.value)
+
+    def textchange(self):
+        value = self.koreatext.toPlainText()
+        self.model.setData(self.model.index(self.selectindex, 1), value)
+        typ = type(self.lines[self.selectindex].value)
+        value = json.loads(value, strict=False) if typ == dict else value
+        print(type(value))
+        print(value)
+
+    @pyqtSlot(QtCore.QModelIndex)
+    def cil(self, index):
+        self.selectindex = index.row()
+        indexitem = self.model.index(index.row(), 1, index.parent())
+        self.koreatext.setPlainText(indexitem.data())
+        org = self.lines[self.selectindex].original_value('english')
+        self.originaltext.setPlainText(json.dumps(org, ensure_ascii=False) if isinstance(org, dict) else org)
 
 
 class explorer(QTreeView):
     def __init__(self, parent, asset):
         super().__init__(parent)
-        self.setGeometry(0, 0, int(size[1] * 0.4), size[0])
 
         self.model = QFileSystemModel()
         # set path
@@ -44,16 +64,16 @@ class explorer(QTreeView):
         # set model
         self.setModel(self.model)
         self.setRootIndex(self.model.index(self.model.rootPath()))
-        # setting
-
-        self.setColumnWidth(0, int(size[1] * 0.5))
+        self.setColumnWidth(0, int(parent.size().width() * 0.35))
 
 
 class Form(QWidget):
     def __init__(self):
         QWidget.__init__(self, flags=Qt.Widget)
         self.setWindowTitle("trans_star")
-        self.move(100, 100)
+        rect = app.desktop().screenGeometry()
+        size = (int(rect.height() * 0.8), int(rect.width() * 0.8))
+        self.setGeometry(int(rect.height() * 0.1), int(rect.height() * 0.1), size[1], size[0])
 
         self.ko_explorer = explorer(self, 'korean')
         self.ch_explorer = explorer(self, 'chinese')
@@ -63,11 +83,17 @@ class Form(QWidget):
         self.tab = QTabWidget(self)
         self.tab.addTab(self.ko_explorer, 'korean')
         self.tab.addTab(self.ch_explorer, 'chinese')
-        self.tab.setGeometry(0, 0, int(size[1] * 0.4), size[0])
 
         self.viewer = patch_viewer(self)
-        self.textedit = QTextEdit(self)
-        self.textedit.setGeometry(size[1] - 2, 0, int(size[1] * 0.2), int(size[0] * 0.2))
+
+        hbox = QHBoxLayout()
+        hbox.addWidget(self.tab)
+        hbox.addWidget(self.viewer)
+        vbox = QVBoxLayout()
+        vbox.addWidget(self.viewer.koreatext)
+        vbox.addWidget(self.viewer.originaltext)
+        hbox.addLayout(vbox)
+        self.setLayout(hbox)
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
@@ -79,7 +105,7 @@ class Form(QWidget):
         ex = os.path.splitext(filename)[1]
 
         if ex == '.patch':
-            a = patchfile(filepath)
+            a = patchfile(del_absolute_path(filepath[len(os.getcwd()) + 1:]), 'assetfile\\korean')
             lines = [i for i in a.get_lines()]
             self.viewer.reload(lines)
 
@@ -91,8 +117,7 @@ if __name__ == "__main__":
     # ch = asset('chinese')
 
     app = QApplication(sys.argv)
-    rect = app.desktop().screenGeometry()
-    size = (int(rect.height() * 0.8),int(rect.width() * 0.7))
+
     form = Form()
     form.show()
     exit(app.exec_())

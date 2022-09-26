@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "약간의 멋진 벽 조형물이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "이상함. 베이스보드는 글리치 구조물에서 흔하게 발견되지 않소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "멋진 벽 보드야."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 베이스보드는 고전적인 집에 어울려 보입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적인 베이스보드."
+    }
+]

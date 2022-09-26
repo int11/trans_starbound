@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보강된 강판과 크라뱃의 조합으로 화려하고 간편한 착용감을 준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "참새 흉갑"
+    }
+]

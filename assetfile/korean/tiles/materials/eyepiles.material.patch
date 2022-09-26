@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "숙고. 맨 위에 있는 눈들을 뺀다면, 대부분의 눈들은 그 생에 어둠만을 알게 되겠지..."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저 눈들 중 몇은 날 똑바로 바라보고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "질척질척한 눈들!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈 더미"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "질퍽한 눈알의 쏟아진 더미"
+    }
+]

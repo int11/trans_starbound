@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "인정. 글리치 석공들과 비슷한 수준이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 셕공 기슐 인정한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 기둥"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "멋진 석재 전시대다. 보여주기에 딱 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "멋진 물건들을 전시하거나, 엄청 작은 건물을 지탱할 때 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "진보된 석공 기술이라. 에이펙스도 가진 기술이 많구나."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안에 비견될 석공술이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "중요한 물건을 전시하라고 만들어놨다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "기둥 그 자체만으로도 예술품이다."
+    }
+]

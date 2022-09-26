@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물 풍선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어린이와 장난꾸러기 모두가 좋아한다. 실제로 물이 생기니 주의."
+    }
+]

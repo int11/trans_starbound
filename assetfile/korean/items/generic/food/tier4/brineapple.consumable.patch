@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "산호크리피 젤리를 양념한 파인애플 안에 넣어서 따듯하게 흔드는 화려한 하이로틀 간식이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바닷물 애플"
+    }
+]

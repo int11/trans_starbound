@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "야간등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신속하게 밝은 빛이 필요할 때 "
+    }
+]

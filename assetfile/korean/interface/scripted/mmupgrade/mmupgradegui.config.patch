@@ -1,0 +1,112 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "^#b9b5b2;무슨 문제든지 간에 물질 조작기로 없애버리세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblGroup4/value",
+        "value": "^green;광학^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblGroup1/value",
+        "value": "^green;조작기 유효 단위^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblModuleLabel/value",
+        "value": "^green;조작기 모듈^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblModuleCount/value",
+        "value": "^yellow;0 / 0^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblGroup2/value",
+        "value": "^green;확장 슬롯^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblUpgradeDescription/value",
+        "value": "당신은 아직 물질 조작기를 가지고 있지 않습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblGroup3/value",
+        "value": "^green;전력 생산기^white;"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "물질 조작기 업그레이드"
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/range1/description",
+        "value": "기기의 사거리가 2칸 증가합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/power3/description",
+        "value": "물질 분해력을 300%로 올립니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/size2/description",
+        "value": "범위가 4x4칸으로 증가합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/paintmode/description",
+        "value": "페인트 모드 활성화, 블럭을 여러가지 색상으로 칠할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/size1/description",
+        "value": "범위가 3x3칸으로 증가합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/wiremode/description",
+        "value": "와이어 모드 활성화, 전선을 연결해 물체들을 논리적으로 작동시킵니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/liquidcollection/description",
+        "value": "액체를 기계의 채굴 모드를 이용해 얻을 수 있게됩니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/size3/description",
+        "value": "범위가 5x5칸으로 증가합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/range2/description",
+        "value": "기기의 사거리가 2칸 증가합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/power2/description",
+        "value": "물질 분해력을 200%로 올립니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/range3/description",
+        "value": "기기의 사거리가 2칸 증가합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgrades/power1/description",
+        "value": "물질 분해력을 100%로 올립니다."
+    },
+    {
+        "op": "replace",
+        "path": "/defaultDescription",
+        "value": "选择一项升级来查看升级所需和升级内容"
+    }
+]

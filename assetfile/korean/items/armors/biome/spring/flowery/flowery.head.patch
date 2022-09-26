@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 가면에 물을 주는걸 까먹으면 안되겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꽃더미 가면"
+    }
+]

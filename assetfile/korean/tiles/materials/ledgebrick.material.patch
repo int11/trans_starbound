@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "굉장히 오래되 보이는 벽돌이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 돌은 작은 선반이 조각되어 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "셕조 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선반 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 선반달린 계단 벽돌이다."
+    }
+]

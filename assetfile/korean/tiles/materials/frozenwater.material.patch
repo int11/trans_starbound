@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 얼음은 굉장히 매끄러운걸."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조심. 이 얼음이 만들어진 방식 때문에 생각보다 더 부드러운것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "미끌미끌 얼은 물."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매끄러운 얼음"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "약간 자연스러운 매끄러운 얼음."
+    }
+]

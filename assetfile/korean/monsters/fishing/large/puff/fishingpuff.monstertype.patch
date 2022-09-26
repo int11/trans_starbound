@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진홍 부풀복어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무서울때 부풀어 오르는게 아닌, 심심할때 부풀어 오른다. 그리고 항상 심심해 한다."
+    }
+]

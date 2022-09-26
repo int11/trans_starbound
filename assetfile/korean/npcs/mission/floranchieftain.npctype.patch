@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/0",
+        "value": "내가 부족장이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default",
+        "value": [
+            "我是叶族人酋长！"
+        ]
+    }
+]

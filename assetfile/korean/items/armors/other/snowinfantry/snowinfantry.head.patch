@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "머리 얼지 말라고 보온처리되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "설원 보병 투구"
+    }
+]

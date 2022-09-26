@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주황색 페인트건"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오렌지와 운을 맞출순 없다고? 어디 한번 이걸 먹어봐라!"
+    }
+]

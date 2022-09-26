@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default/2",
+        "value": "분노. 잔인한 일을 하고싶은 기분이 드는군!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default/1",
+        "value": "적의. 토막내서 돌려보내주마!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default/0",
+        "value": "위협. 조각 조각 내서 고향에 배달시켜주마!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "进攻！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default",
+        "value": [
+            "恐吓。我会把你打成碎片送回家！",
+            "好斗。我将会留下你尸体的碎片！",
+            "愤怒。我渴望做些特别野蛮的动作！"
+        ]
+    }
+]

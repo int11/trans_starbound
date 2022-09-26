@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어쿠스틱 기타"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어쿠스틱 기타. 캠프파이어에서 분위기 잡기에 최적이다."
+    }
+]

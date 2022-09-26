@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "축하합니다! 열 명의 선원이 있으므로 당신은 콘도라 라이센스를 받을 자격이 있습니다! ^orange;10개의 업그레이드 모듈^reset;을 가지고 ^green;전초기지에 있는 펭귄 피트를 만나서^reset; 함선을 업그레이드 하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "이제 펭귄이 자네 함선의 마지막 업그레이드를 완료할걸세. 우리 항구에 들러줘서 고맙네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "펭귄 피트"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;콘도라 함선 업그레이드"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/conditions/0/description",
+        "value": "^orange;<itemName>^reset;을 : ^green;<current> / <required>^reset;개 획득"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/turnInDescription",
+        "value": "提供^orange;升级模块^reset;给位于^orange;前哨站的^reset;^orange;企鹅皮特^reset;。"
+    }
+]

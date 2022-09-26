@@ -1,0 +1,476 @@
+[
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default/0",
+        "value": "주변에 더이상 소란을 일으키지 마시오, 친구."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default/1",
+        "value": "문제만 일으키지 않으면, 다 잘 될 거요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default/2",
+        "value": "문제만 안 일으키면 이방인이라고 나쁠 거 없다오."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default/4",
+        "value": "우리 깡촌에서 잘 놀다 가라고 친구. 그냥 문제나 일으키지 말라고."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default/3",
+        "value": "잊어서 그런데, 우리가 여기서 지난번에 만난적이 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default/5",
+        "value": "최근 이 부근에서 도둑들이 있었습니다. 우리는 절도에 친절하지 않습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default/6",
+        "value": "안녕!"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/3",
+        "value": "우리 관할에서 정중하게 행동하길 바랍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/4",
+        "value": "제게 시비를 거시겠다면 저도 싸울 수밖에 없습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/5",
+        "value": "우리 주위의 고요함이 그대의 행동에 미치는 바가 있길 바랍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/6",
+        "value": "하이로틀 전사들은 태어날 때부터 훈련받습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/7",
+        "value": "쓸데없는 도발로 이곳을 더럽히지 않길 바랍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/8",
+        "value": "절 시험하려 들지 마십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/9",
+        "value": "어서오십시오, 이방인. 우리의 문화를 동경하여 오셨습니까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/0",
+        "value": "조용히 있어라, 여행자. 그리고 문제 일으키지 마라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/1",
+        "value": "지정부에게 복종해라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/2",
+        "value": "빅 에이프가 널 지켜보신다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/3",
+        "value": "도발적 행동은 용납되지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/4",
+        "value": "모든 행동은 영향을 미친다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/5",
+        "value": "빅 에이프 만세! 그분의 영광스러운 규칙을 찬미하라!"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/6",
+        "value": "난 빅 에이프가 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/7",
+        "value": "빅 에이프는 모두를 자애로이 여기신다. 자애로이 여기지 않는 자들 빼고."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/8",
+        "value": "입 닫고, 눈은 전방으로."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default/9",
+        "value": "지정부에게 머리를 조아려라"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/0",
+        "value": "주의. 행동 조심하시오."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/1",
+        "value": "수상. 여긴 무슨 일이오?"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/2",
+        "value": "미숙. 옙!"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/3",
+        "value": "경고. 누구시오?"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/4",
+        "value": "낙관. 그대는 별 문제가 되지 않을 것 같소."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/5",
+        "value": "과묵. 그대는 문제도 아니오..."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/6",
+        "value": "엄격. 행동 조심하시오."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/7",
+        "value": "가식. 좋은 하루 보내시구려."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/8",
+        "value": "멸시. 죽거나 하지 마시오."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default/9",
+        "value": "걱정. 여기 있어도 되는 거요?"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/0",
+        "value": "말쎵 부리지 마라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/1",
+        "value": "플로란 네 얼굴 마음에 안 든다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/2",
+        "value": "바보짓 하지 마라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/3",
+        "value": "행동 조심해라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/4",
+        "value": "플로란 뭐좀 쓔시고 싶다..."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/5",
+        "value": "플로란 배고파..."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/6",
+        "value": "플로란한테 샤유좀 얘기해봐라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/7",
+        "value": "플로란 건들지 마라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/8",
+        "value": "움직여라, 낯션 샤람."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default/9",
+        "value": "말쎵꾼들 맛있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/default/default/0",
+        "value": "감시하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/default/default/1",
+        "value": "똑바로 행동하라고, 당신."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/default/default/2",
+        "value": "우린 범법자 용서 안 해."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/default/default/3",
+        "value": "움직여."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/0",
+        "value": "조심해, 이방인."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/1",
+        "value": "문제 일으키지 말고."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/2",
+        "value": "그만... 그냥 아무것도 하지마."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/3",
+        "value": "뭐 부수려 들지 마."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/4",
+        "value": "지켜보고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/5",
+        "value": "허튼 수작 마라."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/6",
+        "value": "나 엄청 세거든. 시비 틀지 말자."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/7",
+        "value": "안녕! 어, 그니까... 그르렁."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/8",
+        "value": "여기서 뭐 해?"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default/9",
+        "value": "뭐 찾고 있어?"
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/0",
+        "value": "꿈도 꾸지 마요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/1",
+        "value": "우리가 싸우면 그쪽이 질 거에요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/2",
+        "value": "죄송하지만 계속 갈 길 가시겠어요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/3",
+        "value": "흡족한 하루 되시길 바라요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/4",
+        "value": "개판 오 분 전으로 만들면 국물도 없을 줄 아세요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/5",
+        "value": "우리 고향을 환영한다면야 당신도 환영이에요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/6",
+        "value": "지금은 스파링 할 수가 없네요..."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/7",
+        "value": "우리 잘 됐으면 좋겠어요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/8",
+        "value": "뭘 부수거나 죽이지 않는 이상이라면 환영이에요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default/9",
+        "value": "아비안은 생각나지도 않는 시절부터 위대한 전사들이었어요."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/0",
+        "value": "평화롭게 있읍시다. 우리의 마주침에 고요가 내리길."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/1",
+        "value": "우리 칼이 계속 칼집에서 가만히 놀고 있길 바랍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default/2",
+        "value": "가던 길 가십시오. 이방인."
+    },
+    {
+        "op": "replace",
+        "path": "/hail/default/default",
+        "value": [
+            "我一直盯着你呢。",
+            "你，规矩点。",
+            "我们不会容许有不法之徒在这儿。",
+            "往前走。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/glitch/default",
+        "value": [
+            "谨慎。守规矩点。",
+            "多疑。你来这的目的是什么？",
+            "生疏。呃！",
+            "警惕。你是谁？",
+            "乐观。我觉得你不会惹麻烦的。",
+            "寡言。你不会是个问题…",
+            "严厉。老实点。",
+            "伪善。祝你今天过得愉快。",
+            "不屑。别把自己的命丢了。",
+            "关心。你应该来这里吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/human/default",
+        "value": [
+            "小心点儿，陌生人。",
+            "别惹麻烦。",
+            "别…什么都别做。",
+            "尽量别破坏任何东西。",
+            "我看着你呢。",
+            "你最好别乱来。",
+            "我超级强壮的，最好别跟我耍花招。",
+            "嗨！我是说…呃。",
+            "你来这做什么的？",
+            "你在寻找什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/floran/default",
+        "value": [
+            "别别别惹麻烦。",
+            "叶族人不喜欢你的脸。",
+            "别犯犯犯傻傻傻。",
+            "规矩点。",
+            "叶族人想戳戳戳点什么…",
+            "叶族人饿了…",
+            "给叶族人一个理由。",
+            "别惹叶族人。",
+            "往前走，陌生人。",
+            "麻烦制造者最好吃了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/apex/default",
+        "value": [
+            "保持沉默，旅行者，不要惹麻烦。",
+            "服从科技发展部。",
+            "大猿人正看着你呢。",
+            "侵略行为不会被容忍。",
+            "所有的行动都会产生后果。",
+            "大猿人万岁！为他光荣的统治庆贺吧！",
+            "我爱大猿人。",
+            "大猿人爱所有人，除了他不爱的那些。",
+            "保持缄默，目视前方。",
+            "听科技发展部指挥。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/hylotl/default",
+        "value": [
+            "让我们和平相处，并让我们的相遇气氛平和。",
+            "我希望我们能收起我们的武器。",
+            "走好，陌生人。",
+            "我们只要求你在我们的管辖范围内保持有礼。",
+            "跟我玩花招的话我会不得不动手。",
+            "我希望我们祥和的氛围能影响你的行动。",
+            "鲛人战士是从一出生就开始进行训练的。",
+            "我请求你不要用没必要的暴行玷污这个地方。",
+            "不要考验我的耐心。",
+            "欢迎，陌生人，你是来称赞我们的文化的吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/avian/default",
+        "value": [
+            "不要考验我的耐心。",
+            "如果我们打架的话，你肯定会输的。",
+            "我想我必须要求你向前走了。",
+            "我希望你在这的时间过得愉快。",
+            "试着别惹麻烦就好。",
+            "只要你尊重我们的家园，你就是受欢迎的。",
+            "我现在不能打架…",
+            "我希望我们能好好相处。",
+            "只要你不杀人或者弄坏什么东西或者，你就是受欢迎的。",
+            "从远古开始翼族人就是伟大的战士。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/hail/novakid/default",
+        "value": [
+            "千万别在这儿惹麻烦，伙计。",
+            "如果你不想惹麻烦，那么我们可以好好相处。",
+            "我们对陌生人不错，只要他们不惹麻烦。",
+            "我忘了，我们之前在哪里见过你吗？",
+            "希望你享受我们的小镇，伙计。别惹麻烦就好。",
+            "最近这里有不少小偷。我们对偷窃可不宽容。",
+            "你好！"
+        ]
+    }
+]

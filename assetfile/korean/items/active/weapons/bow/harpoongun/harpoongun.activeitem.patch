@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작살총 "
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "심해 사냥꾼들이 선택하는 무기다."
+    }
+]

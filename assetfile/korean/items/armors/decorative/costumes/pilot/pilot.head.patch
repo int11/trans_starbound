@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "스팀펑크 코스플래이에 쓸만한 고글."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "조종사 고글"
+    }
+]

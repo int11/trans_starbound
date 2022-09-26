@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사과 사탕"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "영양가 많은 사과를 달달한 설탕으로 씌워 만들었다."
+    }
+]

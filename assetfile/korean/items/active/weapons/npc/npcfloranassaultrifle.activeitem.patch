@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "NPC 플로란 돌격 소총"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유기재로 만든 전자동 소총이다."
+    }
+]

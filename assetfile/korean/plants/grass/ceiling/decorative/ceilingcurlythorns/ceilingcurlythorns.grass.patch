@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 동그랗게 말린 가시"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뾰오족해"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "동그랗게 말린 가시"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "동그랗게 말린 가시"
+    }
+]

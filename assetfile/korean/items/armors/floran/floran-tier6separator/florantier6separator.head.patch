@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 기분 나쁜 투구는 전 우주의 사냥감을 단지 보이는것 만으로도 떨게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "광합자의 투구"
+    }
+]

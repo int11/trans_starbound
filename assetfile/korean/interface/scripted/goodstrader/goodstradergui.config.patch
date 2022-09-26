@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "보내기"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "가격 합계"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/btnBuy/caption",
+        "value": "구매"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/btnSell/caption",
+        "value": "판매"
+    }
+]

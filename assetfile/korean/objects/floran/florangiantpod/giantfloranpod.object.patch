@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 안에 들어있는걸 만나고 싶진 않군."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 흉물스러운 건 뭐야?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분석. 이 안의 생명체는 나올 준비가 되어있소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 찌른... 아니야, 플로란 도망간다..."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거대한 균류 꼬투리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 꼬투리다. 안에는 야수가 들어 있는 듯 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "피해가는 것 말고 이걸 어찌 할 방법이 없구만."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "진정해라, 제발 진정해. 이 플로란들은 나를 해칠 수 없을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 거대한 꼬투리 안에는 그만한 짐승이 있겠군."
+    }
+]

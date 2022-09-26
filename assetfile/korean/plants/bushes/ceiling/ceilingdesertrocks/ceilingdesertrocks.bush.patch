@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명.사막의 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "모오오래로된 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사막의 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사막의 돌"
+    }
+]

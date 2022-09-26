@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 모자를 쓰고 다니면 모든 친구들이 날 개그맨인 줄 알 거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "야생 포자 모자"
+    }
+]

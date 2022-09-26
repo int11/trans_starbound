@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "신입 암살자 에게 어울리는 강화된 고풍스러운 의복."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암살자의 흉갑"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어둡고, 매끄러운 돌 블럭."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어두운 매끄러운 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "好奇。这是由一种无名的石头所制成的黑色方块。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "光光光滑的石石石头。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一种深色的石头砖。"
+    }
+]

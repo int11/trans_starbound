@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "날카로워 뵈는데. 이건 미친 짓이야 난 여기서 나가야겠어!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기꺼이 피해드리지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "면도날처럼 날카로워보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "만지지 말아야지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "날카로운 돌 쐐기."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조심. 날카로운 바위가 글리치 외장을 뚫을 수도 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "날카롭고 뾰족하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "날카로운 쐐기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밟지 마시오..."
+    }
+]

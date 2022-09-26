@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저건 마실게 아니란 생각이 들어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 액체들중 많은 것들은 마시면 몇 초 안에 죽는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "연금술사의 물약들이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 선반에 있는 어떤 것도 마시기에 안전해보이지는 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "실험적인 혼합물로 가득 찬 선반이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 내가 하나를 마시면 어떤 일이 생길까."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끈적거리는 위험한 액체야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멋진 화학약품 선반"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "분류되지 않은 화학약품 더미를 관리할 사람이 없는 채로 버리고 가는건 무책임해보인다."
+    }
+]

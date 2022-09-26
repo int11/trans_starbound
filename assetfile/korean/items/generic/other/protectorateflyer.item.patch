@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "졸업식 전단지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보호국의 졸업식을 기념하는 전단지이다."
+    }
+]

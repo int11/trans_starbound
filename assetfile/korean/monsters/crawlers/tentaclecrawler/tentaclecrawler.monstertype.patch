@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "촉수크롤러"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "날카로운 스파이크는 우주 부트를 침투할 수 있다."
+    }
+]

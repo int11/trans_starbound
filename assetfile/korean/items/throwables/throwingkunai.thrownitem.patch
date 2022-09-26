@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "육중한 칼날이 특징인 투척용 단검이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투척용 수리검"
+    }
+]

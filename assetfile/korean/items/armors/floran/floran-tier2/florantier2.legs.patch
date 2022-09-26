@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "여러겹의 텅스탠 판으로 만들어진 이 가리개는 사냥감의 반격을 막아준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈공예가의 가리개"
+    }
+]

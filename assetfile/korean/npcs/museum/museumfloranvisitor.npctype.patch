@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/0",
+        "value": "박물관 플로란 쇼품 더 들여놔야 한다. 안 그러냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "플로란 여기 플로란 물건 더 있어야 한다고 섕각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "叶族人觉觉觉得这儿应该有更多叶族人的东西。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default",
+        "value": [
+            "博物馆应该有更多关于叶族人的东东东西，你同意我的看法吗？"
+        ]
+    }
+]

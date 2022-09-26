@@ -1,0 +1,272 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/2",
+        "value": "여기서 다른 생존자를 만날 줄은 몰랐어! 같이 버텨보자."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/1",
+        "value": "다른 생존자?! 능력이 있어 보이는데. 나도 같이가지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/0",
+        "value": "헤이, 친구! 그 자식들이 너도 여기에 가뒀어? 나도 같이 가줄깨."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/2",
+        "value": "갈 준비 됐어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+        "value": "안녕, 또 만났네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/2",
+        "value": "잠시 시간이 필요해?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/1",
+        "value": "나 여기 있을게, 너무 오래 혼자 두지 마!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/0",
+        "value": "여기서 기다릴게."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/14",
+        "value": "난 탈출하던가, 아니면 적어도 그러다가 죽을꺼야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/13",
+        "value": "저것들이 사냥을 원한다고? 그럼 사냥을 한번 해볼까?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/12",
+        "value": "참교육을 내려주마!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/11",
+        "value": "때려? 때려!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/10",
+        "value": "나 준비 됐어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/9",
+        "value": "우릴 찾았어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/8",
+        "value": "어이쿠!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/7",
+        "value": "잡담할 시간 없어, 발견됐다고!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/6",
+        "value": "저거 봐!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/5",
+        "value": "조심해!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/4",
+        "value": "빨리! 공격받았어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/3",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/2",
+        "value": "스트라이크!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/15",
+        "value": "후우, 너 실력 좋더라."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/14",
+        "value": "떠나기 전에 플로란에게 더 많이 피해를 주고 싶어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/13",
+        "value": "우리같이 사냥당한 사람들이 얼마나 있는걸까..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/11",
+        "value": "가자."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+        "value": "이동하자."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/12",
+        "value": "여기서 나가지 못하더라도, 일단 그 녀석들을 속 좀 쓰릴 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/10",
+        "value": "저 녀석들이 전부였기를..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/3",
+        "value": "이건 몰랐겠지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/1",
+        "value": "자, 가자."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/2",
+        "value": "대채 여기엔 어떻게 온거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/9",
+        "value": "우리에게 까불면 이렇게 된다고!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/8",
+        "value": "이 해골들이 전부 장식품이면 좋겠어..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/7",
+        "value": "긴장해, 더 있을지도 몰라."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/6",
+        "value": "휴우."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/5",
+        "value": "받아라."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/4",
+        "value": "그 녀석들이 날 멈추기엔 난 여기에 너무 오래 있었다고."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
+        "value": "감동받았어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/1",
+        "value": "기습 공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/0",
+        "value": "이 녀석들은 내가 상대하지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default",
+        "value": [
+            "我会让这些家伙上天！",
+            "偷袭！",
+            "突击！",
+            "攻击攻击！",
+            "快，我们正在受到攻击！",
+            "小心！",
+            "当心！",
+            "没有时间聊天，我们被发现了！",
+            "哦！",
+            "我们被发现了！",
+            "我准备好了！",
+            "我们正在进攻吗？我们正在进攻！",
+            "让我们给这些兔崽子上一课！",
+            "他们想玩狩猎游戏？我让他们知道谁才是猎人！",
+            "不自由，毋宁死！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default",
+        "value": [
+            "嗨，多么友善的一张面孔！他们也把你困在这了？我会和你在一起的。",
+            "另外的幸存者？！看上去你能照顾好自己—我会跟着你。",
+            "我从未期待过还会看到别的幸存者在！让我们结伴而行吧。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default",
+        "value": [
+            "继续前进。",
+            "真令我印象深刻。",
+            "你怎么会在这里了？",
+            "它们可没料到这种情况！",
+            "我在这待太久了以至于被它们困住了。",
+            "拿着那个。",
+            "唷。",
+            "保持警惕，这里可能会有更多。",
+            "我希望所有这些骷髅都只是道具…",
+            "那就是你惹恼了我们的后果！",
+            "希望这就是全部了…",
+            "我们走吧。",
+            "即使我们不能离开这里，至少我们给了它们沉重的打击。",
+            "我好奇有多少像我们一样的幸存者被逼到这个地方来了…",
+            "我希望能够在离开前让更多的叶族人受伤。",
+            "唷，你把你自己照顾的很好。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default",
+        "value": [
+            "我会等在这里。",
+            "我会乖乖呆在这，别留下我独自一人太久！",
+            "你需要一点时间吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default",
+        "value": [
+            "很高兴又见到你。",
+            "让我们继续前进吧。",
+            "你准备好动身了吗？"
+        ]
+    }
+]

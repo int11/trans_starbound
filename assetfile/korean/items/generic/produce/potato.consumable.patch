@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "감-자. 그래, 가-암-자"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "감자"
+    }
+]

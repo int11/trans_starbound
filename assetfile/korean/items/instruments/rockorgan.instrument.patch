@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "락 오르간"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "스타디움을 채우기엔 부족함이 없다."
+    }
+]

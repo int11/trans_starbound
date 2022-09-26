@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기술과 손재주의 결합이라."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "촛농은 안 녹고 불꽃은 안 탄다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저거 촛불이 아니라 그냥 전구같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "받침대는 순금인데 불꽃은 전깃불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 불 무셥다. 근데 이 불은 안 탄다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "사색. 화염이 그저 깜빡이는 전구일 뿐이라면 촛불이 더 부자연스러운 것인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "깔쌈한 촛대인데, 촛불은 진짜도 아니네."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 촛대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "초를 세 개 꽂을 수 있는 금촛대다. 촛농이 녹는 것 같지도 않다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "글리치 몸통 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부식된 글리치 몸통이다."
+    }
+]

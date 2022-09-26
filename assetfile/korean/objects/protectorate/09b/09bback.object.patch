@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 배경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "설계되지 않은 세트 조각이 객체로 사용됩니다."
+    }
+]

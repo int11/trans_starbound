@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 블럭들은 흙보다도 오래되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경탄. 이 블럭들은 확실히 아주 오래 된 물건이ek."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "고대 블럭이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 블럭은 시간의 시련 속에서도 살아남았다."
+    }
+]

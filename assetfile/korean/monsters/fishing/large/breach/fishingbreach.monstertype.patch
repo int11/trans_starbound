@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잡색 위반자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 뿔로 두꺼운 얼음판을 박살내는 강력한 물고기."
+    }
+]

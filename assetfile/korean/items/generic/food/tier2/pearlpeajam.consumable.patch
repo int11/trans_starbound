@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "흔히 \"펄 잼\"으로 알려져 있어 입소문이 자자하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진주콩 잼"
+    }
+]

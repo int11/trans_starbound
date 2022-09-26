@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "착용자를 자연스럽게 위장시켜주는 머리 장비 입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암살자의 가면"
+    }
+]

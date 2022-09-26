@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐김. 용수철 처럼 생긴 식물인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이걸로 통통 튀어다녀본적 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "용수철 같은 식물."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잘 튀는 용수철같은 식물."
+    }
+]

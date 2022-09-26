@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구체로 변신하여 액체를 빠르게 오갈 수 있다! ^green;[F] "
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "浮水球"
+    }
+]

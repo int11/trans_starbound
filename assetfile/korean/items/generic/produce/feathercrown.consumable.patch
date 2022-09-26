@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "깃털관"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깃털왕관, 사용하기 전에 뽑아야만 한다."
+    }
+]

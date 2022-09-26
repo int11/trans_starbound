@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 상반신 장갑은 분할된 여러 텅스텐 판으로 제작되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "반역자의 흉부 보호대"
+    }
+]

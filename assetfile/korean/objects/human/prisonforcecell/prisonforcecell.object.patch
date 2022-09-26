@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "매우 위험한 죄수용으로 설계된 방이다. 살인마라거나, 강도라거나, 무단횡단자라거나..."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "딥따 작은 방이구만."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조심. 감옥의 역장은 부적응자를 감금하는 데 쓰는 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "나쁜 샤람 안에 집어넣는 꼬투리다... 다시 좋은 샤람으로 만들어주냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "야만적인 형태의 감금 독방이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "배교자라고 해도 저런 좁은 공간에 갇혀있는 건 지옥같을 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "다른 감옥보다 훨씬 튼튼해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "역장 감옥"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단독 수감용 장치 같다, 아마도?"
+    }
+]

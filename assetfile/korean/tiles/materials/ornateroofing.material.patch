@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 쓰는 건 아니지만, 그럼에도 괜찮아 보이는 지붕이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 지붕은 화려할 뿐 만 아니라, 구조적으로도 튼튼하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "화려한 지분 예쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 지붕"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전통적인 화려한 지붕처럼 보인다."
+    }
+]

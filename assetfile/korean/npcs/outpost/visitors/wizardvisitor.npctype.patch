@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "관심. 혹시 요술지팡이나 요술봉 찾아낸 것 있으시오? 올바른 이의 손에 들려있기만 하면 강력한 무기가 된다오!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "긴장. 이 옷은 분명 우아하긴 하오만, 이걸 입고 걷는 건 참 난관이오."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "흥분. 서로 다른 형태의 지팡이와 요술봉을 연구해보고 있소. 혹시 본 적 있으시오?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "着迷。你最近有没有发现任何法杖或魔杖吗？能正确使用的话是最有力量的武器！",
+            "兴奋。我研究了不同种类的法杖和魔杖。你见过那些法杖了吗？",
+            "紧张。这些靴子很优雅，但它们确实很难穿进去。"
+        ]
+    }
+]

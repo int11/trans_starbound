@@ -1,0 +1,62 @@
+[
+    {
+        "op": "replace",
+        "path": "/converse/default/default/8",
+        "value": "빅 에이프께서 우릴 지켜보시듯, 나도 널 지켜보고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/7",
+        "value": "지정부는 강하다, 이방인. 행동 조심하는 게 좋을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/6",
+        "value": "지나가도 좋다, 이방인. 문제만 일으키지 마라."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/5",
+        "value": "이 우주에 지정부와 동등한 세력은 없다!"
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/4",
+        "value": "지정부는 강하다. 빅 에이프께서 지켜보신다."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/3",
+        "value": "누구의 관심도 끌지 마라. 그냥 아무 소리도 내지 마라."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/2",
+        "value": "난장판을 만들지 않는다면 다칠 일도 없을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/1",
+        "value": "독립은 노예제다. 복종이야말로 힘이다."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default/0",
+        "value": "빅 에이프께서 너를 지켜본다, 외지인."
+    },
+    {
+        "op": "replace",
+        "path": "/converse/default/default",
+        "value": [
+            "大猿人正看着你呢，外来者。",
+            "独立即奴役，服从即力量。",
+            "只要你不闹事，你在这就不会受到伤害。",
+            "别吓到这里的人。事实上，尽量不要弄出太大的噪声。",
+            "科技发展部很强大，而大猿人正在看着。",
+            "宇宙中没有能匹敌科技发展部的力量！",
+            "只要不惹麻烦，你就能通过这里，陌生人。",
+            "科技发展部拥有强大的力量，陌生人。你最好尊重我们。",
+            "我正看着你，就像大猿人看着我们所有人！"
+        ]
+    }
+]

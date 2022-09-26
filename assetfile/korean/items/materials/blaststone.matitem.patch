@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "블래스트스톤"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "엄청난 열기의 폭발로 생성된 뾰족한 돌들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "吃惊。高温把矿物都融入到了高炉石块中。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "这尖尖尖锐的石头真坚固固固。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这些坚固的石头很尖锐。"
+    }
+]

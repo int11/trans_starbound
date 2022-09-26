@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부리씨 타르트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물이 잘오른 부리씨로 만든 잼으로 만든 타르트다."
+    }
+]

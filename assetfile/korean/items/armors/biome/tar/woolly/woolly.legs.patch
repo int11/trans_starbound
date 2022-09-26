@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 바지는 착용자의 체온을 최소한으로만 지켜줄 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선사시대 털바지"
+    }
+]

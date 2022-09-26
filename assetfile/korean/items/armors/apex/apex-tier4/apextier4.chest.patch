@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 상의가 가진 듀라스틸 내부 구조는 튼튼하고도 멋지다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "혁명가의 상의"
+    }
+]

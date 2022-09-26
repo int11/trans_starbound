@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "민첩성을 고려해 순수한 에지솔트로 달여졌다. 깃털 장식을 까먹지 말자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "성전사의 흉갑"
+    }
+]

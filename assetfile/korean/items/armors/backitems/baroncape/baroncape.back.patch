@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "남작의 망토"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 망토는 착용자가 방에 들아갈때 극적이게 휘날리도록 디자인 됬다."
+    }
+]

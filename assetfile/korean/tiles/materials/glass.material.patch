@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "유리의 반대편을 선명하게 볼 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "세심. 이 투명한 유리를 통해 선명하게 볼 수 있다. "
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 유리에 예쁘게 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "내 반사광을 볼 수있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유리 블록"
+    }
+]

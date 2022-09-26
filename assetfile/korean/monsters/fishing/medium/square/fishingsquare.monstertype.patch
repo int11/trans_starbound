@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네모나d  "
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "놀랍게도 그런 모양으로도 수영에 뛰어나다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "흉갑의 가벼운 무게와 유연성은, 착용자가 빠르게 공격할 수 있게 해준다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대해 흉갑"
+    }
+]

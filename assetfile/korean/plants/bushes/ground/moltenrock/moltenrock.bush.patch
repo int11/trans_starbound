@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 녹은 돌이오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "타는 돌이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹은 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹은 바위다."
+    }
+]

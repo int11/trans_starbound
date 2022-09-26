@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "수정이 겨울철 보름달처럼 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "수정의 빛이 차분하면서도 활기차다. 꽤 복잡한 기분이 든다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "수정이 영적인 빛을 발한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "빛나는 수정이다. 마법같아. 이거면 마법사가 될 수 있을 지도 몰라!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "차분한 분위기를 조성하는 등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "우려. 미지의 동력원으로 작동하는 빛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈정 빛나는 이유 왜 신경 쓰냐? 셰련된 등불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "등불처럼 쓰이는 발광수정이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아주 우스워 보이는 모양의 침대다. 꽤나 재미지네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "독특한 디자인의 침대야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "외계 침대이다. 살았을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "만질 때마다 따끈따끈하고 푹 꺼져들어가는군."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "난 우리집의 평범한 침대가 그리워."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의문. 이 침대는 따스한… 체열을 발산하네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "식물 침대다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "외계 나무로 만든 침대다. 살아움직이는거 같은데?"
+    }
+]

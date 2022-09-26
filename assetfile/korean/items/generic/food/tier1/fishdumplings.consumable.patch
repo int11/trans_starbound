@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물고기 덤플링"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단한 물고기 덤플링, 가볍게 양념해서 쪄냈다."
+    }
+]

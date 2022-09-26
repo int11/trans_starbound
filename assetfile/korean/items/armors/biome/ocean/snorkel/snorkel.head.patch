@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스노클"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얕은 물에서 수영할 때 주로 사용하는 물건이다."
+    }
+]

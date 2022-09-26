@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "인간 다리 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 인간 다리 한쌍이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "끈적한 타르로 만든 바지다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "타르 바지"
+    }
+]

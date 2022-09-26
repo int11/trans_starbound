@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "순결과 다리를 지키는 각반이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "성기사의 각반"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 적당한 가슴 보호대는 철도 선로에 마을 처녀를 묶고 싶게 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "악동의 가슴보호대"
+    }
+]

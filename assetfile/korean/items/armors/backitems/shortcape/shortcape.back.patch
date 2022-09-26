@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "짧지만 펭귄들에겐 충분히 길다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "짧은 망토"
+    }
+]

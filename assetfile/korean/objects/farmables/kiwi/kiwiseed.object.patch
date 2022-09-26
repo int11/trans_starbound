@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "평범한 키위맛이네!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "땅에서 자라는 키위니까, 띠위인가."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "우주 키위의 털은 꼭 에이펙스랑 비슷해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 먹는 자들을 떠올릴 수 있게 해주는 과일이라니."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "털 많고 질퍽이는 섕물 과일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 우주 키위종은 땅에서 자란다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "또 다른 과도하게 달달한 과일이군. 껍질도 촉감이 불쾌하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이상하고 보송보송한 과일이다. 맛난 씨앗으로 가득차있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "키위 씨"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "티타늄 단검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 단검은 가볍지만, 놀라울 정도로 단단하다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파티에 적합한 화려한 턱시도."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금수저 턱시도"
+    }
+]

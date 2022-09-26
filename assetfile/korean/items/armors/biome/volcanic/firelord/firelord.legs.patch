@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "염제의 각반"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 각반들은 전설에 따르면 착용자가 어떠한 불꽃도 헤쳐나갈 수 있도록 해준다고 한다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "옥수수는 여러 형태로 즐길 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "평범하고 무미건조한 가치있는 간식."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달고 노란 옥수수."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "옥수숫대를 쪼고 있으면 이만한 간식이 따로 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "사탕옥수수가 안정적으로 공급되면 진짜 최고라니까."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "옥수수. 바나나처럼 생긴 또 다른 음식이건만, 바나나 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의심. 글리치가 옥수수를 먹으면 뱃속에서 뻥 터진다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "딱딱한 노랑 옥슈슈. 요리하면 빵 터진다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "옥수수 씨앗"
+    }
+]

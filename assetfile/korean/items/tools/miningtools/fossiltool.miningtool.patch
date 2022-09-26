@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화석 추출기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석을 발굴하는데 사용된다. 다른 것은 화석을 손상시킨다. 내구성이 약하다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "검치호의 머리뼈로 만든 위협적인 투구이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "검치호 투구"
+    }
+]

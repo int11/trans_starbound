@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "선도자의 흉갑은 듀라스틸을 방탄복 처럼 짜서 만들어진다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선도자의 흉갑"
+    }
+]

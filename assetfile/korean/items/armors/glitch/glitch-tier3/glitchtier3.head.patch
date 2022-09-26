@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "티타늄으로 무장된 글리치는 명예롭게 싸운다. 매우 날카로운 칼 한자루와."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기사의 투구"
+    }
+]

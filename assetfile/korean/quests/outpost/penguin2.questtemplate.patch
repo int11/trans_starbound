@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;비기^reset;에게 말을 걸어 ^orange;병기 실험실^reset;로 이동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;전초기지^reset;에 있는 ^orange;비기^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "^orange;번쩍 펄쩍이 1호^reset;를 격파하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "평소라면 내가 자네에게 희귀한 무기들을 업그레이드 해줬네만, 내 주요 공급 업체가  ^orange;새로운 무기 실험^white;으로 인해 물자를 보내 주질 않네. 그러니까 가능하다면... 그걸 파괴해줘. 그러면 내가 다시 물자를 받아 무기를 업그레이드 해줄 수 있을지도 모르지! ^green;준비가 됬을때 내게 말을 걸면 자네를 그 곳으로 보내주겠네^white;! "
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "내 공급 업체의 무기를 파괴했나? 환상적이군! 비기의 믿을만한 무기상이 다시 영업한다네. ^green;매일 여기에 와서 새로운 무기가 있나 확인해보게^white;!  "
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questStarted/title",
+        "value": "비기"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "비기"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;펭귄 병기 가동 실험실"
+    }
+]

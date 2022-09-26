@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "천장에 매달려있는 끈적이는 슬라임."
+    }
+]

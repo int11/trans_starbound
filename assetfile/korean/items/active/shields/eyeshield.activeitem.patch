@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아이실드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모든 공격을 관측한다."
+    }
+]

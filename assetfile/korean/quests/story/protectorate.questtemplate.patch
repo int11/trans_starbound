@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/escape",
+        "value": "재난에서 살아남으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/matterManipulator",
+        "value": "물질 조작기를 집으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/graduate",
+        "value": "졸업식에 참석하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "졸업식에서 살아남으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "수 년에 걸친 훈련이 오늘 빛을 발했습니다 - 졸업식에서 살아남았습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "수호자 연합"
+    }
+]

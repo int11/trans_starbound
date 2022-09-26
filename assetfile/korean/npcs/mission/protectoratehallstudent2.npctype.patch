@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "기쁨. 아침에 내 유니폼을 다림질 해둬서 다행이군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "긴장. 혹시 내 볼트가 커 보이나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "간절. 나만의 물질 조작기라니. 비유적으로 기다리기 힘들군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "渴望。我将要拥有我自己的物质枪了，我已经迫不及待了。",
+            "紧张。似乎我的固定螺栓有点偏大了？",
+            "愉悦。我很开心今天早上我熨烫了我的制服。"
+        ]
+    }
+]

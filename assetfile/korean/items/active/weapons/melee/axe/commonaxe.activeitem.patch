@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자르는데 특화되도록 설계 되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "흔한 도끼"
+    }
+]

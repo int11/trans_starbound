@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "검고 차가운 이 벽돌은 방의 열기를 흡수해버린다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "검은 무덤 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "冷漠。这些巨大的砖块大小参差不齐。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "大石头砖块又硬又冷。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "看起来很坚硬的石头。触摸后有非常冰冷的手感。"
+    }
+]

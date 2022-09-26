@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/blueprintAlreadyKnown",
+        "value": "이미 <ItemName> 의 제작법을 알고 있습니다. "
+    },
+    {
+        "op": "replace",
+        "path": "/blueprintUnlock",
+        "value": "^green;<ItemName> 의 제작법을 배웠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectableUnlock",
+        "value": "^green;<collectable>^white;已添加到^blue;<collection>^reset;收藏库"
+    },
+    {
+        "op": "replace",
+        "path": "/companionsConfig/recruitDescription",
+        "value": "^cyan;> 名称：^white;<name>\n^cyan;> 工作：^white; <role>\n^cyan;> 等级：^white; <rank>\n^cyan;> 状态：^white; <status>"
+    }
+]

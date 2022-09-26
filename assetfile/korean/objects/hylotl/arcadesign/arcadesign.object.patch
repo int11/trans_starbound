@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오락실?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "흠. 최근 오락실에 가본 지도 꽤 됐지. 재밌겠다!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오락실 완전 좋아! 내 돈 다 가져가!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "오락실!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "환희. 즐거운 오락실이군!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "오락실! 플로란 승리 즐긴다!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오락실 간판이다. 아마 근처에 오락실이 있는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "오락실. 즐기자!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오락실 간판"
+    }
+]

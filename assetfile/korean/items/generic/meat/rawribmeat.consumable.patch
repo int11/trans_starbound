@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생 갈비"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "운도 지지리도 없는 한 생명체의 갈비에서 잘라낸 고기다. 맛있어 보이지만 먼저 조리하는 게 좋겠다."
+    }
+]

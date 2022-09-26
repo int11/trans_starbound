@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/paneLayout/windowtitle/title",
+        "value": "모드"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/windowtitle/subtitle",
+        "value": "^#b9b5b2;현재 로드된 모드들"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/selectmodlabel/value",
+        "value": "모드 선택"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/lblDescription/value",
+        "value": "설명"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/modauthorlabel/value",
+        "value": "제작자"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/modversionlabel/value",
+        "value": "버전"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/linklabel/value",
+        "value": "모드 홈페이지 열기"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/copylinklabel/value",
+        "value": "모드 홈페이지 링크 복사"
+    }
+]

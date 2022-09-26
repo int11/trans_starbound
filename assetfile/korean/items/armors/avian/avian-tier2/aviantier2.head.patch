@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강력하고 뾰족한 텅스탠 재질의 보기좋은 투구다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "참새 투구"
+    }
+]

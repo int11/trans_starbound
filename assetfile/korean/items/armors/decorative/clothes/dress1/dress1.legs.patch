@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주름 치마"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유행과 쾌적함을 동시에!"
+    }
+]

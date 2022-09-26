@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나한테는 다소 오물 같아 보이는데. 냄새는 땡볕아래 변소 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 정말 압도적인 악취를 내뿜는 오물이군!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 끈적한 오물때문에 역겹다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생 오물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오물의 역겨운 더미다. 사랑스럽다."
+    }
+]

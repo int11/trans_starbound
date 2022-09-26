@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가벼운 패로지움 보강 스커트. 추가적인 조류 다리 부츠는 강제 착용이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플라밍고 스커트"
+    }
+]

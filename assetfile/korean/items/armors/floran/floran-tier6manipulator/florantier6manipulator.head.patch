@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "광란의 눈과 악마같은 미소는 이 공포스러운 가면이 무서운 진정한 이유가 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주술사의 가면"
+    }
+]

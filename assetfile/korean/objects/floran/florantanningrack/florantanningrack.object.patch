@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "쭉 뻗은 동물 가죽 같은거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란들이 이런 방법으로 가죽을 무두질하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "플로란이 가죽을 손질하는데 쓰는 원시적인 장치다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 모피 피고 가죽 무두질해. 뼈들이 가죽 빳빳하게 잡아줘."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 무두질 걸이대."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 과정으로 가죽을 무두질해 더 튼튼하게 하는 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "무두질에 쓸 걸이대일까? 아니면 이젤?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 걸이대의 용도는 동물의 가죽을 전시하는 것인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "동물의 날가죽이 두 뼈 사이에 뻗어 마르고 있다."
+    }
+]

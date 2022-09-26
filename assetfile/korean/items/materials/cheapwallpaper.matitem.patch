@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초라한 벽지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "싸고, 초라한 벽지다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "不安。这种墙纸真是难以忍受的俗气。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人非常喜欢漂亮的墙纸纸纸。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "为什么会有人会想用这样子的墙纸贴满他们的墙壁？"
+    }
+]

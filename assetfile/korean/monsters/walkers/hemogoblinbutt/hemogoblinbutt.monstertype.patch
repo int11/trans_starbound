@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해모고블린 하반신"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해모고블린의 하반신은 상위 뇌기능이 없어 순전한 본능으로 움직인다."
+    }
+]

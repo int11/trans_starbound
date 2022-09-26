@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가죽"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "네모난 가죽이다."
+    }
+]

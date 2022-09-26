@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "술집 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밖을 성가신 회전초만 굴러다니게 하는 활기찬 술집 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一个猿人走进了一间酒吧…"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "就算再怎么晃动，这扇可怜的门也非不起来。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "愚愚愚蠢晃晃晃动的东西当了叶族人的的的路。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "愉悦。这扇门的作用只是为了在有人通过时发出信号。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "这东西当窗户比当门合格。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "当一个人在穿过这扇门之前，必须准备应付一场决斗。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "步入这样一扇门，你最好做好应对任何事情的准备。"
+    }
+]

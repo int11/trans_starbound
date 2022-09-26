@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수수께끼의 목적을 위한 수수께끼의 판쵸이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "들적의 판쵸"
+    }
+]

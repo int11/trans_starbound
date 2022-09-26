@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살점 가닥"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "길고, 근골이 실팍한 살점 가닥이다."
+    }
+]

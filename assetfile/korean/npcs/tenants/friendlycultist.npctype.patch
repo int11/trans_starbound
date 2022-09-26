@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/4",
+        "value": "밤에 숨은 공포라니... 네가 그들을 물리칠 수 없다면, 왜 그들에게 합류하지 않는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/3",
+        "value": "보호국은 그들만의 길을 따랐어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/2",
+        "value": "두려워 마,  난 절대 너에게 해를 끼치지 않으니."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/1",
+        "value": "나에 대해선 걱정하지 마. 난 완벽히 신뢰할수 있으니. 히히."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/0",
+        "value": "내 주위에 있을 땐 긴장을 풀어도 좋아. 내 목표는 너의 이해 뒤에 있으니."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default",
+        "value": [
+            "没必要对我感到紧张。我的目标是超乎你想象。",
+            "别担心我。我完全值得信赖。嘻嘻。",
+            "不要害怕，我是完全无害。",
+            "大地守护团也是另一种邪教。",
+            "恐怖潜伏在黑夜之中…如果你不能打败他们，为什么不加入他们呢？"
+        ]
+    }
+]

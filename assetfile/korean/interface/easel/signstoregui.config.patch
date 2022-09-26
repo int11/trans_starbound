@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "^#b9b5b2;우아한 자동 표지판 인쇄 설계 장치"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "图架"
+    }
+]

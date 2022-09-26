@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "반짝이는 사과보다 나은 게 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "육지 사과 한 바구니라. 바다 사과만큼 짭조름하진 않지만 여전히 만족스럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "가까이서 보니 왁스로 만든 사과에 왁스칠해놓은 거잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "태양의 축복으로 여문 새빨간 사과라."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "영양소로 가득찬 맛 좋은 빨간 사과다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "검증. 이 사과는 대칭적이고 흠도 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샤과 너무 많아. 고기 너무 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사과 바구니"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사과로 가득 찬 바구니다."
+    }
+]

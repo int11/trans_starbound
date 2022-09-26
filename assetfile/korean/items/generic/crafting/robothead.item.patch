@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "로봇 머리부"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "로봇 머리부로, 살아있는 두뇌로 완성했다!"
+    }
+]

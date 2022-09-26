@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;엘리엇^reset;에게 말을 걸어 ^orange;장애물 코스^reset;로 입장하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "^orange;공중 도약 기술^white;이 훌륭하게 작동하고 있어! 하나는 네가 가지도록해. ^green;또 다른 일을 하고 싶으면 나한테 다시 와^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "엘리엇"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;전초기지^reset;에 있는 ^orange;엘리엇^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "^orange;공중 도약 기술 장애물 코스^reset;를 통과하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "내 ^orange;공중 도약 기술^white;을 검증봐야 내가 이걸 배포 할 수 있어. 내 새로운 ^orange;장애물 코스^white;가 준비되었고 실험을 기다리고있어! ^green;실험을 시작할 준비가 됐으면 나에게 말을걸어^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questStarted/title",
+        "value": "엘리엇"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^orange;올바른 해답으로 도약하기"
+    }
+]

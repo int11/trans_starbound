@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "추운 밤에 모닥불에 구워먹기 딱이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "으깬 감자면 든든한 식사를 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "감자는 완전 평범하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "단단하고 바샥한 감자 흙에셔 바로 캐냈다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "감자다! 끓이고, 으깨고, 스튜에 처넣어버리자."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "평범하고 별 볼 일 없는 뿌리채소다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아아아, 감자다. 네가 못 하는 게 뭐니?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흠모. 인간들은 이리 간단한 물건을 가지고 수많은 식사를 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "감자 씨앗"
+    }
+]

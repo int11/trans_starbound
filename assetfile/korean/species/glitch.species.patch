@@ -1,0 +1,78 @@
+[
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "글리치는 본래 문명의 모의 실험용으로 개발되었습니다. 프로그래밍 문제로 이들은 실험 초기의 진행 상황에서 더 발전하지 못했고, 따라서 지금까지도 중세의 가치관에 묶여 살고 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/9",
+        "value": "성격"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/7",
+        "value": "하의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/6",
+        "value": "상의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/5",
+        "value": "장식 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/4",
+        "value": "조명 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/3",
+        "value": "하의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/2",
+        "value": "상의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/1",
+        "value": "머리 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/0",
+        "value": "도장 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "글리치"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/8",
+        "value": "글리치"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels",
+        "value": [
+            "喷漆颜色",
+            "头形",
+            "上衣",
+            "裤子",
+            "灯光颜色",
+            "细节颜色",
+            "上衣颜色",
+            "裤子颜色",
+            "电子人",
+            "人物性格"
+        ]
+    }
+]

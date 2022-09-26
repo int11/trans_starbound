@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "얼음은 위험할 슈 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 얼음 함정"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 함정은 침입자를 저지하기 위해 얼음을 내뿜는다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "치명적인 얼음 폭발을 조심해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 얼음 함정은 황동 원숭이의 발을 얼릴 수 있을 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "얼음, 가장 치명적인 형태의 물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "위험한 얼음 기계이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "치명적인 얼음 함정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 치명적인 얼음 함정이오."
+    }
+]

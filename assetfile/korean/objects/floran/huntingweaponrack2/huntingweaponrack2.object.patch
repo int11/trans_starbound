@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "창 걸이로 만들어진 진열대. 라이플을 걸어놔도 될까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "조잡한 플로란 무기를 걸어놓는 진열대."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "무기 걸어놓는 진열대같네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "창을 잃어버린 창 진열대."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "완벽히 비어있는 창 진열대."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "가설. 면적을 보건데, 창을 걸어놓으려고 만든 진열대같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "비어있는 사냥무기걸이."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빈 무기 진열대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플로란 무기 진열대. 무기가 전부 사라졌다."
+    }
+]

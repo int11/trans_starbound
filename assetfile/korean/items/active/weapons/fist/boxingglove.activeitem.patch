@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "권투 장갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이제 너도 경쟁자다!"
+    }
+]

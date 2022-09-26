@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "떠다니는 반짝이 돌이 횃불마냥 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안은 영원한 빛을 요하는 장소에 횃불 대신 수정을 걸어놓는다. 수천 년은 거뜬하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이리 아름다운 기술이 있을 줄이야. 아비안은 이런 걸 어디서 배워온 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "빛나는 수정이지만 만지면 차갑기만 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "계속 떠있는 수정이다. 빛을 발하는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 수정은 스스로 중력장을 형성해 떠다니면서도 알아서 빛을 내뿜는다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "괴샹한 빛. 피 섁깔."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 횃불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "틀 위에 떠서 기묘한 빛을 내는 수정이다."
+    }
+]

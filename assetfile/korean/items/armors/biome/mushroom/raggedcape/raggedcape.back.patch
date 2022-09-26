@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해진 망토"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "험난한 모험엔 제격이네!"
+    }
+]

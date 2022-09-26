@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가슴을 효과적으로 보호하고 뛰어난 통풍 기능을 가지고있는 패로지움 사슬갑옷 슈트."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플라밍고 사슬갑옷"
+    }
+]

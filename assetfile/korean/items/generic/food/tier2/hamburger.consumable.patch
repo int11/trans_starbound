@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "햄버거"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "육즙이 흐르는 햄버거다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 전문적인 재판관은 아니지만 이건 좀 지루해보이는 탁자인데"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이건 탁자야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "내가 본 탁자중에서 가장 세번째로 평범한 탁자야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 평범한 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "기술잘하는 샤람이 쓸거같은 책샹이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "특별한거 없는 탁자인데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "간단한 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "단단한 금속 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 금속 탁자다."
+    }
+]

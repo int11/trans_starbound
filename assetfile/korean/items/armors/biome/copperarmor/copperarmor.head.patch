@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 고글"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구리로 만든 튼튼한 한쌍의 고글"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 자연적으로 생긴 가시인가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뾰죡해!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "천연 가시."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "천연 가시."
+    }
+]

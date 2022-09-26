@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이리도 호사스러울 수가.  고상함이라곤 없구나."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "좀 불편해보이는데..."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "과학적 개소리로 만들어졌구나."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "거대한 세포로 구축된 의자라...  눈아프네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무감명. 밝고 기초적이며 세포로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 더 단슌한 게 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "세포 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밝고 현대적인 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거랑 땅바닥중에 선택하라고 하면 난 바닥에 앉아야지."
+    }
+]

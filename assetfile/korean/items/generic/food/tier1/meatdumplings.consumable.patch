@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고기만두"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "찐 고기만두다. 참 쉽죠?"
+    }
+]

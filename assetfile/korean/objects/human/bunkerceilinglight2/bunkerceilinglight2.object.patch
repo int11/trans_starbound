@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "평범한 천장등이군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "천장 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "걸어서 쓰는 등이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "머리에 붙인 뒤...잠깐, 아니네. 그냥 전등이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "썩 흥미롭게 생기진 않았군."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "철재 천장 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지루함. 평범한 조명기구."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속재 천장 전등."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "철재 천장 전등이다."
+    }
+]

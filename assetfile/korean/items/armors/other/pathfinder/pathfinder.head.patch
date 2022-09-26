@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "길잡이의 투구 "
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "통신 기능이 내장되어있지만, 불행하게도 작동하지 않습니다."
+    }
+]

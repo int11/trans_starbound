@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스타일리쉬한 상의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "인조 가죽으로 만들어진 자켓이 당신의 자신감을 채워줍니다!"
+    }
+]

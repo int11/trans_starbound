@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 작은 잡초는 온통 벌레투성이이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "수풀에서 벌레를 찾았어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여기 이 벌레는 예쁜걸. 항아리에 넣어가야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미로움. 이 수풀의 생물학이 벌레를 유인한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈풀에 있는 작은 벌레들은 찌르기에는 너무 작아."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "날개를 퍼덕거리는 작은 벌레들이 이 수풀 안에서 움직이는것으로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "유쾌한 작은 벌레들."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "벌레가 날아다니는 수풀."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나비 수풀."
+    }
+]

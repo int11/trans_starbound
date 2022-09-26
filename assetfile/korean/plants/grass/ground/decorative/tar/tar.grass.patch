@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 쓸모있는 타르군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끈적 끈적."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "끈적 거리는 타르다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "찝찝하고 끈적거리는 타르다."
+    }
+]

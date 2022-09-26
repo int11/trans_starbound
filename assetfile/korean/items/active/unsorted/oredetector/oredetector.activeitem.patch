@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "광물 탐지기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "특별한 파동으로 주변 광물들의 구성을 분석한다."
+    }
+]

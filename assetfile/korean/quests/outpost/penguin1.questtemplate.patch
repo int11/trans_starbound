@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;바텐더^reset;에게 말을 걸어 ^orange;공포날개^reset;가 있는 곳으로 이동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;전초기지^reset;에 있는 ^orange;바텐더^reset;에게 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "^orange;공포날개^reset;를 쓰러트리세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "혹시 말인데, 날 도와줄 수 있나? 내 사업의 주요 단골 손님들이 ^orange;공포날개^white;의 갱들과 사기꾼에게 쫒기고 있어서 사업에 지장이 있네! 혹시 나를 위해서 ^green;공포날개를 격파^white;해줄 수 있겠나? 준비가 되면 내게 오게나, 그럼 내가 자네를 그에게 보내주겠네!"
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "혹시 그를 제압했나? 고맙네, 이제 다시 사업을 진행할 수 있겠어! ^green;나중에 내게 다시 오면 펭귄 용병을 고용할 수 있도록 ^orange;금화^green;를 주겠네^white;. "
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questStarted/title",
+        "value": "바텐더"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "바텐더"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;공포날개 펭귄단"
+    }
+]

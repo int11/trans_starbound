@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좀 낡아 뵈는 레일, 타고싶어 몸이 근질거리는군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "우려. 이 레일은 잔뜩 닳고 녹슨 듯 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "녹슨 금쇽 레일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 레일"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 레일은 약간 거칠다, 그래도 작동하는듯하다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 뭐 새 노바키드 낙인을 광고하는 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 추잡한 표식은 일종의 경고표시같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "태양을 의미하는 건가? 아닐 텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 아주 옛날에 '조심! 나쁜 물건!'이라고 표시하던 문양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "생물재해를 표시하는 국제기호다. 조심해야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생물재해 위험 기호가 적힌 금속 표지판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 표시가 무슨 뜻인지 알아둬야 할까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "표시 뭔가 의미한다! 플로란 모르겠다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생물학적 위험 표지판"
+    }
+]

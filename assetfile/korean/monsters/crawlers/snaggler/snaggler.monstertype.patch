@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스내글러"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뚫는게 불가능한 등껍질을 갖고 있어서, 상대하기 까다롭다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 전등은 방수기능이 있다. 영리해."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "그냥 방수 전구다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "평범한 전구다. 물 속에서도 작동할 수 있도록 처리되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 방수전구다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "물 속에서도 작동할 수 있도록 방수처리가 되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "물에 들어가도 작동할 수 있게 설계되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "전구."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 홍수 전등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물 속에서도 빛나는 작은 등이다."
+    }
+]

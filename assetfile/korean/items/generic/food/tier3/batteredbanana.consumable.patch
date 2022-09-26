@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바나나 튀김"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바나나를 으깨서 두꺼운 반죽에 감싸 튀긴 음식이다."
+    }
+]

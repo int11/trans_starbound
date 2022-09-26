@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "라군 하의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "비늘로 덮혀있는 이 하의는 발 부분에 큰 발톱이 달려있다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "우주시대 폴리머"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우주 시대의 폴리머다."
+    }
+]

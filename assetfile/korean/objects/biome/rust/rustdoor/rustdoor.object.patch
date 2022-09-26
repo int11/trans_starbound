@@ -1,0 +1,42 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹슨 문이다. 소름끼치는 지하로 연결된것으로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一扇阴森生锈的门。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这样的门使得事物不明显。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "头一次，叶族没有什么好说的。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "厌恶。生锈的门。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "一扇生锈的门。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这门没有很好的维护。"
+    }
+]

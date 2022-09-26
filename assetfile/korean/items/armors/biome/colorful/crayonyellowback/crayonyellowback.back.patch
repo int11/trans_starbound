@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "노랑 크레용"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "노랑 크레용. 장비해서 차림새에 색을 더하자."
+    }
+]

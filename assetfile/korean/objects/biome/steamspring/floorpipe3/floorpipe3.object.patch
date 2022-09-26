@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "관에서 굴뚝마냥 연기가 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "구르믈 버서난 달처럼."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "누가 이 관을 만들었을까."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 연기 냄새 웃기네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "튼튼해보이는 파이프다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 잘 빠진 관이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낯션 파이프다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바닥 관"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바닥에서 튀어나온 관이다."
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+        "value": "넌 나한테서 숨을 수 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cantReach/default/default/1",
+        "value": "난 널 잡을거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cantReach/default/default/0",
+        "value": "가까이 와!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+        "value": "네가 도전할 수 있을 때 다시 와."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+        "value": "그들은 우리의 결합된 힘과 걸맞지 않아!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "무너지는 것을 준비해!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+        "value": "탈출은 없어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/reattack/default/default/0",
+        "value": "이번 시간엔 나는 널 끝낼거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "准备好被碾碎吧！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/reattack/default/default",
+        "value": [
+            "这次我会终结你！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/killedTarget/default/default",
+        "value": [
+            "练几年再滚回来吧！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/lostTarget/default/default",
+        "value": [
+            "你不可能躲过我！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/outOfSight/default/default",
+        "value": [
+            "无路可逃！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cheerOn/default/default",
+        "value": [
+            "当我们联合起来，无人能敌！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/cantReach/default/default",
+        "value": [
+            "靠近点！",
+            "我要抓住你！"
+        ]
+    }
+]

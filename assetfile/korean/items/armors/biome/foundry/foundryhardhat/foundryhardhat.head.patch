@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주조소 안전모"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 고글이 붙어있는 밝은 안전모."
+    }
+]

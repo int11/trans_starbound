@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "의료용 주사기 (Medical Syringe)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것은 스팀팩을 만드는데 사용될 수 있다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전통적인 초가집 지붕 재료이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "짚 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "高兴。这些茅草屋顶让我想起淳朴的生活时光。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "干干干燥的稻草屋顶。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "用稻草做的层状屋顶。"
+    }
+]

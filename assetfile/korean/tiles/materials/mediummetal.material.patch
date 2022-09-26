@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "부드러워 보이는 텅스텐으로만든 블록이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 블록은 텅스텐으로 이루어져있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝반짝 텅스텐 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "텅스텐 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 텅스텐 블록이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스몰 쉴드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "쉴드 중에서 작은 싸이즈 입니다."
+    }
+]

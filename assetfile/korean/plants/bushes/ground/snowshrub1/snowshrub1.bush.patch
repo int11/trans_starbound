@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 눈이 차곡이도 쌓여있는 수풀이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "눈썋인 슈풀."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈으로 덮힌 수풀."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈으로 덮힌 수풀."
+    }
+]

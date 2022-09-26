@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"이구아머는 공격적인 종이 아니다. 하지만 그들의 꼬리 가시는 큰 피해를 줄 수 있다.\"라고 적혀있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이구아머 모형"
+    }
+]

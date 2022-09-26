@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "영관 붕장어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몸에 있는 여러 개의 부레가 부력을 정밀하게 조정해준다."
+    }
+]

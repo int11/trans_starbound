@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좋아 보이는 금속제 플랫폼이네"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 플랫폼은 내 무게를 쉽게 지지 할 수 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝반짝 금쇽 플랫폼."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단해 보이는 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 플랫폼"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달변이자 처럼 보이게 만드는 끈적 끈적한 핼멧."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돌연변이 갱부의 핼멧"
+    }
+]

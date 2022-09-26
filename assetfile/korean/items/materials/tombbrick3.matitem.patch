@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매우 능수능란하게 만들어진 작은 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 무덤 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "吃惊。这石头的加工工艺真是令人赞叹不已。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "小小的石石石砖块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "在我看来就是些小小的砖块。"
+    }
+]

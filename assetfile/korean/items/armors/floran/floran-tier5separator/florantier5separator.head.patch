@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그림자 안에서 입도록 만들어진 투구이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "채집자의 투구"
+    }
+]

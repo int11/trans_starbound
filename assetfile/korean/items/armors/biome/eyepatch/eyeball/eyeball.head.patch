@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 눈알을 가진 마스크, 깊이감을 느끼는 능력을 대폭 낮춘다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈알 마스크"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "채광용 안전모"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "조명이 달린 광부의 모자. "
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "촛불의 깜빡임만큼 아름다운 것은 없거든."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안 신관들은 가끔 촛불 가지고 일해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감상적. 촛불, 여태껏 얼마나 놓쳐왔는지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아기자기한 작은 초."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불꽃은 엄청 위험해!!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "받침에 올려진 작은 양초."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작고 예쁜 촛불이네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 초."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초"
+    }
+]

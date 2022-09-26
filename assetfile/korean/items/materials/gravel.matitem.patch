@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "굵고 거친 자갈이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "자갈"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "恼火。这沙砾粗糙而不紧实。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "碾碎碎碎的砾石。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "压碎的石头和沙砾。"
+    }
+]

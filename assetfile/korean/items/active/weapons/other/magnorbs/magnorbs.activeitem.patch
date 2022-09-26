@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "마그노브"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 특별 제작된 자성 보호구는 특별 디자인 된 철구를 던지고 받는데 적합하다."
+    }
+]

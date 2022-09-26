@@ -1,0 +1,117 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findClues",
+        "value": "^green;물체를 조사^reset;하여 ^orange;글리치 단서^reset;를 찾으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+        "value": "너는 글리치 고대 유물들의 수집가로구나! 보아하니 네가 이미 유물의 위치를 찾을 만한 충분한 단서들을 모았단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/complete/text",
+        "value": "내 이론이 맞았단다! ^#71f2f6;준비가 되면 방주로 오거라^white;. 그러면 유물이 어디에 보관되고 있는지 말해주겠단다, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+        "value": "이 단서는 숨어있는 정보의 힌트로군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+        "value": "아무리 작은 증거라도 우주의 거대한 비밀을 푸는 데 도움이 된단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+        "value": "상당히 독특하구나! 하지만 더 놀라운 사실은 우리가 알아낸 정보보다 더욱 가치있는 물건 일 수도 있어..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+        "value": "이 단서는 내가 추측하고 있었던 게 맞다는걸 증명해주는군!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+        "value": "흠, 내 생각엔..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+        "value": "훌륭하구나. 네가 찾는 것들은 모두 이론의 형성에 기여를 하고 있단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+        "value": "작은 단서지만, 그래도 의미 있는 단서지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+        "value": "계속하렴, 얘야. 이 모든건 쓸모 있단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+        "value": "흥미롭구나. 분명 이걸로 내 연구에 진전이 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+        "value": "흐음, 기묘하군... 이 정보와 다른 정보를 같이 봐야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/text",
+        "value": "이 책상 위에 올려진 편지에는 악명 높은 글리치를 언급하고 있구나. 무엇보다도, 그는 많은 재물들을 소유한 부자로 보이는군 ..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/text",
+        "value": "방금 네가 스캔한 물건은 보물의 저장소를 언급하고 있단다. 귀중품의 캐시(cache)를 보관하는 곳을 말이야. 이곳에 유물만큼의 가치를 가진 보물도 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/text",
+        "value": "이 조각상... 난 이 사람을 예전에 본 적이 있단다! 책에서 봤었나? 한번 조사해봐야겠구나..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/glitchchess/text",
+        "value": "이 체스 테이블은 기묘하구나. 말들이 손으로 제작되어있어, 숙련자가 만든 것으로 보이는구나. 이 디자인은 조금 특이하군. 과연 이것의 기원은 뭔지 궁금해지는데."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/text",
+        "value": "문장학은 글리치에게 중요한 학문이란다. 이 배너에 있는 인장은 독특하고, 나는 이게 유물과 간접적으로 관련이 있다고 보고있단다. 나는 이것의 기원에 대해서 연구해 봐야겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startWithProgress/text",
+        "value": "아무래도 네가 유물의 행방을 찾을 단서가 포함된 물건을 미리 찾은 모양이구나. 네가 찾아다니는 동안 내가 분석하도록하마!"
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이제 ^orange;글리치 유물^reset;을 찾아야 한단다. 글리치는 ^orange;화산 활동^reset; 이 활발한 곳에 주로 자리 잡고 살고있단다(그들은 그곳에서 조금이나마 위로가 되는 곳을 찾으려는 것 같구나). 화산 행성은 ^orange;불타는 항성^reset; 주변에서 찾을 수 있단다. ^green;그곳이 ^orange;단서^green;를 찾기에 가장 적합할거야^white;. 나는 글리치들이 좀 특이하다는 것을 알고있단다, 하지만 그들을 얕보지는 않지; 일이 끝나면 자신을 보살피렴, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "이 마지막 단서로 글리치 유물의 위치를 확인했단다! 완벽해. 축하한단다, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "글리치 유물의 단서 찾기"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "난투 속에서는 최대한의 이동력이 필요하니까 말이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수호자의 반바지"
+    }
+]

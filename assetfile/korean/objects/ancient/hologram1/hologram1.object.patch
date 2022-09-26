@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "신비하고 이상하게 생긴 옛날 그림이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기 묘사된 신은 클루엑스를 떠올리게 한단 말야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "옛날 벽화들은 모호하고 신비로운걸 좋아한단 말이지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 홀로그램은 고대 행성들을 묘사한 것으로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 장면은 행성을 보호하는 모습인 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 사람 그림은 행셩들을 구하고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 홀로그램"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "一个全息的古老神话场景。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "全息图是一种美丽且神秘的对物体的表述方式。"
+    }
+]

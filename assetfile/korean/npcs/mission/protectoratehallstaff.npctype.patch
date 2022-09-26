@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/speak/default/default/0",
+        "value": "<entityname>, 많이 늦으셨습니다. 졸업식이 시작하기 전에 빨리 들어가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "수호자로 사는 것이 항상 쉬운 것만은 아닙니다. 하지만 당신이 위대한 목적의 일부분이라는걸 기억해주세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "레다 포르샤님은 명예로우신 대 수호자입니다. 그녀는 우리가 우주를 안전하게 지킬 수 있을거라고 믿고있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "졸엄식이 지금 당장 시작할지도 모릅니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/speak/default/default",
+        "value": [
+            "你真是赶在最后一刻啊，<entityname>。请赶在仪式开始之前尽快进去。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "仪式现在马上就要开始了。",
+            "丽达波茜娅是一个充满荣光的伟大守护者。她真的相信我们可以让这个宇宙保持和平。",
+            "守护者的一生不会一直一帆风顺，但是请记住，你是伟大事业中的一份子。"
+        ]
+    }
+]

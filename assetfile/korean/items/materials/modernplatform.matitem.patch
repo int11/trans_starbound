@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "현대적인 물질로 만들어진 이 플랫폼은, 부드럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "현대식 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "满足。这个光滑的现代平台既坚固又有魅力。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "光溜溜的现代平台台台。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些看起来很别致的金属平台。"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "과학자들을 혼란에 빠뜨린 생명체로, 그 근원과 연대는 아직도 측정이 되지 않았다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "미지의 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "미지의 머리뼈 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 미지 생물체의 머리뼈이다."
+    }
+]

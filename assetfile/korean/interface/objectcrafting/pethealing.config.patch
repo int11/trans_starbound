@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/lblText/value",
+        "value": "^#b9b5b2;캡쳐 포드를 왼쪽 칸에 놓으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/gui/toggleCrafting/caption",
+        "value": "회복"
+    }
+]

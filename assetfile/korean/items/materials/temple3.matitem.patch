@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 신전 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지저분하지만 완성된 벽돌들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "吃惊。这些小砖块展现出某种精良的工艺。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "灰灰灰尘覆盖的小砖砖砖块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "表面覆盖着一层灰的小砖块。"
+    }
+]

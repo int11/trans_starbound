@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하와이 가슴 장식"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "두개의 코코넛 조각으로 만들어진, 하와이 가슴 장식"
+    }
+]

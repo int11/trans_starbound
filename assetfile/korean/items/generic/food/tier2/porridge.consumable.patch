@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오트밀"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그릇에 담긴 오트밀 죽. 하루를 건강하게 시작하게 해준다."
+    }
+]

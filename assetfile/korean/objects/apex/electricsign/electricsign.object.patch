@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀이 처음 바다에 발을 들였을 때 전기랑 관련한 사고가 상당수 있었다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지정부는 실험하는 데 전기를 얼마나 잡아먹을까. 이따금 마을 전체가 정전되기도 하는데."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "감전 주의 표시다. 조심해야지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "경고표시같다. 악천후 경고?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "고전압! 조심해야지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 강한 전류에 글리치 회로가 불타버릴 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "번개 불 만든다. 플로란 불 무셥다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전기 경고 표시"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "주의! 천둥번개!"
+    }
+]

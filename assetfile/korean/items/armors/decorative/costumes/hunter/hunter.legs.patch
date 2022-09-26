@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "굉장한 방어력을 제공한다....송곳니.....턱....또는 독침을 제외하면....... "
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥꾼의 하의"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여태껏 조우해본 적이 없는 웅장한 관문이다. 누가 이런 불가사의를 만들었을까? 반대편엔 뭐가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/destinations/0/planetName",
+        "value": "파멸"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/destinations/0/name",
+        "value": "파멸"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 관문을 표현할 단어가 떠오르질 않네. 그냥 조용히 감상해야지..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이건 그냥 웅장한 창조물이 아니다. 뭔가 특별한 목적을 가지고 만들어진 관문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 영광스러운 관문은 여태껏 본 적이 없다. 어디로 통하는 걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "무지막지한 크기의 관문이다. 반대편엔 뭐가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 숨막힐 정도로 큰 관문이다. 누가 만들었을까? 그리고 어디로 통하는 걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "엄청 큰 관문 플로란 위축시킨다. 플로란 이거 어디로 통하는 지 알고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거석 관문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "불가사의한 고대 관문이다."
+    }
+]

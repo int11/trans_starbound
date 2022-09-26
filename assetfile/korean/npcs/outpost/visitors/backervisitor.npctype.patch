@@ -1,0 +1,44 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "안녕! 모두들 나를  ^orange;<selfname>^white; 라고 불러. 난 이 후원으로 관문기지를 돕고 있어. 난 네가 여기를 좋아했으면 좋겠어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "이봐! 내 이름은 ^orange;<selfname>^white; 이야 - 왜 그런지는 묻지마. 난 아웃포스트의 건설을 위해 투자를 했어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "value": "이봐, 나는 ^orange;<selfname>^white; 이고, 관문기지의 후원자야. 난 네가 여기를 즐겼으면 좋겠어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "이봐 거기. 네 이름은 <entityname> 이니? 나는 ^orange;<selfname>^white; 이야! 나는 아웃포스트의 개발을 위한 투자를 하고 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "내 친구들은 나를 ^orange;<selfname>^white; 라고 불러. 나는 이 장소의 후원자야. 여기 좋니?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕 거기! 나는  ^orange;<selfname>^white; 이야. 나는 아웃포스트의 건설를 위해서 돈을 내고 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "嗨！我是^orange;<selfname>^white;—我帮忙出资建造了前哨站！",
+            "嘿！我的名字是^orange;<selfname>^white;—别问为什么。我出资建造了这个前哨站！",
+            "你好！所有人都叫我^orange;<selfname>^white;。我出钱资助了这个前哨站—我希望你喜欢它！",
+            "我的朋友叫我^orange;<selfname>^white;。我是这个地方的保护者—你喜欢这个地方吗？",
+            "嘿你好！你的名字是<entityname>？我是^orange;<selfname>^white;！我出资建造了这个前哨站！",
+            "嘿，我是^orange;<selfname>^white;，前哨站的保护者。我希望你在这里过得愉快！"
+        ]
+    }
+]

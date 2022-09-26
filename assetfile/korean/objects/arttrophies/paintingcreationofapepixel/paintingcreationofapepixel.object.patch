@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "에이펙스 둘이서 뭘 하고 있네. 뭔지 모르겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "에이펙스도 자기들만의 기원이 있나보다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기에 클루엑스를 더하면 훨씬 나아지겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여기 뭔가 빠져있는데, 뭔지 감도 안 잡히네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "에이펙스의 구원자, 빅 에이프라고라? 웃기지도 않는 소리."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 에이펙스 그림 치고는 기묘하게 영적인 분위기다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "에이펙스 샤냥이다! 한 놈은 앉으라고 뇌까지 둥둥 떠있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거대한 빅 에이프 그림"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "두 에이펙스가 손가락을 맞대고 있는 그림이다."
+    }
+]

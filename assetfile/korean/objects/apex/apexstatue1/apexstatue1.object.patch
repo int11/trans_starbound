@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "빅 에이프... 그 모습은 사방천지에 널려있지만, 실제로 본 적은 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 빅 에이프란 작자, 분명 자기성애자일 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "에이프 본인이다. 만약 진짜라고 한다면."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "싸구려 돌 흉상. 기계로 만들어진 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "빅 에이프. 몇 대 몇 비율로 만들어졌을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분개. 내부에 장치가 있는 게 감지된다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "멍청한 셕재 얼굴."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빅 에이프 흉상"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": " 에이펙스의 영광스런 지도자, 빅 에이프의 흉상이다."
+    }
+]

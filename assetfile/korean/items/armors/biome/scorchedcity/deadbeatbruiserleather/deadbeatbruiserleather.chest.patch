@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 사나이의 재킷"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "극한의 상황으로 불태운, 해진 가죽 재킷."
+    }
+]

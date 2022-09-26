@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "주로 과학 소설이 꽂혀있는 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀 바다 밑바닥엔 많은 대도서관이 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "우리 둥지의 아비안중 몇몇만 글자를 읽을 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "책장이야. 내 번역기가 애 좀 먹겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "에이펙스의 책장이야, 뭔가 있을지 궁금한데.."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 어쩌면 에이펙스에게서 배울게 있을지도 모르겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 모닥불에셔 이야기 말해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멋진 책장"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과학 잡지랑 연구 보고서들로 가득찬 책장이다."
+    }
+]

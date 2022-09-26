@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어미 팝탑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "꽤 크군..."
+    }
+]

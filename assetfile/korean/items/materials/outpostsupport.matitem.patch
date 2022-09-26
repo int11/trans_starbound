@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보강된 지지 보이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "관문기지 지지 보"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "明显。这种梁柱结构普遍用于前哨站建设。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "支撑撑撑柱。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "在我看来就是一根金属大柱子。"
+    }
+]

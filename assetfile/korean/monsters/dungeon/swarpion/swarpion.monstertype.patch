@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스와피온"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어두운 구석이나 틈에 숨어서 눈치채지 못한 사냥감이 근처에 오면 빠르게 공격한다."
+    }
+]

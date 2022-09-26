@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "캐스트렐 면허"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "캐스트렐 급 함선의 비행 자격증"
+    }
+]

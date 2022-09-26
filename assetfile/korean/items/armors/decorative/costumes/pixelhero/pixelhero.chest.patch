@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "영웅의 문장을 가진 영웅적인 가슴!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "픽셀 히어로 셔츠"
+    }
+]

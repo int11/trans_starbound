@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "해골 장식은 전형적인 플로란 패션이지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 창에 걸린 뼈는 펭귄한테서 나온 거 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 펭귄은 참담한 죽음을 맞이했겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 이 장식은 그로데스크해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 작은 섀 뼈 창에 꽂는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "펭귄 뼈 창"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "징그러운 펭귄 뼈가 창에 얹혀있어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "펭귄 포함 어떤 새도 이런 끝을 맞이하면 안돼."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "장식용으로 창에 늘어진 펭귄 뼈."
+    }
+]

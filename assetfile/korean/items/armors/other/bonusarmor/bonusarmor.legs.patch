@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "신비로운 각반"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 각반은 신비로운 물질로 제작됬다."
+    }
+]

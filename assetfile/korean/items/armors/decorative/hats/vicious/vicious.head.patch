@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "빨간 눈이랑 이빨 달린 허접한 가면이다. 쓰고 다니면 못미더운 사람으로 보일 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "악랄한 가면"
+    }
+]

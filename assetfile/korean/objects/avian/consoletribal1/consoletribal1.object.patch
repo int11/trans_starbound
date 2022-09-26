@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섀인간 판떼기가 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "새 문양 제어기"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 제어기엔 확실히 멋진 조명이 달려있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이런 장식은 아비안들의 기술에 있어서 드문 일은 아니야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "전통적인 새 무늬가 새겨진 수정의 힘으로 작동하는 제어기야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아비안 심볼이 새겨져있는 접속 장치야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 기술은 수수께끼야. 하지만 여기에 사용된 수정이 관련 있다는건 알지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 장치를 구동하는 기술을 난 모르지만 여기에 사용된 수정들이 관련되어있는듯 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기반에 조잡하게 새가 아로 새겨진 접속 판이다."
+    }
+]

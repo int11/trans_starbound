@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default/2",
+        "value": "격앙. 지금 네놈은 여기 와서 아무거나 마음대로 가져갈 수 있다고 생각하는 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default/1",
+        "value": "교만. 너 따위는 나의 상대가 되지 못한다, 나의 동기들도 날 두려워하거늘!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default/0",
+        "value": "위협. 나의 요새에 마음대로 오다니! 그 죗값을 묻겠다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "攻击！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/default",
+        "value": [
+            "恐吓。这是我的城堡！你来到这里就要付出代价！",
+            "骄傲。你不是我的对手，连我自己的骑士都惧我三分！",
+            "愤怒。你认为你可以在这里随意拿取东西的吗？！"
+        ]
+    }
+]

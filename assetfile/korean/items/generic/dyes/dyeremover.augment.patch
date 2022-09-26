@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "염색 제거기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이걸 클릭하고 아무 옷에든 우클릭하면 염색된 옷을 되돌릴 수 있다."
+    }
+]

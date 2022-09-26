@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고속 릴"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "하중이 없을때 빠르게 되감을수있는 릴이다."
+    },
+    {
+        "op": "replace",
+        "path": "/reelName",
+        "value": "高速鱼线轮"
+    }
+]

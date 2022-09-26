@@ -1,0 +1,80 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
+        "value": "후우! 상당히 잘 싸우시는군요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/0",
+        "value": "걱정마, 내가 처리하지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+        "value": "돌아왔구나!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+        "value": "이게 싸움이라는 거지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default/0",
+        "value": "여기서 기다리고 있지요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default/1",
+        "value": "이건 대체 무슨 몬스터야!?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/1",
+        "value": "강해 보이는군. 이제 우린 동료야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default/0",
+        "value": "안녕하세요 모험가여, 잠시 같이가도 될지요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/attack/default/default",
+        "value": [
+            "甭担心，我来搞定。",
+            "这是什么怪物！？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/join/default/default",
+        "value": [
+            "你好冒险家，我能加入吗？",
+            "你很强壮，现在我们是同伴了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default",
+        "value": [
+            "打了个痛快！",
+            "唷！你干得不错…"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/wait/default/default",
+        "value": [
+            "我会等在这儿。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/follower/returnFromWait/default/default",
+        "value": [
+            "你回来了！"
+        ]
+    }
+]

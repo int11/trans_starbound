@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파이어스톰의 분노"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전설에 의하면 이 검은 타락한 천사들에 의해서 다려졌다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "炎岚之怒^yellow;^reset;"
+    }
+]

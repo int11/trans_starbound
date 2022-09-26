@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 양복조끼는 방수조차 안되잖아? 이 해적들 바다에 가본적은 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해적 재킷"
+    }
+]

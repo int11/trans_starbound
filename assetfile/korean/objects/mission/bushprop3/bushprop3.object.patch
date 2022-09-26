@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해양 행성의 수풀."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수풀 모형 3"
+    }
+]

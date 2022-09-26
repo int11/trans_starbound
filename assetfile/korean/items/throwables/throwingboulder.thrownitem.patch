@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전투나 자랑으로 써보자"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투척용 바위"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 솔라리움 으로 보강된 상의는 보기보다 훨씬 대단한 방어력을 제공한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "찬탈자의 코트"
+    }
+]

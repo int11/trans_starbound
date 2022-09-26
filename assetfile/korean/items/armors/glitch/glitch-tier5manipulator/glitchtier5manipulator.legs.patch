@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 가벼운 패로지움 각반은 전투에 민첩함을 제공한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "창기사의 각반"
+    }
+]

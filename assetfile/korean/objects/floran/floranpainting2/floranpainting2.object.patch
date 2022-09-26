@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란이 펜을 들었다고? 진화의 시작이 되는 건가."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이건... 아비안 상형 문자와 많이 닮은 것 같다. 플로란이 아비안어를 배우려고 하는건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그을린 가죽에 조잡한 낙서를 해놨다. 별거 아냐."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "플로란의 문자가 이렇게 생겼을 거라곤 상상도 못했는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "플로란의 문자는 좋게 쳐줘도 원시적인 수준이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 상형문자를 번역하려 애를 쓰고 있다. 알고 있는 언어 중 가장 비슷한 것은 아비안 문자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이제 종이에 글 쓰기 시작한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 상형문자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "누군가 가죽 조각에 상형문자를 그려놓은 것 같다."
+    }
+]

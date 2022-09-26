@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꿀벌 셔츠"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "복슬복슬 줄무늬가 있는 셔츠. 약간의 꿀 냄세가 난다."
+    }
+]

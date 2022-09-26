@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "안전하게 무한한 우주를 유한한 시야로 관찰하자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만능자의 헬멧"
+    }
+]

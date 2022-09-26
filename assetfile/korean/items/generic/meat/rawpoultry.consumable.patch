@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생 새고기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "새고기다. 일단 요리부터..."
+    }
+]

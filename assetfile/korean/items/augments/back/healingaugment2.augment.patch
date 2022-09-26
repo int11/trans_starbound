@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "회복 II 확장 부품"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "체력을 어느정도 회복시켜주는 EPP 확장 부품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/augment/displayName",
+        "value": "愈合增强 II"
+    }
+]

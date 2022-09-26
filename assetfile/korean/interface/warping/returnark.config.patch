@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/destinations/0/name",
+        "value": "방주로 돌아가기"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/0/planetName",
+        "value": "방주 유적으로 돌아가기"
+    }
+]

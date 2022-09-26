@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "돋보이고 스타일리시한 격식 의류이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "격식 바지"
+    }
+]

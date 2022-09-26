@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바통"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "공기 중의 입자를 맛봐서 앞에 뭐가 있는지를 느낄 수 있다."
+    }
+]

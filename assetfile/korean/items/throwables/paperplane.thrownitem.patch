@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "종이 비행기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "종이 비행기다! 날 수 있을까?"
+    }
+]

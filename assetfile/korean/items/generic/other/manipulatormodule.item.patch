@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 부품은 물질 조작기의 업그레이드에 사용된다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물질 조작기 부품"
+    }
+]

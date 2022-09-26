@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빙하 잔새우"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대부분의 시간을 작은 다리로 포식자로 부터 도망치는대 쓴다."
+    }
+]

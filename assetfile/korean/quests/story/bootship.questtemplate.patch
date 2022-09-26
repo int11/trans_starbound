@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/wakeSail",
+        "value": "함선의 컴퓨터를 가동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이 함선은 손상되었고 당신은 우주에서 홀로 떠다니고 있습니다. 지금 할 수 있는 최선의 방법은 함선 컴퓨터를 가동시키고 모든게 잘 작동하길 비는것 뿐입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "SAIL이 깨어났습니다! 이제 당신은 교습를 받을 수 있고, 동료가 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "시스템 가동"
+    }
+]

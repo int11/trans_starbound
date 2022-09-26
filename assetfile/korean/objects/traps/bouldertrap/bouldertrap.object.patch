@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아부지 돌굴러가유!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바위 함정은 타이밍만 잘 맞추면 피하기 쉽다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작은 구멍에서 바위가 굴러나온다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "움직임만 잘 맞추면 떨어지는 바위도 피할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "적절히 움직여야겠다. 바위에 깔리긴 싫으니까."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 누가 이토록 규칙적으로 바위를 떨어트리는 함정을 만들었담?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "구멍에셔 무거운 돌덩이 떨어진다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사원 바위 함정"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생각치도 못 한 침입자들에게 바위를 떨어트리는 함정이다."
+    }
+]

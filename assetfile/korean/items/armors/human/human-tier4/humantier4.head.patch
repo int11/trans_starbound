@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "선도자의 듀라스틸 투구는 가장 험난한 환경을 가정하고 제작된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선도자의 투구"
+    }
+]

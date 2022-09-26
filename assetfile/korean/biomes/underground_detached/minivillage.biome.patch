@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/friendlyName",
+        "value": "아주 작은 마을"
+    }
+]

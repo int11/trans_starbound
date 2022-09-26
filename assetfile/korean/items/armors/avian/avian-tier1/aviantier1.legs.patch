@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "철로 보완된 가리개. 깃털처럼 가벼워 보인다고 생각된다면 심각한 착각이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해츨링의 가리개"
+    }
+]

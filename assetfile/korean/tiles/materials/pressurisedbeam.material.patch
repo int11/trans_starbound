@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고압 환경을 위해 만든 받침 대들보이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 금속 대들보는 강력해 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 대들보는 고압 환경을 위해 특별히 설계된 듯하오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "강한 금쇽 대들보."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "압력 대들보"
+    }
+]

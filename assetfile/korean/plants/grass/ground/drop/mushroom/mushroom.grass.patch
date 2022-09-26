@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 버섯이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "진균인가?!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "버섯이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 등 분명 엄청나게 유용할 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "유용한 광원이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "일기가 좋은 날, 진흙같은 밤마저 밝히는 유용한 빛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "튼튼한 등."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "잘 만든 광원이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흡족. 튼튼한 등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "등불 플로란 쎠도 안전하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기하학적 조명"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "반짝이는 기하학적 조명"
+    }
+]

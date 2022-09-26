@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "친절. 교정을 약간한다면 글리치의 눈은 식별기를 속일 수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "눈 식별기네. 우리 머리로는 이런거엔 어울리지 않는다고 보는데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "인간족의 눈을 확인하는 장치다. 어떤 목적으로?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "홍채 식별기. 누군가가 눈을 문질려줄... 알았어. 농담그만할께"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "홍채 식별기로군. 아펙스의 눈은 구별하지 못하는거 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "기계 눈 본다. 플로란 싫다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "홍채 식별기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 기기는 눈알을 식별해 개인 정보를 판별한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "눈알 식별기? 내가 어떻게 해야 지나갈 수 있는건데?"
+    }
+]

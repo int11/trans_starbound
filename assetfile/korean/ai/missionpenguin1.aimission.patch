@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "공포날개 펭귄단 재도전"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/buttonText",
+        "value": "공포날개 펭귄단"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/selectSpeech/text",
+        "value": "안락한 부리의 주인이 도움을 필요로 합니다. 공포날개를 격파하세요."
+    }
+]

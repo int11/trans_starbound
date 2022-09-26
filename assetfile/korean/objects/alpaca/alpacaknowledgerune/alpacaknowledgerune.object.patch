@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "다소 복합적인 지식을 의미하는 오래된 룬."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "지식을 의미하는 룬이다 - 굉장히 복잡해 보이는 것이 당연하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이것이 지식을 의미하는 룬이라면, 나는 이걸 통해 무엇을 배울 수 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미로운. 지식을 의미하는 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지식의 룬"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지식의 상징인 고대의 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "끝내주게 보이는 룬, 이것은 지식과 관련되어 있다는 것을 의미한다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 작은 아직 복잡한 디자인은 지식 자체의 심오한 개념을 포함한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": " 지식의 복잡한 개념을 상징하는 복잡한 룬."
+    }
+]

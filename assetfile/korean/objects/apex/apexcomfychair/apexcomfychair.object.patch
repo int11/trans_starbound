@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "엄청 푹신푹신해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이건 확실히 앉기 좋은 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바다 밑의 모래 같이 부드럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "깃털로 가득 찬 거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우와, 꽤 편한 의잔데. 비싸 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 의자는 꽤 편안하군. 이웃을 밀고한 보상일거야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 왕이 쓸 법한 왕좌로군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표준 규격 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "편한 의자. 원래는 바닥에 박아놓아야 하는것으로 보인다."
+    }
+]

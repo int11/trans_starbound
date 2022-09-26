@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무의식 목줄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "애완동물을 비공격적으로 바꾸는 목줄이다."
+    },
+    {
+        "op": "replace",
+        "path": "/collar/displayName",
+        "value": "健忘"
+    }
+]

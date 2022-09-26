@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/panels/6/text",
+        "value": "나한테 묻지마, 난 그저 평범한 토끼라고."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/5/text",
+        "value": "아니면 어디로 산책을 가거나?"
+    },
+    {
+        "op": "replace",
+        "path": "/panels/4/text",
+        "value": "이건 시간이 좀 걸릴꺼야. 가서 차 한잔 마시고 오는게 어때?"
+    },
+    {
+        "op": "replace",
+        "path": "/panels/3/text",
+        "value": "와우, 엄청나게 많은 모드들을 깔아놓은거 같은데, 그렇지?"
+    },
+    {
+        "op": "replace",
+        "path": "/panels/2/text",
+        "value": "모드 업데이트 중"
+    }
+]

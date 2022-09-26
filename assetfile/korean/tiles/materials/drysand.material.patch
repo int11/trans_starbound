@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "마른 모래 뭉치야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 모래는 건조하고 단단하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "단단하고 마르고 푸셕한 모래."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밑이 깨진 단단하고, 금이간 모래"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "마른 모래"
+    }
+]

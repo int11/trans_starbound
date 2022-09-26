@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "방호복 상의, 위험한 물질을 막도록 밀봉 되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "방호복 상의"
+    }
+]

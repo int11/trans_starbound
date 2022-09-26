@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹색 페인트건"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 페인트건으로 만든 세계엔 질투가 가득할까?"
+    }
+]

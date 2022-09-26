@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "귀여운 곤충 모자 작은 더듬이가 있다! 사랑스럽다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꿀벌 모자"
+    }
+]

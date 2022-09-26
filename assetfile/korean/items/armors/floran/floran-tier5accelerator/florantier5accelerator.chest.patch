@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "현자는 몸통을 찔리지 않는다. 그건 당연히 흉갑의 일이니까."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "현자의 흉갑"
+    }
+]

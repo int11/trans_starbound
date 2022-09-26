@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나라면 일발백중으로 부숴버릴 수 있을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 점토 단지는 신중하게 만들어진 물건이지만 깨부수지 않고 내용물을 확인할 수는 없을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 점토 단지다. 부숴볼까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 이 파손성 단지를 부수면 내용물을 볼 수 있을 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 단지 박샬난다!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "장식용 점토 단지다. 안에 뭐가 들었을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "점토 단지다. 유용한 게 들어있을 것 같다!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "안에 뭔가 있는 것 같다. 깨서 열어볼 수 있을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 점토단지"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "종자의 철 투구는 오로지 머리 위만을 보호한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "종자의 투구"
+    }
+]

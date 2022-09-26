@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "모든 에이펙스는 연주를 배운다. 하지만 허가된 곡만 연주해야 하낟."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샬가죽이랑 뼈로 음악 만든다. 드럼 달인이다. 이런 이샹한 쇼리기계 안 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "차분한 피아노 한 곡 쯤 괜찮지. 아무도 안 잡고 있으니 아쉽구만."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아, 음악. 우리들의 가장 암울한 시간마저 밝혀 주는 힘이라."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 단추들에서 좋은 소리가 나네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "피아노... 젓가락 행진곡은 칠 줄 아는데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 기계의 수학적 구조는 지극히 간단하군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "제식 피아노"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "악보가 놓여 있다."
+    }
+]

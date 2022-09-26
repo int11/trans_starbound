@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좋은 냄새가 나는 침대다. 꽃밭 꿈만 꿀 수 있을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "자연이 다른 용도에 맞게 적응했다. 놀라워."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기서 자면 깃털이 간지러울 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "지독하게 달달한 냄새때문에 잠을 못 자겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "놀랍고도 잘 튕기는 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불편. 육식성 식물로 만든 침대다. 걱정된다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 식물에셔 잘 잔다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거대 꽃 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "꽃 침대다.  알레르기는 없었으면."
+    }
+]

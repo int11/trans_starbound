@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "물고기의 구조는 수세기가 지나도 별로 바뀐것이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "물고기 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물고기 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 조그만한 물고기이다."
+    }
+]

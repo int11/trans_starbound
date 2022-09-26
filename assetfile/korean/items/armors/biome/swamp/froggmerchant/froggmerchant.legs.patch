@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것들을 입으면 프로그 상인처럼 보이게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프로그 상인 다리"
+    }
+]

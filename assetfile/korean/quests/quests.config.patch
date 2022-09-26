@@ -1,0 +1,272 @@
+[
+    {
+        "op": "replace",
+        "path": "/directions/1/descriptions/2",
+        "value": "우리의 동쪽"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/1/descriptions/1",
+        "value": "여기서 동쪽"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/0/descriptions/2",
+        "value": "저기 위"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/subject",
+        "value": "그"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/capitalPossessiveDet",
+        "value": "그의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/capitalReflexive",
+        "value": "그 자신"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/capitalSubject",
+        "value": "그"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/copulativePast",
+        "value": "그가"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/capitalPossessive",
+        "value": "그의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/object",
+        "value": "그"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/reflexive",
+        "value": "그 자신"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/possessive",
+        "value": "그의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/capitalObject",
+        "value": "그"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/copulative",
+        "value": "그는"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/male/possessiveDet",
+        "value": "그의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/subject",
+        "value": "그녀"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/capitalPossessiveDet",
+        "value": "그녀의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/capitalReflexive",
+        "value": "그녀 자신"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/capitalSubject",
+        "value": "그녀"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/copulativePast",
+        "value": "그녀가"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/capitalPossessive",
+        "value": "그녀의 것"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/object",
+        "value": "그녀"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/reflexive",
+        "value": "그녀 자신"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/possessive",
+        "value": "그녀의 것"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/capitalObject",
+        "value": "그녀"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/copulative",
+        "value": "그녀는"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/female/possessiveDet",
+        "value": "그녀의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/subject",
+        "value": "그들"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/capitalPossessiveDet",
+        "value": "그들의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/capitalReflexive",
+        "value": "그들 자신"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/capitalSubject",
+        "value": "그들"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/copulativePast",
+        "value": "그들이"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/capitalPossessive",
+        "value": "그들의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/object",
+        "value": "그들"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/reflexive",
+        "value": "그들 자신"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/possessive",
+        "value": "그들의"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/capitalObject",
+        "value": "그들"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/copulative",
+        "value": "그들은"
+    },
+    {
+        "op": "replace",
+        "path": "/pronouns/neutral/possessiveDet",
+        "value": "그들의"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/3/descriptions/2",
+        "value": "우리의 서쪽"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/3/descriptions/1",
+        "value": "여기서 서쪽"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/3/descriptions/0",
+        "value": "서쪽으로"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/2/descriptions/2",
+        "value": "밑으로"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/2/descriptions/1",
+        "value": "우리 아래"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/2/descriptions/0",
+        "value": "아래"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/1/descriptions/0",
+        "value": "동쪽으로"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/0/descriptions/1",
+        "value": "우리 위"
+    },
+    {
+        "op": "replace",
+        "path": "/directions/0/descriptions/0",
+        "value": "위"
+    },
+    {
+        "op": "replace",
+        "path": "/objectiveDescriptions/gatherItem",
+        "value": "获取<itemName>：<current> / <required>"
+    },
+    {
+        "op": "replace",
+        "path": "/objectiveDescriptions/gatherItemTag",
+        "value": "搜寻<tag>物品： <current> / <required>"
+    },
+    {
+        "op": "replace",
+        "path": "/objectiveDescriptions/scanObjects",
+        "value": "调查物品"
+    },
+    {
+        "op": "replace",
+        "path": "/objectiveDescriptions/shipLevel",
+        "value": "将飞船从<current>级升级至<required>级"
+    },
+    {
+        "op": "replace",
+        "path": "/objectiveDescriptions/fetch",
+        "value": "取得<itemName>：<current> / <required>"
+    },
+    {
+        "op": "replace",
+        "path": "/objectiveDescriptions/return",
+        "value": "回到<questGiver>那里"
+    }
+]

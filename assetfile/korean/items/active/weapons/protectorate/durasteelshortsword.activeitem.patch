@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고강도강 소검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 소검은 단단한 고강도강으로 만들어졌다."
+    }
+]

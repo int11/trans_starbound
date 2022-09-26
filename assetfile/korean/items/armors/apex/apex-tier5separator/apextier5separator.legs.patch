@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암살자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 기품있는 바지와 부츠는 착용자가 빠르게 도망치는 데 적합하게 가볍다."
+    }
+]

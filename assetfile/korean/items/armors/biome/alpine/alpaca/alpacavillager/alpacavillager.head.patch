@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "알파카의 실제 머리이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진짜 알파카 머리"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "과학자 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과학을 할때 다리를 보호한다."
+    }
+]

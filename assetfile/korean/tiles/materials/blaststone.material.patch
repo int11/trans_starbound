@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 강인한 바위는 몹시 뾰족해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀라움. 무더위는 블라스트스톤에 융합 미네랄을 넣었소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "뾰족한 돌은 세."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "블라스트스톤 블럭."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "엄청난 열 폭발에 의해 생겨난 날카로운 바위."
+    }
+]

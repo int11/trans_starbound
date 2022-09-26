@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "정전기 보풀소 알이다! 플로란 정전기 보풀쇼 좋다. 걔네 보풀 짜릿하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "정전기 보풀소 알이다!  성체에게서 정전기 전지를 얻을 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "정전기 보풀소 알이다. 정전기 보풀소는 아주 얌전한 동물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "정전기 보풀소 알이다. 성체 정전기 보풀소는 정전기 전지를 만들어낸다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "정전기 보풀소 알이다. 정전기 보풀소는 그야말로 귀요미다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "정전기 보풀소 알이다. 알이 깨면 순한 정전기 보풀소가 나온다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "몰두. 이 정전기 보풀소가 빨리 깨어날 수 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정전기 보풀소 알"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부화하면 연약한 정전기 보풀송아지가 나온다. 다 자라면 정전기 전지를 뽑아내는 좋은 원천이 된다."
+    }
+]

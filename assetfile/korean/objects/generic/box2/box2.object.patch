@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 금속 테두리로 상자를 조금 더 강화시켰다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기 이 상자는 꼭 작은 사각형 술통같이 생겼네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "단순한 나무와 금속 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나무와 금속으로 만들어진 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "나무 상자가 금속으로 붙들려있다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "강화된 나무 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "나무 샹자 금쇽이 꽉 붙들고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "튼튼한 나무 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 나무 상자다."
+    }
+]

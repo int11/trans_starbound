@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강력한 양손 검이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "특별한 장검"
+    }
+]

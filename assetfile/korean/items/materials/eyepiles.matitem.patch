@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "질퍽한 눈알의 떨어진 더미"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈 더미"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "沉思。除了最上层的那些眼球，其它将永远只知晓黑暗。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "湿湿湿软的眼球！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "有些眼球正在盯着我看。"
+    }
+]

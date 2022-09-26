@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "매끄러워 보이는 벽돌이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 벽돌들이 오래됐다는 걸 고려해보면 꽤나 잘버티고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 매끄로운 벽돌 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "저 벽돌은 세기가 지나 매끄럽게 닳았다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표시 없는 무덤 벽돌"
+    }
+]

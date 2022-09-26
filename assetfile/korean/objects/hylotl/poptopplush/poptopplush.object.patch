@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진짜 팝탑이라기엔 너무 귀엽다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "아우우우, 플로란 팝탑 인형 최고좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "꽤 무서운 생물체를 가지고 잘도 귀여운 인형을 만들어놨다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "왜 이리도 공포스러운 생물을 가지고 인형을 만드는 거람?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아우우, 진짜 팝탑이 얼마나 무서운 지 까먹을 정도네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "팝탑이라면 소름이 돋지만, 이건 꽤 귀엽다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 팝탑은 위험한 생물이지만 이건 꽤나 귀엽다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "팝탑 인형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부드러운 팝탑 인형 장난감이다."
+    }
+]

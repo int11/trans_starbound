@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "노란색 페인트건"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "목표물이 얼마나 노란지 확실하게 하자."
+    }
+]

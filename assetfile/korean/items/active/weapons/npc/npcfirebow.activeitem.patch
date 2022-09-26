@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "NPC 화염 활"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몬스터로 부터 고기나 재료를 수집하는데 좋다."
+    }
+]

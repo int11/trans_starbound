@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이걸 오래 쓰고 있으면 똑똑해지는 느낌이 들어!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "명상의 삿갓"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오.메달려 있는 눈알"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "흐으은들리는 눈!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불쾌하게 걸려있는 눈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "불쾌하게 걸려있는 눈"
+    }
+]

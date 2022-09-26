@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위급할때 텐트로도 사용이 가능한 크고 헐렁한 청바지"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "헐렁한 청바지"
+    }
+]

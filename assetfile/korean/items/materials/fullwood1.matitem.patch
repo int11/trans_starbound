@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "칠이 된 목재"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "막 잘려진 외형을 보존하도록 조심스레 칠해진 나무이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "惊讶。虽然这木头的看起来仍然鲜活，但它已被精心加工过了。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "只只只是些基本本本的木头。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这木头看起来像是刚砍下来，但却已是用某些物质加工过了。"
+    }
+]

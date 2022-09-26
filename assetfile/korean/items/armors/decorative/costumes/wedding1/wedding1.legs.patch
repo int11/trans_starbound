@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우아한 스커트이다. 신부를 위한 옷이지만,  누가 입어도 기분이 끝내줄 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "품격있는 결혼식 스커트"
+    }
+]

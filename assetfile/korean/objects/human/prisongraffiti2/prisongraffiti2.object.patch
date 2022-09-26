@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "누군가가 아주 일진 나쁜 날에 썼군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "모호함. 글귀는 이러하나 내 스캔에 따르면 이곳을 떠날 방법은 최소한 네 가지가 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "예쁜 글씨, 하지만 글씨 뜻은 플로란 동의 안 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "\"탈출구는 없다\" 낙서"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "흘린 페인트만큼이나 희망을 바닥에 흘리고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "누군지 모르겠지만 상황을 정말 냉소적으로 바라봤군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "그렇게 되나 보자."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "탈출구가 없다는군. 에이펙스라면 너무나도 잘 알고 있는 경고문이지."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정말 그래 보이는구만, 지나가던 예술가 씨."
+    }
+]

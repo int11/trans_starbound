@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "요즘은 천문학자만이 이 기호를 읽을 수 있어. 해석의 비법은 비밀리에 감춰졌지. 붉은 눈은 경고의 뜻이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아비안같이 보이는 조각상이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "우리 신도들을 연상시키는 빨간 눈이군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 문양이 중요한 소리를 하는게 아니면 좋겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "알아볼 수 없는 기호로 장식된 황금 아비안 제단."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 아비안 조각은 살아있는 것처럼 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 섀샤람. 몸뚱이는 어디 갔니?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 머리 제단"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아비안 머리 조각이 제단 위에 있다."
+    }
+]

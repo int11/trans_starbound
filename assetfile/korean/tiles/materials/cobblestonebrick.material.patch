@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 벽돌은 조약돌로 만든거로군."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "조약돌로 만든 작은 벽돌."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "조약돌로 만든 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 조약돌 벽돌."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "조약돌 벽돌"
+    }
+]

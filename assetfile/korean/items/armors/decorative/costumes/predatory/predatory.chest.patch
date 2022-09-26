@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "약탈자의 가슴"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위협적이고 수풀이 가득한 가슴 의복. 사냥의 시작이다!"
+    }
+]

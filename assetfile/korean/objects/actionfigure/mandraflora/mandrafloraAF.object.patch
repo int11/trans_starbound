@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만드라플로라 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"이들이 지하에서 번창하고 인상적인 크기로 자랄 수 있었던 것은, 조용하고 게으른 생활 방식을 가졌기 때문이다.\"라고 적혀있다."
+    }
+]

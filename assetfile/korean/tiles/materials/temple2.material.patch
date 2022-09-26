@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 벽돌들은 고대의 것으로 보인다. 복잡한 단어가 표면에 새겨저있지만 난 그것들을 만들 수 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 벽돌들은 오랫동안 이곳에 있었던 것으로 예상되는군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료. 이 벽돌의 나이는 정확한 판단을 할 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 오래된 벽돌 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사원 벽돌"
+    }
+]

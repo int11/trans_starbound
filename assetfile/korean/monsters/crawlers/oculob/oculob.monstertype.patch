@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오큘럽"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것이 보기 불편하게 생겼듯이, 그도 당신을 보길 좋아하지 않는다."
+    }
+]

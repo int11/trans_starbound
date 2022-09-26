@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 금고 꽤 안전해보이는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 커다란 철 금고의 안은 꽤 안전할거 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "커다란 철 금고, 운좋게도 안잠겨있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 큰 샹자안에 슘고 싶어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 금고"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다랗고 장식된 금고이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "印象深刻。这个保险柜太坚固了我不确定我能不能打破它。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我应该转行做一个开锁专家来打开它吗？不用了，它本来就没锁。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一个储藏你的金子的好地方。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빗자루"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "광범위하게 사용되는 유용한 도구."
+    }
+]

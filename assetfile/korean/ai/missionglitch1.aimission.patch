@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "남작의 성채 재도전"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/buttonText",
+        "value": "남작의 성채"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/selectSpeech/text",
+        "value": "아무래도 글리치 유물은 외로운 행성에 있는 돌로 만든 작은 성채의 소유자가 갖고 있는 것으로 보입니다."
+    }
+]

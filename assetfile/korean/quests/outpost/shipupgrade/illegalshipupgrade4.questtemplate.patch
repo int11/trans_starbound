@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이 함선 라이센스는 완벽한 그리고 완전 합법이라네. ^orange;8개의 업그레이드 모듈^reset;과 함께 ^green;펭귄 피트에게 가면^reset; 함선을 업그레이드 해줄걸세."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "이 검은 공간에 또 공간이 생기는 군! 이 업그레이드가 끝나면 자네의 함선이 더 넓어질걸세."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/portraits/questComplete/title",
+        "value": "펭귄 피트"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^green;불법 이글 함선 업그레이드"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/conditions/0/description",
+        "value": "^orange;<itemName>^reset;을 : ^green;<current> / <required>^reset;개 획득"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/turnInDescription",
+        "value": "将^orange;升级模块^reset;送到^orange;前哨站^reset;的^orange;企鹅皮特^reset;那里。"
+    }
+]

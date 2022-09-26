@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "조금 반짝이는 수정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 천연 결정들은 정동으로 부터 자라난걸로 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝반짝 정동 슈정들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정동 결정"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "희미하게 빛나는 자연 정동 결정."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명받음. 이 제어판 기술은 고대의 것 중 최고로 발달되어 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 조작기는 고대의 것으로 보인다..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 조작기 아주 오래되었지만, 아직도 쓸만하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 조작기 고대의 것으로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "시간의 테스트를 유지하기 위해 만든 조작기다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "조작기가 작동하네, 왜 만들어졌을까 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 버튼 누른다. 일을 일으킨다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 조작기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이건 고대의 제어 판 같아 보인다. 아직도 작동하는 것 같다."
+    }
+]

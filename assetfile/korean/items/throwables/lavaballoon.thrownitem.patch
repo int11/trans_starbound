@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "용암 풍선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물풍선과 다른점은 하나밖에 없다."
+    }
+]

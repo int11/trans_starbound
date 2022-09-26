@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보강된 기술 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 보강된 기술 블럭 아래에는 다양한 회로가 숨어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "羡慕。电线极好地覆盖在电镀层里面。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人想要撕开镀层，砍断电线。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一串电线完好覆盖着在电镀层内。"
+    }
+]

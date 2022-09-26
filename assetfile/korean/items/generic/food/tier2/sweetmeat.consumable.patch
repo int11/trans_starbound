@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "설탕조림 베이컨"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플로란 요리 중에서는 드물게 단 음식이다."
+    }
+]

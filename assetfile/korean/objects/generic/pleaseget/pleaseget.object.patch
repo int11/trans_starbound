@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가져와주세요 표식"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "..."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "돌 파편은 오래된 구조물에서 나타난다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "으스러진 돌 무더기"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 파편속의 이 조각은 한때 어떤 구조물의 일부였던것 같소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "오래된 건물로 부터 만들어진 돌 파편이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돌 파편"
+    }
+]

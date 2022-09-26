@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 금속의 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "날카로운 금속 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "날캬롭고 단단한 꽃."
+    }
+]

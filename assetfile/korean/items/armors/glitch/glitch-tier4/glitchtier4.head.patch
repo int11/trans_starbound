@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 불길한 투구는 얼굴을 의문속으로 가린다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "흑기사의 투구"
+    }
+]

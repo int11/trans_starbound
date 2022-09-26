@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프리즘 조각"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "프리즘 조각이다!"
+    }
+]

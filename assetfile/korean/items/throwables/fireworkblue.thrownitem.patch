@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파랑 불꽃놀이 로켓"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "축하할 시간이다!"
+    }
+]

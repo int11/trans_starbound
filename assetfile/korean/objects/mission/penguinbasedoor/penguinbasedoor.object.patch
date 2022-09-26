@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "층계에 있는 해치. 이걸 통해서 오르내릴 수 있지"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 해치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수직 해치형 출입구이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一扇老旧的舱门。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "一扇工艺粗糙的舱门。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "舱门开开开…舱门关关关。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "细心。这舱门是用来垂直通行的。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "一扇用于弥补水平移动不足的舱门。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "一个生锈的舱门通道，以实用性为目的制造。"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "빛나는 꽃이다. 어느 집에 놓아도 딱이겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "숨막히게 놀라운 자연 등불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "어떤 방이든 밝힐 수 있는 꽃이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "최고로 좋은 냄새가 나는 등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "귀여운 발광 꽃이다. 밤에 보면 제격이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 이 광원은 꽃이 태양 에너지를 저장했다가 조금씩 내뱉으며 생기는 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 빛나는 꽃 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거대 꽃 등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "태양빛을 뿜는 꽃이다."
+    }
+]

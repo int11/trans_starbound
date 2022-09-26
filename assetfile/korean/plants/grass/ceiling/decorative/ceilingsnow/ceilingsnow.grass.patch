@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 눈."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "누운."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈."
+    }
+]

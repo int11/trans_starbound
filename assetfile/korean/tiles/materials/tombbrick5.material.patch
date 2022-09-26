@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 오래되 보이는 벽돌은 굉장히 매끄러운데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 벽돌들은 모서리가 세심하게 평탄하 되어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "매끄러운 벽돌 그리고 부드럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래된 벽돌,  완벽하게 연마 됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매끄러운 무덤 벽돌"
+    }
+]

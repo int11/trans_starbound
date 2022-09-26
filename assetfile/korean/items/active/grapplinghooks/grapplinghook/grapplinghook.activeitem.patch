@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "등반 갈고리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이런 세상에, 휙! 이거 너무 재밌는데!"
+    }
+]

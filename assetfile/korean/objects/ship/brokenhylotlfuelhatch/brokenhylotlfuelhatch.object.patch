@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥분. 일단 채우고 나면 다른 행성에 방문할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "FTL 연료는 여기로! 일단 고치고 나서..."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "연료 주입구다. 꽉 들이채우면 탐험할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "망가진 FTL 연료 해치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "망가진 FTL 연료 해치다. 이걸론 안 돼!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "연료는 탐험의 혈류로다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "꽉 채워서 별들에게로 가보자!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "연료를 자유로 바꿔준다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "가보자!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "색안경을 쓰고 세상을 보는건 옳지 않지만, 순수 호박 바이져라면 아마 괜찮겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선구자의 투구"
+    }
+]

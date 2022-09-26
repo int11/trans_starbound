@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "원리는 모르겠지만 이 복면은 머리를 젖게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프로그 머리"
+    }
+]

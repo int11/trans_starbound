@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잠행용 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위협적인 카부키용 가면, 착용자의 신변을 확실하게 숨겨준다."
+    }
+]

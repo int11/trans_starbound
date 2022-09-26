@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달 기지 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 합금은 믿을 수 없을 정도로 내구성이 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "感兴趣。这种耐用的合金并不常见。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "坚固固固的金属方方方块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些坚硬的金属。"
+    }
+]

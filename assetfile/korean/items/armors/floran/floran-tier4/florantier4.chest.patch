@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사냥꾼의 중요 장기를 단단한 듀라스틸 강판 아래에 보호하는 흉갑이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥꾼의 흉갑"
+    }
+]

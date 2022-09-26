@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "면 털실 (Cotton Wool)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한 묶음의 가공된 면이다."
+    }
+]

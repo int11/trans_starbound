@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사마귀풀같이 억센 건 어디다 쓸 지를 모르겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "사마귀풀은 억세고 단조로운 식물로 극한의 환경에서 자라는 능력으로 유명하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "사마귀풀을 보고 있으면 기분이 기묘해."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "사마귀풀은 기르기 쉬운 작물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 사마귀풀의 표면은 내 표면만큼이나 단단하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "사마귀풀 플로란 먹거나 차고 놀기 딱이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "별로 까다로운 식물은 아니다, 사마귀풀은 어느 환경에서도 잘 자란다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "사마귀풀은 쪼아먹기 힘들다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사마귀풀 씨앗"
+    }
+]

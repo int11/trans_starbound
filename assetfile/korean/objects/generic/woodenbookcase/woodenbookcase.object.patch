@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "크고 깔쌈한 책장이네."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "책들로 가득 차있는 큰 나무 책장."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "책 놓는 곳."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "책장. 아주 단순해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "규격적인 책장."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "단순한 나무 책장."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 그저 책장일세."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "단슌한 나무 책장이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 책장"
+    }
+]

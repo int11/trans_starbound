@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아무도 갖고 싶어하지 않을 듯 하다. 방사성이 매우 높다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플루토늄 봉"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "정말 멋진 꽃이 자라나고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 잎에선 땅과 꽃의 냄새가 풍긴다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 꽃으로 덮인 식물 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달콤한 냄새가 나는 어두운 잎과 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꽃잎 물질 블록"
+    }
+]

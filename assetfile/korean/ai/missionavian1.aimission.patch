@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "지엄한 군주의 사원 재도전"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/buttonText",
+        "value": "지엄한 군주의 사원"
+    },
+    {
+        "op": "replace",
+        "path": "/speciesText/default/selectSpeech/text",
+        "value": "이 거의 버려진 사원을 에스더는 아비안 유물의 위치로 결론지었습니다."
+    }
+]

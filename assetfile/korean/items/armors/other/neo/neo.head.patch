@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부드럽고 공기 역학적인 디자인이 눈에 띄는 최고급 재질의 핼멧."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네오 핼멧"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강철 각반으로 보강된 흉갑, 적색 가슴 장식으로 완성된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해츨링의 흉갑"
+    }
+]

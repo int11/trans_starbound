@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "늪지대 물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "더러운 늪지대 물이다."
+    }
+]

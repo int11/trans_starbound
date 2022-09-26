@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "화면이 안 켜진다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "화면 세트다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여러 대의 화면이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "화면이다. 재생하는 건 없어보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "모니터가 즐비하다. 재밌는 건 없어보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지루. 화면 몇 개."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "스크린."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "USCM 텔레비전 모니터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "여러 다른 방향으로 향하고 있는 모니터 세 대다."
+    }
+]

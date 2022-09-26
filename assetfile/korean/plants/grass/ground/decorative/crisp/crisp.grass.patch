@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 바삭바삭한 뿌리다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "파샥파샥."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바삭바삭한 뿌리."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바삭바삭한 뿌리다."
+    }
+]

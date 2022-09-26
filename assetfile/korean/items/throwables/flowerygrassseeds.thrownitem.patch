@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꽃과 잔디 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잘 갈은 축축한 땅에 이 씨앗을 던져서 꽃더미를 기르자!"
+    }
+]

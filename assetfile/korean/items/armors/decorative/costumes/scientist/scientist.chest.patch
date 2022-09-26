@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "과학자 코트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몬스터의 점액으로부터 착용자를 보호한다."
+    }
+]

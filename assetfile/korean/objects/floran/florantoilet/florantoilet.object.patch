@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의심. 이런 설계라면 이 변기를 깨끗하게 유지하는 것은 불가능하오."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 변기는 누수 방지가 잘 안 돼 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "야외 변소에 딱 맞는 변기야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "플로란이 변기를 쓴다니. 상상이 가지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란이 변기를 만들정도로 문명화됐다니 놀랍군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "변기야. 그다지 깨끗해 보이진 않는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "변기를 아무 생각 없이 만든 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 변기"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人不不不需要别致的马马马桶。"
+    }
+]

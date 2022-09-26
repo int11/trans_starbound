@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 빈 가게는 처량하기 짝이 없군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "거래소의 한 종류. 지금은 닫혀있네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아마 거래소인 거 같은데, 아무도 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "일종의 거래소같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 거래소는 지금 닫혀있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 무슨 상점될지 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "닫혀있는 비기의 소문자자한 무기점"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "여러가지 무기가 눈에 띄는 상점."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "出售货物和服务的商店。"
+    }
+]

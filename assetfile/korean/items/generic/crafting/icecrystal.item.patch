@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음 수정"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "절대로 녹지 않을 것 같은 차가운 얼음 수정이다."
+    }
+]

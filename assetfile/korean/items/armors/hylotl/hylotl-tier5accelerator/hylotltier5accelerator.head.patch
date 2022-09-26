@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "칼날같은 뿔을 항상 날카롭게 유지해야,  삿갓은 전사의 마음을 보호해준다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대해 삿갓"
+    }
+]

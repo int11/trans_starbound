@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔갈 집어넣을 수 있는 사물함."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "하이로틀은 완전히 보안을 염두하지 않고 이 락커를 디자인한 게 분명해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "난 왜 하이로틀이 이 저장 칸막이를 잠그려 애쓰는지 이해하지 못하겠어. 누구나 간단하게 따버릴 수 있잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "사물함이네. 그냥 열리게 생겼어!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "냉소. 이 단순한 사물함은 플로란도 열어버릴 것."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사물함. 물건을 보관하자."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "보안 사물함. 제일 교활한 도둑만이 이걸 열 수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "함선 사물함"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "叶族人努努努力撬开这个储物柜，终于成功了。"
+    }
+]

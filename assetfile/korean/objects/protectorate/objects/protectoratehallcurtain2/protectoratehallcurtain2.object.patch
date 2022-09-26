@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "깔쌈한 커튼이다. 뭘로 만들었을 지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "곱디고운 비단으로 만든 보드랍디보드라운 커튼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "우와, 뭉게구름을 만지는 느낌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 커튼 엄청 부드럽다! 그냥 서서 기대기만 해도 바로 잠들 수 있을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "멋진 커튼이다. 호사스러워."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 커튼 재료가 최고중의 최고라 할 만하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 커튼. 플로란 때리기 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 무대 커튼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보호국 학술원의 무대 커튼이다."
+    }
+]

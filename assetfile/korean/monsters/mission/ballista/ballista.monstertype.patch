@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "발리스타"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "너무 가까이 가지 마십시오 아니면 부당한 대우를 받게 될 것입니다."
+    }
+]

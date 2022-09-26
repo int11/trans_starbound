@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 작은 조약돌들"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쟉은 돌들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "조약돌들."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 조약돌들."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 각반의 울리는 소리는 꿈에서도 적을 쫒을것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파멸기사의 각반"
+    }
+]

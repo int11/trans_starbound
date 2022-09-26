@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전송 총"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부 공격 버튼으로 탄의 위치로 이동할 수 있다. 주 공격으로 탄을 날리고 회수할 수 있다."
+    }
+]

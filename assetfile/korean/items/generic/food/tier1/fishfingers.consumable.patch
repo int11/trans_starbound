@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생선스틱"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "막대 모양의 맛있는 생선튀김이다. 커스타드 크림 있는 사람?"
+    }
+]

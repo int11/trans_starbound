@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "크고 낡은 에르키우스 수정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 에르키우스 수정은 신비한 힘을 가지고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "거대하고 빛나는 슈정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에르키우스 수정"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 수정은 FTL 기술의 연료로 사용된다. 여전히 전혀 이해되지 않는다"
+    }
+]

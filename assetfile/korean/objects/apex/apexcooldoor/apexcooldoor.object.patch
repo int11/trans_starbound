@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아주 두꺼운 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 문은 아무것도 못 나가게 하거나... 아니면 아무도 못 들일 정도로 튼튼해 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "질투. 저렇게 강한 물질이라니."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "내구셩이 뛰어난 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "방탄 소재의 일종으로 만들어 졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "산들바람조차 못 들어올 정도로 튼튼한 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보안 문"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이건 바다를 버티기에도 충분할정도로 튼튼해 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "크고, 무거운 보안 문이다."
+    }
+]

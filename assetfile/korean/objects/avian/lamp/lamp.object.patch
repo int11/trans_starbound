@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "멋진 금 램프야. 악취가 끔찍하지만."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "신전을 과일향으로 채울 때 쓰였었지. 지금 딱 과일향이 나네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "램프 향이 내 감각을 불쾌하게 해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "램프! 안에 썩은 과일이 들은 것 같은 냄새가 나는데!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "램프 안에서 살짝 달고 퀴퀴한 냄새가 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 오래된 상한 과일향이 아주 확실하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "역한 냄섀."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "황금 램프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "희미한 향이 안에 눌러붙어있다."
+    }
+]

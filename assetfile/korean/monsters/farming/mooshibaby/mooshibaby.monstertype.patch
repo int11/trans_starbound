@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "새끼 플루팔로"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "갓 태어난 플루팔로는 식단에 의해 성장 유형이 결정된다."
+    }
+]

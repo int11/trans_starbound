@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아아 좋은 텔레비전이다. 난 풀리지 않는 미스터리를 보는 게 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "옛날 방송 볼 때나 쓰는 모니터다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경의. 텔레비전이야 말로 인류의 가장 값진 수출품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "소파에 앉아서 토요일 아침 만화 보면서 쉬는 것 만큼 좋은 게 어딨겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기술은 경이롭지만서도 텔레비전 프로그램은 예술감각이라곤 전혀 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "텔레비전이다. 자꾸 빅 에이프 얼굴이 나오길 기대하게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샤진들 막 움직인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오래된 텔레비전"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "텔레비전이다! 꽤 오랫동안 작동하지 않은 것 같다."
+    }
+]

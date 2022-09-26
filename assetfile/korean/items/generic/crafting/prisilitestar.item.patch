@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "프리실라이트 별. 우주에서 가장 단단한 물건 중 하나다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프리실라이트 별"
+    }
+]

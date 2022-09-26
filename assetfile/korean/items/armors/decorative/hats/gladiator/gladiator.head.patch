@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "검투사의 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "폭주하길 즐기는 이들을 위한 황동제 투구."
+    }
+]

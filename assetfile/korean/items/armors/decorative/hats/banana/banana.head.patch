@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 바나나 가면. 바나나나나나나나!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바나나 가면"
+    }
+]

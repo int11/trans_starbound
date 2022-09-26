@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "조명탄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어두컴컴한 동굴속에 들어가기 전에 한번 던져보자."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구운 감자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "겉은 바삭하지만, 안은 용암같이 뜨겁다."
+    }
+]

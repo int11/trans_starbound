@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빅 에이프 홀로그램"
+    }
+]

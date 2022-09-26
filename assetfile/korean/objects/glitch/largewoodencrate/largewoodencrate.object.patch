@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "큰 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 나무 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "나무로 만든 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "목재 저장 박스."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "그냥 상자네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "나무 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "좋은 나무 박스."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큰 나무 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무 상자."
+    }
+]

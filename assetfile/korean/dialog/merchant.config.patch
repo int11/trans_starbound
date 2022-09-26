@@ -1,0 +1,1904 @@
+[
+    {
+        "op": "replace",
+        "path": "/tout/default/default/3",
+        "value": "싸게 사 가세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/novakid/default/0",
+        "value": "뭐 원하는 게 있나요?"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/novakid/default/1",
+        "value": "오늘 운이 좋은 것 같아? 물론 그렇겠지, 괜찮은 물건을 좀 갖고 왔거든!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/novakid/default/2",
+        "value": "내가 아주 굉장한 물건들 가져왔지. 바로 여기에!"
+    },
+    {
+        "op": "replace",
+        "path": "/rent/glitch/default/0",
+        "value": "상냥. 이걸 받으시게, 당신의 지속적인 후원에 대한 것이오."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/glitch/default/1",
+        "value": "감사. 내 가게를 도와준 것에 대한 감사 선물이니 부디 받아주시구려."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/glitch/default/2",
+        "value": "낙관. 아주 잘 되어가는구만! 여기 감사선물이오."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/floran/default/0",
+        "value": "여기 션물이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/rent/floran/default/1",
+        "value": "플로란 감샤한다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/floran/default/2",
+        "value": "플로란 샹점 좋다. 플로란 션물 주고 감샤한다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/novakid/default/0",
+        "value": "여기, 당신의 수고에 대한 보상입니다. 깊이 감사드립니다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/novakid/default/1",
+        "value": "멋진 상점을 구해주셨군요. 당신에게 감사 드려야겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/novakid/default/2",
+        "value": "하루하루를 넘기는데 도와주셔서 감사합니다. 이건 당신이 마땅히 받아야 할 겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/novakid/default/3",
+        "value": "당신에게 어떻게 감사 드려야 할지 모르겠군요, 지금은 이걸 받아주세요."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/novakid/default/4",
+        "value": "그건 당신의 것입니다, 당신이 원하는 대로 쓰세요."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/default/default/0",
+        "value": "내 가게일을 도와준 것에 대한 선물이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/rent/human/default/0",
+        "value": "이거 좋아할 것 같아서."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/human/default/1",
+        "value": "내 가게일을 도와준 것에 대한 선물이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/rent/human/default/2",
+        "value": "여태까지 해준 거 진짜로 다 고마워. 여기 선물 받아."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/avian/default/0",
+        "value": "도와준 것에 대한 답례에요."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/avian/default/1",
+        "value": "감사하다는 말 전하려고 산 거에요. 맘에 들어하셨으면 좋겠어요."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/avian/default/2",
+        "value": "이 선물 마음에 드시길 바라요!"
+    },
+    {
+        "op": "replace",
+        "path": "/rent/hylotl/default/0",
+        "value": "제 선물을 받아주십시오. 감사의 표시입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/hylotl/default/1",
+        "value": "제 감사와 이 선물을 받아주십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/hylotl/default/2",
+        "value": "이 소박한 선물이 당신에게 제 감사를 제대로 전할 수 있길 빕니다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/apex/default/0",
+        "value": "네게 주는 선물이다. 감사인사다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/apex/default/1",
+        "value": "사업은 잘 되고 있다. 이건 네게 주는 선물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/glitch/default/0",
+        "value": "쾌활. 이몸 여기있네! 사고 팔 물건이 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/glitch/default/1",
+        "value": "친근. 무엇을 해드리면 되나?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/glitch/default/2",
+        "value": "정중. 구매할 물건이 있으신가?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/floran/default/0",
+        "value": "플로란에게 샬 거 있냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/floran/default/1",
+        "value": "샤고 싶은 물건 있냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/floran/default/2",
+        "value": "나 찾았냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/novakid/default/0",
+        "value": "뭘 해 드릴깝쇼?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/novakid/default/1",
+        "value": "거래할 일을 찾고 계신가?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/novakid/default/2",
+        "value": "불러서 한걸음에 달려왔지. 뭐 살 거 있으신가?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/default/default/0",
+        "value": "저 왔어요!"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/human/default/0",
+        "value": "불렀어?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/human/default/1",
+        "value": "사고 싶은 거라도 있어?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/human/default/2",
+        "value": "안녕! 사고 싶은 거라도 있어?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/avian/default/0",
+        "value": "안녕하세요. 만나서 반가워요. 뭘 사가시려구요?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/avian/default/1",
+        "value": "다시 만나 반가워요! 뭘 도와드릴까요?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/avian/default/2",
+        "value": "친한 이를 보는 건 참 즐거운 일이죠. 뭘 갖다드릴까요?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/hylotl/default/0",
+        "value": "무슨 일을 의논하고 싶으십니까? 아니면 뭔가 찾고 계십니까?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/hylotl/default/1",
+        "value": "따뜻한 환영을. 거래를 하고 싶으십니까?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/hylotl/default/2",
+        "value": "뭘 갖다드리면 되겠습니까?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/apex/default/0",
+        "value": "당신이 날 불렀기에 이리 왔다. 뭘 해주면 되나?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/apex/default/1",
+        "value": "뭔가, 친구? 사고 싶은 물건이 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/apex/default/2",
+        "value": "사고 싶거나 팔고 싶은 게 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/final/glitch/default/0",
+        "value": "격분. 견딜 수 없네. 난 떠나겠소."
+    },
+    {
+        "op": "replace",
+        "path": "/final/glitch/default/1",
+        "value": "분노. 난 이보다 좋은 가게에서 일할 권리가 있네!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/glitch/default/2",
+        "value": "격화. 이러자고 여기 온 게 아니나, 여기서는 더 못 있겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/final/floran/default/0",
+        "value": "됐다. 플로란 간다!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/floran/default/1",
+        "value": "플로란 샤표 낸다! 이렇게 일 못 한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/floran/default/2",
+        "value": "이거 안 전문적이다. 플로란 다른 행셩에서 장샤할 거다!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/novakid/default/0",
+        "value": "이곳은 보풀소 사육소 보다 상태가 안좋잖아! 그냥 나가버리고 말지."
+    },
+    {
+        "op": "replace",
+        "path": "/final/novakid/default/1",
+        "value": "여기서 하루 더 일하느니 차라리 선인장 위에서 자고만다."
+    },
+    {
+        "op": "replace",
+        "path": "/final/novakid/default/2",
+        "value": "범죄야! 여긴 아주 개판이야! 난 째야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/final/default/default/0",
+        "value": "더는 못 참겠군!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/human/default/0",
+        "value": "더는 못 해먹겠어!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/human/default/1",
+        "value": "됐어, 나 안 해. 다른 데에서 장사할 거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/human/default/2",
+        "value": "나 안 해. 다른 데에서 물건 팔 거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/avian/default/0",
+        "value": "저같은 장사꾼은 더 나은 대접을 받을 권리가 있어요. 이제 할 만큼 했어요."
+    },
+    {
+        "op": "replace",
+        "path": "/final/avian/default/1",
+        "value": "됐어요. 전 갈 거에요. 더 좋은 상점을 찾을 거에요."
+    },
+    {
+        "op": "replace",
+        "path": "/final/avian/default/2",
+        "value": "전 다른 이들을 존중해보려 했는데, 당신은 저처럼 노력도 하지 않으시네요."
+    },
+    {
+        "op": "replace",
+        "path": "/final/hylotl/default/0",
+        "value": "더 이상은 못 하겠습니다. 전 떠나겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/final/hylotl/default/1",
+        "value": "그대에 대한 존경심도 바닥났습니다. 언젠가 그대의 오류를 깨닫길 빕니다."
+    },
+    {
+        "op": "replace",
+        "path": "/final/hylotl/default/2",
+        "value": "이 주변환경은 저라는 존재에 있어 매우 해롭습니다. 떠나야겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/final/apex/default/0",
+        "value": "더 나은 삶을 찾아 이리로 왔건만... 실망이다."
+    },
+    {
+        "op": "replace",
+        "path": "/final/apex/default/1",
+        "value": "이보다 나은 환경에서 일할 필요가 있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/final/apex/default/2",
+        "value": "됐다. 난 떠난다. 당신은 끔찍한 지주다."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/glitch/default/0",
+        "value": "충격. 다른 상인을 내 가게에 들여놓겠단 말이오?"
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/glitch/default/1",
+        "value": "혼란. 하지만 여긴 내 가게요. 나눠쓸 순 없소..."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/glitch/default/2",
+        "value": "슬픔. 오직 나만을 위한 가게가 생긴 줄 알았거늘..."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/floran/default/0",
+        "value": "플로란 여기 다 필요하다. 알지도 못 하는 낯션 샤람이랑 같이 안 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/floran/default/1",
+        "value": "다른 샤람 이샤시키면 플로란 먹어치울 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/floran/default/2",
+        "value": "플로란 샹점 같이 안 쓴다! 다른 증셔 치워라."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/novakid/default/0",
+        "value": "여기가 내 상점이고, 다른 데로 옮길 이유도 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/novakid/default/1",
+        "value": "이 집 나눠 쓰는 거 아냐. 두번째 증서는 떼쇼."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/novakid/default/2",
+        "value": "이거 내 상점이라고, 이런 십장생. 아무도 같이 쓸 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/default/default/0",
+        "value": "여기 내 공간인 줄 알았는데!"
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/human/default/0",
+        "value": "여기 개인 공간 아니었어!? 가게를 나눠 쓸 순 없다고!"
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/human/default/1",
+        "value": "여기 누구 이사시키려고 그래?!"
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/human/default/2",
+        "value": "여기 다른 증서를 왜 붙여 놔?!"
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/avian/default/1",
+        "value": "제 가게에 세를 놓으셨나요? 실수하셨겠죠..."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/avian/default/2",
+        "value": "제 가게에 다른 증서가 붙어있어요. 고의가 아니라고 믿죠."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/hylotl/default/0",
+        "value": "모르는 사람과 가게를 나눠쓰고 싶진 않습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/hylotl/default/1",
+        "value": "소극적으로든 아니든 다른 상인을 여기 들여놓고자 하는 데에 적극 반대합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/hylotl/default/2",
+        "value": "제 가게에 다른 증서가 붙어있지 않습니까? 실수라 믿겠습니다?"
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/apex/default/0",
+        "value": "왜 여기 또 다른 증서가 붙어있어? 무슨 생각이야?"
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/apex/default/1",
+        "value": "여긴 내 상점이다. 너한테서 빌린 거라고. 다른 사람을 들일 수는 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/apex/default/2",
+        "value": "이러는 거 아니다. 난 상점 나눠 쓸 생각 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/glitch/default/0",
+        "value": "짜증. 그대가 이러한 환경들을 개선시켜 줄 필요가 있네. 여기서는 일 못 하겠소."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/glitch/default/1",
+        "value": "불만. 내 부탁을 들어 주었기를 바라오."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/glitch/default/2",
+        "value": "불행. 집 수리가 아직도 안 되었소."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/floran/default/0",
+        "value": "플로란 이래셔는 일 못 한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/severe/floran/default/1",
+        "value": "플로란 화났다. 플로란 샹점 고쳐라."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/floran/default/2",
+        "value": "아직도 플로란 샹점 안 고쳤다!"
+    },
+    {
+        "op": "replace",
+        "path": "/severe/novakid/default/0",
+        "value": "내가 자리 뜨기 전에 이거 수리하는 게 좋을 것 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/novakid/default/1",
+        "value": "이건 뭐 놀랍도록 실망스러운 집이네... 고칠 거야 말 거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/severe/novakid/default/2",
+        "value": "내 상점 원래 안 이랬어. 고쳐 주쇼."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/default/default/0",
+        "value": "이런 상태에선 물건 못 팔아!"
+    },
+    {
+        "op": "replace",
+        "path": "/severe/human/default/0",
+        "value": "이런 상태에선 물건 못 팔아!"
+    },
+    {
+        "op": "replace",
+        "path": "/severe/human/default/1",
+        "value": "용납할 수 없는 환경이네..."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/human/default/2",
+        "value": "이래서는 일 못 해!"
+    },
+    {
+        "op": "replace",
+        "path": "/severe/avian/default/0",
+        "value": "이거 너무하잖아요. 수리가 필요하다구요!"
+    },
+    {
+        "op": "replace",
+        "path": "/severe/avian/default/1",
+        "value": "이 상태로는 얼마 못 가요. 제 가게 꼴을 좀 보시라구요."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/avian/default/2",
+        "value": "인내심이 점점 바닥나기 시작하거든요. 가게좀 고쳐주세요."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/hylotl/default/0",
+        "value": "부탁해도 답도 안 돌아오고, 귀머거리에게 간청했다니... 후회스럽군요."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/hylotl/default/1",
+        "value": "이런 통탄할 상황에서 그런 행동은 비난받아도 싸요."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/hylotl/default/2",
+        "value": "이건 그저 수치스러울 뿐입니다. 제 가게를 고쳐 주십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/apex/default/0",
+        "value": "여기 꼴 좀 보세요! 고쳐 주던가, 아니면 뜰 겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/apex/default/1",
+        "value": "당신의 무관심도 더는 못 봐 주겠군요..."
+    },
+    {
+        "op": "replace",
+        "path": "/severe/apex/default/2",
+        "value": "화난 에이펙스를 무시하는 건 바보같은 짓이다. 내 가게 고쳐라."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/glitch/default/0",
+        "value": "긴급. 벽은 박살났고 매출은 떨어지고 있소. 가게를 고쳐주실 수 있겠소?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/glitch/default/1",
+        "value": "걱정. 이 부서진 벽들이 건수를 떨어트리고 있네. 수리가 필요하네만."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/glitch/default/2",
+        "value": "희망. 가게를 고쳐줄 수 있겠나? 그럼 손님들도 다시 돌아올 걸세."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/floran/default/0",
+        "value": "플로란 벽 고쳐줘라."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/floran/default/1",
+        "value": "플로란 샹점 부셔졌다. 고칠 슈 있냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/floran/default/2",
+        "value": "플로란 픽셸 좋다. 이런 벽 있으면 픽셸 못 번다. 벽 고칠 슈 있냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/novakid/default/0",
+        "value": "여기 바람 느껴지는 거 나만 그런가?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/novakid/default/1",
+        "value": "여기 총싸움 나간 보안관보다 구멍 많아."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/novakid/default/2",
+        "value": "구멍난 상점에는 사람이 안 꼬이잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/default/default/0",
+        "value": "집에 수리가 필요해요!"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/human/default/0",
+        "value": "벽 좀 고쳐 줄 수 있어요? 이것 때문에 손님들 다 달아나네요."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/human/default/1",
+        "value": "손님들 맞이하려면 벽을 고쳐둬야 해. 도와줄 수 있어?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/human/default/2",
+        "value": "내 상점은 항상 최적의 상태를 유지해야 한다고! 고쳐줄 수 있어?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/avian/default/1",
+        "value": "벽 좀 고쳐주시겠어요?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/avian/default/2",
+        "value": "이 벽 굉장히 손상되었어요. 건수가 떨어질까 걱정이에요. 고쳐주실 수 있으세요?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/hylotl/default/0",
+        "value": "제 가게가 바깥에 노출되어있습니다. 이런 벽으로는 사업을 제대로 할 수 없습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/hylotl/default/1",
+        "value": "제 가게 벽을 메꿔주신다면 정말 진심으로 감사하겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/hylotl/default/2",
+        "value": "이 손상 때문에 손님들이 달아나는 게 이해가 됩니다. 벽 좀 고쳐주십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/apex/default/0",
+        "value": "내 상점에 구멍이 있다..."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/apex/default/1",
+        "value": "지붕이 내려앉기 전에 벽을 메꿔주었으면 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/apex/default/2",
+        "value": "이 벽좀 고쳐줘라. 이래서야 나한테 좋을 리 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/glitch/default/0",
+        "value": "혼란. 내 가게가 좀 다르구려."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/glitch/default/1",
+        "value": "불만. 그대의 선택은 마음에 안 드오. 내 가게를 돌려주시오."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/glitch/default/2",
+        "value": "애석. 가게가 예전같을 때가 더 좋았는데..."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/avian/default/0",
+        "value": "어, 제 가게는 이렇지 않았는데요..."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/avian/default/1",
+        "value": "이거 마음에 안 들어요. 원래 자리에 놓아주실 수 있으세요?"
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/avian/default/2",
+        "value": "부디 제 물건 제자리에 놓아주세요."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/apex/default/0",
+        "value": "제 물건들은 원래 자리에 놓아 주세요."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/floran/default/0",
+        "value": "샤고! 팔고!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/floran/default/1",
+        "value": "와셔 플로란 샹품 봐라."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/floran/default/2",
+        "value": "플로란 샹점 최고다! 와셔 샤가라!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/floran/default/3",
+        "value": "물건 많이 판다!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/default/default/0",
+        "value": "좋은 물건 있습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/default/default/1",
+        "value": "거기 당신, 여기 와서 물건좀 보고 가시죠!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/default/default/2",
+        "value": "최고로 합리적인 가격!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/novakid/default/3",
+        "value": "쓸 픽셀이 있다면 당신의 친구가 되어 드리죠!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/avian/default/0",
+        "value": "와서 물건좀 사가세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/hylotl/default/0",
+        "value": "제 상점은 화려한 물건들이 잔뜩입니다. 와서 보십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/hylotl/default/1",
+        "value": "필요한 물건을 팔아드릴 수 있다면 영광이겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/hylotl/default/2",
+        "value": "마음껏 둘러보십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/hylotl/default/3",
+        "value": "상품은 잔뜩 있습니다. 분명 원하는 걸 찾으실 수 있을 겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/apex/default/3",
+        "value": "이리 와라! 물건 사라!"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/glitch/default/0",
+        "value": "흥분. 이제 본론으로 들어갑시다."
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/glitch/default/1",
+        "value": "만족. 이제 마음 속에 품고 있던 걸 털어놓아봅시다."
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/floran/default/0",
+        "value": "여기 내 샹점이다. 뭐 필요하냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/floran/default/1",
+        "value": "여기다! 플로란 뭐 갖다줄까?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/novakid/default/0",
+        "value": "이제 여기 왔으니 거래를 할까?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/novakid/default/1",
+        "value": "상점에 왔으니 거래를 해 보실까?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/default/default/0",
+        "value": "환영합니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/default/default/1",
+        "value": "여기입니다. 자, 어떻게 도와드릴까요?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/human/default/0",
+        "value": "가게에 오신 것을 환영합니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/human/default/1",
+        "value": "여기입니다. 자, 어떻게 도와드릴까요?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/avian/default/0",
+        "value": "좋아요. 여기에요. 뭘 갖다드릴까요?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/avian/default/1",
+        "value": "여기 왔으니 맘에 드는 거 골라보세요."
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/hylotl/default/0",
+        "value": "여기입니다. 환영합니다. 뭘 구매하고 싶으십니까?"
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/hylotl/default/1",
+        "value": "제 외딴 상점에 와주셔서 감사합니다. 원하시는 걸 찾으시길 바랍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/apex/default/0",
+        "value": "이제 사업 이야기를 할 수 있겠군요."
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/apex/default/1",
+        "value": "좋아. 이제 거래할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/glitch/default/0",
+        "value": "성의. 가게로 따라오시게."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/glitch/default/1",
+        "value": "유인. 가게까지 안내해드리겠소."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/floran/default/0",
+        "value": "플로란 따라 샹점 와라."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/floran/default/1",
+        "value": "샹점 이쪽이다. 플로란 따라와라."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/default/default/0",
+        "value": "이리 와 가게에서 이야기하시죠!"
+    },
+    {
+        "op": "replace",
+        "path": "/follow/default/default/1",
+        "value": "들어와, 들어와서 물건좀 보세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/follow/novakid/default/0",
+        "value": "이쪽입니다, 친구."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/novakid/default/1",
+        "value": "따라오십시오, 당신께 제 가게를 보여드리죠."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/avian/default/0",
+        "value": "따라오세요. 가게로 안내해드릴게요."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/avian/default/1",
+        "value": "가게에서 이야기해요. 따라오세요."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/hylotl/default/0",
+        "value": "제가 가게까지 안내해드리겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/hylotl/default/1",
+        "value": "제 가게를 보여드려도 되겠습니까? 이쪽입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/apex/default/0",
+        "value": "내 물건들은 가게에 있다. 따라와라. 보여주마."
+    },
+    {
+        "op": "replace",
+        "path": "/follow/apex/default/1",
+        "value": "가게까지 따라오면 거래해주겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/rent/apex/default/2",
+        "value": "사업이 번창하고 있다! 내 감사의 선물을 받아라."
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/avian/default/0",
+        "value": "왜 다른 이를 제 가게에 들여놓으시려는 거죠?"
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/avian/default/0",
+        "value": "벽 없이 장사하긴 힘들죠. 피해좀 메꿔주시겠어요?"
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/apex/default/1",
+        "value": "물건 가져가지 마라... 내 가게 고쳐놔라."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/apex/default/2",
+        "value": "네가 가져간 물건 제자리에 놔라."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/novakid/default/0",
+        "value": "뭔가 이상하게 돌아가는데..."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/novakid/default/1",
+        "value": "이 가게 뭔가 불편한데. 네가 여기서 난리친 게 분명하구만."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/novakid/default/2",
+        "value": "이런 식으로 상점 보수하는 거 아니야."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/human/default/0",
+        "value": "내 가게에서 뭐 훔쳤나?"
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/human/default/1",
+        "value": "내 가게 어딘가 바뀌었어. 이거 옳지 않아..."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/human/default/2",
+        "value": "가게가 바뀌었는데 물건을 어떻게 팔아?"
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/hylotl/default/0",
+        "value": "왜 제 가게를 어지럽히시는 겁니까? 망가뜨린 것 다 돌려놓으십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/hylotl/default/1",
+        "value": "여긴 제 가게입니다! 왜 물건을 가져간단 말입니까?"
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/hylotl/default/2",
+        "value": "제 가게를 이런 식으로 망가뜨리시면 심히 당황스러울 뿐만 아니라 대단히 부도덕합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/floran/default/0",
+        "value": "샹품 숀대지 마라..."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/floran/default/1",
+        "value": "내 샹점 원래대로 해놔라."
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/floran/default/2",
+        "value": "플로란 샹점 예전이 훨씬 좋았다. 다시 해놔라!"
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/default/default/0",
+        "value": "우리 집 어딘가 바뀌었어. 마음에 안 들어!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/avian/default/1",
+        "value": "뭐 좀 팔아도 될까요? 매입도 합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/avian/default/2",
+        "value": "필요한 게 있으시다면 괜찮은 것들 모아 왔습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/avian/default/3",
+        "value": "안녕하세요. 사거나 팔 물건이 있으신가요?"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/glitch/default/0",
+        "value": "꼬드김. 와서 사가시게!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/glitch/default/1",
+        "value": "신남. 그대는 손님인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/glitch/default/2",
+        "value": "환영. 오셔서 물건들 보시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/glitch/default/3",
+        "value": "자랑. 이 저명한 상인에게서 사 가시게!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/apex/default/0",
+        "value": "와서 내 물건좀 봐라."
+    },
+    {
+        "op": "replace",
+        "path": "/tout/apex/default/1",
+        "value": "좋은 물건 판다. 와서 봐라!"
+    },
+    {
+        "op": "replace",
+        "path": "/tout/apex/default/2",
+        "value": "이리 오라. 물건 많다."
+    },
+    {
+        "op": "replace",
+        "path": "/merchantStart/default/default",
+        "value": [
+            "欢迎光临小店！",
+            "有喜欢的吗？",
+            "我能帮你做什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantStart/apex/default",
+        "value": [
+            "弄坏要赔。",
+            "你需要什么？",
+            "我能做什么来促成这一次交易呢？",
+            "请别卖我赃物，我不想惹麻烦。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantStart/avian/default",
+        "value": [
+            "欢迎你，需要些什么？",
+            "今天我能帮你什么呢？",
+            "你好啊。有喜欢的吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantStart/floran/default",
+        "value": [
+            "叶族人欢迎你光临小小小店。",
+            "叶族人能为你做什么呢？",
+            "一手交钱，一首交货货货。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantStart/glitch/default",
+        "value": [
+            "讨好。欢迎光临。",
+            "亲切。你知道你什么都想买！",
+            "愉快。一个客人！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantStart/hylotl/default",
+        "value": [
+            "希望我们能进行一场有助于您的幸福的交易。",
+            "也许您会发现我的商品很有价值。",
+            "不必客气，请仔细查看我的商品。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantStart/novakid/default",
+        "value": [
+            "你好。朋友。要货吗？",
+            "你好，朋友！你需要买什么吗？",
+            "我手里有空闲的货物，你感兴趣吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/default/default",
+        "value": [
+            "下次见！",
+            "再来哦！",
+            "这里永远欢迎你和你的钱包！",
+            "很高兴跟你做生意！",
+            "感谢惠顾！",
+            "很高兴见到你！",
+            "期待和你再做生意。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/human/default",
+        "value": [
+            "下次见！",
+            "再来哦！",
+            "这里永远欢迎你和你的钱包！",
+            "很高兴跟你做生意！",
+            "感谢惠顾！",
+            "很高兴见到你！",
+            "期待和你再做生意。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/avian/default",
+        "value": [
+            "感谢飞临！希望很快能再次见到你。",
+            "非常感谢你的惠顾！",
+            "感谢你的惠顾。早日再来。",
+            "我希望能再次见到你。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/glitch/default",
+        "value": [
+            "坚持。早日再来！",
+            "高兴。多谢惠顾！",
+            "失望。就买这么点吗？",
+            "忧郁。来日再见，亲。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/hylotl/default",
+        "value": [
+            "再来哦。",
+            "感谢你的惠顾。早日再来。",
+            "希望很快能再次见到你。",
+            "感谢你的光临，我期盼着与您下次的交易。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/apex/default",
+        "value": [
+            "下次再来。注意安全。",
+            "我们会再见的，记得为我存点钱哦。",
+            "希望能再次见到你，我的朋友。",
+            "可以的话，早日再来哦。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/floran/default",
+        "value": [
+            "回来，待这，花花花钱。",
+            "叶族人希希希望你早日再来。",
+            "叶族人有最最最好的东西，你早点再来哦。",
+            "叶族人高兴，希望你再来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/merchantEnd/novakid/default",
+        "value": [
+            "希望很快再次见到你，朋友！",
+            "出门在外，注意安全。",
+            "下次路过记得跟我打招呼，伙计！",
+            "再见，伙计！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/default/default",
+        "value": [
+            "来，跟着我去我的商店做交易。",
+            "来，来，看看我这里有什么！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/glitch/default",
+        "value": [
+            "亲切。请随我到店铺来。",
+            "诱惑。请让我带你去我的店铺。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/avian/default",
+        "value": [
+            "跟我来，我带你去我的店铺。",
+            "我们可以在我的店里谈生意。请跟我来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/apex/default",
+        "value": [
+            "我的商品都在店里。跟我来，我拿给你看。",
+            "如果你跟我到店里，我们可以做点交易。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/hylotl/default",
+        "value": [
+            "让我带您去我的店铺吧。",
+            "我能带您去我店里吗？请走这边。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/floran/default",
+        "value": [
+            "跟着叶族人到店里。",
+            "店店店铺往这这这走，跟着叶族人。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/follow/novakid/default",
+        "value": [
+            "就在这边，伙计。",
+            "跟着我，我带你去我店里。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/default/default",
+        "value": [
+            "欢迎来到我的商店！",
+            "我们到了。那么，你想要什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/human/default",
+        "value": [
+            "欢迎来到我的商店！",
+            "我们到了。那么，你想要什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/glitch/default",
+        "value": [
+            "激动。我们可以谈生意了。",
+            "愉快。现在我们可以尽情地做个交易了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/avian/default",
+        "value": [
+            "好吧，我们到了，你想要点什么？",
+            "现在我们到了，你可以找找看你想要什么。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/apex/default",
+        "value": [
+            "现在没有别人了。我们可以谈生意了。",
+            "好的，现在我们可以做点买卖了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/hylotl/default",
+        "value": [
+            "我们到了，欢迎你。你想买什么？",
+            "欢迎来到小店，希望我们能找到你需要的东西。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/floran/default",
+        "value": [
+            "我的店到到到了。你需要什么？",
+            "我们到了！叶族人能为你做点什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/welcome/novakid/default",
+        "value": [
+            "现在我们到了，介意做点生意吗？",
+            "现在我们在店里了。你想做点生意吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/default/default",
+        "value": [
+            "商品待售！",
+            "嘿，你，来看看我的优质商品吧！",
+            "超值优惠！",
+            "物美价廉！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/apex/default",
+        "value": [
+            "来看看我的商品。",
+            "商品待售，过来看看！",
+            "过来，客人。",
+            "来！买东西！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/avian/default",
+        "value": [
+            "来做点生意。",
+            "我能卖你点东西吗？我也收购。",
+            "如果你想买点什么，我可以给你很多选择。",
+            "你好啊。 需要买或者卖点什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/floran/default",
+        "value": [
+            "买东西！卖卖卖东西！",
+            "来看看叶族人的商商商品。",
+            "叶族人的店是最好的！过来买！",
+            "很多东西出售。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/glitch/default",
+        "value": [
+            "诱人。来吧，买！",
+            "兴奋。你是个客人吗？",
+            "迎客。快来看看我的商品！",
+            "自豪。来这里买东西咯，我可是个著名的商人！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/hylotl/default",
+        "value": [
+            "我的店琳琅满目。过来看看。",
+            "卖给你你所需要的东西，我最高兴了。",
+            "请不必客气随意查看我的商品。",
+            "我有许多存货，我确定你会找到你想要的东西。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tout/novakid/default",
+        "value": [
+            "你想要什么东西呢？",
+            "你感觉幸运吗？你应该如此，因为我找到了些好东西。",
+            "我搞到了些很棒的货，就在这！",
+            "如果你有像素要花，那么我就是你的朋友!"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/default/default",
+        "value": [
+            "我家的一些东西变了，我不喜欢这样！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/human/default",
+        "value": [
+            "你从我店里偷东西了吗？",
+            "我的商店的布局变了，这不太对…",
+            "我的店子变得不对劲了，这要我怎么卖东西？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/floran/default",
+        "value": [
+            "停停停止偷偷偷东西…",
+            "让我的店回归原原原样。",
+            "叶族人的店店店铺原来非常棒。马上把它变回原样！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/glitch/default",
+        "value": [
+            "困惑。我的商店跟以前不一样了。",
+            "不满。我不喜欢你所做的改变，恢复我的店。",
+            "惆怅。我希望我的店是它曾经的样子。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/avian/default",
+        "value": [
+            "嗯，这不是我的店原本的样子…",
+            "我不喜欢这样，你能把东西放回原位吗？",
+            "请把我的东西放回原位。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/apex/default",
+        "value": [
+            "请把我的东西放回原位。",
+            "住手，别拿东西…您需要恢复我的商店的样子。",
+            "我需要你从哪拿的东西全都放回去。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/hylotl/default",
+        "value": [
+            "为什么你打乱了我店？请修复你打坏的东西。",
+            "这可是我的店！为什么会有人从这里拿走东西？",
+            "你这样子拆掉我的店是糟糕透顶极度不道德的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/tagCriteria/novakid/default",
+        "value": [
+            "这里的东西有点不对劲…",
+            "这家店从刚才就感觉不太对。你搞乱这的东西了。",
+            "把一个商店改成这样子是不对的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/default/default",
+        "value": [
+            "我的房子需要修理！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/human/default",
+        "value": [
+            "你能修好这墙吗？这种破坏会把顾客全都赶跑的。",
+            "如果我想要客人光顾就需要先修好那堵墙。你能帮忙吗？",
+            "我的店需要保持在最好的状态！你能帮忙修好它么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/floran/default",
+        "value": [
+            "请修复下叶族人的墙墙墙壁。",
+            "叶族人的店破了。你能修好它吗？",
+            "叶族人喜喜喜欢像素，墙壁这样子得不到像像像素。你能修墙吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/glitch/default",
+        "value": [
+            "郁闷。墙壁受损客人都走了。你能修好这间店吗？",
+            "忧虑。这堵破墙是对生意的阻碍，我需要修好它们。",
+            "乐观。你能修好我的店吗？这样客人也许就会回来了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/avian/default",
+        "value": [
+            "没有墙壁的商店可难做生意。你可以修复损坏的部分吗？",
+            "你介意修好我的墙吗？",
+            "那堵墙坏得很严重，我担心客人会流失…你能修好它吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/apex/default",
+        "value": [
+            "我的店里有个洞…",
+            "我需要你在屋顶从我们头上塌下来之前修一下墙壁。",
+            "请修好这些墙壁，店铺像这样对我可没好处。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/hylotl/default",
+        "value": [
+            "我店变露天的了，墙壁破了我可没办法维持生意。",
+            "如果你能修补我的墙我将非常感激。",
+            "不难理解，这堵破墙赶跑了我的客人。请修好我的墙。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/enclosedArea/novakid/default",
+        "value": [
+            "我不是唯一的一个在这里感觉到一阵微风的，对吗？",
+            "这地方的洞比一个刚经过枪战的警长身上的还多。",
+            "我不想要一间有洞没客人的破店。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/default/default",
+        "value": [
+            "我原以为这地方是给我的！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/human/default",
+        "value": [
+            "我以为这地方只租给我呢！？我不会跟别人分享商店的！",
+            "你在试着让另一个人住到我的店里来？！",
+            "为什么你在这签订了另一个契约？！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/floran/default",
+        "value": [
+            "叶族人需要这里的整个空间，不跟任何陌陌陌生人分享。",
+            "如果你让别别别人搬进来，叶族人就吃了他们。",
+            "叶族人不分享店！拿掉第第第二张契约。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/glitch/default",
+        "value": [
+            "震惊。你在试着让另一个商人搬到这个店里？",
+            "困惑。但是这是我的店，我不会跟别人分享的…",
+            "伤心。我本以为这店只属于我。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/avian/default",
+        "value": [
+            "为什么会有另一个人试着搬到我的店里？",
+            "你把我的店又租出去了？这绝对是个错误…",
+            "店里又有了一个契约，显然这并不应该。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/apex/default",
+        "value": [
+            "为什么这会又有一个契约？你想干什么？",
+            "这是我的店。我从你这租的。你不能把别人搬进来。",
+            "这么做不好。我不会分享我的店的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/hylotl/default",
+        "value": [
+            "我不希望跟一个陌生人分享我的店。",
+            "不管被动与否，你在我的店里安置了另一个商人，我不能袖手旁观。",
+            "我店里有另一个契约？这显然是个错误？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/otherDeed/novakid/default",
+        "value": [
+            "这是我的店，不要毫无意义地让别人搬进来。",
+            "我的老窝可不跟别人分享。你最好拿掉第二张契约。",
+            "该死的，这是我的店，我不会和任何人分享它。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/default/default",
+        "value": [
+            "这种条件下我的货卖不出去！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/human/default",
+        "value": [
+            "这种条件下我的货卖不出去！",
+            "这工作条件可不能被接受…",
+            "这样子工作是不可能的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/floran/default",
+        "value": [
+            "叶族人不能这这这样子工作！",
+            "叶族人很生气，修好叶族人的店。",
+            "你还还还没修好叶族人店里的东西！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/glitch/default",
+        "value": [
+            "傻眼。你需要改善这些条件，否则不可能在这工作。",
+            "失望。我希望有人把我的请求听进去了。",
+            "不快。我的店还没修好。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/avian/default",
+        "value": [
+            "这差太远了，我需要你修好东西！",
+            "我不能再忍受这样子了，看看我店里的样子。",
+            "我的耐心已经消耗殆尽了。修好我的店。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/apex/default",
+        "value": [
+            "看这地方！修好我的店，不然我就走了。",
+            "我再也受不了你的冷漠了…",
+            "忽略生气的猿人是非常愚蠢的。我建议你最好修好我的店。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/hylotl/default",
+        "value": [
+            "我的请求没有得到回应，我的恳求进了聋子的耳朵…可耻。",
+            "这些条件十分恶劣，并且你的行为应该受到谴责。",
+            "这是非常可耻的，我要求你修好我的店。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/severe/novakid/default",
+        "value": [
+            "我觉得在我离开之前，你可能要修好这个小屋。",
+            "这地方难道不是非常让人失望吗…你最好试着修复它或者什么？",
+            "我的商店不是从前的样子。你最好搞定它。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/default/default",
+        "value": [
+            "我受够了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/human/default",
+        "value": [
+            "我受够了！",
+            "就这样吧，我放弃了。是时候到别处做生意了！",
+            "我放弃了，我会去别的地方卖我的货。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/floran/default",
+        "value": [
+            "就就就这样，叶族人要走了！",
+            "叶族人放放放弃了！",
+            "你这这这样非常没有职业道德，叶族人要到别的星球卖东西去了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/glitch/default",
+        "value": [
+            "失措。这超越我的底线了。我要走了。",
+            "愤怒。我应该得到一个更好的店做生意！",
+            "烦乱。我也不希望这样，但是我不能忍受再呆在这了"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/avian/default",
+        "value": [
+            "像我这样的商人需要更好的地方。够了，真是够了。",
+            "就这样。我要走了。是时候找一间更好的店了。",
+            "我试着尽量尊重他人，但是很遗憾你没有做出同样的努力。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/apex/default",
+        "value": [
+            "我搬到这是要追寻更好的生活…太令人失望了。",
+            "我需要一个比这里好的工作环境！",
+            "就这样。我必须离开了。你是个糟糕的房东。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/hylotl/default",
+        "value": [
+            "我不能这样做下去了。我要走了。",
+            "我已经失去了所有对你的尊重。我希望你有一天能认识到自己的错误。",
+            "这周围的环境对我的存在非常有害。我必须走了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/final/novakid/default",
+        "value": [
+            "这店比蓬蓬牛的水槽还糟糕！我马上就要走。",
+            "我宁愿睡在仙人掌上也不愿在这里多工作一晚。",
+            "天哪！这地方一团糟！我不想再浪费时间了。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/default/default",
+        "value": [
+            "我到家了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/human/default",
+        "value": [
+            "你叫我？",
+            "有你想买的东西吗？",
+            "嗨！你想买点什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/floran/default",
+        "value": [
+            "你需要叶族人卖你些东东东西吗？",
+            "你需要我一些东东东西吗？",
+            "你在找找找我吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/glitch/default",
+        "value": [
+            "快活。我来了！你要买还是要卖？",
+            "友好。我能为你做什么？",
+            "礼貌。你需要购买什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/avian/default",
+        "value": [
+            "嗨，很高兴见到你。你希望买东西？",
+            "再次问好！有什么可以帮您？",
+            "总是很高兴看到一个友好的面孔。我可以帮你什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/apex/default",
+        "value": [
+            "你需要我，我来了，我能为你做什么？",
+            "怎么了，我的朋友？你想买什么东西？",
+            "你想买或者卖什么？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/hylotl/default",
+        "value": [
+            "你想讨论什么？或者有你要找的东西吗？",
+            "热情的问候。你希望跟我交易吗？",
+            "我能帮你什么吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/beacon/novakid/default",
+        "value": [
+            "我能为你做什么？",
+            "你需要做一些交易？",
+            "你找我，我飞奔而至。你需要买什么东西？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/default/default",
+        "value": [
+            "这是为了答谢你给店子的帮助的礼物！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/human/default",
+        "value": [
+            "我想你可能会喜欢这个。",
+            "这是为了答谢你给店子的帮助的礼物！",
+            "我真的很感谢你所做的一切，这个礼物给你。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/floran/default",
+        "value": [
+            "这是是是给你的礼物！",
+            "叶族人给你这个表表表示感谢。",
+            "叶族人喜欢开店，叶族人拿这个礼物跟你说说说声感谢。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/glitch/default",
+        "value": [
+            "友善。拿着这个，感谢你长期的支持。",
+            "感激。请收下这个礼物，感谢你对我的店的帮助。",
+            "乐观。这回非常好！给你这个礼物表示感谢。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/avian/default",
+        "value": [
+            "这礼物用以感谢你的一切帮助。",
+            "我买了礼物要送给你并说声谢谢，希望你喜欢。",
+            "我希望你喜欢这礼物！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/apex/default",
+        "value": [
+            "目前这个是给你的，用来说声谢谢。",
+            "生意很好。这是给你的谢礼。",
+            "我的生意蒸蒸日上！请收下这个饱含我谢意的礼物。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/hylotl/default",
+        "value": [
+            "请把这个作为我的谢意的礼物。",
+            "请接受这份饱含我感激之情的礼物。",
+            "我希望这份薄礼能表达我对你的谢意。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/rent/novakid/default",
+        "value": [
+            "这是一点小意思补偿对你的烦扰。非常感谢你。",
+            "你帮我安置的这店非常的棒。对此我要感谢你。",
+            "感谢您帮助我度日。你已经赢得了这个。",
+            "不知道如何正确地感谢你，但现在请收下这个。",
+            "这是给你的，随你处置。"
+        ]
+    }
+]

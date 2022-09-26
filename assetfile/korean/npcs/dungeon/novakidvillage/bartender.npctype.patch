@@ -1,0 +1,68 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+        "value": "마실걸 찾는다면 내게 오라고!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+        "value": "안녕! 멋진 음료를 마시러 온건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "value": "혹시 마실걸 찾나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "value": "나중에 다시 보자구, 파트너!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "value": "자, 그러면 뭘 줄까?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "value": "뭘 살래?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/start/default/default",
+        "value": [
+            "我能为您提供什么呢？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/end/default/default",
+        "value": [
+            "请再次光临，伙计！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default",
+        "value": [
+            "想来杯饮料的话就来我这里吧！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default",
+        "value": [
+            "那么，我可以为你提供什么服务呢？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default",
+        "value": [
+            "您在找饮料吗？",
+            "你好！你想来一杯饮料吗？"
+        ]
+    }
+]

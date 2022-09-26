@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "마른 경작된 흙. 물을 사용할 수 있어 보인다."
+    }
+]

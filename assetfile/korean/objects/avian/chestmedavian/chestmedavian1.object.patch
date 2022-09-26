@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큰 장식용 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "큰 상자다. 이것저것 처박아두기 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안 열린 상자만큼 두근거리는 것도 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 상자들은 물품 보관을 위해 거대하게 만들어놓는다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "정말 큰 상자다! 한 번 열어보자."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "상자다! 한 번 안을 들여다 볼까."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "예상. 안에 뭐가 들었길래 이리 클까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "엄청 큰 샹자! 플로란 들쓔신다!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고대 아비안 예술이 가미된 상자."
+    }
+]

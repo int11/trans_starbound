@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "마침내, 좀 쓸만한 방어구다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "발레복"
+    }
+]

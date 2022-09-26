@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "글리치 머리뼈 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "글리치의 머리뼈... 아니 정확히는 뼈가 아닌 철제커버이다."
+    }
+]

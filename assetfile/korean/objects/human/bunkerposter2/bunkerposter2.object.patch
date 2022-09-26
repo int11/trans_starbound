@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "인간 벽보에 에이펙스 악당이라. 궁금하네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "빅 에이프를 나타낸 벽보다. 인간이랑 에이펙스랑 무슨 연관이 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "낯이 익은 만화 캐릭터인데. 잠깐... 저거 혹시 빅 에이프야?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "빅 에이프? 여기에? 인간들이 왜 이런 벽보를 만들어? 농담하자는 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "수상. 왜 인간들이 빅 에이프의 벽보를 가지고 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 왜 빅 에이프가 여기 붙어있는 지 모르겠다. 털투셩이 인간?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진정 포스터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화낼 필요 없어요."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "에이펙스다. 화낼 필요 없단다."
+    }
+]

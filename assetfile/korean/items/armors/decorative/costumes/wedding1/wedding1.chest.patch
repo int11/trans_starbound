@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "품격있는결혼식 상의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우아한 상의이다. 신부를 위한 옷이지만, 누가 입어도 기분이 끝내줄 것이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 상자가 어떻게 아직까지 세워져있는지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 상자는 특이한 모양을 하고 있어서, 난 이것의 제작자를 알아낼 수 없다. "
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 상자는 만들어지고 나서 아주 오래 지난 듯 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 상자는 만들어진 지 오래 지난 듯 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "매우 낡은 상자이다. 무엇이든 들어있음직 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경고. 내 감각계는 이 상자의 구조 설계를 투과할 수 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 알고 싶다… 이 이샹한 샹자 안에는 무엇이 들어있을까? "
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어디에서 왔는지 모르는 고대의 상자이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 붕대는 모든 상처를 빠르게 붙여준다. 1초 동안 100 만큼의 체력을 회복한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나노포장 붕대"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "공작 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "놀라운 솜씨로 디자인된 이 흉갑은 창, 검, 그리고 총탄을 가볍게 튕겨내는 것 같다."
+    }
+]

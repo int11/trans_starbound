@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 바다 덤불."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "미끌 미끌한 잡초들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고깔 덤불."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고깔 덤불."
+    }
+]

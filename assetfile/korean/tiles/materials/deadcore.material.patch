@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "죽은 핵 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "죽은 행성의 초 고밀도 핵. 거의 깨지지 않는다."
+    }
+]

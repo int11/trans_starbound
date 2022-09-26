@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "합성 자극제"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 자극제는 나무 수액으로 만든 것으로, 이로운 치유 성질을 가지고 있다."
+    }
+]

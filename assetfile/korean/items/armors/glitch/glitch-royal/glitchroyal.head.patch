@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "글리치 왕관"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "글리치의 권력을 상징하는 왕관이다."
+    }
+]

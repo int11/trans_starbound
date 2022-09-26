@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "일종의 아웃포스트 벽."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "익숙. 예전에 우주 관문기지에서 이 재료가 사용 되는것을 본 바가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "강철 아웃포스트 벽."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "벽 재료는 일반적으로 우주 관문기지에 사용된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "관문기지 벽"
+    }
+]

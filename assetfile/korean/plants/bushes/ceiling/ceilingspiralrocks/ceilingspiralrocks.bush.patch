@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 나선형 암석"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "나션형 돌."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나선형 암석."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나선형 암석이다."
+    }
+]

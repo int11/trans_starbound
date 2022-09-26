@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대인의 마스크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "크고 위협적인 마스크."
+    }
+]

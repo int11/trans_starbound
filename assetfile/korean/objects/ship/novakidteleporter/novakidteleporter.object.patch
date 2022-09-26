@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "우주선의 텔레포터야. 어디 한번 돌아 보자고!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "텔레포터. 텔레포트는 산 꼭대기에서 바다 속으로 다이빙하는 느낌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "텔레포터! 텔레포트는 꼭 날아다니는 느낌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "텔레포터! 텔레포트는 엄청 급해."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "우주선 텔레포터. 텔레포트는 광속 롤러코스터를 탄 느낌이지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "우쭐. 텔레포터. 텔레포트 과정 중 취침 모드에 들어갈 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "우주선 텔레포터. 플로란 텔레포트하는 동안 어지러워."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "믿음직한 텔레포터, 너 없이 뭘 하겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "텔레포터"
+    }
+]

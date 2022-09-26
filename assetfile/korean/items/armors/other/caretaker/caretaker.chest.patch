@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "경비원의 전통적인 로브"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "경비원 로브"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부엉이 스커트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 듀라스틸로 강화된 스커트는 딱 적절한곳에 아늑하다."
+    }
+]

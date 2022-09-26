@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "마치 진취적인 느낌을 주는 바지이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "우주 유니폼 바지"
+    }
+]

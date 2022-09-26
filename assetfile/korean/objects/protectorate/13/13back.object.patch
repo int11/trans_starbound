@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 아이탬은 사용할수 없게 되어 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 배경"
+    }
+]

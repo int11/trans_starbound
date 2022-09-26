@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "단단하고 견고한 문이군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "방어적 디자인으로는 최상이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "교활. 이 문은 보안을 위한 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "중세 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강하고 안전한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 문 보이는것 보다 훨씬 튼튼해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "창살이 달린 육중한 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "나무로 이뤄져 있고 아주 튼튼하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "문 진짜 딴딴해."
+    }
+]

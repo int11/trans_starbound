@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/message",
+        "value": "<name> 가 <role> 로서 당신의 선원이 되고싶어합니다. <name> 를 초대할까요?^gray;\n\n^white;직업:^gray; <role>\n^white;랭크:^gray; <rank>\n^white;상태:^gray; <status> "
+    },
+    {
+        "op": "replace",
+        "path": "/subtitle",
+        "value": "누군가 당신의 모험에 참여하길 원합니다"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "당신의 선원을 늘리기"
+    },
+    {
+        "op": "replace",
+        "path": "/okCaption",
+        "value": "雇佣"
+    },
+    {
+        "op": "replace",
+        "path": "/cancelCaption",
+        "value": "之后再说"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "호감적인 미모로 저주받았다면 이 공포를 상징할만한 가면으로 가리자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "동족섭취자의 가면"
+    }
+]

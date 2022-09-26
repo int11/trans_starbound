@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 가리개를 가진 가벼운 강철 투구."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 투구."
+    }
+]

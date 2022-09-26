@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "미지의 다리 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 미지 생물체의 다리 한짝이다."
+    }
+]

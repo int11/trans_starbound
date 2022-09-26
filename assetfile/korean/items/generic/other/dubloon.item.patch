@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "더블룬"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "펭귄 용병들이 비크이지 술집에서 받는 계약용 토큰."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "무언가를 파는 버섯 세일즈맨,"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "아가란 상인"
+    }
+]

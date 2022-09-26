@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "귀족 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전통 귀족들에겐 꽤 흔한 형태를 가진 바지이다."
+    }
+]

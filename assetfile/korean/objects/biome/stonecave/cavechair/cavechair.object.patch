@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "앉으라고 있는 물건인 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "앉기엔 불편해 보이는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바위 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바위 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "자연적으로 나온 것 같진 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "사색. 바위와 의자의 경계는 어디인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바위로 만들어진 단순한 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "보고만 있어도 엉덩이가 아프네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 못 해도 위에 이끼정도는 놓을 거다."
+    }
+]

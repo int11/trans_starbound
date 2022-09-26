@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "소름. 생살이 자라고 있다고?!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "고기이."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "자라고 있는 생살."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자라고있는 생살이다."
+    }
+]

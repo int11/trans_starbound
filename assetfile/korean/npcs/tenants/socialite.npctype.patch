@@ -1,0 +1,146 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/0",
+        "value": "지구와 함깨, 수많은 예술들이 사라졌지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/2",
+        "value": "이건 무지 불편하긴 하지만, 주목받는게 좋거든요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/1",
+        "value": "이 가발은 간지럽긴 하지만... 두드러져보이지 않나요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/0",
+        "value": "깃털 장식 모자 같은건 별로 마음에 안들어서, 이런게 훨신 어울리지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/1",
+        "value": "난 매우 주목받지, 빅 에이프와도 교제하고."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/2",
+        "value": "내 의상보다 더 훌륭한 의상을 본적 있어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/2",
+        "value": "만족. 이 가발을 쓰면 사람들이 시선을 돌린다오, 분명히 내가 멋져보여서 아니겠소."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/1",
+        "value": "기쁨. 내가 이 가발을 쓰면, 사람들은 내가 부자인줄 안다오!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/0",
+        "value": "무시. 사라지시오,.난 지금 콧대높은 웃음을 연습하고 있소!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+        "value": "하이로틀은 지적 교양의 종족이지요, 전 그중에서도 최고에 속한 답니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+        "value": "사람이라면 최고의 품위만을 추구해야하죠."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+        "value": "전 최고의 예술에만 흥미가 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/2",
+        "value": "플로란이 이 가발을 한번 쓰니까 모두가 플로란이 엄청나다고 섕각해."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/0",
+        "value": "이 가발을 쓰면 플로란은 항상 모든 시선을 끌어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/2",
+        "value": "다른 동족들은 더러움의 삶에 몸을 맡긴건가? 불쌍하군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "난 예술을 다루는 사람이지. 자네는 어떤가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/1",
+        "value": "플로란이 이 가발을 쓰면, 샤람들이 플로란과 예기해줘. 왜 그러는진 플로란도 몰라."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/1",
+        "value": "나는 어디를 들리더라도 최상의 의상을 입지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "我是一名艺术商人。你有这方面的修养吗？",
+            "我名声在外，大猿人也和我有交情。",
+            "我的同类们放任自己过着肮脏的生活。多么可怜。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default",
+        "value": [
+            "地球已经完了，许多优秀的艺术品也伴随着它一起消失了！",
+            "在我访问过的所有设施之中，我是最精于穿衣之道的人！",
+            "我是你见过的人里衣服穿得最美的，不是吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default",
+        "value": [
+            "戴着这这这顶假发，叶族人总是被人关注的焦点。",
+            "当叶族人戴戴戴假发的时候，人们和叶族人说话。叶族人不知道为什么。",
+            "叶族人一旦戴戴戴上这顶假发，每个人都觉得叶族人漂亮。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default",
+        "value": [
+            "我不喜欢羽毛装饰的头盔包括它的外观，这个更适合我。",
+            "这顶假发让我发痒…但我感觉很高贵！",
+            "这非常不舒服。但我喜欢被别人注意！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default",
+        "value": [
+            "我感兴趣的只有最好的艺术。",
+            "让自己舒服的同时必须保持尽可能的优雅。",
+            "鲛人在教养方面是最顶尖的，而我是其中最棒的。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default",
+        "value": [
+            "不屑。滚开，我正在练习傲慢地笑！",
+            "高兴。当我戴上这假发，人们都觉得我很有钱！",
+            "愉悦。人们盯着戴上假发的我，一定是因为我戴上它非常漂亮。"
+        ]
+    }
+]

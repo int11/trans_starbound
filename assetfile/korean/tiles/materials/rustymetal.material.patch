@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "두꺼운 녹 덮인 낡은 금속이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불안. 이 금속에 슬어있는 녹은 나를 몹시 불편케 만드는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "녹 덮인 금쇽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 금속"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹이 박힌 오래된 금속"
+    }
+]

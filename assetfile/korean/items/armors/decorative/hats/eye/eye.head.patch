@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전지의 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 눈이 중앙에 있는 투구, 실용적이다!"
+    }
+]

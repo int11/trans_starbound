@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프로그 머리뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 프로그의 머리뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "프로그 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "화석이 된 프로그의 훌륭한 예시다."
+    }
+]

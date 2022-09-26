@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "더미 데이터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "더미 데이터"
+    }
+]

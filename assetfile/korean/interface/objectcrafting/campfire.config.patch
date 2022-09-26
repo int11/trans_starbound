@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/lblText/value",
+        "value": "^#b9b5b2;왼쪽 칸에 한 개 이상의 재료를 놓으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/gui/toggleCrafting/caption",
+        "value": "요리하기"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이주기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "최대 3마리 까지 아군 생명채를 정지장 안에 보관해서 안전하게 이주하게 도와준다."
+    }
+]

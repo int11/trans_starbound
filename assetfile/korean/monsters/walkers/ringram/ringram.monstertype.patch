@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "링그램"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "링그램의 뿔은 태어날 때부터 자라기 시작하여 절대 멈추지 않는다."
+    }
+]

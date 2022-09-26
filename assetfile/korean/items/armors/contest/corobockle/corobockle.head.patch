@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "조그만한 사람 한명이 머리를 따듯하게 해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코로버클"
+    }
+]

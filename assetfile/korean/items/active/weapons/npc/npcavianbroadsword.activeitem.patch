@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "NPC 아비안 근접 무기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "흑요석의 막대 무기이다. 이걸 플레이어따위가 얻을리 없지 안그래?"
+    }
+]

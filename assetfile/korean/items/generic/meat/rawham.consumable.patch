@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "조리되지 않은 햄. 일단 요리하면 좋겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생 햄"
+    }
+]

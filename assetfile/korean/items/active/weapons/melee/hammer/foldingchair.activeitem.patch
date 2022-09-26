@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "접이식 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "리얼철권을 준비해라! 개판을 만들자!"
+    }
+]

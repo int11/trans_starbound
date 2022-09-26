@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이쁜 오일 랜턴이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 랜턴에 오일이 들어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바다 밑에서도 이 등불의 연료는 꺼지지 않을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "연료가 불꽃을 유지하고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아름다운 오일 랜턴이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "랜턴은 오일을 연료로서 태우지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불꽃이 안쪽의 액체를 집어 삼킨다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오일 랜턴"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 오일 랜턴."
+    }
+]

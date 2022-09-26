@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파인애플"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "열대 과일의 일종이다."
+    }
+]

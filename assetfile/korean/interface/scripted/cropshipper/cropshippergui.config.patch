@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/btnShip/caption",
+        "value": "보내기"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblMoneyLabel/value",
+        "value": "가격 합계"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/count/value",
+        "value": "40 칸"
+    }
+]

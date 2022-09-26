@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부엉이 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간편한 튜닉을 듀라스틸로 둘러 내구도를 강화시켰다."
+    }
+]

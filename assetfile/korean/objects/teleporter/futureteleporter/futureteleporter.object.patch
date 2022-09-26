@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "디자인이 썩 괜찮은 개인 텔레포터로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "개인 텔레포터다! 이게 내 여행 스타일이지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "개인 텔레포터, 유용하면서 재미있는 장치야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "유혹. 자체 디자인의 개인 텔레포터다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개인 텔레포터, 미리 지정한 다른 텔레포터로 이동할 수 있다. \n^red;회수 불가능."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 텔레포터 짱 좋아!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "미래풍 텔레포터"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "我喜欢我在高速传送过程中羽毛发出嘶嘶声的感觉！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "就传送门而言，这一个确实有着别致的外观！"
+    }
+]

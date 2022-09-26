@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "낙하산으로 낙하사를 막아보자!... 구할 방법이 없더라도."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "낙하산"
+    }
+]

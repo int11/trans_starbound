@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "역겨운 타르 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생긴것 부터가 역겨움을 노린듯한 타르 가면이다."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "쇼크후퍼 MK I"
+    }
+]

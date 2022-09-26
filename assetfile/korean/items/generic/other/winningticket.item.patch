@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"메이즈바운드64\" 를 다 깬 사람에게 주어지는 보상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "클리어 티켓"
+    }
+]

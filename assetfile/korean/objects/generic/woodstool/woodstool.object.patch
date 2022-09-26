@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "작은 나무 의자. 동화속에서 뛰쳐나온것 같네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "진부함. 매우 작은 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 나무 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "매력적인 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "등받이 의자다. 길가던 아무개씨가 발톱을 쉬게 할 수 있을것같아."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "귀엽고 작은 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 나무 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쬐끄만한 의자다."
+    }
+]

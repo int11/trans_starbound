@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "경첩이 녹슬기 전까진 끝장나게 안전했겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 문은 무겁고 녹슬었어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "스캔. 문에 슨 녹이 문을 잠식한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "무거운 문 열기 힘들다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 문은 한 때 매우 안전했을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "녹슬고 오래된 문. 완전 무거워."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "녹슨 문. 열리긴 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만신창이 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 문은 거의 녹슬어 부서졌다."
+    }
+]

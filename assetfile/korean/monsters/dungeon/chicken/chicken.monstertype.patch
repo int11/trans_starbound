@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "닭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지구 토종인 이 얌전한 새는 알을 자주 낳는다."
+    }
+]

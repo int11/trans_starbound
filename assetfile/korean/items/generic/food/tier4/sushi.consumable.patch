@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초밥"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해초와 둥근 밥으로 만들어진 하이로틀들의 진미이다."
+    }
+]

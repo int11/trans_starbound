@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오렌지색 발광막대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "던지면 오렌지색 빛을 냅니다!"
+    }
+]

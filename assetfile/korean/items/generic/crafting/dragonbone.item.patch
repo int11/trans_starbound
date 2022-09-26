@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "용골"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "용의 뼈로 만지면 뜨겁다. 온기가 사라지지 않는다."
+    }
+]

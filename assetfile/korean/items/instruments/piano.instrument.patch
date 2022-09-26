@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "피아노"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "피아노. 정말 중요한 악기이다."
+    }
+]

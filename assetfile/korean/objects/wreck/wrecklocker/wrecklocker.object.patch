@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "락커. 안이 비어있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나라면 여기에 뭔가 얌전히 남아있을 거란 생각은 전혀 안할거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "나라면 여기에 귀중한 건 보관하지 않겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "탐구. 이 락커가 여전히 뭔갈 안에 넣어놓을 수 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "락커 재밌는 냄섀 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "낡은 락커. 이거봐! 포토 테이프가 안에 있어..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "뭘 보관하기엔 대단히 안전치 못한 장치야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "녹슬고 오래된 락커."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "만신창이 락커"
+    }
+]

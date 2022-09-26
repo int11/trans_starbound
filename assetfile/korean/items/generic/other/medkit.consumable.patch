@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대부분의 상태효과를 즉시 치유하고, 100의 체력을 10초에 걸쳐 회복한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구급팩"
+    }
+]

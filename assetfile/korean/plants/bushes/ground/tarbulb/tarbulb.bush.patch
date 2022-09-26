@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 타르 덩어리 라니..."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끈적 끈적 타르!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "타르 덩어리."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "타르 덩어리다."
+    }
+]

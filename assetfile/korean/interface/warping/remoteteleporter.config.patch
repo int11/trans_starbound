@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/destinations/0/name",
+        "value": "함선으로 돌아가기"
+    },
+    {
+        "op": "replace",
+        "path": "/destinations/0",
+        "value": {
+            "name": "传送到飞船",
+            "planetName": "",
+            "warpAction": "OwnShip",
+            "icon": "beamup"
+        }
+    }
+]

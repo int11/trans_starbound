@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 돌 가시"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "돌 가시이."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "종유석."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "종유석. 조심하자."
+    }
+]

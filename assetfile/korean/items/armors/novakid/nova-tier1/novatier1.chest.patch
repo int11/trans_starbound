@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고전적인 조끼와 반다나의 조합, 공식 보안관 뱃지로 완성된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대리인의 조끼"
+    }
+]

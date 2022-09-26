@@ -1,0 +1,57 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 음식 요리하고 육즙 마신다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 이 화로는 그닥 위생적으로 보이지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "진정 소박한 맛을 즐기고 싶다면"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "식사준비를 위한 모든 것."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 주방기기로 만든 음식은 먹지 않는 게 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "누가 여기서 뭘 요리했는지 어찌 알겠나."
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "원시 조리기구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모닥불 위에 평범한 조리용 냄비가 걸려있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 조리기구는 뼈로 만든 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "조리기구다. 불 때문에 새카매진 뼈다귀에 냄비가 걸려있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 조리기구"
+    }
+]

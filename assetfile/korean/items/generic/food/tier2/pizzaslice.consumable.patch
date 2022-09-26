@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "피자 한 조각"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "따끈한 페퍼로니 피자 한 조각 이다."
+    }
+]

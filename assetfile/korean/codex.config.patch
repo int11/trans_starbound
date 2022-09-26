@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/defaultItemConfig/category",
+        "value": "서적"
+    },
+    {
+        "op": "replace",
+        "path": "/messages/alreadyKnown",
+        "value": "이미 알고 있는 서적입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/messages/learned",
+        "value": "서적이 추가되었습니다!"
+    }
+]

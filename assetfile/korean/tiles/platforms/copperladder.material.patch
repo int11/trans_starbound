@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "구리로 만든 사다리다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 사다리는 구리로 이루어져 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샤다리 반짝이는 구리로 만든거다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 사다리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구리 사다리다."
+    }
+]

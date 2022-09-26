@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "크러터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것의 독은 극 소량만으로도 위협적이다."
+    }
+]

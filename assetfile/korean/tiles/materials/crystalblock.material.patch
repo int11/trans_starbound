@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 수정 블럭들 진짜 예쁜데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "침착. 이 수정 블럭은 마음을 진정시키는 모습을 갖고있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈정으로 이루어진 빛나는 블럭이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수정으로 만들어진 반짝이는 블럭."
+    }
+]

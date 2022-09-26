@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오래된 썩은 나무기둥."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 지지대는 구조적으로 소리나게 생기지 않았다"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "썩 좋아보이지 않는 나무 지지대야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불행. 이 나무는 나무벌레에게 반쯤 먹힌것같다"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "나무로 만든 지지대."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해진 나무로 된 지지대다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "나무 지지대다. 매우 마모되어 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나무 지지대다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 지지대"
+    }
+]

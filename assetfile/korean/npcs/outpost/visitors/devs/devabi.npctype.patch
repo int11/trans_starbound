@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕, 난 아비야! 한가할 때 몬스터 피규어 만드는 걸 좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "嗨，我是Abi！我喜欢在我的业余时间制作怪物胶囊。"
+        ]
+    }
+]

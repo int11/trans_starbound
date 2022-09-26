@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "소금 비탈머리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물고기는 그 비스듬한 관을 돌과 해초를 써서 닦는다."
+    }
+]

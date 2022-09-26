@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강력한 폭발물을 발사할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "특별한 로켓 발사기"
+    }
+]

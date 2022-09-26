@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼굴을 보호하는 튼튼한 카우보이의 모자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "카우보이의 모자"
+    }
+]

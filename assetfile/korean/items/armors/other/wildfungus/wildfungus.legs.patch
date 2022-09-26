@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 신발은 매우 튼튼하지만 발냄새도 엄청 끔찍해진다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "야생 포자 치마"
+    }
+]

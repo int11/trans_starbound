@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "충전 소총"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나쁜일들은 항상 기다렸다가 온다."
+    }
+]

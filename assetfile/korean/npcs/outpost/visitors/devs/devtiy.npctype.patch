@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕, 나는 타이야! 나는 네가 우주를 건너서 여행하는 것을 즐기는 것을 좋아했으면 해!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "嘿，我是Tiy！我希望你享受遨游宇宙的冒险之旅！"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "우려. 여기서 제대로 잠 잘 사람은 세상에 없을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "침대 너무 딱딱하다. 플로란 등짝 아프다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "중세 밀짚 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "벌 줄 때 쓰는 침대인 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "밀짚과 견목으로 만든 불편한 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "둥지에 최대한 근접하게 만들어놨다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "밀짚 침대다. 여기서 밤을 보내라니 상상이 안 가네."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밀짚으로 만든 기본중의 기본 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이불로 쓸 건 밀짚밖에 없는 엄청 불편해보이는 침대다."
+    }
+]

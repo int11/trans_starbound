@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "다이오디아"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구리 맛이 난다."
+    }
+]

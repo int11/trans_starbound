@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "번쩍이는 손잡이가 달린 철창이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "정교한 솜씨다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "위대한 사랑... 내지는 공포로 만들어진 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "참 크고 고상한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "육중한 철창이다. 손잡이는 순금인 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이런 역량을 지닌 문을 짜려면 전문적인 솜씨가 필요하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "힘셴 문이다. 하지만 플로란 못 막는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 창살 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 문은 아름답게 제작됬다."
+    }
+]

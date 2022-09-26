@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 불쾌한 눈."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 심연 속을 보고있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "징그러운 눈알꽃"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "징그러운 눈알꽃이다."
+    }
+]

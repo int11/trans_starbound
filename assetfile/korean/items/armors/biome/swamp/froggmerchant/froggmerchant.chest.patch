@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "끈적이는 가슴 장비"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프로그 가슴"
+    }
+]

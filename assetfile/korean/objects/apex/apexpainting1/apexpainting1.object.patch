@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에이펙스의 사랑받는 지도자, 빅 에이프를 돋보이게 그린 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "영예로운 지도자 그림"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "빅 에이프... 이 그림은 수백 만 에이펙스 집에 걸려있다. 빅 에이프의 얼굴을 훼손하는 건 사형이었다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "웅장한 석양을 등지는 에이펙스다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "진정한 지도자는 명성에 의의를 두지 않거늘."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 영장류는 무슨 신처럼 그려놨네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 양반 여기 그림처럼 살고 있을 것 같진 않은데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불신. 부정확한 그림 감지. "
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "완전 맛나보이는 반짝이 원슝이다."
+    }
+]

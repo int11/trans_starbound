@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "겁을 주기 위한 모자이다. 눈 부분이 적의로 불타오르고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "골절자의 모자"
+    }
+]

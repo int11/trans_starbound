@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "은 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "난 이 플랫폼이 같은 무게의 은덩어리만큼 가치있다고 생각되"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 은제 플랫폼을 통해 내 반사광을 볼 수 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "은으로 만든 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 세련된 플랫폼은 순수한 은으로 제작 됬다."
+    }
+]

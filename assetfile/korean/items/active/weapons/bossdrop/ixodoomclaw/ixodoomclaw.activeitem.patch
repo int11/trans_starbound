@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "익조둠 발톱"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 익조둠의 다리를 잘랐다. 강력한 무기로 쓸수있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "死亡主宰爪^yellow;^reset;"
+    }
+]

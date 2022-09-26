@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 금장 된 박쥐 같은 날개로 악몽의 존재가 되보자!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무서운 날개"
+    }
+]

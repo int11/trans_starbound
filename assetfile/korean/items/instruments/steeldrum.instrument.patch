@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강철 드럼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강철 드럼이다. 소음 제조기지."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "핑크 햇살선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 이빨 없는 물고기는 태양빛에 빛나는 비늘 때문에 인기있다."
+    }
+]

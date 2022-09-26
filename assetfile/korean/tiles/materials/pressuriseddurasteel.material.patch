@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "반짝이는 듀라스틸 패널."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 이 고강도강 패널은 압력 변화를 충분히 수용할 수 있도록 설계된 듯 하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "튼튼한 듀라스틸 판자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "압축된 고강도강"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고강도강 패널,  고압 환경을 견디도록 특별히 설계되었다"
+    }
+]

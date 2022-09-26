@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이제 내가 이 태양계의 행성에 진입할 수 있으니, ^green;내 FTL 드라이브를 수리할 방법을 찾아야 돼.^orange;SAIL이 무언가 알고있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^orange;새들처럼 자유롭게"
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "작동한다! 이제 다른 항성계에 진입할 수 있을거야!"
+    }
+]

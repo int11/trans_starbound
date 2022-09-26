@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 가시가 있는 배배 꼬인 식물인가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빙글 빙글 뾰족 뾰족!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나선형 가시 나무."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나선형 가시 나무."
+    }
+]

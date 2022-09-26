@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 간지나는 두건은 신입 혁명가에게 완벽하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "혁명가의 반다나"
+    }
+]

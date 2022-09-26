@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "훗날 강력한 탑승물에 사용될 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탑승물 엔진"
+    }
+]

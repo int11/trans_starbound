@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"타지 않은 전투의 열기를 통과 할 수 있는 자에게 수상한다.\"라고 적혀있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "챔피언의 우승컵"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "这个发发发光的奖杯是金子做的。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "喜悦。这个奖杯的大小和表面处理是最令人印象深刻的。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一个看上去相当漂亮的奖杯。他们也不止给了这些。"
+    }
+]

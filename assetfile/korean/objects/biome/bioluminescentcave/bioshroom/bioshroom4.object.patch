@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "안뇽, 작은 반짝이 친구들!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "저 버섯에서 나오는 희미한 빛이 지하세계에 온 것을 환영하고있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 반짝이는 버섯들 귀여운데!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작고 귀여운 발광 버섯."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이것들은 플로란이 어둠 쇽에서도 볼슈 있게 해줘."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "발광 버섯"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 발광 버섯들이 제공하는 자연광이 날 환영하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 버섯들은 방사광선을 내뿜고있다. 난 아마 저걸 먹지 않을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 발광 버섯들의 군집이다."
+    }
+]

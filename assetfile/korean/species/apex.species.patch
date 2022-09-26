@@ -1,0 +1,78 @@
+[
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/9",
+        "value": "성격"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/8",
+        "value": "에이펙스"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/7",
+        "value": "하의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/6",
+        "value": "상의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/5",
+        "value": "수염 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/4",
+        "value": "피부 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/3",
+        "value": "하의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/2",
+        "value": "상의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/1",
+        "value": "머리 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/0",
+        "value": "털 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "고도의 지능을 가진 영장류 종족입니다. 수천 년 동안 에이펙스는 인간과 유사한 외모를 유지해 왔으나, 외모를 퇴화시키는 대신 지능을 발달시키는 과학적인 해법을 통해 현재의 모습이 되었습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "에이펙스"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels",
+        "value": [
+            "毛色",
+            "发型",
+            "上衣",
+            "裤子",
+            "皮肤颜色",
+            "胡子风格",
+            "上衣颜色",
+            "裤子颜色",
+            "猿族",
+            "人物性格"
+        ]
+    }
+]

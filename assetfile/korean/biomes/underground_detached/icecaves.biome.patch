@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/friendlyName",
+        "value": "얼음 동굴"
+    }
+]

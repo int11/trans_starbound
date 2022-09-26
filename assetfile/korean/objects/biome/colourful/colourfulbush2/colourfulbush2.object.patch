@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 덤불이 자기주장을 뽐내고 싶어서 안달이 난 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "자연이야 말로 순수한 예술가다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "참 매력적인 덤불이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "화분에 심어두면 꽤 멋있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "날 감명시키지도 못 하는 나뭇잎이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 정말 아름다운 덤불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이거 식물이냐 플로란이냐? 플로란 찔러셔 확인한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "다채로운 덤불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "귀엽고 다채로운 덤불이다."
+    }
+]

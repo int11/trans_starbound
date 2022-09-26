@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "추적자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "발자국을 또렷히 남긴다."
+    }
+]

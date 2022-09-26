@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불봅"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "크고 두툼한 파처럼 보인다. 다만, 잘랐을때 출혈이 있다."
+    }
+]

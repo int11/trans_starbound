@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나는 이 무거운 벽돌들에 누워있었던 녀석을 싫어했었지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정보 획득. 이런 석재 벽돌들은 성 건설에 자주 쓰였다는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "거대한 셕재 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무거운 석재 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 석재 판, 성을 짓기에 안성맞춤이다."
+    }
+]

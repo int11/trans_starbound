@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네눈박쥐"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈이 민감한 탓에, 동굴과 같은 어두운 곳을 좋아한다."
+    }
+]

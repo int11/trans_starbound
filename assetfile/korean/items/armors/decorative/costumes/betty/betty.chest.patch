@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "변장 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눈길이 가는 스카프가 장비된 흉갑."
+    }
+]

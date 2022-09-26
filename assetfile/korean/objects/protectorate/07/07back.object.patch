@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보호국 무대 배경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무대 조각으로 오브젝트 용도로 디자인 되지 않음."
+    }
+]

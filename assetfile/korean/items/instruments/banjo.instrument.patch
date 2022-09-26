@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "밴조"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밴조다. 결투를 시작하자!"
+    }
+]

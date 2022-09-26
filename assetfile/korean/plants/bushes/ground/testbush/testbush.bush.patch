@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 테스트용 수풀인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "검은 수풀!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "텍스쳐가 빠진 수풀."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "텍스쳐가 빠진듯한 수풀이다."
+    }
+]

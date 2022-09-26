@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오토마토 사탕"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오토마토로 만든 막대사탕! 기괴하군."
+    }
+]

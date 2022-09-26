@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "두꺼운 타르는 이 천장을 덮고있다."
+    }
+]

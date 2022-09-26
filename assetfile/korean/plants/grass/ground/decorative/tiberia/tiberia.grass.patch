@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의문. 이건 대체 뭔지…"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이게 뭔지 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이상한 무언가."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이상하지만 일단 자연적으로 생겨난것 같다."
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/25",
+        "value": "마곳 맨이 말한다: 내 생각은 모두 동전이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/24",
+        "value": "마곳 맨이 말한다: 우는 패배자를 찾는것을 유지해."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/23",
+        "value": "마곳 맨이 말한다: 네가 얻었을 때 너는 무엇을 네가 보고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/22",
+        "value": "마곳 맨이 말한다: 잠자는 개는 거짓말쟁이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/21",
+        "value": "마곳 맨이 말한다: 나는 단어의 그림 천 개를 갖고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/20",
+        "value": "마곳 맨이 말한다: 너의 고양이는 한 개의 피부보다 더 많이 갖고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/19",
+        "value": "마곳 맨이 말한다: 모든 요리는 차갑게 제공될거야, 복수로."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/18",
+        "value": "마곳 맨이 말한다: 만약 네가 걷거나 말할 수 없다면 그것을 하려고 시도하지 마."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/17",
+        "value": "마곳 맨이 말한다: 오늘은 내 시계가 두번째로 부러진 날이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/16",
+        "value": "마곳 맨이 말한다: 죽은 사람은 꼬리가 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/15",
+        "value": "마곳 맨이 말한다: 개는 매일매일."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/14",
+        "value": "마곳 맨이 말한다: 나는 지금까지 아이들을 보거나 들은 적이 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/13",
+        "value": "마곳 맨이 말한다: 피는 두꺼운 물처럼 생겼어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/12",
+        "value": "마곳 맨이 말한다: 도둑들은 두꺼워."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/11",
+        "value": "마곳 맨이 말한다: 선물을 말의 입에 집어넣지마."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/10",
+        "value": "마곳 맨이 말한다: 책은 판사를 포함하지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/9",
+        "value": "마곳 맨이 말한다: 너를 물려고 하는 사람에게 너의 손을 먹이로 줘."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/8",
+        "value": "마곳 맨이 말한다: 너는 많은 요리로 두 개의 국물요리를 만들 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/7",
+        "value": "마곳 맨이 말한다: 절대로 끓고 있는 냄비를 보지마."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/6",
+        "value": "마곳 맨이 말한다: 돌을 갖고 있는 사람은 유리 집에 던지면 안돼."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/5",
+        "value": "마곳 맨이 말한다: 노르만 인은 섬이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/4",
+        "value": "마곳 맨이 말한다: 거대한 칼은 좋은 펜이 아니야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/3",
+        "value": "마곳 맨이 말한다: 소리 쳐서 우유를 엎지르는 것은 매우 힘들어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/2",
+        "value": "마곳 맨이 말한다: 두 개의 잘못된 것은 거의 왼쪽으로 만들어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/1",
+        "value": "마곳 맨이 말한다: 생선을 먹는 것을 가르쳐, 그러면 그는 일생동안 사람일거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/0",
+        "value": "마곳 맨이 말한다: 각각의 손에 있는 덤불은 두 새에게 가치있는거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "나는 내가 신뢰하는 사람들에게 현명한 조언을 줘."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/26",
+        "value": "마곳 맨이 말한다: 로마가 언제였지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我给我所信任之人以明智的建议。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default",
+        "value": [
+            "蛆人说：一鸟在手,胜似二鸟在林。",
+            "蛆人说：授人以鱼，不如授人以渔。",
+            "蛆人说：积非成是。",
+            "蛆人说：覆水难收。",
+            "蛆人说：思想比武力更有力。",
+            "蛆人说：没有人是孤岛。",
+            "蛆人说：如果你也有过失，就不要去责备别人。",
+            "蛆人说：欲速则不达。",
+            "蛆人说：人多反误事。",
+            "蛆人说：恩将仇报。",
+            "蛆人说：不要以貌取人。",
+            "蛆人说：不要对礼物不怀感激地挑三拣四，那样非常没礼貌。",
+            "蛆人说：一条绳上的蚂蚱。",
+            "蛆人说：血浓于水。",
+            "蛆人说：大家都是成年人，对吧。",
+            "蛆人说：总有时来运转的时候。",
+            "蛆人说：死人不会说话。",
+            "蛆人说：即便是坏了的钟，一天也能指对两次时间。",
+            "蛆人说：纸上谈兵没什么卵用，请做点实际的。",
+            "蛆人说：君子报仇，十年不晚。",
+            "蛆人说：条条大路通罗马。",
+            "蛆人说：画面比文字更有说服力。",
+            "蛆人说：不要招惹是非。",
+            "蛆人说：所见即所得。",
+            "蛆人说：谁找到就是谁的！",
+            "蛆人说：告诉我你在想什么。",
+            "蛆人说：罗马是什么时候建成的？"
+        ]
+    }
+]

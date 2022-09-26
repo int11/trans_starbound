@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고강도 낚싯대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "극한의 환경에서 낚시를 하기위한 고강도강 낚싯대이다."
+    },
+    {
+        "op": "replace",
+        "path": "/lureName",
+        "value": "基础鱼饵"
+    },
+    {
+        "op": "replace",
+        "path": "/reelName",
+        "value": "基础鱼线轮"
+    }
+]

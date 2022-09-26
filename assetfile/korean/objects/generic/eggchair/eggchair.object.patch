@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "알 모양 의자다. 앉아있으니 매우 안락한 기분이 든다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "실용적이진 못해도 엄청 멋지다!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "미쳐돌아가는 스타일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "우려. 앉는 자세를 받쳐주지 못하는 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "알 의자 맛나보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "알 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "알 모양 의자다. 누가 만들었는 지 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "알마냥 생긴 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "본질보다는 외향이라."
+    }
+]

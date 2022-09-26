@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "300% 정도 흔들림을 줄여주는 댄스 톱."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "댄스 톱"
+    }
+]

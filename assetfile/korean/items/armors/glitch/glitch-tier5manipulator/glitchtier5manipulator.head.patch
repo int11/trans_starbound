@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "훌륭한 충격 흡수 능력을 자랑하는 투구다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "창기사의 투구"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이제 내가 낫과 물뿌리개가 있으니, 농사를 시작할 수 있어! ^green;토양을 경작해서 씨앗을 심은다음 물을 주고^white;, ^orange;5개의 밀과 5개의 진주 완두콩을 재배하자^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "마침내, 농사가 결실을 맻었어! 이거 말고도 뭘 키울 수 있을지 찾아봐야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "^orange;첫번째 수확"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 등은 주점으로 가야해."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "보통 등은 불에 씌워두라고 만들지만 이건 완전히 전자제품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "철 가공 실력이 아비안 창 제작자들을 능가한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "전기램프다. 불 붙이라고 만든 것 같지만."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "불빛이 따스하고 편안하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 모양새와 목적이 전혀 맞지 않는다. 불이 계속 타오르라고 산소를 공급하지만 장치는 완전히 전기적 장치다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "안에셔 불 안 탄다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 등불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "예쁜 철제 벽걸이 촛대다."
+    }
+]

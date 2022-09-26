@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 복면은 가볍게 제작되어, 플로란이 사냥감을 수 킬로미터 이상 추적할때 쉽게 지치지 않도록 해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥꾼의 복면"
+    }
+]

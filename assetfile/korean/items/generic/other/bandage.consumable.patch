@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 상처를 치료하기 위한 붕대다. 1초 동안 50 만큼의 체력을 회복한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "붕대"
+    }
+]

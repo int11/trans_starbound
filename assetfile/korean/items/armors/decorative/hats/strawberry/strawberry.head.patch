@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "딸기 마스크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "큰 딸기 모양 마스크다."
+    }
+]

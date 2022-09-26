@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/label",
+        "value": "뼈다귀 비"
+    }
+]

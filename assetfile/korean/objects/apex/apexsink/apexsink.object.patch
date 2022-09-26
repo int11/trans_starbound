@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "아쌰 물 준다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "마셔도 안전해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "수영하기엔 적절치 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "물 공급기라... 급수대같은 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이따금 손도 한 번 씻어줘야겠는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "말끔한 개수대다. 어수선한 집안은 지정부에서 용납치 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주목. 물 순수도 13%. 물 속에 화학물질이 섞여있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화장실 개수대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "손 씻는걸 잊지 마세요!"
+    }
+]

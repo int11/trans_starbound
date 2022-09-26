@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "풍화된 지붕 타일이다. 날카롭게 만드는건 어렵게 느껴진다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지붕 타일"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "细心。这屋瓦的倾角能轻松地疏导雨水。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "屋瓦瓦瓦。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "用这些瓦片来打造屋顶简直完美。"
+    }
+]

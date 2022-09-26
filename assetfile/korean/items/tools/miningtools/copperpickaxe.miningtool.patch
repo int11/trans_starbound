@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구리 곡괭이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래 가진 않겠지만, 땅을 빠르게 팔 수 있다."
+    }
+]

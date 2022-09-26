@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "볼카리스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 생물채는 그 약한 몸으로도 불구하고 멸종을 피했다."
+    }
+]

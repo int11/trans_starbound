@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "글로우 슈트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "별처럼 빛나는 발광 슈트!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "백금 표본"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"백금 광석의 완벽한 표본이다.\"라 적혀있다."
+    }
+]

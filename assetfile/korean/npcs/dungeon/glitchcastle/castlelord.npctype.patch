@@ -1,0 +1,68 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "겁먹음. 경비! 나에게 오시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/7",
+        "value": "적극. 당신은 여기를 떠나야 할 것이오... 산산이 부서져서!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/6",
+        "value": "격앙. 당신은 이 곳을 침략한 것을 후회하게 될 것이오, 악당!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/5",
+        "value": "경멸. 난 내 스스로 당신을 쓰러뜨릴거지만, 나에겐 그것을 위한 가드가 있소."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/3",
+        "value": "겁먹음. 경비! 경비! 도와주시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/2",
+        "value": "공황. 난 아직 죽기엔 어리오!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/0",
+        "value": "겁먹음. 경비! 나에게 오시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/4",
+        "value": "반항. 경비! 이 못된것을 토막내버려요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch/1",
+        "value": "겁먹음. 산적이다! 경비!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/glitch",
+        "value": [
+            "惊恐。卫兵！救命！",
+            "害怕。一个强盗！卫兵！",
+            "吓呆。我还年轻，我不想死！",
+            "发抖。卫兵！卫兵，救命！",
+            "挑衅。卫兵，砍了这个恶棍！",
+            "轻蔑。本来我想亲自做掉你，但我还是叫警卫来做吧。",
+            "愤怒。今天你会后悔闯进这里的，流氓！",
+            "好斗。你不会完好无损得离开这的…碎尸万段！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "惊恐。卫兵！救命！"
+        ]
+    }
+]

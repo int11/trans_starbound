@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 파스티"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "금속맛 채소들이 전부 들어갈 만큼 큰 고기 파스티이다."
+    }
+]

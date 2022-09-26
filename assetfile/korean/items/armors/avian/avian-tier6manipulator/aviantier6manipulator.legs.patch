@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "솔라리움으로 뽑아낸 다리 장비이다. 대략 감탄스럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "까마귀의 발톱"
+    }
+]

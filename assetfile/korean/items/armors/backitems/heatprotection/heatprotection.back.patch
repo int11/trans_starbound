@@ -1,0 +1,19 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 업그레이드는 내 EPP에 냉각 기능을 추가한다. ^red;몹시 뜨거운^reset; 행성을 갈 때 도움이 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "냉각 EPP 업그레이드"
+    },
+    {
+        "op": "add",
+        "path": "/currentAugment",
+        "value": {
+            "displayName": "^gray;未安装插件^reset;"
+        }
+    }
+]

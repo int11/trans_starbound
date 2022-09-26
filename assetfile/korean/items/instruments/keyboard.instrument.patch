@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모델 M"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "글리치 모델 M. 좀더 문명화된 시대에서 온 버클 스프링 장치."
+    }
+]

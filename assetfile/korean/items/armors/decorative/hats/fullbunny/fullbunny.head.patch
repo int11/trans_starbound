@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "토끼 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 가면을 쓰면 토끼처럼 보일 것같다."
+    }
+]

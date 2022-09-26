@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "표면 반짝인다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "비 반사 거울."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 거울은 어째서 인지, 반사가 이루어지지 않는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 거울 뭔가 잘못됐어. 난 반사된 게 아무것도 안 보이는데."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거울 블록"
+    }
+]

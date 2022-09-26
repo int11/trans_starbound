@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수염있는 처브"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그 물고기의 길고 처진 수염은 계속 자라서, 결국 몸의 길이를 넘긴다."
+    }
+]

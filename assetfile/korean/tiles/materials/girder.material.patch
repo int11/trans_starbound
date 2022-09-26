@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "튼튼해 보이는 대들보다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 강화금속 대들보는 매우 강력하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "차가운 금쇽 대들보다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대들보"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강해 보이는 금속 대들보다."
+    }
+]

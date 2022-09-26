@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "티라노사우르스 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "지구 출신의 공룡으로, 과도하게 활동적인 과학자들에 의해 우주 전체로 퍼졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "티라노사우르스 머리뼈 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 티라노사우르스의 머리뼈이다."
+    }
+]

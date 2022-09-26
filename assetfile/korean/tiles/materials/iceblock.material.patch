@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "얼음 덩이네, 블록크기로 자른거군아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 얼음 조각은 매우 정교하게 잘라졌군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 얼음 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 얼음,  블록 모양으로 잘랐다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음 블록"
+    }
+]

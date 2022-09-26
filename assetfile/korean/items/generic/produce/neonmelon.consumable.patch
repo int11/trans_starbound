@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "풍선껌 맛이 나는 네온멜론 조각이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네온멜론"
+    }
+]

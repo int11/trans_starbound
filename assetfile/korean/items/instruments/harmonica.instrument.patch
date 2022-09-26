@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하모니카"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "하모니카다. 반백머리 우주 선장들이 좋아하는 악기다."
+    }
+]

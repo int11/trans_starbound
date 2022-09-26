@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "은으로 만들어진 커다란 나사이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "은 나사 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "疑惑。 这个巨大的银螺丝究竟是用来干什么的？"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "闪亮亮亮的大大大银螺丝丝丝."
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一个又老又大的银螺丝。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아베스밍고"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "100가지 맛을 지녔다는 과일, 아베스밍고다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "허밋 통가일"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 몸은 하나의 긴 핑크빛 근육으로, 화석화된 껍질에 딱맞게 껴있다."
+    }
+]

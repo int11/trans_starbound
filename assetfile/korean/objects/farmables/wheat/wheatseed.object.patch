@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "밀만 보면 신선한 빵이 당긴다니까."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "밀은 자체로도 맛있고 빵가루로 만들어도 맛있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "밀. 신선한 빵을 굽는 완벽한 재료."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "밀은 가공하지 않으면 기분나쁘지만, 온갖 종류의 식사를 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "사려. 과연 밀의 모든 용도가 발견되었을 지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "밀한테 귀 있다. 플로란 재미로 귀 잡아서 뗀다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "밀, 용도가 매우 다양한 주요 소비작물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "밀은 육지에선 쓸모가 많을지 몰라도 물 밑에선 쓸모가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "밀 씨앗"
+    }
+]

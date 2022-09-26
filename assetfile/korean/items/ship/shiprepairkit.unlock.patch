@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/unlockMessage",
+        "value": "좋습니다! 아직 FTL 을 완전히 수리하지는 못했지만 적어도 항성계의 다른 행성까지 가는건 가능할겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "함선 수리 키트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대단한건 아니지만, 함선이 원래 모양으로 돌아오도록 도와준다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "애들이 만든 것 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 배너는 애들이 만들었나? 괜찮네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 배너는 아비안 어린이들이 성인식으로 만드는 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 배너 귀엽네... 애들이 만든 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 배너에 간단한 무늬라."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "환희. 이 배너는 직공일에 처음 도전한 사람이 만든 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샬가죽이랑 털로 배너 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 작은 배너"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기본적인 천 아비안 배너다."
+    }
+]

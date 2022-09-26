@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/unlockMessage",
+        "value": "이제 작업대 없이도 작은 고급 아이템들을 제작할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "휴대용 픽셀 프린터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바깥에서 작은 고급 아이템들을 제작할 수 있는 능력을 부여한다."
+    }
+]

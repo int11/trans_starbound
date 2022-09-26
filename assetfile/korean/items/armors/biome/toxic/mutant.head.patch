@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돌연변이 머리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이걸 쓰면 독성 돌연변이 처럼 보이도록 할수있다."
+    }
+]

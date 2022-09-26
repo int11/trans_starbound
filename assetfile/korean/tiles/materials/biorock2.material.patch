@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 파란 바위 약간 빛나고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "당황. 이 바위에 있는 박테리아로 부터 희미한 푸른 빛이 흘러나오고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "파란 돌 희미하게 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "푸르스름한 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 푸른 바위는 생물발광을 통해 희미하게 빛나고 있다."
+    }
+]

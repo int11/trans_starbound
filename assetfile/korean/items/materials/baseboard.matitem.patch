@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 굽도리널은 클래식한 집의 모습을 완성한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전통적인 굽도리널"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "好奇。电子人的建筑中不常见到踢脚板。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "奇特的建筑筑筑墙板。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些奇特的墙壁饰条。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "외계 나무에서 나온 수액이다. 위험해 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 나무 수액"
+    }
+]

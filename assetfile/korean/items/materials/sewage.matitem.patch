@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "미포장 하수 오물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지독하게 기분 나쁜 하수 오물 더미. 허허허."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "反感。这些污秽物有着压倒性的气味。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "叶族人被那污污污物的臭气恶恶恶心到了。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "看起来那是一种污物，闻起来犹如阳光下的无冲洗厕所。"
+    }
+]

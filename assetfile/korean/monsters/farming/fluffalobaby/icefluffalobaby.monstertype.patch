@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "새끼 보풀소"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "갓 태어난 보풀소는 식단에 의해 성장 유형이 결정된다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "바닥에 있는 출입문. 충분히 낡아보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "고대의 출입문, 그 자체가 유물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "고대의 해치다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "수평의 충분하지 않은 곳을 가기위한 해치다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "고대의 수직 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 해치는 고대의 물건이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "천장에 붙은 문 처럼 섕겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대의 해치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고대의 수직 해치 출입구다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깨끗하고 균형 잡힌 전통 귀족의 셔츠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "귀족 셔츠"
+    }
+]

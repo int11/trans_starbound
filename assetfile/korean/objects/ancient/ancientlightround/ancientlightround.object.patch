@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 조명은 따스한 기운을 내뿜고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 조명에는 특별히 주목할 만한 것이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나도 이만큼 커다랗고 빛을 내뿜는 벽등이 있었으면 좋겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 조명은 분명히 천년은 됐을 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "도대체 무엇이 이 조명에 이토록 오랫동안 전력을 공급해온것이지?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무심. 크고 보기흉한 조명이네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "크고 못생긴 오래된 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "동그란 고대의 벽등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "동그란 벽등"
+    }
+]

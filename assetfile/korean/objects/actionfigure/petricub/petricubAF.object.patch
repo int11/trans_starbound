@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "페트리컵 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"반짝거리는 눈으로 당신을 기대하며 쳐다 본다.\"라고 적혀있다."
+    }
+]

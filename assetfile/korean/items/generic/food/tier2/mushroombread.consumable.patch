@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯 빵"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "식빵과 버섯을 함께 구웠다. 냠!"
+    }
+]

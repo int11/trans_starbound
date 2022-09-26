@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 흉갑은 적대적 환경과 칼날, 총알들을 막기 위해 제작됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유목민의 흉갑"
+    }
+]

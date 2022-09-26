@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "몇몇 종류의 빛나는 상징의 블럭이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미로움. 이 상징의 의미는 알려지지 않았소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 빛나는 샹징을 좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "푸른 네온 블럭."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 타일의 중앙에는 이상한 푸른 상형문자가 세겨져 있습니다."
+    }
+]

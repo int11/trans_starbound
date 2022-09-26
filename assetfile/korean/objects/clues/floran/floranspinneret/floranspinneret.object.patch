@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 트로피는 거미줄을 치는 생물의 실돌기야. 아마 얻기 꽤나 힘들었겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "잼써보이는 트로핀데. 아마 크고 못생긴 거미걸거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "조잡한 사냥 트로피군. 거미줄을 치는 큰 생명체의 실돌기야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 사냥 트로피는 어떤 야수의 실돌기야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 트로피는 거미줄을 치는 큰 생명체의 실돌기야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 트로피는 미지의 거대 생명체의 실돌기로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "동물이 실 쑈는 부분이야. 지금은 샤냥 트로피 됐어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "실돌기 트로피"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 트로피는 거미줄을 치는 큰 생명체의 실돌기다."
+    }
+]

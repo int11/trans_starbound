@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "테이블이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "테이블. 특별한 건 없군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "평범한 탁자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자연. 테이블."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 탁자 고기 썰 때 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단한 금속 탁자."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "내가 봐온 것중에서 두번째로 평범한 탁자야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "심플한 테이블."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속 탁자"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/label",
+        "value": "고대의 불꽃"
+    }
+]

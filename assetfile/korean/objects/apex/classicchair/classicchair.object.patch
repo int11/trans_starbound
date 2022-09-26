@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 의자 딱 내 취존이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "값비싼 직물들이..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "깃털에 닿아도 부드러운 벨벳이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 의자에 쓰인 직물들 척 보기에도 비싸보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "값비싼 나무와 부드러운 벨벳이다. 이런 사치가..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "향수. 고향의 성채에도 이런 의자들이 있었다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "핏빛 빨강 벨벳. 플로란이 제일 션호하는 섁깔이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "캐비아를 즐겨 먹는 사람이 앉을 법한 식탁의자다."
+    }
+]

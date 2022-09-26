@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "쓰디쓴 커피 콩이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커피 콩"
+    }
+]

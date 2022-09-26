@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모든 나무들중 가장 화려하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무지개 나무"
+    }
+]

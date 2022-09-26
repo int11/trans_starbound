@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "폭풍이 몰아치는 동안, 날아가지 않기 위해 나무에 달라붙는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파라테일"
+    }
+]

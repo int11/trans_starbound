@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹색 호버바이크 조종기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "저장된 나노머신으로 녹색으로 도장된 호버바이크 를 만든다."
+    }
+]

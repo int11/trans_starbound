@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "다리 갑옷이 흔한 이교도 가 착용하는 스타일."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이교도 다리 갑옷"
+    }
+]

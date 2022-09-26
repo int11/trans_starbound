@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/0",
+        "value": "이건 상당한 콜랙션이군요! 누가 이것들을 모았을까요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "이건 상당한 콜랙션이군요! 누가 이것들을 모았을려나요?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "这是让人终生难忘的收藏！我很好奇是谁弄到了这些藏品？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default",
+        "value": [
+            "这是让人印象深刻的收藏！我很好奇是谁弄到了这些藏品？"
+        ]
+    }
+]

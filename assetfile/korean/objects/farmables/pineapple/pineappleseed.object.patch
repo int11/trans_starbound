@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이렇게 뾰족한 물건 내부는 이렇게 달콤할 거라 누가 상상이나 했겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "질릴 만큼 달다. 저 바다 밑에서는 파인애플을 눈 씻고 봐도 찾을 수 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "파인애플. 후식으로 먹거나, 피자에 올리거나!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "파인애플은 달콤하고 즙이 풍부하다. 상쾌한 먹거리다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자부심. 글리치는 파인애플을 훈련용 허수아비로 쓴다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "파인애플 플로란 머리통처럼 섕겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "잎사귀는 꼭 깃털같은데, 전혀 부드럽지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파인애플 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파인애플, 제일 먼저 잘라서 열어야 한다."
+    }
+]

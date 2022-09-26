@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "목욕가운처럼 생겼지만 엄격하고 근엄하고 진지한 마법사들을 위한 옷이다. 마법사들이 목욕을 많이 하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "마법사 로브 하의"
+    }
+]

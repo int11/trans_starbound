@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 오염된 흙은 매우 기분나쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 이 흙은 오염 됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "숀샹되고 오염된 흙이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "썩은 흙"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "손상된 흙인 역겨운 블록이다."
+    }
+]

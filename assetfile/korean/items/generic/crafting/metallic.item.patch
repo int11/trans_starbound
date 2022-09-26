@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "금속으로 싸인 나무같은 물질이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속으로 둘러쌓인 나무"
+    }
+]

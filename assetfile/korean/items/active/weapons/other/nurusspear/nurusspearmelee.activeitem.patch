@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "누루의 창"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "적들을 막기위해 만들어진 창."
+    }
+]

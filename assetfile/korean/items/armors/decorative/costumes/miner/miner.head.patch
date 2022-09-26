@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼굴가리개가 달린 보호용 안전모"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "광부의 안전모"
+    }
+]

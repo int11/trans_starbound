@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사냥으로부터 구한 재료로 만들어졌다. 방호구로서는 별 의미가 없지만, 자존심을 내세우기엔 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생존가 가슴 장식"
+    }
+]

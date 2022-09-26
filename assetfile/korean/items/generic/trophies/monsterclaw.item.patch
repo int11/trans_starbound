@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "괴물 발톱"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "인상적으로 큰 발톱이다. 누군가가 이걸 좋은 가격에 처준다는거에 걸겠다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "이제 네게 말해야 할 게 있단다, 얘야. 그리고 무언가 ^orange;자네에게 보여줘야 할 게 ^reset;있어. ^green;이건 지금까지 내가 네게 부탁했던 것보다 훨씬 더 큰 부탁이란다^reset;... 이 일에 준비가 되었길 바라네, 그렇지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;관문 기지^reset;로 돌아갈 방법을 찾으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/destroyRuin",
+        "value": "^orange;방주^reset; 너머로 가서 ^orange;파멸^green;을 처치하십시오^reset;."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "이 모든걸 겪고도, 내가 보기엔 너는 아직도 해야할 모험이 있나보구나. 적어도 이걸 들고 가렴, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "방주 개방"
+    }
+]

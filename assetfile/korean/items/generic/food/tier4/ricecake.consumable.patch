@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주먹밥"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해초로 감싼, 밥으로 만든 간단한 음식이다."
+    }
+]

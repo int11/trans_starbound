@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끈적한 거미줄. 플로란은 거미 엄청난 샤냥꾼이라고 섕각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "소름끼치는 거미줄이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 자연은 인상을 주는걸 절대 멈추지 않아, 이 소재는 완전히 친환경적이지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거미줄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거미줄은 단단한 블록으로 꽉 포장됬다."
+    }
+]

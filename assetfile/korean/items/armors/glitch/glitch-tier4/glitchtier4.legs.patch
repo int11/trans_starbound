@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "흑기사의 테셋츠"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우주에서 가장 적합한 가랑이 보호력을 제공하는 휘협적인 다리 장갑이다."
+    }
+]

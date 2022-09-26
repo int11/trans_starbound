@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "의문의 잿더미"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그 쓰래기봉투에서 남은건 이것이 전부다."
+    }
+]

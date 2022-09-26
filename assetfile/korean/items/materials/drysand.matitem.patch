@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "건조한 모래"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단하고 잘 부서지는 모래."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "细心。这沙子又干又硬。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "硬而干的沙沙沙子。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "看起来干巴巴的一团沙子。"
+    }
+]

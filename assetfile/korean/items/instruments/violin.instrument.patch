@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바이올린"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바이올린이다. 아직은 퇴장할 때가 아닌데"
+    }
+]

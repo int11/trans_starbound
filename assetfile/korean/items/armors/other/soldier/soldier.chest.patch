@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "군인의 과장된 제복 가슴보호대다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "군인의 가슴보호대"
+    }
+]

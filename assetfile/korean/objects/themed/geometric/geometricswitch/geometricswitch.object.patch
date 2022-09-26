@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 조작기 하나로 수많은 기계장치를 한 번에 조작할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 버튼 죄다 눌러보고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "조작기다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "유용한 조작기다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "조작기다. 갖고 놀아야지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "다양한 계통을 조종할 수 있는 조작기다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 버튼 누른다. 무슨 일 섕긴다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기하학적 조작기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기하학적인 조작기다. 뛰어오르기에 충분히 단단하다."
+    }
+]

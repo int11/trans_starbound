@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "벽을 타고 올라갈 수 있는 구체로 변신합니다! ^green;[F] "
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "爬墙球"
+    }
+]

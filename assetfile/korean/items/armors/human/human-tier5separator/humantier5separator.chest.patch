@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모험가의 가슴 보호대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바이올리움이 이 가슴 보호대를 매우 튼튼하게 만든다."
+    }
+]

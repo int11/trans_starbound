@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매운 깃털관"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깃털관을 매운 칠리 가루를 곁들여 구웠다. 겁나 맵다!"
+    }
+]

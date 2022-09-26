@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "램프레드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "알려진 어떤 물고기보다도 이빨의 크기가 몸에 비해 압도적이다."
+    }
+]

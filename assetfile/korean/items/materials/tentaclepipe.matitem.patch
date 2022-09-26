@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔놈의 촉수인거냐."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 이 촉수는 분명히 상당히 큰 생물로 부터 왔을텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "크고 아름다운 촉슈!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커다란 촉수"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 촉수다."
+    }
+]

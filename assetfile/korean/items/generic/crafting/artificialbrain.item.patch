@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "인공 두뇌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보다 뛰어난 두뇌로 이식하기엔 완벽하다."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "테크 업그레이드 콘솔"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "당신의 테크를 선택하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblDescription/value",
+        "value": "수정할 슬롯을 선택하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot/value",
+        "value": "머리"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblTechSlotHead/value",
+        "value": "머리 테크"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblTechSlotBody/value",
+        "value": "몸통 테크"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblTechSlotLeg/value",
+        "value": "다리 테크"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblChipsLabel/value",
+        "value": "필요한 테크 카드"
+    },
+    {
+        "op": "replace",
+        "path": "/selectTechDescription",
+        "value": "장착하거나 업그레이드할 테크를 선택하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/slotLabelText/Head",
+        "value": "头部科技"
+    },
+    {
+        "op": "replace",
+        "path": "/slotLabelText/Body",
+        "value": "身体科技"
+    },
+    {
+        "op": "replace",
+        "path": "/slotLabelText/Legs",
+        "value": "腿部科技"
+    }
+]

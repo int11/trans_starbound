@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "일부는 이 바이올리움 각반이 착용자에게 전설적인 민첩성을 준다고 하고, 다른 사람들은 그걸 헛소리라고 무시하지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불사조 각갑"
+    }
+]

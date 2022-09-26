@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "손상되거나 피와 살점이 흥건하지 않은 새싹의 흉갑을 보는건 흔치 않은 일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "새싹의 흉갑"
+    }
+]

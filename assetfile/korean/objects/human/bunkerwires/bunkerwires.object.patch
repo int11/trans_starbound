@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "전선이다. 여기 어딘가에 전원을 공급하고 있을 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 탐지 결과 전기적 위험성이 98퍼센트이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "전션 당기면 위험하다. 플로란 이거 언제 배웠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "너저분한 전선 더미다. 위험해."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "마구잡이로 늘어놓은 전선이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "요즘은 케이블타이 보기 어렵지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "전선이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "합선으로 인한 화재발생은 시간문제일 뿐이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 바지는 어둠 에너지로 가득하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어둠의 바지"
+    }
+]

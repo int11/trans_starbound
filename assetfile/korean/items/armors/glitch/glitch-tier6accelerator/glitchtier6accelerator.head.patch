@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 다중으로 겹쳐진 투구는 감명적인 모습과 막대한 내구성을 자랑한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "군단기사의 투구"
+    }
+]

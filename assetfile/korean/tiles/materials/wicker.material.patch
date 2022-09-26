@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "통찰. 이 고리는 촘촘하면서도 단단하게 짜였군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "시간을 고리 버들 보듯 하셈"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "강한 고리 버들은 벽을 만들어준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고리 버들 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고리 버들 소재로 거칠게 짜였다."
+    }
+]

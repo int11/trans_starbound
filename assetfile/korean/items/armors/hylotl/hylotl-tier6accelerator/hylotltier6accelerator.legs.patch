@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표해생물 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 바지의 엷은 색 줄무늬는 물속에서 보는 흔들리는 빛을 연상시킨다고 한다."
+    }
+]

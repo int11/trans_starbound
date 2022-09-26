@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생존 도구 가방"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생존 도구가 없는 가방... 필요없어!"
+    }
+]

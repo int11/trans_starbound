@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전설의 검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "찾았다! 전설의 검! 적어도 이건 진짜로군."
+    }
+]

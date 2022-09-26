@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "조개 방패"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무너지는 파도처럼 적들을 타파한다."
+    }
+]

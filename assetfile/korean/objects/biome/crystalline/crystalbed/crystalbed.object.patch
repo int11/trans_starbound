@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "차가운 수정 침대."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "심해 산호들의 모양새를 떠오르게 하는 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "뒤통수 한 대 얻어맞은 것처럼 아름다운 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 우주에서 가장 비싼 침대일 거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "수정 침대다. 매력적이지만 단단하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무감명. 이 수정은 사실 꽤나 흔한 물건인데다 값어치도 별로 나가지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 날카로운 슈정 침대 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수정 침대다. 우린 부자가 되는 꿈을 꾸고 싶을 때 좋다."
+    }
+]

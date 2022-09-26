@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "사냥감의 뼈와 가죽들로 강화된 텅스텐이 사용되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈공예가의 흉갑"
+    }
+]

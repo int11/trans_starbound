@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "벽지. 공간을 고급지게 만들 때 완벽하지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 글리치는 종이를 벽에 붙이는 것을 절대 이해할 수 없을거다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 종이가 벽을 가리고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어떤 고급 벽지. 완벽한 마무리 손질."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "클래식 벽지"
+    }
+]

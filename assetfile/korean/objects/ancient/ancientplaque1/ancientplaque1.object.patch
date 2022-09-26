@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔가 이 구불거리는 곡선이 익숙해 보이네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "오래된 메시지다. 룬의 흐름과 꼬임이 강과도 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이게 얼마나 오래됬을까라는 생각에 깃털이 오싹해져."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래되어 무서운 룬들은 내가 가장좋아하는 룬인걸."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "아마도 이 파멸은 한종류의 메시지인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 난 이파멸의 의미를 분석 할 수 없겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 읽을 슈 없다, 지루해!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 명판"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "엄청나게 오래된 메시지."
+    }
+]

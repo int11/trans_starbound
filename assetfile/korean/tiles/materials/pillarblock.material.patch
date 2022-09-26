@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오래되 보이는 돌 기둥인데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 내가 보기엔, 이 돌은  매우 오래된 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "돌 기둥 엄청 오래됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래되 보이는 돌 기둥이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기둥 블록"
+    }
+]

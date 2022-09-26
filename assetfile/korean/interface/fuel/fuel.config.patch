@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "FTL 드라이브 연료 주입구"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "에르키우스 연료 저장소"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어깨 얼지 말라고 절연처리되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "설원 보병 가슴보호대"
+    }
+]

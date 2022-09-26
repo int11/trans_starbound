@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "별들에게 감사를, 오늘은 운수가 좋구나!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "재미. 이 보물은 오로지 보여주기 위한 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 빛나는 항아리 좋아!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 무슨 꼴사납기 그지없는 보물 상자람."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "보물로 가득한 통. 질이 낮은 것들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "보물로 채워진 통. 거의 돈 항아리야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "나무 통. 안에 보물이 있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보물 통"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보물로 가득 찬 통!"
+    }
+]

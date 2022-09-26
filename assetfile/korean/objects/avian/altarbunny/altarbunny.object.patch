@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "잘 만든 생물 조각상이네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이렇게 바다 밖을 떠돌아다니는 동물을 보자니 가슴이 아프군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "토끼들은 땅의 괴물들을 의미하지.  이 제단은 타종족 도굴꾼들에게 경고하는 의미로 세워진거야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저거 토끼인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "토끼라고? 왜 에이비안들이 토끼를 만든거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "인상적임. 이 석상은 거장다운 눈을 가진 자가 만들었군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "맛있는 샬점. 왜 눈이 빨간거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "토끼 제단"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "조각 된 토끼가 이 제단의 꼭대기에 앉아있다."
+    }
+]

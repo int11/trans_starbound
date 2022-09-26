@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 원목이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샹처없는 나무다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원목"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거칠고 가공되지 않은, 이 나무는 갓 베였다."
+    }
+]

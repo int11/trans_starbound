@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "투척용 창. 몬스터들의 고기를 손상시키지 않고 잡는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥 창"
+    }
+]

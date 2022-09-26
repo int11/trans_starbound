@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 가슴보호대의 보강된 등바늘은 착용자의 뒤통수를 보호해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표해생물 가슴보호대"
+    }
+]

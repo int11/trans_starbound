@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "엉덩이 꾸미기용 깃털장식이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부족의 꼬리깃발"
+    }
+]

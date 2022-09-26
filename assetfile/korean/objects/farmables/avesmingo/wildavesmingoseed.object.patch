@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 과일은 너무 많은 맛이 나서 하나도 제대로 못 느끼겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아베스밍고,  많은 맛이 나는 과일이지. 바다 밑에서는 별미야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "풍미가 넘치는 식물이야. 씨앗이 특히 맛있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 브로콜리... 맛이 나는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 과일 맛있어. 이런 맛이 나는 고기는 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "맛을 센다면, 하루에 다섯 번씩 50번을 세고도 남을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이건 100가지 다른 맛이 난다던데, 그중에 바나나도 있을까? "
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아베스밍고 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "100가지 맛을 지녔다는 과일, 아베스밍고다."
+    }
+]

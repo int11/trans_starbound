@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "로봇 닭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "닭 처럼 보이도록 만들어졌다, 아직 완전히 다듬어진건 아니지만."
+    }
+]

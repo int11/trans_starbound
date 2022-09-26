@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 상징은 가정을 의미한다. 나에게 가정은 마음을 싱숭생숭하게 만드는 곳이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "사람들은 이 룬을 가정을 알리는 데에 쓸까, 아니면 다른 사람들에게 그들의 가정을 표시하는 데에 쓸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "가정의 개념을 의미하는 오래되고 평범한 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "룬이 가정을 의미한댜."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가정 룬"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "누군가의 가정을 상징하는 고대의 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "누군가는 가정의 개념이 정말 모든 정의를 할 수 있는지 여부를 물을 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "고대 룬은 가정을 의미하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "당혹. 이 룬은 가정을 의미한다. 그러나 가정은 무엇을 의미하는가?"
+    }
+]

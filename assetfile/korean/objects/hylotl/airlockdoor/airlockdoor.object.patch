@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "거칠어 보이는 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의문. 손잡이가 어디있지?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "물고기 사람이 크고 튼튼한 문을 만들었어! 나쁘지 않아, 물고기 사람... 나쁘지 않아..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 감압실 문은 최상급 보안을 제공한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "위협적으로 거대한 금속 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 하이로틀의 심미적인 전통을 벗어난다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "굉장히 큰 감압실 문이군. 튼튼해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "감압실 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 감압실 문이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 낡은 상자 상태가 안 좋은데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "오래 되어 보이는 상자이지만 보물이 들어있을 수도 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "상자는 오래 될 지라도 내용물은 값진 물건일 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "상자 찾기는 지루할 날이 없다니까."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "오래되어 보이는 상자다. 뭐가 들었을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥분. 오래되어 보이는 상자다. 내용물은 유용해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "엄청 낡은 샹자다. 보물 있을 지도 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "낡은 상자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "눅눅하고 낡은 상자다. 나무와 철로 만들어졌다."
+    }
+]

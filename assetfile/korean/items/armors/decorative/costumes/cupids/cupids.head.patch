@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나뭇잎과 하트의 화환. 당신의 사랑을 보여 드리죠!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하트 화환"
+    }
+]

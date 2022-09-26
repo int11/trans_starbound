@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "제피르 스파크 런쳐"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그래, 불꽃놀이를 쏘는 녀석이라구!"
+    }
+]

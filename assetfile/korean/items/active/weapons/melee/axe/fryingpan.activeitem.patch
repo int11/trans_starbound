@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프라이팬"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "프라이팬 기술은 주철을 능가하지 않는다."
+    }
+]

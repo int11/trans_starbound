@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "철 소검"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "적을 두고 너무 짧게 생각하지마."
+    }
+]

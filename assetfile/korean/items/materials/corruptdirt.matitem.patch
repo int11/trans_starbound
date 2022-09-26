@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부패한 흙"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부패해서 구역질 나는 흙"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "厌恶。这个土块已经腐坏了。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "恶心心心的腐烂泥土。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这腐烂的泥土真让人糟心。"
+    }
+]

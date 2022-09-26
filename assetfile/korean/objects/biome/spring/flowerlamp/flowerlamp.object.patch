@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매달린 꽃 등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파란색 꽃 등불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "깜찍한 등이다. 마음에 들어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "파란 꽃으로 만든 등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "차분한 분위기를 자아내는 불빛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "꽃 안에 등불이라. 기발한데!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "편안한 불빛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "편안. 글리치는 꽃과 불빛을 다 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "꽃이 불이다."
+    }
+]

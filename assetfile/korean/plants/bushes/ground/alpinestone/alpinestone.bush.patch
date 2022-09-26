@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 이끼 낀 돌더미"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "도오올"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이끼 낀 돌더미"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이끼 낀 돌더미"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "클루엑스 보초"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "돌 사원 경비다, 고대의 기술로 움직이는듯 하다."
+    }
+]

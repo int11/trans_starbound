@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "코코넛 우유"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "코코넛 우유다. 맛이 끝내준다."
+    }
+]

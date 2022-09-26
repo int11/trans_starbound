@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "헐거움과 내구성, 사고치기엔 적당하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "악동의 바지"
+    }
+]

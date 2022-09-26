@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "机甲湾背景"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "机甲湾背景"
+    }
+]

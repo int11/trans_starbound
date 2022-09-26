@@ -1,0 +1,117 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findClues",
+        "value": "^green;물체를 조사^reset;하여 ^orange;에이펙스 단서^reset;를 찾으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+        "value": "너는 에이펙스 고대 유물들의 수집가로구나! 보아하니 네가 이미 유물의 위치를 찾을 만한 충분한 단서들을 모았단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/complete/text",
+        "value": "이제 에이펙스 유물이 어디에 있는지 알 것 같구나!  ^#71f2f6;준비가 되면 방주에 있는 내게 오렴^white; 얘야, 내가 상세한 정보를 알려줄테니."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+        "value": "이 단서는 숨어있는 정보의 힌트군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+        "value": "아무리 작은 증거라도 우주의 거대한 비밀을 푸는 데 도움이 된단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+        "value": "상당히 독특하구나! 하지만 더 놀라운 사실은 우리가 알아낸 정보보다 더욱 가치있는 물건 일 수도 있어..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+        "value": "이 단서는 내가 추측하고 있었던 게 맞다는걸 증명해주는구나!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+        "value": "흠, 내 생각엔..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+        "value": "훌륭하구나. 네가 찾는 것들은 모두 이론의 형성에 기여를 하고 있단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+        "value": "작은 단서지만, 그래도 의미 있는 단서지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+        "value": "계속 찾아보거라 얘야, 이 모든건 매우 도움이 되고 있단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+        "value": "흥미롭구나. 이걸로 분명 내 연구에 진전이 있을거란다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+        "value": "흐음, 기묘하군... 이 정보와 다른 정보를 같이 봐야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/text",
+        "value": "이 인형은 사실 몰래카메라가 숨겨져 있단다... 미니크녹은 모든 에이펙스의 문화와 삶을 제어하는군. 나중에 이 카메라의 신호를 추적해봐야겠어... 이걸 찾아줘서 고맙단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/text",
+        "value": "이건 꽤나 유용한 발견이란다! 나는 여기에 유물의 정보가 많이 숨어있다고 확실한단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/text",
+        "value": "흠, 이 지도는 빅 에이프의 위치를 추정할 수 있군. 내가 보기엔 미니크녹은 그들의 중요한 자산을 유지하려는 것 처럼 보이네. 내 생각에 이건 매우 유용한 단서로 보인단다, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/text",
+        "value": "이 신문은 많은 거짓 정보와 선전으로 가득하군. 하지만 내 생각엔 이 거짓말 속에 숨겨진 정보가 있을거라 생각한단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/minidronerack/text",
+        "value": "훌륭한 발견이란다. 얘야! 이 드론의 데이터베이스는 유용한 정보가 들어있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startWithProgress/text",
+        "value": "아무래도 네가 유물의 행방을 찾을 단서가 포함된 물건을 미리 찾은 모양이구나. 네가 찾아다니는 동안 내가 분석하도록하마!"
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "내 생각에는 이제 ^orange;에이펙스 유물^reset;을 찾아야 할 것 같구나. 에이펙스는 보통 ^orange;얼어붙은 항성^reset;주변의 ^orange;얼어붙은 행성^reset;에서 찾을 수 있단다. 그러므로 그 곳에 ^green;우리가 필요한 ^orange;단서^green;를 찾을 좋은 장소가 있을거야^reset;. 옷을 따뜻하게 입고 가거라, 얘야. 그리고 기억하렴: 에이펙스의 사회는 갑자기 변할 수 있단다, 그러므로 항상 무장을 하고다니렴."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "네가 에이펙스 유물을 찾을 모든 단서를 찾았단다! 이건 훌륭한 일이란다, 얘야. - 이제 우리가 여기까지 왔어."
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "에이펙스 유물의 단서 찾기"
+    }
+]

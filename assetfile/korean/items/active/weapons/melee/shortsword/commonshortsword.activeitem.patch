@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼한 한손검이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "흔한 소검"
+    }
+]

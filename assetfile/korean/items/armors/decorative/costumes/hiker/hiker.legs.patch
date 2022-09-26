@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "선악 몬스터들을 찾는대 적합하게 질긴 재료로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "여행 바지"
+    }
+]

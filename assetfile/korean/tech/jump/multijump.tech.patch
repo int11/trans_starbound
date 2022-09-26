@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "공중에서 3번의 작은 도약을 할 수 있습니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "四段跳"
+    }
+]

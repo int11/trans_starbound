@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "완벽한 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "완벽함의 정점. 거의 내 머리에 쓴다는게 아까울 정도다."
+    }
+]

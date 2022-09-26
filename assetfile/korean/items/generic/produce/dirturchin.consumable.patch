@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "상당히 질척이는건 그렇다치고, 거의 물맛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "땅성게"
+    }
+]

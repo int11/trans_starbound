@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "땅을 뜻하는 아비안 문양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "대지의 물질을 형상화한 상징적 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "대지의 문양이다. 무덤에 흔히 쓰이는 형상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "삼각형. 땅이란 뜻이지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "땅을 의미하는 아비안 형상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 땅 문양인 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "작샬촉처럼 섕겼다. 근데 땅이라는 뜻이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아비안 대지 문양"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강하고 재생력 있는 땅을 형상화한 문양이다."
+    }
+]

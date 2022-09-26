@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/altAbility/name",
+        "value": "시간 정지"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시간 꿰뚫개"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 칼날로 물질 그 자체를 멈추게 해버릴 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "刺穿时间^yellow;^reset;"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수영 확장 부품"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "잠수시 수영 속도를 올려주는 EPP 확장 부품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/augment/displayName",
+        "value": "游泳增强"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "치명적인 부위를 보호하면서 크고 아름답게 보여보자. 적들이 분명 부러워할 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "방랑자의 가슴 보호대"
+    }
+]

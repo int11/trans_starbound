@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "간단한 벤치다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "벤치."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "벤치."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "의자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벤치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기초적인 긴 의자이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "지친 다리를 쉬어가기에 좋은 간단한 곳이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "평범한 벤치다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 벤치다."
+    }
+]

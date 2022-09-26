@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여태까지 본 꽃중에서 가장 크다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "크고 아름다운 꽃이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "거대한 꽃이다. 아름다워."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 꽃으로 부케를 만들어서 문 앞을 장식하면 끝내줄 거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "거대한 꽃이다. 안심이 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 꽃의 DNA가 수 년에 걸쳐 변이되어 거대한 크기를 이루어냈다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "꽃 엄청 크다. 플로란 올라가셔 춤도 출 슈 있을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거대 꽃"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거대한 붉은 꽃이다. 예쁜데다 위협적이다!"
+    }
+]

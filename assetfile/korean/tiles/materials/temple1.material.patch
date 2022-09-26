@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "다소 조각이 새겨진 오래된 블록이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 석제조각은 알려지지 않은 언어를 묘사하고있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 돌 그림 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사원 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생명체가 표면을 새겨 복잡한 조각인 고대의 돌"
+    }
+]

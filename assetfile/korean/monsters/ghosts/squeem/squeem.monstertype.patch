@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스퀴임"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "대기의 온도에 따라 움직임이 다르다."
+    }
+]

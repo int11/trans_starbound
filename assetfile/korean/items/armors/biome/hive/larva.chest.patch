@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "벌래 같은 가슴, 추가적인 손들이 달려있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "애벌레 가슴"
+    }
+]

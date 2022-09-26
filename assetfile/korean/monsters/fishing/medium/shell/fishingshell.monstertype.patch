@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시체조개"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 다족류 생명체의 덩쿨손은 다 자란 팝탑조차 마비시키는 강한 독에 젖어있다."
+    }
+]

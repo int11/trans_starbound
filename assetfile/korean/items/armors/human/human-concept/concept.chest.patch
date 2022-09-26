@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "캐주얼 가디건"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단한 상의다. 조금 쌀쌀할때 입자."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "경고용 줄무늬가 그어진 보관함이라. 열지 말아야지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "위험환경 보관함이다. 인간들이 이런 물건을 바다에다 버렸다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "내용물이 꽤 위험해보인다. 유독성 혹은 폭발물일지도."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "뚜껑 아래에서 흉악한 냄새가 기어올라온다. 내 십대 시절을 떠오르게 하는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "금속 보관함이다. 안에서 낯선 냄새가 올라온다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "신남. 경고표지가 있지만 상자 안에 든 건 사실 오래 된 양말 더미일 뿐이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "위험한 금쇽 샹자? 플로란보다 위험한 거 없다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속 보관함"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위험한 자재로 가득 차 보인다."
+    }
+]

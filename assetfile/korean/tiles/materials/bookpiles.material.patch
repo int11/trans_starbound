@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "재밌군. 이 책들에 멋진 이야기들이 기록되어 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "채액들에서 머엇지인거언 발견할 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "더러운 책들. 누가 이런 좋은 이야기를 좋아하지 않는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "책더미"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래된 책더미, 용과 기사의 이야기들로 차있다."
+    }
+]

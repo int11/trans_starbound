@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구시대의 역병 명인들이 썼다는 가면, 진심으로 무섭다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "역병 명인 가면"
+    }
+]

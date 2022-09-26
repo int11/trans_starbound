@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사막 망토"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "미지의 세계를 향해 발을 떼는 자들을 위한 다중 망토."
+    }
+]

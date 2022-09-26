@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "은으로 만든 빛나는 다리 각반이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "은 각반"
+    }
+]

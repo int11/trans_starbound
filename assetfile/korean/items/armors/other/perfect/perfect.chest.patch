@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "완벽한 흉갑. 좀 과도하게 완벽하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "완벽한 흉갑"
+    }
+]

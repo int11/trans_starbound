@@ -1,0 +1,20 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "정말 시원해보이는 오큘레모에이드 캔이 바로 앞에 있는데..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "이 자판기가 내 픽셀을 먹어버렸어. 오늘이 이보다 더 나빠질 수 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "自动售货机吞了我的像素，还能有比这更糟糕的一天吗？",
+            "一罐冰镇的柠檬水，只是我够不着…"
+        ]
+    }
+]

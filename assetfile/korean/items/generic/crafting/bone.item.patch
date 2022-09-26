@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 (Bone)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이것은 뼈다."
+    }
+]

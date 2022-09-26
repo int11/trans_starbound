@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "겨울 스카프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "포근한 손뜨개 스카프다. 안 두르면 감기 걸린다!"
+    }
+]

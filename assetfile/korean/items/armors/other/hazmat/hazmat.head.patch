@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 위험 물질 마스크는 아주 미세한 위험물질도 거를 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "위험 물질 마스크"
+    }
+]

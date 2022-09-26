@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "액화 에르키우스 연료"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위험한 휘발성 물질이다. 달에 주로 분포하며 FTL 연료로 사용된다."
+    }
+]

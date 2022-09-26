@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기름"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정제되지 않은 끈적한 석유이다."
+    }
+]

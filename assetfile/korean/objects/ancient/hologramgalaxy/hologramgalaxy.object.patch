@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 별 홀로그램은 어떻게 만들어진걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우주는 예뻐!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 우주 홀로그램은 신통찮군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감받음. 홀로그램을 보고 있으니 별들로 여행을 떠나고 싶어진다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "행성 그림! 행성약탈하자!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 홀로그램"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우주를 묘사한 고대 홀로그램."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "行星围绕着太阳。这是哪一个太阳系呢？"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这些星体-它们和我的家乡实在太像了…"
+    }
+]

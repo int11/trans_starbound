@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "튼튼하고 가볍다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "추적자의 가슴보호대"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "깃털 빵"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "축전때 자주 소모되는 전통적인 아비안의 의식 음식이다."
+    }
+]

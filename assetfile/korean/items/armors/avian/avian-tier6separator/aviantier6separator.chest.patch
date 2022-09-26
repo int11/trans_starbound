@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 흉갑의 어깨 장갑은 걸어 다니면서 사람들의 얼굴을 치고 다니는데 적합한 높이에 설치되어있다. 누가 디자인한거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투칸의 흉갑"
+    }
+]

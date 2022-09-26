@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "우주복 헬멧"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래된 형식의 우주복 헬멧이다! 와우!"
+    }
+]

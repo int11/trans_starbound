@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가공되지 않은 목재"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "거칠고 가공되지 않았으며, 막 잘린 것처럼 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "中立。未经处理的木头。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "未被刺刺刺过的木头。"
+    }
+]

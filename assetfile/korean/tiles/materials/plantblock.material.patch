@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내겐 식물로 만든 블록처럼 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매혹. 이 블록은 완벽하게 식물 물질로 구성되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 식물 블록에 친근감 느낀다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "식물 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "식물 물질로 만들어진 블록이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자기 재산을 입고 다니고 싶은 사람들을 위한 금 장화."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금 장화"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "호박은 어떠한 고대 유물보다도 다양한 종류가 발견되어 기록되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "호박"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "호박"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 호박의 조각이다."
+    }
+]

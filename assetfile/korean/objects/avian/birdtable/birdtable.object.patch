@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사원 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "석재 탁자다. 옮길 때 힘들 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "탁자에 새겨진 무늬는 분명 아름답지만 사후관리가 제대로 안 된 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "사원 파수꾼들이 이런 탁자에서 식사를 한다. 새겨진 무늬들은 클루엑스의 자애로움에 경배를 드리는 뜻이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "석재 탁자다. 닳은 모양새를 보아하니 식탁인 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "석재 탁자다. 여러 문양과 무늬가 새겨져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 탁자에 여러 종류의 음식 얼룩이 남아있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "탁자에 섀인간 조각 있다. 먹는 거 얼룩도 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "일반적인 아비안 스타일의 돌 탁자다."
+    }
+]

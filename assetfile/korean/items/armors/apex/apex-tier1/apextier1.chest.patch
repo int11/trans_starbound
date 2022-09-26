@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 질 낮은 흉부 보호대는 대부분의 중요 기관을 보호한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탈주자 흉부 보호대"
+    }
+]

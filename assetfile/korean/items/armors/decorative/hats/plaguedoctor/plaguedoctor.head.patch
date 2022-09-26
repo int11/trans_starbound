@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "옛날 옛적 역병 의사의 가면. 입고 친구들을 겁줘보자!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "역병 의사 가면"
+    }
+]

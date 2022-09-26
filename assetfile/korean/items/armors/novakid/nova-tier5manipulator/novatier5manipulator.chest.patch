@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "골절자의 외투"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "골절자의 외투다. 품격있게 위협을 준다."
+    }
+]

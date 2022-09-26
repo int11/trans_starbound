@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "만지면 차갑다. 냉기가 내 척추를 타고 흘러내린다. 저 멀리 어디선가 개가 짖는다. 잠깐, 이거 그냥 에이펙스 노래 가사잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "죽음의 문."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "불경한 죽음의 문이다. 이리도 기괴할 수가. 그나마 경첩은 아주 매끄럽게 움직인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "분명, 이런 문 뒤에는 분명 존경할 만한 물건이 놓여있겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "느낌이 영 좋지 않은 뼈 문이다. 지나가기도 무섭다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "익살. 이런 걸 저승길 문턱이라고 하는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 문짝에서 동질감 느낀다. 차셔 연다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뼈로 만든 문이다. 어디로 가는 문일까? 지옥? 아니면 욕실?"
+    }
+]

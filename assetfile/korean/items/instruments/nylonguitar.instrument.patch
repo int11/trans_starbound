@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나일론(클래식) 기타."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나일론 기타. 이건 부드럽게 울린다."
+    }
+]

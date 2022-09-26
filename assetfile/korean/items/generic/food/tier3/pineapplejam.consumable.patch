@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파인애플 잼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아주 달콤한 파인애플 잼이다."
+    }
+]

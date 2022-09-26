@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "NPC 데드비트 돌격 소총"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "군수품 수준의 녹슨 소총이다."
+    }
+]

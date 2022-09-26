@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "<item> 의 제작법을 배웁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/category",
+        "value": "蓝图"
+    }
+]

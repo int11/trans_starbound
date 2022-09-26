@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "친절한 얼굴이 그려져있는 거대한 얼음 큐브. 안녹나?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음 큐브 가면"
+    }
+]

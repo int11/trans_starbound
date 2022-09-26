@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "따뜻한 빛을 내고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "딱히 이 전등에 주목할만한 점은 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나도 이만큼 커다랗고 빛을 내뿜는 등이 있었으면 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 전등 아마 몇천 년은 됐을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "대체 무슨 동력원을 쓰길래 수 년이나 빛을 발해왔을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무심. 크고 흉물스러운 등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "크고 못섕기고 오래된 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 벽등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "벽등."
+    }
+]

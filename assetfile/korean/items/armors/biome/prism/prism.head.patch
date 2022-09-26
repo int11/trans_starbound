@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프리즘 핼멧"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "싸늘한 유리로 만들어진 투명한 핼멧, 실용적이진 않지만 멋지다."
+    }
+]

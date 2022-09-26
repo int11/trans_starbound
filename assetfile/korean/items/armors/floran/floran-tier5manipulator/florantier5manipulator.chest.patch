@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "다른 사람을 먹을때 화내는 사람에게서 보호 받기 위한 흉갑이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "동족섭취자의 흉갑"
+    }
+]

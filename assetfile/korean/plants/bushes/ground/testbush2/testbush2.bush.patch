@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 테스트용 관목인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "테스트용 관목!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "텍스쳐가 빠진 관목."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "텍스쳐가 빠진 관목인듯 하다."
+    }
+]

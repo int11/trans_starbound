@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "현대적인 재료로 만듬, 이걸 만지면 매끄럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "비싸보이는 금속 플랫폼이군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 매끄럽고 현대적인 플랫폼은 튼튼하고 매력적이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 현대적인 플래폼."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "현대적인 플랫폼"
+    }
+]

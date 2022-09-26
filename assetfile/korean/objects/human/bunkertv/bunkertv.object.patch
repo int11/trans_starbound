@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "잡것들 뿐이군. 누가 이럴 시간이 있다고?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "잘 정리된 종합 '할 일 목록'이다. 이런 계획성 마음에 들어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "잘 정돈된 목록이다. '변소 청소'라는 목록도 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "할 일 목록이다. 내 것이 아니라 생각하니 스트레스가 날아간다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "해야 할 일을 모아두는 목록 같다. 누구 하나 꽤나 바쁘겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 목록에 쓰인 일 중 하나가 '로봇 고치기'다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "할 일 목록 너무 길다. 보기만 해도 플로란 지친다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 벽 모니터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해야 할 일을 알려주는 모니터다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바다 아래의 고압과 이러 저러한것을 견딜수있도록 만들어진 흉갑."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "심해생물 가슴보호대"
+    }
+]

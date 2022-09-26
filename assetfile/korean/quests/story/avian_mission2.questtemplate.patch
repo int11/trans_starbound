@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/artifact",
+        "value": "^green;지엄한 군주의 사원^reset;에 있는 ^orange;유물^reset;을 찾으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/text",
+        "value": "^orange;아비안 유물^white;은 아비안들이 클루엑스를 위해 지은 ^orange;지엄한 군주의 사원^green;에 있는 것 같구나^white;. 이 신전은 보호되고 있으니, 들어갈때 조심해야한단다. 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/missionRadioMessage/text",
+        "value": "방금 ^orange;지엄한 군주의 사원^reset;의 좌표를 전송받았습니다. 만약 함선으로 돌아오시면 ^green;제 콘솔을 이용해서^reset; 그곳으로 갈 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/completionText",
+        "value": "또다른 유물이 제 위치에 도착했구나. 하나씩 하나씩 모아가고 있네, 얘야. 잘했단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "아비안 유물을 가져오기"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "FTL 연료는 여기로!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "소박한 FTL 연료 주입구다. 연료는 탐험의 혈류로다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "FTL 연료 주입구다. 어서 채워서 다른 별로 떠나자!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "함선의 연료 주입구다. FTL 드라이브에 쓸 연료만 있으면 이 태양계의 바깥을 탐험 할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "FTL 드라이브 연료 주입구다. 연료를 자유로 바꿔준다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥분. 이 주입구로 FTL 드라이브에 연료를 채우면 다른 태양계를 방문할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "FTL 드라이브 연료 주입구. 쓔셔넣자!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "FTL 연료 주입구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "액화 에르키우스를 함선 FTL 드라이브의 연료로 수용한다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "심해생물 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강화된 늑골 조직을 가지고있는 솔라리움 바지로, 장비자가 수영, 달리기, 또는 전투등의 격한 행동을 간편하게 하도록 도와준다."
+    }
+]

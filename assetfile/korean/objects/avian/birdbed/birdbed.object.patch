@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "짚단을 쌓아놓는다고 침대가 편안해지진 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "돌덩이랑 같이 자려면 꽤나 강인한 사람이어야겠군. 전사의 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "수호자들의 침대다. 수호자들은 아비안 성지를 지킨다. 그들은 독실함으로 삶을 이어가는 야만적인 용사들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수호자의 둥지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 돌 침대 위에 건초 둥지가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "석재 침대다. 건초를 깔아서 그나마 편안하게 자려고 한 모양이다. 돌은 만지면 차갑다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섀샤람 건초 둥지 만들었다. 플로란도 비슷한 침대 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "건초가 놓인 침대다. 놀라울 만큼 불편해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "우려. 이 침대는 정말로 인체 공학적이지 못하군."
+    }
+]

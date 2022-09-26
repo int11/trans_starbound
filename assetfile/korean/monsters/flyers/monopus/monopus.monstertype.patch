@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모노푸스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "날쌔고 골칫거리인 것으로 알려진 고대 생물이다. 그들은 총명한 시야를 갖고 있다."
+    }
+]

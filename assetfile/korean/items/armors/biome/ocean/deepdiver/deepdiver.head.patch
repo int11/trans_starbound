@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "녹슬고, 오래된 잠수 헬멧. 이런 거 입는사람 보는게 쉬운 일이 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "심해 잠수부 헬멧"
+    }
+]

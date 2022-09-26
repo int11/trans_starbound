@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "건조한 흙"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "태양빛으로 딱딱하게 말린 흙."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "敏锐。这土块是干的。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "肮脏的的的土块！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "只是一些干燥的布满灰尘的土块"
+    }
+]

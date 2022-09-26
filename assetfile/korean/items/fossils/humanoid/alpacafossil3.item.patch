@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "알파카 다리 화석 (Alpaca Legs)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 알파카의 다리 두 쌍이다."
+    }
+]

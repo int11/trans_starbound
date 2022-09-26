@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가압 도리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "압력의 변동을 견딜수있도록 디자인된 도리."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "了解。一种能够适应高压调整的钢梁。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "闪亮又坚坚坚固的金属梁。"
+    }
+]

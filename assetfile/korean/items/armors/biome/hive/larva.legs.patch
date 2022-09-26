@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "넓고 큰, 오싹한 기분이 드는 다리다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "애벌레 다리"
+    }
+]

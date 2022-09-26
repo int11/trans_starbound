@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "원시적이지만 효과적인 투척용 무기이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투척용 뼈"
+    }
+]

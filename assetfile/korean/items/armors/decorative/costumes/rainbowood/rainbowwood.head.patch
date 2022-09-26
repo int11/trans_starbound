@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "누군가의 머리와 닮은 무지개 나무이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무지개 나무 투구"
+    }
+]

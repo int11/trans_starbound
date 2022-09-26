@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀은 심신일체를 이루기 위한 벽보따윈 필요 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "우리 아비안은 평정심이 필요할 때 클루엑스께 기도한다. 이런 바보같은 동기부여 벽보는 필요 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "동기부여 벽보"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진정하고 뭘 하라고? 낸들 알겠나."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "누가 이걸 훼손했다니 놀랍지도 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이게 지정부 포스터였으면 나머지 부분에는 '당신은 죽을 수도 있습니다' 라고 쓰여있었을텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "격정. 나머지 부분 알아맞추려다가 며칠씩이나 고통받겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "벽보 박샬났다. 플로란 벽보 보고 나셔 불편해졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "전혀 동기부여가 안 되잖아."
+    }
+]

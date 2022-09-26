@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아주 작은 건축물로 만든 모자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "건축물 모자"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주조소 각반"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "주조소 업무자를 위한 화염 저항 바지."
+    }
+]

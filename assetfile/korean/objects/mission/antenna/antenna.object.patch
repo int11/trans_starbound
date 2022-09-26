@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "방해됨. 이 안테나가 내 센서에 혼란을 주고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "신호를 잡아내기 위한 장치로군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안테나다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "신호를 증폭시키는 안테나다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "거기 누구 없어요? 잠깐, 알고 싶지 않은걸."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "안테나다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이걸 찌르는데 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "안테나"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "일반적으로 교신 신호를 증폭시키는데 사용된다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "야생 덩쿨"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "야생 덩쿨의 일부분이다."
+    }
+]

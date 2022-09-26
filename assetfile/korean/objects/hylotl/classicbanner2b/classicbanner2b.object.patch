@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "깔끔한데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감격. 물건 몇 개로도 이리 만족스러울 수가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "하이로틀 벨벳으로 커튼 만든다. 플로란 샬가죽으로 커튼 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "커튼이 하이로틀 피부에 달라붙는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "만지면 부드럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "대저택에나 어울릴 커튼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "값비싸고 무거운 커튼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 현수막 중부 문양"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고전적인 커튼이다."
+    }
+]

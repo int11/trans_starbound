@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "에이펙스 해부도 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "교육이군! 에이펙스의 근육 구조를 본뜬 가면이다."
+    }
+]

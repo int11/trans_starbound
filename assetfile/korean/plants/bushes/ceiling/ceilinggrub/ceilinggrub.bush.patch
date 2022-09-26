@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 알수없는 유충"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "구불구물 지렁이"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불쾌한 유충 몇가지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "불쾌한 유충 몇가지"
+    }
+]

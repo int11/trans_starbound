@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "스타일리시한 솜브레로가 햇살로 부터 눈와 비밀을 지켜준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "들적의 솜브레로"
+    }
+]

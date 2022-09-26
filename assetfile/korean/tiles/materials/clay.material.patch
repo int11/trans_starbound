@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "말리면 더 단단해질 거 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 건축 자재로 사용하는 충분한 밀도의 점토다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드러운 점토."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무겁고 끈적끈적한 점토."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점토"
+    }
+]

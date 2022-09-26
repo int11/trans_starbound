@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 꽃... 이라고 불러야하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "그래도 보기 꽤 괜찮은데?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어음..."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "일단은 꽃이다."
+    }
+]

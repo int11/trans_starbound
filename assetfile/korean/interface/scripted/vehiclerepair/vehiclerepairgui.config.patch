@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "Rob Repairo"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "여기서 당신의 이동 수단을 수리하세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/chipCostDescription/value",
+        "value": "필요한 칩"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/cancel/caption",
+        "value": "취소"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/repairButton/caption",
+        "value": "수리"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/emptyLabel/value",
+        "value": "수리가 필요한 이동 수단이 없습니다!"
+    }
+]

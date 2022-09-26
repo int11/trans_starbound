@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "공기중의 독소를 막아주는 고대의 호흡기구입니다. 슬프게도 이젠 작동하지 않습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가스 마스크"
+    }
+]

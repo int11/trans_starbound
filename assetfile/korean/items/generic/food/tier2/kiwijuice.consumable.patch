@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "키위 주스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": " 키위로 만든 달고 이국적인 주스다."
+    }
+]

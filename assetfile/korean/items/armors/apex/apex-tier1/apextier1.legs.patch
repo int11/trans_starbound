@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탈주자의 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 부츠와 바지는 충분히 유연하면서도 확실한 보호를 제공한다."
+    }
+]

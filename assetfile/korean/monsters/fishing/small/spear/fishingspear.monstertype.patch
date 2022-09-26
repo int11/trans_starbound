@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빙하 창이빨고기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 얼음 껍질을 유지해서 몸을 보호한다."
+    }
+]

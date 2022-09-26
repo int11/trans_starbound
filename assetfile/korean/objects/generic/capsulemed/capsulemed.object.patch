@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 캡슐 사격연습용으로 딱이겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "파괴. 이 캡슐을 안 부수고야 그냥 못 지나가겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부서지는 캡슐. 뭐가 들었을까."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "가끔은 힘이 보상을 이기는 법."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "캡슐이다. 안에 뭔가 있다. 뭘까나..."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "안에 뭔가 있는 것 같다. 깨부숴서 열어볼 수 있을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "캡슐이다. 보급품이 들어있기도 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "박샬내서 연다! 안에 든 거 가져간다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보통 캡슐"
+    }
+]

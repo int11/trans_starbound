@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진짜 알파카의 다리다! 이걸 가지고 있을리 없는데?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진짜 일파카 다리"
+    }
+]

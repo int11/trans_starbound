@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "염제의 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 흉갑은 위대한 존재들이 죽은 별들의 코어로 다듬었다고 전해진다."
+    }
+]

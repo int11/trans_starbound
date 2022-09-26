@@ -1,0 +1,57 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오두막 난로"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "나무를 태워 음식을 만들자."
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "오두막 난로"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 불 피우기보다 좋아하는 것은 거의 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매력있는 금속 난로, 요리하기엔 딱이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "따뜻하게 하기엔 그리 좋은 장치는 아니야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 불은 견과류를 굽기에 적절할까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래된 불 난로다! 마시멜로 어디 없어?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "때론 열에 대한 가장 간단한 방법이 딱이지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "평온. 이 불은 간단하고, 아직은 차분하네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 뜨거운 불이 걱정이야..."
+    }
+]

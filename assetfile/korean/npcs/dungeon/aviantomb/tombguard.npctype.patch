@@ -1,0 +1,98 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default/4",
+        "value": "오늘, 클루엑스는 또다른 영혼을 받는다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default/6",
+        "value": "클루엑스의 힘이 널 죽이라고 말하고있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default/5",
+        "value": "클루엑스의 분노가 너를 내리칠것이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default/3",
+        "value": "사라져라, 이방인!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default/2",
+        "value": "너의 존재가 클루엑스의 수치다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default/1",
+        "value": "가만히 서서 기다리도록!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default/0",
+        "value": "침입자! 당장 이 성스러운 땅을 떠나라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/6",
+        "value": "클루엑스의 힘이 널 죽일것이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/5",
+        "value": "클루엑스의 분노가 널 가를것이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/4",
+        "value": "오늘, 클루엑스는 또다른 영혼을 차지한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/3",
+        "value": "소멸하라, 이방인!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/2",
+        "value": "너의 존재가 클루엑스에게 수치가 된다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/1",
+        "value": "당장 멈춰라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "침입자! 이 성지를 떠나라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "入侵者！离开这块神圣的土地！",
+            "站住，不准再靠近了！",
+            "你在玷污克鲁西斯！",
+            "这里不欢迎你，陌生人！",
+            "今天，克鲁西斯要取走你的灵魂！",
+            "尝尝克鲁西斯的愤怒吧！",
+            "克鲁西斯的力量驱使我来杀你！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/avian/default",
+        "value": [
+            "入侵者！离开这块神圣的土地！",
+            "站住，不准再靠近了！",
+            "你在玷污克鲁西斯！",
+            "这里不欢迎你，陌生人！",
+            "今天，克鲁西斯要取走你的灵魂！",
+            "尝尝克鲁西斯的愤怒吧！",
+            "克鲁西斯的力量驱使我来杀你！"
+        ]
+    }
+]

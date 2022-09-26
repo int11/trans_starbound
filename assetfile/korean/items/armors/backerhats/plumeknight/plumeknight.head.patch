@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "깃털기사 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화려한 기사의 투구, 거대하고 화려한 깃털이 있다!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "외눈박이 설인의 털로 만든 바지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외눈박이 설인 바지"
+    }
+]

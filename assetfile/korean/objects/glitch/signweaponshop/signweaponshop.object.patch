@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "칼 표지판이야. 아마 무기점같군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "칼, 이란건 무기점일 가능성이 유력하군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 가게에서 무기를 살 수도 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "칼이 그려진 표지판이야. 아마 무기점이려나?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "무기점 표지판."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 많은 무기점들이 도산하는 걸 봤는데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "무기!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "검이 그려진 표지판. 보통 무기점 밖에 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "무기점 표지판"
+    }
+]

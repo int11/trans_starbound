@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "렉스"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 강아지는 주인에게 맹렬하게 충성한다. 껴안고 어루만져 주는 것을 정말로 좋아한다."
+    }
+]

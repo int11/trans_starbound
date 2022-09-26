@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "초록색 액체로 가득 찬 자극제로, 내게 속도 증진 효과를 준다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초록색 자극제"
+    }
+]

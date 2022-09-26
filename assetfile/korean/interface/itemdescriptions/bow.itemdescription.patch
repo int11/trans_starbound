@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/maxDamageTitleLabel/value",
+        "value": "기본 최대 피해량:"
+    },
+    {
+        "op": "replace",
+        "path": "/energyPerShotTitleLabel/value",
+        "value": "한 발당 에너지:"
+    },
+    {
+        "op": "replace",
+        "path": "/descriptionLabel/value",
+        "value": "몬스터에게서 고기나 다른 것들을 획득한다."
+    }
+]

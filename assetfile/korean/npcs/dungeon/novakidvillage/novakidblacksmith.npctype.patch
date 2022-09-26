@@ -1,0 +1,78 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "힘세고 강한 기어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+        "value": "내가 만든 기어들을 사고 싶나? 따라오게나."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+        "value": "난 대장장이야. 멋진 기어들을 팔고 있다네!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "value": "끝내주는 기어를 팔고 있어! 모험가들에게 완벽한 기어지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "value": "내가 만든 다른 물건들을 사고 싶다면 다시 오게나!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "value": "그래, 뭘 사고 싶나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "value": "내가 만든 물건들을 보고 싶나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "대장장이"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/start/default/default",
+        "value": [
+            "你想要看看我制作的商品吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/end/default/default",
+        "value": [
+            "如果你想要购买其他我做的东西，请随时光临！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/follow/default/default",
+        "value": [
+            "想要买些我做的装备吗？跟我来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default",
+        "value": [
+            "那么，你在找什么呢？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default",
+        "value": [
+            "我正在出售最棒的装备！像你这样的冒险者的完美选择！",
+            "我是一名铁匠，我有一些不错的装备正在出售！"
+        ]
+    }
+]

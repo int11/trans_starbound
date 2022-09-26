@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "멋진 하프다. 한번 연주해볼까?"
+    }
+]

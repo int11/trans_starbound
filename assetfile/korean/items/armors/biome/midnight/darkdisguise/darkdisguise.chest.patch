@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 셔츠는 착용자 주변을 어두운 공간으로 둘러 싼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어둠의 변장 셔츠"
+    }
+]

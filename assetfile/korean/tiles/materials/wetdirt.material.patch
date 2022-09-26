@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그저 젖어 보이는 흙이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 그저 물에 흠뻑 젖은 흙이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "젖은 흙은 식물들에게 유익하다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "확실히 진흙도, 확실히 흙도 아니다... 젖은 흙이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "젖은 흙"
+    }
+]

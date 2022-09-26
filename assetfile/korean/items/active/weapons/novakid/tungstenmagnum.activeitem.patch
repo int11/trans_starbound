@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "텅스텐 매그넘"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한 방을 실은 커다란 권총이다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 나무로 만들어진 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "익숙. 이것은 기본적인 나무 플랫폼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "간단한 나무 플랫폼들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "비설명 나무 플랫폼."
+    }
+]

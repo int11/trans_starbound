@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "트럼펫"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "트럼펫이다. 다른 이상한 거 말고 이걸 불자."
+    }
+]

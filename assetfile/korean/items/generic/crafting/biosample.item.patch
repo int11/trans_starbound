@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생물학 시료 (Bio Sample)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "새로운 생물학적 화합물과 유전 정보가 들어있는 표본이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "G.I. 군표준 배급품 핼멧. 이건 의무관용으로, 게임에서 사용되진 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "M1 의무관 핼멧"
+    }
+]

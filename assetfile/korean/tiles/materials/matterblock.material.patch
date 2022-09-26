@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이상해 보이는 결정이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료됨. 물질이 자연적으로 형성된 형태 중 희귀한 형태로 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 알록알록한 물질 결정 모아야한다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "물질 블록. 블록이 저 물질이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물질 블록"
+    }
+]

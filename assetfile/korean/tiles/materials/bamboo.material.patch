@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "대나무를 엮은 어떤 것."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "희망찬. 대나무 색은 최근에 잘린 것을 보여줌."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "신션한 대나무 쟈루."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "새로 자른 대나무 줄기."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대나무"
+    }
+]

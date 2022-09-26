@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아무리 위험한 모험을 하더라도, 도박꾼의 모자와 함깨라면 의식을 잃지는 않을거다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도박꾼의 모자"
+    }
+]

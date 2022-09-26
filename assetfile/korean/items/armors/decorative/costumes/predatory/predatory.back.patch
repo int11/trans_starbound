@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "약탈자의 등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뾰족한 막대들은 사나운 야수를 연상 시키도록 디자인 된걸까?"
+    }
+]

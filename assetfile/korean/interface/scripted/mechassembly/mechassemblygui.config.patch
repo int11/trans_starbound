@@ -1,0 +1,77 @@
+[
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/title",
+        "value": "메크 조립 장치"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/windowtitle/subtitle",
+        "value": "^#b9b5b2;당신의 메크를 조립하고 맞춤 설정하세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot_body/value",
+        "value": "몸통"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot_leftArm/value",
+        "value": "왼쪽 팔"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot_rightArm/value",
+        "value": "오른쪽 팔"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot_legs/value",
+        "value": "다리"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot_booster/value",
+        "value": "추진기"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot_horn/value",
+        "value": "경적"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblPrimaryColor/value",
+        "value": "1차 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSecondaryColor/value",
+        "value": "2차 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/disabledText",
+        "value": "^red;未经授权的用户"
+    },
+    {
+        "op": "replace",
+        "path": "/incompleteText",
+        "value": "^red;配置不完整"
+    },
+    {
+        "op": "replace",
+        "path": "/completeText",
+        "value": "^cyan;准备部署！"
+    },
+    {
+        "op": "replace",
+        "path": "/energyFormat",
+        "value": "能量：%d MJ"
+    },
+    {
+        "op": "replace",
+        "path": "/drainFormat",
+        "value": "使用：%.02f MJ/s"
+    }
+]

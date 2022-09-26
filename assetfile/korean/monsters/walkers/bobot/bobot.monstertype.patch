@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "보봇"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어디서 왔는지 누가 만들었는지 아무도 모른다."
+    }
+]

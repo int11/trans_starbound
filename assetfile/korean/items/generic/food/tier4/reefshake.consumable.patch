@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암초셰이크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "암초꼬투리 밀크셰이크다! 얘들이 좋아라하겠군."
+    }
+]

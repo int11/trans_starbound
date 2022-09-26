@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빨간손"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 독특한 생물은 하나의 생물이 아닌, 여러 생물이 뭉친 공생 생물이다."
+    }
+]

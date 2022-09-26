@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "난 사실 엄청난 댄서라고! 그냥 지금 그걸 증명하고 싶지 않을 뿐이지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "난 별들을 돌아다니며 경쟁 댄서들에게 나의 압도적인 댄스로 굴욕을 주지. 멋지지?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "난 이 행성계 최고의 댄서라고!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "음, 댄스 기술을 연습해야하는데... 좀 있다가 하자."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我必须开始练习我的舞蹈动作了…可能迟点。",
+            "我是货真价实的舞蹈大师！我只是，额，现在没心情证明这个。",
+            "我是这个太阳系最优秀的舞蹈者！真的！",
+            "我在群星之中漫游，凭我不可阻挡的芭蕾舞羞辱了每一个对手。很刺激，对吧？"
+        ]
+    }
+]

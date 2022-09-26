@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유독성 폐기물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유독성 찌꺼기들은 버리면 안돼!"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "방어를 위해 만들어진 듀라스틸 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "호수 투구"
+    }
+]

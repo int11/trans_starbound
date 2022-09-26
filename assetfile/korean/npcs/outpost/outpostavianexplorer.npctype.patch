@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/0",
+        "value": "난다는건 삶의 일부분에 지나지 않는다는걸 배웠지. 온 우주가 있잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian/0",
+        "value": "또다른 아비안 여행가인가! 별과 함깨 하는 삶은 역시 멋지지 않아?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "난다는건 삶의 일부분에 지나지 않는다는걸 배웠지. 온 우주가 있잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我明白了生活中有比飞翔更加重要的东西。那就是有整片星空正等着我们去探索！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default",
+        "value": [
+            "我明白了生活中有比飞翔更加重要的东西。那就是有整片星空正等着我们去探索！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/avian",
+        "value": [
+            "又一位翼族开拓者！生活在群星之间难道不令人激动吗！"
+        ]
+    }
+]

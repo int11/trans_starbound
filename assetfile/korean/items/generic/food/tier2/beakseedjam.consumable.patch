@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "부리씨 잼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "달콤하고 바삭하다. 다만 씨앗의 종류가 너무 적은게 흠이다."
+    }
+]

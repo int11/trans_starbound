@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 오래전에 죽은 생물의 뼈로 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "죽은 뼈어어야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "죽은지 오래된 생물의 뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "죽은지 오래된 생물의 뼈다."
+    }
+]

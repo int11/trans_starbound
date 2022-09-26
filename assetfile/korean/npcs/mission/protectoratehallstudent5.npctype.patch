@@ -1,0 +1,26 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "네가 시간선표들에 들인 수고는 분명히 인정받을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "여기서 몇 시간동안 기다리고 있었어..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "오늘 졸업식을 놓치고 싶지 않아서 일찍왔어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我早早的来到了这里确保我不会错过这个仪式。",
+            "我已经在这里等了好几个小时了…",
+            "我确信我对时间的严格遵守将被认可。"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "의외로 유용한 화합물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유황"
+    }
+]

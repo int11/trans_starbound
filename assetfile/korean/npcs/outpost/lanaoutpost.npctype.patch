@@ -1,0 +1,77 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "수하물 증폭장치 목록"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+        "value": "병사 - 반란군이 나에게 몇 개의 새로운 수화물 증폭장치들을 배달했네"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+        "value": "내가 반란군 거점에서 증폭장치 수하물을 바로 들고 왔다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+        "value": "안녕하신가, 병사여. 증폭장치 수하물을 습득했다. 뭘 써보겠나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+        "value": "안녕하신가, 병사여. 증폭장치 수하물을 습득했다. 뭘 써보겠나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+        "value": "내일 다시 오라, 병사여. 새로운 수하물을 준비하지"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+        "value": "내일 새로운 선적물을 가지고 올 거네, 너가 필요할 때 또 오게"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "라나 블레이크의 수하물"
+    },
+    {
+        "op": "replace",
+        "path": "/npcname",
+        "value": "拉娜"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/start/default/default",
+        "value": [
+            "你好，战士。我进了一批增强模块。这些有你需要的吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default",
+        "value": [
+            "你好，战士。我进了一批增强模块。这些有你需要的吗？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/end/default/default",
+        "value": [
+            "我明天会进一批新货，当你需要的时候就回来看看。",
+            "明天再来吧，士兵—那时我会有一批新货。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/merchant/tout/default/default",
+        "value": [
+            "我从反抗军营地直接获得了一大批物资。",
+            "士兵—反抗军已经发送了一批新的货品给我。"
+        ]
+    }
+]

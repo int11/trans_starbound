@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "빛나고, 소리가 나는 돌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "빛나는 돌. 소리가 나와."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "낭랑하게 울리는 돌, 매력적이지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "돌이 울리면 가까이서 들을 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 소리가 발생하는 지질학적 형상체로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "돌 빛나, 쇼리 나와, 플로란 들어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정동석 낮은A 음향석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "소리를 내는 초록빛 정동석이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "又大又老的绿石头就像教堂的钟一样会鸣响。令我头晕目眩。"
+    }
+]

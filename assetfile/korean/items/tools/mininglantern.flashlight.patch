@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "탐험가의 등불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 랜턴은 탐험가들이 주변 지역을 밝히기 위해 들고다닌다."
+    }
+]

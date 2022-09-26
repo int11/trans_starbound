@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어서 넓은 안으로 숨어들자!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거북이 등껍질"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고음역 마이크"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그 곳의 감성 넘치는 디바들을 위한 마이크다."
+    }
+]

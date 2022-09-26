@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정동석 셔츠"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼룩덜룩하고 쾌적한 셔츠이다."
+    }
+]

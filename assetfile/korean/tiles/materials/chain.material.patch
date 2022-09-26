@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 체인들은 확실히 튼튼해 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 체인들은 텅스텐으로 만든 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "텅스텐 체인"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "텅스텐 체인들, 재밌는건 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 체인으로 먹이를 잡을거야."
+    }
+]

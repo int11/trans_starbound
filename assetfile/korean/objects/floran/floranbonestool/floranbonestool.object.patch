@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 샤냥감의 뼈 위에 앉아."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뼈를 조각해 만든 작은 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 작은 의자는 손질된 뼈다. 거의 빛이 나는데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "뼈로 만들어진 좌석이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 이 작은 의자는 아주 작은 플로란용으로 만들어졌을지도."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 작은 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "다른 생명체의 뼈 위에서 휴식을 취한다니, 어떤 괴물이 그럴 수 있지?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "뼈로 만들어진 작은 의자야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "我打赌在获取这把椅子的背后有着惊悚的故事。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "느리고 무겁지만 효과적이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "희귀한 망치"
+    }
+]

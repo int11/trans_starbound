@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뜨거운 태양으로 부터 감춰준다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "솜브레로"
+    }
+]

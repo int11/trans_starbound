@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 넝마를 입으면 사람들이 날 개그맨으로 알 거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "야생 포자 넝마"
+    }
+]

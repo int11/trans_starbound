@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관심. 이 블록에 들어간 기술은 나조차도 모르는 수준의 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "요란해 보이는 최첨단 블록이군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "미래적인 컴퓨터 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "첨단 기술 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "최첨단 처럼 보인다!"
+    }
+]

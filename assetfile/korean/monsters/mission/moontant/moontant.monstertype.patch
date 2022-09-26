@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "문턴트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "충격적인 이 에르키우스 생명체는 사람 만큼이나 강합니다."
+    }
+]

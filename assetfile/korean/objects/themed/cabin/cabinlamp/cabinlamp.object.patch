@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "가스등이 더 좋긴한데 이것도 괜찮네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "천연 자원의 낭비처럼 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "상당히 괜찮은 램프네. 새 모양이였다면 더 좋았을텐데"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이거 빈티지인척 하는 요즘 가구 아냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "램프 기둥의 곡선이 매력적인거 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이건 나문데, 어떻게 빛이 나는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 빛나는 식물이 더 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오두막 램프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수제 나무 기둥에 전깃불을 연결했다."
+    }
+]

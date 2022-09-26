@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유리 (Glass)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "조합할 때 사용되는 유리 판이다."
+    }
+]

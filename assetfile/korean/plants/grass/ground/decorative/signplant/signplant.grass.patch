@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 식물은 메시지를 가지고있군?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이 식물을 표지판으로 사용해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "이상한 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "표기가 있는 이상한 식물이다."
+    }
+]

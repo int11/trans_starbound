@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "문에 달린 수정이 동력을 만들어내면서 웅웅거린다. 알 수 없는 기술이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝이는 문 플로란 기쁘게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "황금 수정 문"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여태까지 본 것중 제일 눈아픈 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아름다운 조각이 새겨진 석재 문에 수정으로 장식되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 문은 크리스탈과 공명하여 소리를 낸다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "문짝에 달린 수정이 따뜻하다. 손가락 밑에서 부드럽게 진동한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "탐구. 문에 내 이해력을 벗어난 동력원이 들어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "표면에 수정이 박힌 황금 문이다."
+    }
+]

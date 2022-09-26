@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "와트 수프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "글리치 요리의 기본이다."
+    }
+]

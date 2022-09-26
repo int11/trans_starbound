@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "돌을 깎아서 만들어진 뽀대넘치는 타일임"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감동. 이 돌을 정성스러게 다듬어서 타일로 만들었소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "돌로 셰련된 셰련미 넘치는 타일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매끄럽게 연마한 돌로 만든 타일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돌 타일"
+    }
+]

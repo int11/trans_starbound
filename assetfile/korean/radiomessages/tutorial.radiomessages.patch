@@ -1,0 +1,157 @@
+[
+    {
+        "op": "replace",
+        "path": "/pickupmanipulatormodule/text",
+        "value": "당신은 물질 조작기 부품을 획득했습니다. 충분한 양의 부품을 획득하면 오른쪽 상단의 바에있는 조작기 업그레이드 메뉴에서 물질 조작기를 업그레이드 할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/fuel/text",
+        "value": "당신의 FTL 드라이브에 들어가는 에르키우스 연료는 달에서 채취할 수 있습니다. 지구가 파괴된 이후, 모든 달에서 알 수 없는 생물체가 확인되었으므로 조심하십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupplantfibre/text",
+        "value": "당신은 식물 섬유를 찾았습니다. 물레를 이용해서 직물로 짤 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupflag/text",
+        "value": "저는 함선의 텔레포터가 당신이 꽂은 깃발의 위치로 전송하게끔 조정할 수 있습니다. 깃발을 배치하고 상호작용 키를 눌러 이름을 지정하십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupdye/text",
+        "value": "염료를 발견하셨습니다. 염료는 당신의 복장 색상을 바꿀 수 있으며, 방어구나 옷에 우클릭하여 적용할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/starving/text",
+        "value": "당신은 굶주린 상태입니다! 즉시 음식을 찾아서 섭취해야 합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupcollar/text",
+        "value": "당신은 목걸이를 발견했습니다. 길들인 몬스터에게 착용하면, 이 목걸이가 많은 이점을 줍니다. 몬스터가 들어 있는 포획 장치에 우클릭하여 추가할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/challengedoor/text",
+        "value": "이 문은 어딘가를 가로질러 도전의 방으로 갈 수 있습니다. 당신의 대담함에 박수를 쳐 드리고 싶군요."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupinventorstable/text",
+        "value": "방금 발명가의 탁자를 제작하셨습니까? 당신의 생존률이 7.2% 증가했습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupaugment/text",
+        "value": "당신은 확장 칩을 획득했습니다. 이 모듈들은 많은 이점을 줍니다. 환경 방호 장비(EPP)에 우클릭하여 설치하실 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupcoal/text",
+        "value": "석탄을 발견하셨습니다! 횃불을 제작하여 길을 밝힐 수 있습니다. 어두운 지역에서는 치명적인 사고가 날 확률이 급격히 증가합니다. 제작 메뉴에서 찾아보십시오."
+    },
+    {
+        "op": "replace",
+        "path": "/pickuplogblock/text",
+        "value": "당신은 나무를 얻었습니다. 제 저장된 데이터에 따르면 나무는 쓰임새가 많은 물질입니다. 나무를 많이 쓰러뜨리고 제작 메뉴를 둘러봐야 할 것 같습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupseed/text",
+        "value": "씨앗을 발견하셨습니다. 경작된 토양에 심고 성장할 때까지 물을 주는 것이 좋습니다. 농경 작업대에서 필요한 도구를 만들어야 할 것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupepp/text",
+        "value": "환경 방호 장비(EPP)를 획득하셨습니다. 이 장비를 착용하면 척박한 환경에서 살아남을 수 있습니다. 또한 EPP에 확장 칩을 설치할 수도 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupcampfire/text",
+        "value": "당신은 불을 발견했습니다. 제 데이터에 따르면 당신은 7조 14억번째로 발견한 사람입니다. 잘하셨습니다! 불을 이용해 음식을 조리할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/naturalcave2/text",
+        "value": "자신의 전투 능력을 믿지 못하시겠다면 핵 파편을 찾을 때까지 땅을 파고 내려가는 것을 추천합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/hungry/text",
+        "value": "당신이 지치는 것은 배고픔 때문일 확률이 높습니다. 몸이 제 기능을 할 수 있도록 먹을 것을 찾아야 합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/naturalcave1/text",
+        "value": "이 광산에서 많은 양의 생체 신호가 감지됩니다. 핵 파편을 찾을 목적이라면 단단히 무장하고 들어가는 것이 좋음을 알려드립니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupcapturepod/text",
+        "value": "포획 장치를 획득했습니다. 몬스터의 체력이 절반 이하일 때 이 장치를 몬스터에게 던져 포획할 수 있습니다. 포획된 몬스터는 자동으로 길들여집니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupbow/text",
+        "value": "활을 획득했습니다. 이것으로 몬스터를 처치하면 상당히 높은 확률로 고기를 획득할 수 있으며, 희귀한 제작 재료를 얻을 수도 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/full/text",
+        "value": "당신이 음식을 섭취하는 것을 확인했습니다! 허기가 가득차면, 당신의 몸이 느리게 자가 치유될 것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupore/text",
+        "value": "광석을 발견하셨습니다. 광석은 화로를 이용해서 주괴로 만들 수 있으며, 주괴는 생명에 도움이 되는 많은 장비를 제작할 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/pickupcorefrag/text",
+        "value": "핵 파편을 발견하셨습니다! 쓰임새가 많은 물질로, 적어도 20개는 획득해야 할 것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper02/senderName",
+        "value": "诺布尔队长"
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper02/text",
+        "value": "希望你喜欢这个新空间站！我们现在甚至有一个^orange;和平卫士补给商店^white;！"
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper03/senderName",
+        "value": "诺布尔队长"
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper03/text",
+        "value": "在我看来，这个新空间站也不是很差嘛！我们会越来越好的，伙伴！"
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper04/senderName",
+        "value": "诺布尔队长"
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper04/text",
+        "value": "欢迎来到我们超棒的新地方，伙伴！为什么不看看我们的^orange;和平卫士家具商店^white;呢？"
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper05/senderName",
+        "value": "诺布尔队长"
+    },
+    {
+        "op": "replace",
+        "path": "/peacekeeper05/text",
+        "value": "伙伴，我们终于迎来了大时代！和平卫士真正的回归了，甚至比以往更好！"
+    }
+]

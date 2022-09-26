@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 추잡한 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "약탈자가 종종 입던 더럽고, 해진 바지."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 아치모양 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "곡선 도올"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아치 모양 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아치 모양 돌"
+    }
+]

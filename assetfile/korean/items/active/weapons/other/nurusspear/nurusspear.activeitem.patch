@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "누루의 창"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이건 누루 건데 어떻게 얻었냐?"
+    }
+]

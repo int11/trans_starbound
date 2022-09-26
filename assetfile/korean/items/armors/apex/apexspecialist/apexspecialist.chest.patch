@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "특수요원 상의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에이펙스 특수요원을 위한 표준 규격 상의이다."
+    }
+]

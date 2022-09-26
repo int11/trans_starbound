@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 일등급 머리 장비로 먼지와 적을 시야에서 치우자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "악동의 모자"
+    }
+]

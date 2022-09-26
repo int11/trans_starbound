@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 유연한 바지는 패로지움으로 강화되어 착용자를 빠르고, 조용하고, 그리고 안전하게 지켜줍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "첩자의 바지"
+    }
+]

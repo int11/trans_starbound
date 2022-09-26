@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "중무장된 핼맷으로 지긋이 지켜보는것 보다 위협적인건 적다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "침투자의 투구"
+    }
+]

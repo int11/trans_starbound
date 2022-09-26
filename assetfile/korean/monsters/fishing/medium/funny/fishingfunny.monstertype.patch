@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "웃긴고기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자신이 매우 웃기다고 생각한다. 사실 그렇게 웃기진 않지만."
+    }
+]

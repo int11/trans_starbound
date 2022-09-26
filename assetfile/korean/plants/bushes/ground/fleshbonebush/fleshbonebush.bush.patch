@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 끔찍한 뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "신션한 고기랑 뼈!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "끔찍한 뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "끔찍한 뼈다."
+    }
+]

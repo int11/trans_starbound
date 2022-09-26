@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "평범한 비치볼이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "비치볼"
+    }
+]

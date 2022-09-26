@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고정된 금속 벽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속 철책"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "安心。这种金属墙壁用强力螺栓加固过了。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "用螺栓强力力力加固过的金属。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这看起来很牢固的墙壁是用金属打造的。"
+    }
+]

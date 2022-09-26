@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "타오르는 코어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매우 강력한 화염의 코어. 금속 세공대 를 만드는데 쓰인다."
+    }
+]

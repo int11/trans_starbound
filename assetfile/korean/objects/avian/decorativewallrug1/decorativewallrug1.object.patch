@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이리도 멋질 수가,  색이 휘황찬란 그 자체잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "알록달록한 융단"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "멋있는 벽걸이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아비안은 알록달록한 벽장식을 좋아하는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "배교자들은 벽걸이 융단으로 집을 장신한다. 색이 더 많을 수록 고급 융단이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "융단이다. 멋있게 짜였다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 고난도의 손재주를 보여주는 융단이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섁 밝다. 플로란 꽃 적슈다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "복잡하게 짜인 벽걸이 융단이다."
+    }
+]

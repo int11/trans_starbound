@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 눈 조각상인가? 모자가 탐나는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 설상도 언젠간 녹아서 본래 모습인 물로 돌아가겠지. 귀여운 당근 코도 있네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "눈사람이다. 모자가 부럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "눈사람이다! 머리를 걷어차서 날려버리고 싶다는 의지가... 차오른다..."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "귀여운 눈사람이다. 오늘 잘 지내시죠?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "질투. 글리치 신체엔 굴곡이 너무 많아서 제대로 된 눈글리치를 만들기 너무 힘들다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 눈샤람 샤냥한다. 눈샤람 신경 안 쓴다. 눈샤람 무너진다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멋진 눈사람"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "제대로 차려입은 눈사람이다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "버섯 포자로 만든 블럭이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "好奇。 就算被组成了一个方块，这些蘑菇还是顽强的活着。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "可爱的蘑蘑蘑菇。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "这个莫非是…蘑菇做成的方块。"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전구"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "평범한 전구다. 무엇을 더 바라는가?"
+    }
+]

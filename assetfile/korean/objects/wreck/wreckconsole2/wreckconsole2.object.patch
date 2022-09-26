@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 콘솔은 동작 안해. 버튼 절반은 사라졌고."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "쓸모없는 망가진 콘솔."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "고장난 콘솔.  동작한 적이 있을까 궁금하네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 콘솔은 손도 못 쓸 정도로 망가졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "콘솔. 작동하지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "격분. 이 콘솔은 고장나고 쓸모 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "콘숄은 고장났어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "망가진 컴퓨터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "내부에서 긁어내는 소리가 들린다... 내 생각에는 저안에 무언가가 둥지를 만든 것 같다."
+    }
+]

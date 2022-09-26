@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보안경이 달린 가면."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 괴짜 가면"
+    }
+]

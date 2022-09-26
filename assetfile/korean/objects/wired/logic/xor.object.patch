@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. /'XOR'/ 스위치다. 입력 하나는 켜고 하나는 꺼둬야 작동한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "/'XOR'/ 스위치다. 입력 하나는 켜고 하나는 꺼야 작동한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "XOR 스위치"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "/'XOR'/ 스위치다. 입력 하나는 켜고 하나는 꺼야 작동한다."
+    }
+]

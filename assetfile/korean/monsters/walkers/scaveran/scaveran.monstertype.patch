@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "부리 안이 정말로 흉측하게 생겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스케베런"
+    }
+]

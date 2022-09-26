@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플루트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플루트다. 마치 마법같다?"
+    }
+]

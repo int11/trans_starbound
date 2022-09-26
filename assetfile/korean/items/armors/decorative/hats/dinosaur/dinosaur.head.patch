@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "복고풍 모자. 선사시대의 것."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "공룡 모자"
+    }
+]

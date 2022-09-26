@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": " ^green;[A]^white; 또는 ^green;[D] ^white;를 빠르게 두번 눌러 돌진합니다! 재사용 대기시간: 0.8초"
+    },
+    {
+        "op": "replace",
+        "path": "/shortDescription",
+        "value": "能量猛冲"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "큐피드의 어깨 띠. 날개를 고정하고 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큐피드의 어깨 띠"
+    }
+]

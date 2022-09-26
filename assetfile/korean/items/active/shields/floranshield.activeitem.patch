@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플로란 방패"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 잎들은 놀라울 정도로 탄력적이다."
+    }
+]

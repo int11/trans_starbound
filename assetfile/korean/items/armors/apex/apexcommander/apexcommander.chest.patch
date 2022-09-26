@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지휘관 상의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "에이펙스 지휘관을 위한 표준 규격의 상의이다."
+    }
+]

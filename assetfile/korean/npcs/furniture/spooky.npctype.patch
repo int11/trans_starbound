@@ -1,0 +1,68 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "value": "무셔운 옷 입으면 샤람들이 플로란을 존중해줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "내 코스튬은 무셥다구!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/9",
+        "value": "플로란은 이 검은 페인트에 픽셸 많이 쎴다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "value": "내 집이 무셔울지 몰라도, 플로란은 무지 친절해!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "value": "어둠 속이라면 이 복장들이 무셔워질것 같아?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "플로란이 이 검은 페인트에 픽셸을 얼마나 쑡아부었는지 알고싶지 않을꺼야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "플로란이 이 셤뜩한 코스튬을 만들었어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "value": "플로란의 무셔운 옷들에 대해서 어떻게 섕각해?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "모습만 보고셔 내가 플로란인걸 알겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "이 코스튬이라면 샤낭감을 치기전에 겁줄수었어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "叶族人创造出了这毛毛毛骨悚然的服装！",
+            "有了这这这种服装，我可以在我捅捅捅猎物之前威慑它们！",
+            "你不会想知道叶族人在黑色油漆上花花花费了多少像素的！",
+            "我的服装真是可可可怕！",
+            "我穿着这这这个你还能看出来我是个叶族人吗？",
+            "可可可怕的衣服让人们尊重叶族人！",
+            "这衣服能在黑暗中吓吓吓到你吗？",
+            "我家可能令人感到毛毛毛骨悚然，但叶族人实际上是相当友好的！",
+            "你觉得叶族人的可可可怕的衣服如何？",
+            "叶族花了很很很多像素在黑色油漆上！"
+        ]
+    }
+]

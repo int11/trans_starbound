@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 부품은 함선이나 다른 유용한 장비를 업그레이드하는 데 쓰인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "업그레이드 부품"
+    }
+]

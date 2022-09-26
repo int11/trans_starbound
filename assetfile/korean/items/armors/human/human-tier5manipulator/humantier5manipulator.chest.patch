@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모험을 위해 다려진 갑주야!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선구자의 가슴 보호대"
+    }
+]

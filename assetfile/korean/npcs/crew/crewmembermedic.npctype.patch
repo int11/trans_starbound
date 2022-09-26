@@ -1,0 +1,216 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+        "value": "도움. 이걸 사용하시오. 그게 도와줄거요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+        "value": "도움. 이건 당신을 치유해줄거요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+        "value": "신남. 혹시 당신 치유하는 것을 할 수 있소?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+        "value": "심각. 나는 당신을 도와줄 수 있소!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+        "value": "플로란이 도와줄 물건을 갖고있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+        "value": "플로란이 도와줄 슈 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+        "value": "플로란이 도와줄 물건을 갖고있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4",
+        "value": "난 널 치유할 수 있어! 나에게로 와, 빨리!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+        "value": "넌 내가 도와줘야 할 것처럼 생겼어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+        "value": "난 의무관이야. 내가 널 도와줄게!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+        "value": "내가 널 도와줄게!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+        "value": "넌 치유가 필요한 것처럼 보여!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2",
+        "value": "도움. 당신은 더 좋은 상태에 있는것이 좋을 것 같소. 내가 당신을 도와드리겠소!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1",
+        "value": "걱정. 혹시 당신은 치유가 필요하오?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
+        "value": "우려. 당신은 치유가 필요한 것 같소!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2",
+        "value": "너 다친 것 같아. 플로란이 도와줄 슈 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1",
+        "value": "플로란 의샤야! 날 믿어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0",
+        "value": "너 부샹을 입은 것 같아. 플로란이 도울 슈 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3",
+        "value": "이봐, 난 널 치유할 수 있어! 그냥 가만히 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2",
+        "value": "넌 어떤 치유라도 상관하지 않을 것 같이 보여. 이거받아!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1",
+        "value": "난 널 도울 수 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
+        "value": "너 다친 것 같아. 내가 널 도와줄게!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+        "value": "도움. 우리가 함선에 있을 때 당신을 치유해주겠소!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+        "value": "우리가 함션에 있을 때 플로란이 널 치유해줄게!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "value": "우리가 함선에 있을 때 내가 널 치유해줄게."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/crew/role/name",
+        "value": "医疗兵"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/crew/role/field",
+        "value": "医学"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default",
+        "value": [
+            "当你在飞船上时，我会为你治疗！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default",
+        "value": [
+            "当你在飞船上时，叶族人会为你医疗！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default",
+        "value": [
+            "实用。当你在飞船上时，我会为你治疗！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default",
+        "value": [
+            "你看上去受伤了，让我帮你治疗！",
+            "让我来帮你！",
+            "你看上去需要一些治疗，来这里！",
+            "嘿，我可以帮你治疗！就站在那儿别动！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default",
+        "value": [
+            "你看起来受伤了，叶族人可以帮你！",
+            "叶族人是天生的药剂专家！相信叶族人！",
+            "你受伤了。叶族人可以帮你治疗！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default",
+        "value": [
+            "关心。你看上去需要一些治疗。",
+            "关切。你可能需要一些治疗？",
+            "热心。你看上去可以获得更好的状态。让我来帮助你！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default",
+        "value": [
+            "你看上去需要一些治疗！",
+            "让我来帮你！",
+            "我是个医疗兵 —— 让我来帮你！",
+            "看上去你需要我的帮助！",
+            "我可以治疗你！来我这边，快点！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default",
+        "value": [
+            "叶族人有有有地方可以帮忙！",
+            "叶族人可以帮把手！",
+            "叶族人有有有地方可以帮忙！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default",
+        "value": [
+            "渴望。我可以帮助你！",
+            "兴奋。 可能你需要一些治疗？",
+            "热心。这可以治愈你！",
+            "热心。拿上这个，它会派上用场的！"
+        ]
+    }
+]

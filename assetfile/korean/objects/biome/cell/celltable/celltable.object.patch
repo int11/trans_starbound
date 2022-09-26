@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "겁나 반짝이는 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "탁자가 정말... 야릇하군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "'밝다'라는 말은 아주 저평가된 단어였구나."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "애들 장난감으로 만든 물건 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "너무 다채롭다고 지정부에서 금할 물건이다. 그래서 마음에 드는 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 이런 천박한 물건 위에서 어찌 식사를 하겠는가."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝이고 매끄럽고 정신 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "세포 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "깨끗하고, 밝은 색깔의 탁자다."
+    }
+]

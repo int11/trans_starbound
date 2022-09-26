@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "선물이 가득찬 주머니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "산타클로스의 주머니"
+    }
+]

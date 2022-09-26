@@ -1,0 +1,74 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "지정부를 위해 이 땅을 조사하려 왔다. 걱정 끼치진 않을걸세."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/1",
+        "value": "반동분자가 아니길 바란다. 지정부와 함께 하거나, 죽거나."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/0",
+        "value": "지정부를 위해 이 땅을 조사하려 왔다. 걱정 끼치진 않을걸세."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/4",
+        "value": "반동들의 거짓말을 믿지 마라. 지정부는 우주를 돕고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/3",
+        "value": "지정부를 위해 여길 조사하고 있네. 날 방해하려하지마"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/2",
+        "value": "지정부가 이 행성을 조사하라 지시했네. 여기 있고 싶지 않지만..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/1",
+        "value": "지정부의 지시로 여길 조사하러 왔네. 내가 자처하지 않았어. 날 믿게."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/4",
+        "value": "자네가 지정부를 지지하길 바라네. 반동놈들이 무슨 일을 겪었는 지는 알잖나..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/3",
+        "value": "지정부를 위해 여길 조사하고 있네. 날 방해하려하지마."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/2",
+        "value": "지정부가 이 행성을 조사하라 지시했네. 여기 있고 싶지 않지만..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "我在这里为科技发展部做土壤研究。别担心，我很好。",
+            "科技发展部安排我到这里做实地研究。这不是我想要的，相信我。",
+            "科技发展部命令我做实地研究。我不希望自己被安排在这里…",
+            "我在这里代表科技发展部做研究。不要打扰我。",
+            "不要相信叛军说的话－科技发展部是为了帮助全宇宙的人民。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex",
+        "value": [
+            "我在这里为科技发展部做土壤研究，不要担心，我很好。",
+            "我真的希望你不是一名抵抗者。要么与科技发展部一道，要么对抗我们。",
+            "科技发展部命令我做实地研究。我不希望自己被安排在这里…",
+            "我在这里代表科技发展部做研究。不要打扰我。",
+            "我希望你是科技发展部的支持者。我们都知道叛军的下场…"
+        ]
+    }
+]

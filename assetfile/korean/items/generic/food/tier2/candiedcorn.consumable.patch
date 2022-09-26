@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "으스스한 할로윈 느낌, 하지만 가운데 부분은 실제 옥수수로 만들었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "옥수수 캔디"
+    }
+]

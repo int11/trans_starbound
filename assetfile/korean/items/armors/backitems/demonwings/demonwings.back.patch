@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 어두운 날개는 인상적이고 사악해 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "악마의 날개"
+    }
+]

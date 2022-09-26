@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "방호복 하의"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 하의는 착용자를 다양한 위험한 물질로 부터 보호하도록 설계됬다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 화면에 메시지가 떠있다. \"네가 왜 틀렸는 지 알려주마...\"  나머지는 알아볼 수가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "PC가 놓여있다. 엿보는 취미는 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 메모들로 보건대,  인간들은 컴퓨터로 토론할 때 키보드에 얼굴을 처박기만 했을 테지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "화면에 메시지가 떠있다. \"어제자 독성 실험의 결과는 확정적이지 않음. 일정을 늘려달라. 클라이너 박사.\" 그래."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이메일 계정을 보아하니 '님아 답변좀요' 유형에 걸린 모양이다. 불쌍하기도 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "화면에 메시지가 떠있다. \"마저리에게. 제발 고양이좀 내쫓아줘요. 사랑하는 데이비드가.\" 흥미롭군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "음... 화면에 메셰지 떠있다. \"일이 끝나면 계란좀 샤와요.\""
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 조작기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "개인 메모로 가득 찬 화면으로 보인다."
+    }
+]

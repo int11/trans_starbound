@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빨간색 손전등"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "빨간 손전등이다! 모든게 뜨겁고 광기에 찬 것처럼 보인다."
+    }
+]

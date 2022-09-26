@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 서버는 하이로틀 도서관 천 개 분량을 채우기에 충분해 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 기계 덩이는 자료를 저장해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "부끄러움. 서버가 나조차 우회하지 못할 정도의 보안으로 보호되고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "깜박이는 불빛이 많다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "데이터 서버 같아 보이는데. 여기서 뭔가를 얻어갈 방법은 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "접근이 불가능한 보안 서버야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 샹자가 딸각거리는 소리를 내."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "멋진 서버"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "서버처럼 보인다. 어떤 종류의 게임을 호스트 할 수 있는지 궁금하다."
+    }
+]

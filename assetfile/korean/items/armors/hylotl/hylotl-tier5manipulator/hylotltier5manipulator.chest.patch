@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "스쿠버의 패션과 패로지움의 방호력을 합쳐 그 어떠한 세계에서도 입을 수 있는 재킷."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "암초 재킷"
+    }
+]

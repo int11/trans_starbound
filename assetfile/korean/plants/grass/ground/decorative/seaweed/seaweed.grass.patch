@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 해초군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "냄섀나는 섕션 잡초."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해초."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "해초."
+    }
+]

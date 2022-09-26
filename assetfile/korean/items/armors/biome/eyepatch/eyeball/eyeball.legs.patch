@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "눈알 스커트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아직 살아있는 거대한 눈을 가지고 있는 완벽한 스커트. 오싹하다."
+    }
+]

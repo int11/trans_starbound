@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "골 안에 든 생선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생선을 골순에 통째로 쑤셔 넣었다."
+    }
+]

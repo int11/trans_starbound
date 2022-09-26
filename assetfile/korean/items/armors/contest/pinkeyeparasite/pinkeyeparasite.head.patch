@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 귀찮은 기생충은 핑크빛 눈을 부여한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "핑크눈 기생충"
+    }
+]

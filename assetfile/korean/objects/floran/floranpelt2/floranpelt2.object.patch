@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "작은 모피"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "사냥을 추억하는 물건 아닐까?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "트로피나 장식으로 쓰는 것 같아 보이는 작은 모피야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "꼬임. 털이 부드럽군. 플로란이 사냥감의 가죽을 정성스럽게 벗긴 것 같소. "
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 다른 플로란한테 샤냥 트로피 보여줘. 그럼 다른 플로란들이 존경해. "
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 검정색 모피"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 모피는 플로란의 사냥 트로피 역할을 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "야만스러운 플로란들."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "동물이 불쌍해."
+    }
+]

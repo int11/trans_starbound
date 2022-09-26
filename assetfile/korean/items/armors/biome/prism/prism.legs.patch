@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프리즘 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 따듯한 보온 바지로 따듯함을 유지하자."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "강철로 만든 튼튼해보이는 벽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "안전. 이 강철은 강한 나사로 보강되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "힘 셰고 강한 나사 철이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고정된 금속 벽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강철 난간"
+    }
+]

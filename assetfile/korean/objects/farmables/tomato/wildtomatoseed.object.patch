@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "토마토는 맛있는 간식의 재료로도, 악당에게 던지기에도 완벽해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "토마토는 몸에 좋은 샐러드의 훌륭한 재료지. 피자로 만들면 더 좋고."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "과육이 많고, 잘 익은 토마토가 좋아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "달리 먹을만한게 없으면, 토마토도 괜찮아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "토마토는 피같이 붉고 터질 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "토마토는 영양과 수분이 많은 과일이야. 혹은 채소거나. 둘중 하나겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "요리에 토마토 씨앗을 좀 넣으면 더 맛있더라."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "장난스러움. 썩은 토마토는 훌륭한 투척무기라오."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "토마토 씨앗"
+    }
+]

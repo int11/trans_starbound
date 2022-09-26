@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플로란 머리뼈 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플로란의 머리뼈다. 으시시 하구만"
+    }
+]

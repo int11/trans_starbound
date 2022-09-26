@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "간지럽혀서 열어봐야지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "참으로 토나오는 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "징그러운 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "열어봐야겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "꿈에 나올 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불편. 극도로 혐오스러운 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 문 쓔셔 연다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살점 문"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "질척한 살코기 문이다."
+    }
+]

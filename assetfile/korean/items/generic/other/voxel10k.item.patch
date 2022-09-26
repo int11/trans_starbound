@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "10000개의 픽셀들을 압축시켜 만들었다. 해체하여 다시 픽셀로 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "복셀 10k"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "익조둠 척추뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 익조둠 척추뼈."
+    }
+]

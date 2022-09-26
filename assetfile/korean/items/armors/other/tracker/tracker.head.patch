@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가볍고 통풍이 잘되, 추적에 적합하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "추적자의 투구"
+    }
+]

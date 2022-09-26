@@ -1,0 +1,164 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/9",
+        "value": "게임 시작이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default/0",
+        "value": "침입자!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/23",
+        "value": "넌 이길 슈 없다, 외부샤람!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/22",
+        "value": "플로란 외부샤람 못 이기게 한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/21",
+        "value": "너 이 동굴 쇽에셔 쎡는다, 낯션 샤람!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/20",
+        "value": "너 최고 샤냥꾼 아니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/19",
+        "value": "넌 누루도 아니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/18",
+        "value": "경쟁자 죽일 시간!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/17",
+        "value": "누루 이번엔 나 못 이긴다. 너도 마찬가지다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/16",
+        "value": "너 내 대샤냥 행진 못 막는다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/15",
+        "value": "경쟁자! 낯션 샤람!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/14",
+        "value": "너 나 대샤냥 못 이긴다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/13",
+        "value": "플로란 너 보인다, 냧션 샤냥꾼!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/12",
+        "value": "너 나 못 막는다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/11",
+        "value": "이리 나와 플로란이랑 놀자!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/8",
+        "value": "나갈 땐 아니란다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/5",
+        "value": "플로란 대샤냥 안 진다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/4",
+        "value": "플로란 너 쫓아낸다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/3",
+        "value": "쓰러트려라!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/2",
+        "value": "플로란 경쟁자 포착했다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/1",
+        "value": "공격!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/0",
+        "value": "너 보인다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/10",
+        "value": "쫓을 시간이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/7",
+        "value": "대샤냥 시작이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default/6",
+        "value": "나한테셔 도망 못 간다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "入侵者！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/attack/floran/default",
+        "value": [
+            "我看看看到你了！",
+            "攻击！",
+            "叶族人看看看到了敌人！",
+            "把他们刺刺死！",
+            "叶族人会击败你！",
+            "叶族人不会在狩猎猎猎中失败！",
+            "你逃不出我的手心！",
+            "打猎开始了！",
+            "你无处可逃！",
+            "让游戏戏戏开始吧！",
+            "追追追逐时间到！",
+            "过来跟叶族人玩玩！",
+            "你不能阻挡挡挡我！",
+            "叶族人发现你了，陌陌陌生的猎人！",
+            "在狩猎猎猎中你无法战胜我！",
+            "敌人人人！不不不速之客！",
+            "你无法阻挡挡挡我完成狩猎！",
+            "此刻连努鲁都无法击败我，你也不能！",
+            "是是是时候大杀特杀了！",
+            "至少少少你不是努鲁！",
+            "你不是最好好好的猎人！",
+            "你会在这些洞穴中灭亡，陌陌陌生人！",
+            "叶族人不会让外外外来者赢的！",
+            "胜利女神不会眷顾你的，外外外来者！"
+        ]
+    }
+]

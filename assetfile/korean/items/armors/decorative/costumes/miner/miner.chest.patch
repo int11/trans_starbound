@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "높은 가시성과 반사율을 가진 상의 - 안전 제일!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "안전 형광 자켓"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "지구여. 그대에게 경배하노라."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "향수. 지구의 사관학교에서 보내던 시간이 참 즐거웠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "지구 섕활 기억하는 거 슬프다. 그립다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "지구. 참으로 작은 행성임에도 그 행성이 내 가슴에 남긴 구멍은 가늠할 수 조차 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "지구, 내 두 번째 고향. 이젠 세상에 없다는 사실을 까먹곤 하지..."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "고향... 이젠 잔해밖에 남지 않은 걸 떠올리면 소름이 돋는다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지구, 한때 행성 보호국의 본성, 잠시나마 나만의 고향."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지구 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "인류의 고향인 태양계의 지구를 본뜬 천장걸이 모형이다."
+    }
+]

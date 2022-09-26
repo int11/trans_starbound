@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무릎이 시원할 정도로 크게 찢어져있는 청바지"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "찢어진 청바지"
+    }
+]

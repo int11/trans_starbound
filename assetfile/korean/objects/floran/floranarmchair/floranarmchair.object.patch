@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀은 모든 생명체는 존엄하다 생각해. 저 동물들이 그저 안락의자로 생을 마감해선 안됐어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뼈든 벽돌이든, 의자가 뭘로 만들어졌든간에 뭔 상관이야?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경악. 이 의자에는 이빨 자국이 있소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 샤냥감 뼈 깎아서 기념 의자로 만들어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "원시 안락의자"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 의자의 뼈는 거의 유리같이 매끄러워."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "뼈들이 날카롭게 깎아졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "뼈와 가죽으로 만들어진 의자야."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단지 뼈들로 만든 안락의자다. 별 일은 아니지."
+    }
+]

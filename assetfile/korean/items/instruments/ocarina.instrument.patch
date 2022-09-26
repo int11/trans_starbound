@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오카리나"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오카리나. 연습할 시간을 충분히 갖자."
+    }
+]

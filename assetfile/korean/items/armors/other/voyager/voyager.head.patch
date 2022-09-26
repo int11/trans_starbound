@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "여행자의 헬멧"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "헬멧에 달린 바이저 덕분에 완전 날렵해보인다."
+    }
+]

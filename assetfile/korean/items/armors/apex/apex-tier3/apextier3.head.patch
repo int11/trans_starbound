@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 교묘한 머리 장비는 눈만 보이도록 가린다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "반란군의 가면"
+    }
+]

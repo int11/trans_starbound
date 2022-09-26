@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "주름붕어"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물고기의 거대한 꼬리는 율동적인 파동을 만들어서 혹시나 올지 모르는 포식자의 신경을 돌린다."
+    }
+]

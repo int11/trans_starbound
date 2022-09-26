@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음 갑옷 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼음으로 만들어진 바지라 차갑다"
+    }
+]

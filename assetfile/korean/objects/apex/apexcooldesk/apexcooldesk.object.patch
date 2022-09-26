@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "책샹은 만지면 시원해."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "가는 금속의 책상."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "꾸밈없는 외관의 금속으로 된 책상이네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "전문가용으로 보이는 책상이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "여기서 누가 일했을지 궁금하군..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 책상."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시원한 책상"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 책상은 윤이 나고, 단단해 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "一个由金属制作的，闪亮的桌子。"
+    }
+]

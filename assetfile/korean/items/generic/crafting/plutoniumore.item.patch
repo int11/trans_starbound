@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "꽤나 예쁘다, 하지만 방사능 수치가 매우 높다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플로토늄 광석"
+    }
+]

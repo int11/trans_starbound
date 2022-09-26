@@ -1,0 +1,67 @@
+[
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/death/default/default/2",
+        "value": "하지만, 더이상 멈추기엔 너무 늦었다. 에스더에게 전하라. 희망은 없다고"
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/death/default/default/1",
+        "value": "이번건은 너가 이긴걸로 치지. '아이고 슬퍼라.'"
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/death/default/default/0",
+        "value": "내가 널 만만하게 본거 같군..."
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/start/default/default/0",
+        "value": "신경쓸거 없다. 이젠 죽을테니깐!"
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/intro/default/default/2",
+        "value": "지금은 널 동정하지. 늙어빠진 노파에게 끌러다니는 신세라니.."
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/intro/default/default/1",
+        "value": "너 말이야, 이게 너의 수준을 한참 넘어가는 거라는건 알지?"
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/intro/default/default/0",
+        "value": "호오... 에스더의 개인가? 그녀가 다시 부하들을 모으고 있다는거군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아스라 녹스"
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/intro/default/default",
+        "value": [
+            "嗯…你是艾丝特的提线木偶么？看来她又开始召集爪牙了。",
+            "你知道你自己已经陷入了你根本无法应对的事情之中了，对不对？",
+            "某种程度上，我很可怜你。你正被一个年迈的老巫婆操纵着…"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/start/default/default",
+        "value": [
+            "不用去想我刚刚说了什么了，准备受死吧！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/baseParameters/dialog/death/default/default",
+        "value": [
+            "我猜我低估了你…",
+            "那么这次你赢了—真是不幸。",
+            "但现在想要阻止什么已经太晚了，告诉艾丝特-那是不会有希望的。"
+        ]
+    }
+]

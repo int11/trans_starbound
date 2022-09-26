@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/label",
+        "value": "새끼용의 숨결"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "돌로 만들어 윤기나는 광택제로 마감했다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돌 타일"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "难忘。 这些石头被小心翼翼的打磨成砖头。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "石石石头被打磨成美丽的砖块块块。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "石头被切块然后被打磨成独特的砖块。"
+    }
+]

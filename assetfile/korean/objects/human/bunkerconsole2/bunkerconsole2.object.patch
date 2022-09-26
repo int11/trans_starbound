@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "키보드가 왜 두 개씩이나 필요하담?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "건드리면 위험할 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아, 악명 높은 듀얼 키보드 디자인이로구만. 흥한 적이 없었지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "명령 콘솔이다. 뭐에 쓰는 지는 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 콘솔 하나에 배정된 키보드가 많을 수록... 아니다, 난처."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "컴퓨터 단추 쓸데없이 많다. 플로란 어지럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큰 조작기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "키보드 두 개랑 모니터 하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "컴퓨터에 키보드가 하나 이상이잖아. 좀 사치스러운 것 같다만."
+    }
+]

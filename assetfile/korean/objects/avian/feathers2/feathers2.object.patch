@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진짜 예쁜 깃털이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "깃털의 미는 부정할 수조차 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안은 형형색색의 새들에게서 떨어진 깃털을 모아 사원을 장식한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "엄청 큰 새한테서 뽑아왔나본데."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 깃털은 어떤 새한테서 왔을까? 아비안 깃털이라기엔 너무 크다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 무슨 생물에게서 기원된 깃털인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란도 깃털 장식한다. 플로란 깃털 기념으로 챙긴다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 깃털 묶음"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "도도하고 아름다운 깃털을 꽃다발처럼 묶어놓았다."
+    }
+]

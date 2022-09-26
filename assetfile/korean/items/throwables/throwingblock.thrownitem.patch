@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "투척 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "던져서 설치할 수 있어!"
+    }
+]

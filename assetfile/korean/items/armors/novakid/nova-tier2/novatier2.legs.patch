@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "노상강도 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "완벽한 도주를 위한 만들어진 가죽 바지이다."
+    }
+]

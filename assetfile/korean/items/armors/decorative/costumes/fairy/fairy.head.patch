@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보석으로 단장돤 파티용 모자, 진짜처럼 보여!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "왕관"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "헤모고블린 모형"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"사실상 붉은 피부로 덮혀있지만, 여전히 꽤 심하다.\"라고 적혀있다."
+    }
+]

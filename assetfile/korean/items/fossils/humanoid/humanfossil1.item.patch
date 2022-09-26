@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "지구를 지배하는 종족, 인간이 화석화된 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "인간 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "인간 머리뼈 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 인간의 머리뼈다."
+    }
+]

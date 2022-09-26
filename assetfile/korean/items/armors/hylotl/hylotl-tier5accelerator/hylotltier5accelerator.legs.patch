@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "가볍고 강한 각반으로, 전사의 걸음에 용기를 불어넣는다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대해 각반"
+    }
+]

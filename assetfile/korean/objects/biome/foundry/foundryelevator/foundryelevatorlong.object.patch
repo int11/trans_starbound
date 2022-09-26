@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "긴 산업용 승강기"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 승강기는 주조 공장에서 일반적으로 보이도록 설계됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "一个坚固的电梯。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "解决多层次厂房问题的最简方案。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "电梯上上上上下下下。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "无趣。一个平淡无奇的电梯。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "一个用以上下层移动的电梯。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "一个工业级电梯。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "某种电梯，还挺有用的！"
+    }
+]

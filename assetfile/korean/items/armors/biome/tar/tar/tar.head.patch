@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뜨거운 타르를 뒤접어 쓰자! 뭐가 잘못되서 놀라는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "타르 가면"
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/panels/2/text",
+        "value": "보유 픽셀 30% 유실"
+    }
+]

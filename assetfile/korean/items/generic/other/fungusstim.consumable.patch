@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 자극제는 자연적으로 치유되는 성질을 갖고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "포자 자극제"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/1",
+        "value": "이 회로는 정말 잘 만들어졌군요. 한참 동안 손상될 것 같진 않군요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "전 여기서 이 배선들이 손상되지 않도록 일하지요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/2",
+        "value": "만족. 전기공학을 배워서 다행이라고 생각하오, 회로란 건 정말 매혹적이라오."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/0",
+        "value": "놀람. 분명 회로를 고치러 왔는데, 모조리 멀쩡하구려."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+        "value": "전기 회로는 정말로 매력적이지 않아?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+        "value": "전기 기기를 고치는 건 정말 예술과도 같은 복잡한 기술이 필요하지. 다행히도, 이 회로들은 멀쩡해 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/1",
+        "value": "플로란이 어떻게 전기공학자를 하게 됐을까? 차라리 찌르고 다니고 싶은데."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/0",
+        "value": "플로란이 전기공학자긴 한데, 플로란은 전기가 어떻게 작동하는진 몰라."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/2",
+        "value": "회로가 넘쳐나는 곳이라면 어디든 가보고 싶지요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/1",
+        "value": "열망. 회로와 전자 기기를 유지 보수하는걸 좋아하지! 직업이기도 하고, 취미이기도 하네."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+        "value": "전기공학자는 예술가와 같이 고결한 사람들이라고. 농담하는 거 아니야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default/2",
+        "value": "플로란은 이 전기공학자 모자가 쌰움에 효과적일지 궁금해."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/2",
+        "value": "이 회로들을 최고의 상태로 유지하기 위해서 일하고 있지요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/1",
+        "value": "일하는 이유요? 회로들이 알아서 자신들을 고치진 않으니까요!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default/0",
+        "value": "전 전기공학자랍니다! 여기 있는 모든 회로가 정상적으로 작동하도록 유지하고 있어요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/2",
+        "value": "분명 회로를 고치러 왔는데, 모두 멀쩡해 보이는 것 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/1",
+        "value": "이 점프슈트는 별로 보기 안 좋군요. 아비안은 이렇게 몸을 많이 가리면 안 되는데!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default/0",
+        "value": "제 모자가 깃털을 계속 간지럽히는군요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "我在这里的工作是检查这里的线路有没有老化。",
+            "这些电路的质量非常好。我不认为近期会老化。",
+            "无论去哪里，我都会绘制电路图。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/human/default",
+        "value": [
+            "我是一名电工！我在这里保证所有的电路正常工作。",
+            "电路不会自我保养。这就是我来这里的原因。",
+            "我在这里让这些电路达到最佳状态！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/floran/default",
+        "value": [
+            "叶族人是个电工，但是叶族人不懂电怎么工作作作。",
+            "因为某种原因，叶族人得到了这份电工的工作…宁愿被捅捅捅。",
+            "叶族人想知知知道电工帽对战斗是否有帮助。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/avian/default",
+        "value": [
+            "我的电工头盔让我的羽毛发痒。",
+            "这件连身裤我穿起来不太好看。翼族人不应该穿那么多！",
+            "我在这里修复电路，但我觉得这些电路看起来都很正常。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/hylotl/default",
+        "value": [
+            "修复电路是一项复杂的艺术。幸运的是，这些电路都没问题。",
+            "电路真是太迷人了。",
+            "电工和艺术家、音乐家一样是一种高尚的职业。我没有开玩笑！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default",
+        "value": [
+            "惊讶。我来修复电路，但它们好像都没问题。",
+            "热切。我喜欢维护电路！这是工作也是爱好。",
+            "愉悦。我很高兴自己懂的电学原理－我觉得电路很迷人。"
+        ]
+    }
+]

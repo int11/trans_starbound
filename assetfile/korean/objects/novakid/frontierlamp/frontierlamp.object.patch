@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "깜빡거리는 기름 등불이 특이하면서도 잔잔해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "부드러운 불꽃이 램프안에서 깜빡거려. 붉은 유리가 따뜻하게 빛나!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "놋쇠 기름 등불이 따뜻하고 붉은 빛을 내뿜는다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 놋쇠 등불은 매우 화려한 금속 공예 장식이 있어. 아주 세밀하게 만들어졌군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "벽걸이 빨강 빛이 안에 있어. 플로란 불안해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 등불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "붉은 유리뚜껑이 달린 벽걸이 가스 등불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这盏灯散发出一股清淡的香水味。也许它用的燃油有着芳香？"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "没有什么比一盏室内油灯更让人有家的感觉了。"
+    }
+]

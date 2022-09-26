@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭘 보고 있는 건지 감이 안 잡히네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "자연은 그야말로 경이롭다니까."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "벌레같이 생겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "혹시 누가 이런 모양으로 자라게 배양한 건 아닐까."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "뱀처럼 생긴 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 자기 DNA 구조의 모양대로 자라는 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "정해진 형샹대로 자라는 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "DNA 식물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "배배 꼬인 식물이다. DNA 모양을 하고 있다."
+    }
+]

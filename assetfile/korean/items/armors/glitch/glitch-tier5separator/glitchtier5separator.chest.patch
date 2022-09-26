@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강한 마음을 지키기는 강한 갑옷, 바이올리움제다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "성기사의 흉갑"
+    }
+]

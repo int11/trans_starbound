@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 더러운 냄새가 나는 식물."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "냄섀나!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유황 식물."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유황성 식물. 코를 막고 접근하자."
+    }
+]

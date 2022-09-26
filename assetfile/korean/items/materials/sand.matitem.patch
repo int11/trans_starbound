@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "헐거운 유사"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유사로군. 떨어질거 같은데..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "不适。要不让这些细散的沙子流进我的组件里有点难。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "泥沙。 都是灰灰…灰！"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "带灰的陈旧的一沓泥沙。"
+    }
+]

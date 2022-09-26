@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미로움. 이 유리는 거의 불투명하지 않은 어두운 색으로 착색되어있소."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 어두운 유리뒤에 슘을 슈 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "해가 세게 빛이나도 유리는 너무 검어."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "검은색으로 착색이 된 유리입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "검은 유리."
+    }
+]

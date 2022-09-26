@@ -1,0 +1,78 @@
+[
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/9",
+        "value": "성격"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/7",
+        "value": "하의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/6",
+        "value": "상의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/5",
+        "value": "얼굴 무늬"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/4",
+        "value": "부리"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/3",
+        "value": "하의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/2",
+        "value": "상의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/1",
+        "value": "털 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/0",
+        "value": "깃털 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "아비안"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "아비안은 에이테르의 날개달린 신 클루엑스를 숭배하는 사회를 중심으로 도는,형형색색의 유사 조류 종족입니다. 이들의 군인은 태어나자마자 어떠한 희생을 치르더라도 그들의 사원을 보호할 용맹한 전사로 훈련받습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/8",
+        "value": "아비안"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels",
+        "value": [
+            "毛色",
+            "羽毛",
+            "上衣",
+            "裤子",
+            "喙",
+            "绒毛",
+            "上衣颜色",
+            "裤子颜色",
+            "翼族",
+            "人物性格"
+        ]
+    }
+]

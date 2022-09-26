@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 덩쿨."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "덩쿨!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "덩쿨."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "덩쿨이다."
+    }
+]

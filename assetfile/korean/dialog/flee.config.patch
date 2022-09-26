@@ -1,0 +1,362 @@
+[
+    {
+        "op": "replace",
+        "path": "/helpme/floran/default/5",
+        "value": "플로란 작샬 없다! 쓔실 슈 없다!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/floran/default/4",
+        "value": "플로란 원예가한테 이를 거다!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/floran/default/3",
+        "value": "플로란 샤냥 준비 안 됐다!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/floran/default/2",
+        "value": "플로란 창 필요하다!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/floran/default/1",
+        "value": "플로란 해치지 마라!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/floran/default/0",
+        "value": "으악! 멈춰!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/apex/default/5",
+        "value": "경보를 울려라!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/apex/default/4",
+        "value": "누가 좀 도와줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/apex/default/3",
+        "value": "경보를 울려라! 모든 경보를 울려라!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/apex/default/2",
+        "value": "공격받고 있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/apex/default/1",
+        "value": "멈춰!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/apex/default/0",
+        "value": "도와주세요!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default/6",
+        "value": "뭐야?! 내가 뭘 어쨌다고!?"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default/5",
+        "value": "악! 멈춰!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default/4",
+        "value": "도움이 필요해! 나 혼자서는 무리야!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default/3",
+        "value": "난 비무장 상태야! 도와줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default/2",
+        "value": "어, 이런."
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default/1",
+        "value": "도와줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default/0",
+        "value": "안 돼! 도와줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/avian/default/5",
+        "value": "악! 도와줘요!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/avian/default/4",
+        "value": "누가 좀 도와줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/avian/default/3",
+        "value": "아이고 깃털이야, 저 공격받고 있어요!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/avian/default/2",
+        "value": "쫓기고 있어요! 누가 좀 도와줘요!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/avian/default/1",
+        "value": "도와줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/avian/default/0",
+        "value": "난 비무장 상태야!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/glitch/default/5",
+        "value": "충격. 무슨 일이오!? 그만두시게!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/glitch/default/4",
+        "value": "공포. 구해주시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/glitch/default/3",
+        "value": "염려. 다가오지 말게! 도와주시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/glitch/default/2",
+        "value": "경악. 어찌 이런 일이!?"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/glitch/default/1",
+        "value": "섬뜩. 해치지 마시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/glitch/default/0",
+        "value": "무서움. 끄아아아! 도와주시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/floran/default/4",
+        "value": "플로란 샬았다!"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/floran/default/3",
+        "value": "플로란 가셔 작샬 가져와야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/floran/default/2",
+        "value": "플로란 무기 없어셔 다행인 줄 알아라."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/floran/default/1",
+        "value": "플로란 굴하지않고 샤낭 계쇽한다."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/floran/default/0",
+        "value": "플로란 무샤하다!"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/default/default/4",
+        "value": "살았다!"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/default/default/3",
+        "value": "안전해졌나?"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/default/default/2",
+        "value": "끝났나?"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/default/default/1",
+        "value": "끝나서 다행이야."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/default/default/0",
+        "value": "휴. 도망친 것 같네."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/avian/default/4",
+        "value": "난 괜찮아!"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/avian/default/3",
+        "value": "아슬아슬했어."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/avian/default/2",
+        "value": "뭐, 일단 지금은 안전하니까."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/avian/default/1",
+        "value": "뭐 이런 시련이."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/avian/default/0",
+        "value": "깃떨리는 일이었네요."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/glitch/default/4",
+        "value": "민망. 기름을 좀 지린 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/glitch/default/3",
+        "value": "희망. 이제 안전한 것이오?"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/glitch/default/2",
+        "value": "피로. 정말 기운빠지는구려."
+    },
+    {
+        "op": "replace",
+        "path": "/safe/glitch/default/1",
+        "value": "즐거움. 살았네!"
+    },
+    {
+        "op": "replace",
+        "path": "/safe/glitch/default/0",
+        "value": "안심. 도망쳤소!"
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/default/default",
+        "value": [
+            "噢不！救命！",
+            "救命！",
+            "哎哟。",
+            "我没武器！救命啊！",
+            "我需要帮忙！我保护不了我自己！",
+            "啊！快停下！",
+            "什么！？我做了什么！？"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/apex/default",
+        "value": [
+            "我需要帮助！",
+            "快停下！",
+            "我正遭到攻击！",
+            "拉响警报！拉响全部警报！",
+            "有没有人救我！",
+            "响起警报！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/avian/default",
+        "value": [
+            "我没武器！",
+            "救命",
+            "我遭到追杀！那个，帮我！",
+            "双羽在上，我正遭到攻击！",
+            "谁来帮我一下！",
+            "啊！救命！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/glitch/default",
+        "value": [
+            "恐惧。哇啊啊！救我！",
+            "害怕。别伤害我！",
+            "震惊。为什么会这样！？",
+            "惊恐。离我远点！救命！",
+            "恐惧。救我！",
+            "震惊。发生了什么！？快停下！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/helpme/floran/default",
+        "value": [
+            "噢！停下！",
+            "别别别伤害叶族人了！",
+            "叶族人需要矛矛矛！",
+            "叶族人还没准备好去打猎！",
+            "叶族人会把你做的事告诉绿手指！",
+            "叶族人没有矛矛矛！叶族人不能捅！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/safe/default/default",
+        "value": [
+            "唷，我想我逃出来了。",
+            "感谢老天，终于结束了。",
+            "都结束了？",
+            "现在安全了吗？",
+            "我活过来了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/safe/avian/default",
+        "value": [
+            "那事害我的羽毛乍起。",
+            "真是场严酷的考验。",
+            "好吧，至少我现在安全了。",
+            "差一点点就完蛋了。",
+            "我安全了！"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/safe/glitch/default",
+        "value": [
+            "放松。我逃出来了！",
+            "轻松。我活下来了！",
+            "疲惫。真令人精疲力竭。",
+            "希望。安全了？",
+            "尴尬。我好像有点漏油。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/safe/floran/default",
+        "value": [
+            "叶族人安安安安全了！",
+            "叶族人活下来了，以后还可以去打猎。",
+            "叶族人没带武器，算你们走运…",
+            "叶族人现在要去拿矛。",
+            "叶族人活活活下来了！"
+        ]
+    }
+]

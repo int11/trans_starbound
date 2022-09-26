@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "왜이런 벽지로 벽을 장식하는 걸 아무도 원하지 않는 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불안정. 이 벽지는 매우 천박하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 예쁜 벽지를 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "불품없는 벽지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "저렴하고, 볼품없는 벽지."
+    }
+]

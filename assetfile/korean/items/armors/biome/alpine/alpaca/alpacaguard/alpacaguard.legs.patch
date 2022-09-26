@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "장갑을 댄 알파카 다리. 단단하면서 폭신폭신하네!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진짜 알파카 경비 다리"
+    }
+]

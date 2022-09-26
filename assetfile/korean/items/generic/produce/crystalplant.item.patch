@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 식물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "수정으로 형성된 식물이다. 멋져!"
+    }
+]

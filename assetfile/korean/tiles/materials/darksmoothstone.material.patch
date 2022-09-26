@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어둡고 매그러운 돌"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "어두워 보이는 검은 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "묘함. 알 수없는 돌로 만들어진 어두운 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드럽고 매끈한 블록이야."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어둡고,  매끄러운 돌 블록이다."
+    }
+]

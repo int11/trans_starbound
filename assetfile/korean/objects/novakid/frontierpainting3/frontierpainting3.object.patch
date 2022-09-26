@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "저 동물이 고귀해보여!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저 그림 속 무시는 가축 치곤 매우 장엄해 보이네"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "그림 속 무시가 아무 당당해 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 이 장염한 동물을 보라!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 작은 샤냥감 잡고 싶어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 무시 그림"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무시가 석양을 등지고 장염하게 있는 모습을 그렸다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "这幅画抓住了这只野生动物的庄严宏伟的一面。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这是只看上去气度不凡的哞西牛。"
+    }
+]

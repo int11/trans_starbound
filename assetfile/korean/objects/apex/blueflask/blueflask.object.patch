@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "파란색은 자연스럽지 못 하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 혼합물은 유독해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "파란 물약? 좋을 리 없겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "냄새가 꼭... 절대 입에 들이기 싫은 그런 냄새다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 혼합물이 초래했을 고통은 신만이 알 일이겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 파란색!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "냄섀 지독해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파란 플라스크."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "파란 용액이 들어있는 플라스크."
+    }
+]

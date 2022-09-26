@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 식물의 열매."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "보라섁 열매."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "식물의 열매다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "식물의 열매."
+    }
+]

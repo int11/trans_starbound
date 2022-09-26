@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내게 필요한 마지막 물건."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀은 포로를 더 정중히 대한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "죄수들이 탈출하지 못 하게 쓰던 장비같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "족쇄라. 죄수 발을 늦추는 원시적인 수단이지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "족쇄라. 지정부를 가리키는 좋은 비유다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "슬픔. 자각을 가진 글리치 대부분이 이런 족쇄에 묶였다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 비슷한 돌덩이로 음식 도망 못 가게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "족쇄"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼마나 무거울 지 궁금하다."
+    }
+]

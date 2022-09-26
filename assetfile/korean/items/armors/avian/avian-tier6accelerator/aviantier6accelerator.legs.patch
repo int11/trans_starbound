@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 슬림하게 마감된 각반은 순수한 솔라리움 실로 짜서 내구성을 강화했다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "앵무새 각반"
+    }
+]

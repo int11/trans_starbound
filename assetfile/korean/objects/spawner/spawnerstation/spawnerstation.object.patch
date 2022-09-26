@@ -1,0 +1,52 @@
+[
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "고용 장치로 도움을 요청하자"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "고용 작업대"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "orange;고용 작업대^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우주 각지의 여러 도우미들을 고용하여 불러올 수 있게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "패스트 푸드?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "我很疑惑我能不能叫一个自由战士过来。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "在阿沃斯上这种技术是有争议的。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "难忘。多么公平的制度。没有领主和夫人，没有微不足道的农民。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "这是在线分类广告的终极进化。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "用来给另一个人带来内心的平静。"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "먼지 껴 보이는 작은 벽돌이네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 작은 블록은 높은 단계의 솜씨를 보여주는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "먼지투셩이 작은 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "작은 사원 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "먼지투성이 하지만 세밀하게 제작된 벽돌이다."
+    }
+]

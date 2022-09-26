@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "슬라임으로 만든 횃불이야. 얼마나 오랫동안 타왔을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "슬라임 횃불. 탈 때 불쾌한 냄새가 나."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "슬라임 횃불은 냄새가 너무 끔찍해서 부리가 다 아파올 지경이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "불타는 찐덕한 슬라임 횃불이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 따위 끔찍한 냄새가 난다니 못 믿겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 슬라임이 초록색으로 타오르는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "횃불이 녹색으로 타오르지만 자연이 아냐."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "슬라임 횃불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "슬라임으로 만든 횃불."
+    }
+]

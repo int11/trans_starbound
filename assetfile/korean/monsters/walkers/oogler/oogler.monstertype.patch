@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오글러"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "처음 보는 생물과 만나면 혼란스러워 한다. 그를 도와줄 수는 없지만, 관찰될 수는 있다."
+    }
+]

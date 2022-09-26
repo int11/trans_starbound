@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이젠 돌아갈 수 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란한테 이래라저래라 하지 마라!"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"돌아가라\"는 낙서. 말 그대로 지켜질 확률: 0."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "그러고 싶네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "정말 뻔뻔하네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "어느 방향에서 읽을지 어떻게 알고 쓴 거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "막다른 길에 닿으면 돌아가도록 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "부정. 싫소."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "낙서"
+    }
+]

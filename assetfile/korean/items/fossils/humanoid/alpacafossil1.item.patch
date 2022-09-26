@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "알파카 머리뼈 화석 (Alpaca Skull)"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석이 된 알파카의 머리뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "알파카 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "오래전에 죽은 알파카의 빽빽하고 단단한 뼈들이다."
+    }
+]

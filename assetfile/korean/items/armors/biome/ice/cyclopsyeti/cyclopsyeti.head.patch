@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "심지어 깜빡이지 않는다! 얼마나 끔찍한가."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외눈박이 설인 마스크"
+    }
+]

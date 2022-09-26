@@ -7,7 +7,7 @@ ko = trans_star.asset('sb_korpatch_union-master')
 ch = trans_star.asset('chinese')
 ko_dirpath = [i for i in ko.get_dirpath(del_absolute_path=True)]
 li = []
-new = trans_star.asset('korean')
+new = trans_star.asset('korea0')
 
 for i in ko.patchfiles:
     temp = new.newPatchAppend(i.dir)

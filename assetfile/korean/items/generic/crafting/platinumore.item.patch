@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이건 백금이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "백금 광석"
+    }
+]

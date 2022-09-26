@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "꽃덩굴"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 덩굴을 팔처럼만 다룰수 있다면..."
+    }
+]

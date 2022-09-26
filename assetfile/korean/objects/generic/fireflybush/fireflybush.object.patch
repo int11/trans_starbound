@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "벌레들이 꼭 작은 양초처럼 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이따금 자연의 아름다움이란 압도적이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "기분을 확 끌어올려주는 생물들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "반딧불이다. 무슨 이유에서인지 이 덤불에 착 달라붙어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 몽환적인 패턴으로 날아다니는 반딧불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "예쁜 반딧불이들이 강강수월래를 춘다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 반짝이는 파리 과일 곁들여셔 먹는다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "반딧불이 덤불"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "빛나는 벌레들이 이 덤불 안에서 살고 있는 것 같다."
+    }
+]

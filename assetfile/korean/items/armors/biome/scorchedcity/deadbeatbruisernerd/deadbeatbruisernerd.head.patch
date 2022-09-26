@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 사나이의 안경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 방어적인 안경은 도금된 가면을 강조한다."
+    }
+]

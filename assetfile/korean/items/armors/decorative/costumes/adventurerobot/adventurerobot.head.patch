@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모험가의 가면"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아직 시제품인  이 가면은 글리치에게서 영감을 얻었다. -사용 안함-"
+    }
+]

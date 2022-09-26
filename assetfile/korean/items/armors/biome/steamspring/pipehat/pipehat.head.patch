@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "증기 기관으로 작동한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "파이프 모자"
+    }
+]

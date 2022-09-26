@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 흔해빠진 물건 주제에 의자에 박힌 수정 하나는 짝퉁이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기 앉을려면 수정 왕관을 써야 하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "반짝이는 아름다운 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 수정 의자는 이색적이고 매혹적이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 의자는 굉장히 가치가 높을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "굉장히 장엄한 수정 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 의자로 괴물 박샬낸다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수정 의자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "군주에게 걸맞는 수정 의자다."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "주의 앙망. 이 늙다리 플랫폼은 걸레짝임."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불안. 이 오래된 나무 플랫폼은 구조적으로 불안정하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "썩고 불안전하다. 플로란 괜찮다고 섕각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래 된 먼지가 가득한 나무 플랫폼이다. 무너질 것처럼 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유적 플랫폼"
+    }
+]

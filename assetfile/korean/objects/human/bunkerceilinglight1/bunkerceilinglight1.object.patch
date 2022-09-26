@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금속 천장 램프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "금속제의 천창 램프다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "평범해 보이는 천장 등."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "천장등."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "매달린 등불."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "별 재미없는 천장 등."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "머리에 쓰는 장비... 잠깐, 그냥 등불이잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "금속에 천장등."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지루함. 평범한 조명기구."
+    }
+]

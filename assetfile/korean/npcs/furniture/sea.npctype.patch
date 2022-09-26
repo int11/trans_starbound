@@ -1,0 +1,68 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/8",
+        "value": "하이로틀 이라도 영원히 숨을 참고 있을순 없어, 이 다이빙 슈트는 수중에서 날 안전하게 보호해주지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/9",
+        "value": "저 미지의 해저로 모험해본적 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/7",
+        "value": "모든 하이로틀은 파도의 아래를 모험하고 싶게 되지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/5",
+        "value": "파도의 아래를 모험하는것... 그것이 내가 꿈꿔오던 일이지."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/4",
+        "value": "파도 아래로 모험 가본적 있나? 용감한자를 위한 보물들이 기다리고 있다고."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "이 다이빙 슈트는 내가 직접 만든거야! 구별이 되나?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "하이로틀들이 파도 밑에서 살았던 때가 있었지..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "다이빙 전에는, 마음을 차분히 가라앉히고, 숨을 가득 쉬고, 집중한다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "보물을 항하여 다이빙 준비 완료!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/6",
+        "value": "나의 다이빙 슈트를 봐 줘. 이 녀석을 어떻게 생각해?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我准备好去潜水寻宝了！",
+            "潜水之前，我必须冷静。深呼吸。保持专注。",
+            "鲛人被认为曾居住在海浪之上…",
+            "你能看出来吗？这套潜水服可是我亲手做的！",
+            "你曾经下海寻宝过吗？宝物就在那里，为勇者准备。",
+            "在海浪之下探险…这就是我经常梦到的事。",
+            "你欣赏我手工制作的潜水服吗？",
+            "所有的鲛人都被海浪下的冒险所深深吸引。",
+            "就算鲛人能够持续呼吸一段时间，这套潜水服能保证我在深海下的安全。",
+            "你还没探索过神秘的深海吗？"
+        ]
+    }
+]

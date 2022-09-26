@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 식물 같은 꼬뚜리."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "식물 꼬투리"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "식물 같은 꼬투리."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "식물 같은 꼬투리."
+    }
+]

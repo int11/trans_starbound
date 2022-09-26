@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지정부 흉갑"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "충성 스러운 지정부 군사를 위해 양산된 흉갑."
+    }
+]

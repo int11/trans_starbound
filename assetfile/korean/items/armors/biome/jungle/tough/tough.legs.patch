@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "근육질 스타일의 바지다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "근육질 바지"
+    }
+]

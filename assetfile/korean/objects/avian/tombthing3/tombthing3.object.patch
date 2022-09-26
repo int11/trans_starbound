@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 우리 글리치는 시신에서 예비 부품을 회수하지. 비슷한 일이 일어났을 수도 있겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 죽은 자는 흙으로 돌아가야 한다고 믿는다. 죽은 자도 그렇다 했을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "열린 돌 무덤"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "열린 돌무덤. 냄새가 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "속이 비었어. 시신은 어디 갔지?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아마도 시신은 좀 더 고결하고 편안한 곳을 받은 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "석관을 감당하지 못하는 자들을 위한 무덤이야. 뚜껑이 열렸었네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "영원히 시간을 보내야하는 우울한 곳이야. 무덤 주인도 똑같이 느낀 거 같네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "장식 없는 무덤. 아니면 시체나."
+    }
+]

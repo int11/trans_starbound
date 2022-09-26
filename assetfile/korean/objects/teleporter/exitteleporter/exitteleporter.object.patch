@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내 우주선으로 돌아가서 다음 모험을 준비할 수 있겠군!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "유용하고 매우 빠르게 복귀하는 장치다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이걸로 난 돌아갈 수 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "난 우주선으로 돌아갈 준비가 됫어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이걸로 내 우주선으로 손쉽게 복귀할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "안도. 이 텔레포터로 내 우주선으로 돌아갈 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "텔레포터로 플로란 돌아간다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 텔레포터는 우주선으로 되돌아가기 위한 장치이다. 떠날 준비를 했다면 작동시키자"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "출구 텔레포테"
+    }
+]

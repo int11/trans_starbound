@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진흙 아니야. 진흙이 아니라... 젖은 흙이야."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "젖은 흙"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "冷漠。这只是普通的泥土混合了水罢了。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "湿湿湿土对植物是很好好好的。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "仅仅是一些看起来湿润的泥土而已。"
+    }
+]

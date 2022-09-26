@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "빨간색 액체로 가득 찬 자극제로, 짧지만 강력한 재생력을 가지고 있다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "빨간색 자극제"
+    }
+]

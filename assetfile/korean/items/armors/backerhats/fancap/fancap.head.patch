@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "스포츠 모자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진정한 팬을 위한 스포츠 야구 모자."
+    }
+]

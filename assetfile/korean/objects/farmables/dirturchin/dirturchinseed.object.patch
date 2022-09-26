@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "땅성게 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "93퍼센트의 인간들이 땅성게 공포증이 있다는 건 통계적으로 증명된 사실이다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "채소라기보단 싸구려 잡초같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "땅성게는 자기들이 자라는 토지마냥 둔한 작물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이걸 먹고자 하는 이유는 내가 이해할 수 있는 범위를 벗어나있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 재미없는 그냥 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "땅성게 작고 둥근 션인장 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "땅성게는 질척이고 물맛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "정말 먹을 게 없으면 땅성게라도 먹어야지."
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "이런 장쇼 너무 좋아. 으시시하잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/npcname",
+        "value": "努鲁"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "我喜欢这这这个地方，这里阴森森的！"
+        ]
+    }
+]

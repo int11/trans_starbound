@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화상 방지 스프레이"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화상과 불타오르는 상황으로 부터 내 몸을 지켜준다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "팔을 괴면 안 되는 식탁."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 재료 하나하나도 정성스레 골라 만들었다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "누워 기대서 다리 뻗기 딱 좋은 식탁이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "잘 만들었지만, 겸손함이 떨어진다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나무를 잘 골랐다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "매력적인 나무 탁자다. 평범한 에이펙스는 이런 건 평생 꿈도 못 꿀 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "완벽한 숌씨다. 에이펙스 목공슐 뛰어나다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작은 저녁 파티를 열기 좋다."
+    }
+]

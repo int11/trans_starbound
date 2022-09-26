@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "함선이 있어? 뒷 마당에 있는 팽귄 배이를 확인해봐! 너같은 여행자에게 유용한걸 많이 팔거든."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "得到了一艘船？你应该经常回企鹅湾看看！我们有很多对于你这样的旅行者来说非常有用的东西。"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 곳을 떠날 시간이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "시작이 있다면 끝이 있는법. 이곳을 나가야할때인듯 하군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "클룩스님 감사합니다. 제가 드디어 나갈 수 있다니."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "제발 이 문이 날 현실로 이끌어주길 바래!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "출구로 보이는 관문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "희망. 확실하게 여기서 나서는 문이길 바랄뿐이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 숀님 문밖에 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "시련의 끝"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 문이 날 확실히 현실로 데려다 주길 바란다!"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "요리 기술을 쓰기 좋은 장소가 여기 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "에이펙스는 보통 이런 카운터에서 식사를 준비하지. 나는, 추천하진 않겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "음식 준비하기 좋은 판이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "음식 준비에 좋은 판."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "먹을 것을 만들기엔 좋은 장소로 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 여기서 식사를 준비할 수 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "으으음, 맛있는 음식을 만들자!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표준 규격 카운터"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "표준 규격의 부엌용 카운터다."
+    }
+]

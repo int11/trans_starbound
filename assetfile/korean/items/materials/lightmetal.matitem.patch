@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "라이트 메탈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "연구동에 어울릴 밝은 금속 타일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchdescription",
+        "value": "认可。这种砖很容易保持无菌状态。"
+    },
+    {
+        "op": "replace",
+        "path": "/florandescription",
+        "value": "光滑的金金金属砖。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakiddescription",
+        "value": "一些金属制的砖。"
+    }
+]

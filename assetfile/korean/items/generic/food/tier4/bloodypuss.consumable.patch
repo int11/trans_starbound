@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "피범벅 고름"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "고기와 고름자두를 쉐이크같이 만든 진한 음료."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달걀 토스트"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한조각의 따뜻한 달걀 도스트다. 맛있군..."
+    }
+]

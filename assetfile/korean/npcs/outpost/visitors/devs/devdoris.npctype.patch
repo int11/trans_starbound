@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕 나는 도리스야. 내 호버보드가 낭떠러지 밖으로 떨어져 버려서 하나 새로 사려고 왔어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "你好我是Doris，我的潜水器掉落悬崖了，我来这边重新买一个。"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거대 안경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "약간 근시인 사람들을 위한 안경이다"
+    }
+]

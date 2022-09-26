@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매혹. 실로 휘황찬란한 나무 바닥이로다!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "비싸뵈는 화려한 바닥이네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 화려한 바닥 걸을 때 기분 샤방샤방하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 바닥"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "유쾌하고 화려한 바닥."
+    }
+]

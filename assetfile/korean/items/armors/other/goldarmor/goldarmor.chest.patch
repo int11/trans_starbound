@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 빛나는 흉갑은 순금으로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금 흉갑"
+    }
+]

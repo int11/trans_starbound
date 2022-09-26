@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "전자 지도 처럼 생겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지도 표시 장치"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "확실히 지도 인데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 우리가 있는 곳의 주요 구역을 표시하는거 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "션 깔끔한거 플로란에겐 있을 슈 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "복도와 방이 이 지도에 표기되고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아마도 이 구역의 지도일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "기초적인 지도 표시기야."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 지도는 중앙의 방에서 여러갈래로 나눠진 복도를 표시하고 있다."
+    }
+]

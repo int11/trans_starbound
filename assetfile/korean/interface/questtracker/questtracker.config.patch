@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/paneLayout/lblQuestObjectiveList/value",
+        "value": "Gather 8 Mangy Wolf Pelts"
+    }
+]

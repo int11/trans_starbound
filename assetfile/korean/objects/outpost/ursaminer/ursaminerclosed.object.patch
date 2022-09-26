@@ -1,0 +1,60 @@
+[
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "곰이야! 가게에 있어! 환상적이야."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "저거 곰인가... 누가 광물을 파는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란, 털복슝이랑 쌰우고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "우르사 광부 상점"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "광석과 채광 도구를 판매하는 상점. 친절한 거래로 유명하다."
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions/1",
+        "value": "내 문제를 처리하러 온거지, 그치?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "这家店可以让你不需要亲自去挖一些重要的矿物。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "吸引。这家店可以让我不需要去挖矿么？"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "我还从未见过如此…毛发浓密的店员。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "这家店的特色就和运营它的大家族一样多。"
+    },
+    {
+        "op": "replace",
+        "path": "/chatOptions",
+        "value": [
+            "最近生意不怎么样…",
+            "你来这是帮我解决问题的，嗯？"
+        ]
+    }
+]

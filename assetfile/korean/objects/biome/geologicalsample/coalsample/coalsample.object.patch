@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "석탄 표본"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "\"석탄의 완벽한 표본이다.\"라고 적혀있다."
+    }
+]

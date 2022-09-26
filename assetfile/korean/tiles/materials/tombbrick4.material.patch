@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "튼튼해 보이는 돌. 촉감이 굉장히 차가운 느낌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불만. 이 거대한 벽돌들은 크기가 균일하지 못해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "큰 셕재 벽돌은 딱딱하고 차갑다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "어두운 무덤 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "만지면 어둡고 차갑다, 이 벽돌은 실내의 열을 빨아 들인다."
+    }
+]

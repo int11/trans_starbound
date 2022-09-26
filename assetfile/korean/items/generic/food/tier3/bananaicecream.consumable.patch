@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바나나 아이스크림"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "크림, 얼음, 바나나. 완벽해."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "호쿠사이드"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "바다 밑에 가라앉은 칼이 입자 가속기 폭발 에 영향을 받아 생겨났다고 전해진다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeParameters/shortdescription",
+        "value": "殺人^yellow;^reset;"
+    }
+]

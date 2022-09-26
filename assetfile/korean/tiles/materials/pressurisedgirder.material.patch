@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "튼튼한 옛날  금속 대들보네."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "박식. 이 대들보는 가압 조절 및 수용하기 위해 만들어졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝이는 튼튼한 금쇽 대들보."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "가압 대들보"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 대들보는 가압 변화를 수용할 수 있도록 설계됬다."
+    }
+]

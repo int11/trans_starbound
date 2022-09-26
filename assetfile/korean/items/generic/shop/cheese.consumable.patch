@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "치즈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "한 조각의 치즈이다."
+    }
+]

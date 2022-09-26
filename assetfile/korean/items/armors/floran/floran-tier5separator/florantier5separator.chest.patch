@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "숨어서 기다리는 조용한 전사들을 위하여."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "채집자의 흉갑"
+    }
+]

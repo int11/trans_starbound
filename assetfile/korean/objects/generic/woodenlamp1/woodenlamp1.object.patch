@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "램프 귀엽네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "예쁜 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작고 좋은 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 나무 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 테이블 램프"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "귀여운 나무 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "예쁜 램프 은은히 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "전기로 작동하는 조그마한 나무 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 심플한 테이블 램프."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사냥용 텅스텐 활"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "몬스터에게서 고기랑 기타 물건을 얻을 수 있다."
+    }
+]

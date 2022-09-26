@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "고기같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 이건 물컹한 살코기로 만들어 졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "질척한 고기."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살덩어리"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "어딘가 징그럽고 고약한 악취가 나는 종류의 살코기."
+    }
+]

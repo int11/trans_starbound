@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "봉고야! 재밌어!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 북의 외형으로 추측컨데, 플로란의 음악은 형편없겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "우리 아비안은 징 소리를 더 좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "식상. 기본적인 악기오. 한가지 소리만 낼 수 있는 듯 하군."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커다란 봉고"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무와 가죽으로 만든 봉고다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "봉고다!"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "봉고다. 에이펙스도 타악기를 즐겨."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 우주 최고의 고슈야."
+    }
+]

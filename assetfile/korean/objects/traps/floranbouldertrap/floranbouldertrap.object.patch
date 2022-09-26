@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "돌 굴러가유!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "제 때에 맞춰 움직이기만 한다면 바위 함정은 피하기 쉬워."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "바위가 내 위에 떨어지게 하긴 싫으니 제 때 움직이는게 좋겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저 작은 구멍에서 바위가 나와."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "타이밍에 맞게 움직인다면 떨어지는 바위를 피할 수 있을 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 구멍에서 무거운 바위가 떨어져."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "플로란 바위 함정"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아무것도 모르는 침입자들 위로 무거운 바위를 떨구는 함정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "失望。谁会制作一个如此有规律落下巨石的陷阱？"
+    }
+]

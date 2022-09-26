@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "제식 턴테이블"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "음악이 나오는 장치군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "억압의 소리."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "알아듣기도 힘든 고음이 흘러나오네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 동네에선 이런 게 음악이랍시고 나온단 말야?"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "소문에 따르면 이 레코드판에 잠재적 메시지가 담겨 있다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "집중. 이 음악에는 음악적 이론이 부족하군. 전언이 숨어 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 드럼이랑 박자 달인이다. 에이펙스 두 번째 최고다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "빅 에이프의 1집 앨범 '정글의 사랑'의 맹렬한 음악이 흘러나온다."
+    }
+]

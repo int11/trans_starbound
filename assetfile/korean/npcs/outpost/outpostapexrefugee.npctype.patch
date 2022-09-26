@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default/0",
+        "value": "안녕하세요, 별의 여행가! 우호적인 사람은 언제든지 환영한답니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "안녕하세요, 별의 여행가! 우호적인 사람은 언제든이 환영한답니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex/0",
+        "value": "여기서라면 우리 둘다 지정부로 부터 자유롭지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "你好，星际旅行者！我永远在这里欢迎你的到来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/default",
+        "value": [
+            "你好，星际旅行者！我永远在这里欢迎你的到来。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/apex/apex",
+        "value": [
+            "我们在这都不再受科技发展部的统治和奴役了！"
+        ]
+    }
+]

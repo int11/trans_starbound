@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 매력적인 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아름다운 꽃이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "아름다운 꽃이다."
+    }
+]

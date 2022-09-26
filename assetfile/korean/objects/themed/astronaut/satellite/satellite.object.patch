@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "인류가 이걸 뭐하러 사용했는지 궁금하네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "인류가 사용한 궤도 인공위성이다. 꽤 독창적인걸."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 인간 우주 장난감이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "미화된 우주쓰레기군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "인간들이 통신에 미쳐있었다는거에 대한 증명이지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래전의 인공위성이야. 작동은 안하지만 멋져보이는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 인류의 기술은 나에게 영감을 선사하지."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "인공위성 모형."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지구의 옛 인공위성을 본뜬 모형이다."
+    }
+]

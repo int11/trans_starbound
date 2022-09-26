@@ -1,0 +1,7 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 희미하게 빛나는 액체는 급격한 재생을 실현시킨다!"
+    }
+]

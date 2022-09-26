@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "호랑이를 닮아보인다. 진짜 호랑이 모피인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "호랑이 모자"
+    }
+]

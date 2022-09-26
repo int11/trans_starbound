@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 얼음 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "차가운 얼음!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "얼음으로 된 블럭이다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "얼음으로 된 블럭이다."
+    }
+]

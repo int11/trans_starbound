@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "의무병 배낭"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "의무병의 전투용 배낭이다"
+    }
+]

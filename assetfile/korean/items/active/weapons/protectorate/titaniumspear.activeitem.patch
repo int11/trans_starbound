@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "티타늄 창"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 창으로 적들을 꽤어버리자"
+    }
+]

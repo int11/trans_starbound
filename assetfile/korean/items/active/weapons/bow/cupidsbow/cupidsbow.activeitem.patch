@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "큐피드의 활"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 활에서 쏘아진 화살은 해방된 열정을 불러 일으킵니다."
+    }
+]

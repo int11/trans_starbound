@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "바나나처럼 부드럽지만 끔찍한 쇠맛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "금속 채소라고? 뭐든 먹어봐야지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "징그러워. 꼭 트럭 한 대를 먹어치우는 것 같잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감성. 고향의 맛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "푹신한 금쇽, 글리치 샬 같지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "배교자들은 이런 이상한 금속성 채소에 매료된다고 하던데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "전문가들 의견에 따르면 볼트구근은 얼마 안 되는 정말로 맛있는 채소라고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "볼트구근 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "볼트구근이 자란다. 놀랍게도 부드럽다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "그냥 뼈다귀 보다 무서워 보이는건 날으는 뼈다귀지!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈다귀 날개"
+    }
+]

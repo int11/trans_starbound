@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 금 블록들."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "완전히 순금인 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이야후! 순금으로 된 빛나는 블록들!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "환희. 이 블록은 완전히 순금으로 만들어져있소."
+    }
+]

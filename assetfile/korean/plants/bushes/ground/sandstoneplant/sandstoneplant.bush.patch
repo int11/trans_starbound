@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 모래 관목."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "모래로 뒤덮였어."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "모래 관목"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "모래 관목이다."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오싹한 뼈 풍경 같은거다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바람에 뼈들이 흔들리는 소리가 소름돋네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 뼈들이 내는 덜그럭거리는 소리가 날 불안하게 해."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "으스스한 뼈 풍경이야. 진짜 풍경보다는 덜그럭거리긴 하네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 뼈들은 바람에 덜그럭덜그럭거린다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "동요. 이 뼈들이 내는 소리는 벌레가 우는 소리와 비슷하군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 바람에 흔들리는 뼈 쇼리 좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "커다란 뼈 풍경"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "소름끼치는 풍경처럼 뼈 한줄이 천장에 걸려있다."
+    }
+]

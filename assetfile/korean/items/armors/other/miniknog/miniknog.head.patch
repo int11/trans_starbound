@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지정부 핼멧"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "지정부 군사가 쓰는 군 표준 핼멧."
+    }
+]

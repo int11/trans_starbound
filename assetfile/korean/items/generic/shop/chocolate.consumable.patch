@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "초콜릿"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "객관적으로 가장 좋은 물건이다."
+    }
+]

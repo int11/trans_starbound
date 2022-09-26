@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "축구공이다. 최근 들어 어린 하이로틀 사이에서 큰 인기를 얻고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "통통 튀기는 공이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "축구공이다! 여기서 보게 되다니 반갑네."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "스포츠용 공 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 왜 공에 점박이 무늬를 찍어놨을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거로 뭐하냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "축구공이다... 아식축구공이라 해도 되고, 부르는 사람 맘대로."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아마도 장식물일 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "축구공"
+    }
+]

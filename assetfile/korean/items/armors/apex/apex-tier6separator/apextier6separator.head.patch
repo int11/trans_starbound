@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "믿기지 않는 내구력을 재공하는 이 핼멧은 공포를 전달하는데 적합하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "최전방군의 철모"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "머리 위에서 내려찍는 공격을 막기 위한 철제 서클렛. 내가 날수만 있었더라면 이런 건 필요가 없었을 텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "해츨링의 서클렛"
+    }
+]

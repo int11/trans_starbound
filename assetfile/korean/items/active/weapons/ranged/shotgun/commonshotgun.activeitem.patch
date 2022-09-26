@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "위협적인 위력의 총으로 거리는 짧지만 넓은 반경을 쏠 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "흔한 산탄총"
+    }
+]

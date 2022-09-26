@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "피빛을 가진 어마어마한 힘의 각반."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "신전기사의 각반"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "팝콘"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "뜨거운 만큼 팡팡 튄다!"
+    }
+]

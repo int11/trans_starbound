@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "슬라임 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "젤리 웅덩이 속을 걷는듯한 느낌의 바지다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "보호구로선 가치가 적은 가죽띠."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 가죽띠"
+    }
+]

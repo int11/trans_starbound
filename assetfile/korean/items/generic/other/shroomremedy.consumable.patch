@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯 물약"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "자연 치유 효과가 있는 물약이다."
+    }
+]

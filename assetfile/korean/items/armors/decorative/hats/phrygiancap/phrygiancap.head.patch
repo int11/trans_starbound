@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "과거의 향수로부터 무언가 떠오르는듯 한 프리지아 모자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "프리지아 모자"
+    }
+]

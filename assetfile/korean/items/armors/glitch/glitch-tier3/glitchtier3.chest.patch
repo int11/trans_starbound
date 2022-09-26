@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "무거운 티타늄 흉갑으로 무장하고 전장에 자신감있게 출전하자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기사의 흉갑"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "작은 냉장고군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "물속에선, 냉장이 쉽지.  이 기기는 정교한 대용품이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "소형 냉장고. 음료와 과자들로 완벽하게  가득 채워져있지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작은 냉장고로군. 부디 안에 바나나 밀크쉐이크가 있었음 좋겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 소형 냉장고는 최적의 온도로 가동되고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 고기 냄섀 난다. 아마 안에 고기있겠지?"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "소형 냉장고."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "음식을 신선하게 보관하기에 안성맞춤이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "我正因为想象着这里面可能会有的东西而激动地流着口水。"
+    }
+]

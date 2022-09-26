@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "핫하디 핫한 고기찜"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "정말 완벽하게 핫해."
+    }
+]

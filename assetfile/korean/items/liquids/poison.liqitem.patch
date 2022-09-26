@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "독극물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강력한 독극물이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "순금으로 덮힌 튼튼한 투구"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "금 투구 "
+    }
+]

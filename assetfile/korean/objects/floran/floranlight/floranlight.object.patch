@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란의 전등은 해에서 전력을 얻어. 해가 지면 셔셔히 빛을 방출해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "벽에서 전등이 자라고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "소름끼치는 녹색 빛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "인상. 이 꼬투리의 성장은 정확하게 조절되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "줄기 벽등"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 꼬투리들은 전혀 자연스럽지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "녹색 불빛이 불쾌해."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 꼬투리는 자연적으로 녹색 빛을 발한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "我想知道你们是怎么控制这些植物灯长在哪里的。"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 매달린 용암석."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "타는 도오올."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매달린 용암석."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "매달린 용암석."
+    }
+]

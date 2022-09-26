@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "산호 짹생선"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "즐거울 때는 지저귄다. 자신이 새라고 생각하는걸까?"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "군수품 수준의 전자동 소총이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "희귀한 돌격 소총"
+    }
+]

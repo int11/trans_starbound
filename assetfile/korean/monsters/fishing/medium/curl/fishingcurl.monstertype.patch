@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "은빛 감꾸라지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "삶을 살아가면서 계속 몸을 감는다, 정확히는 더이상 수영을 할 수 없을정도로 감을때 까지."
+    }
+]

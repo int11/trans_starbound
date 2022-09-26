@@ -1,0 +1,47 @@
+[
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "작고 바삭바삭한 콩이다. 물 밑에선 꽤나 귀하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "진주콩은 잠깐동안 쪼아대기에 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진주콩은 내 권총에 딱 들어맞아! 뿅 뿅!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자랑. 글리치의 이빨은 진주콩을 순식간에 먹을 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "작고 딱딱한 공. 플로란 이거 무기로도 쎠봤다."
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진주콩. 꽤나 힘들여서 씹어야 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "콩 같지만 치통이 가미되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "바삭한 콩이 이빨 여럿 작살냈다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "진주콩 씨앗"
+    }
+]

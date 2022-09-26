@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물웅덩이 바지"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "황당한 이름이 붙은, 철로 만든 편안하고 세련된 바지"
+    }
+]

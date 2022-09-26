@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돈 자루"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "귀중품으로 가득찬 자루"
+    }
+]

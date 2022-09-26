@@ -1,0 +1,17 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "독 내성 증가 확장부품"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "독에 대한 강력한 저항력을 주는 EPP 확장 부품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/augment/displayName",
+        "value": "抗毒增强"
+    }
+]

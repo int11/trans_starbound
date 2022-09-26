@@ -1,0 +1,27 @@
+[
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나한텐 큰 금속 골조로 보이는데."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 대들보는 일반적으로 관문기지 건설에 이용된다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "지지대 다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "관문기지 지지대"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "강화된 지지대 이다."
+    }
+]

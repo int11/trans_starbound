@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "치유수 담긴 병"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 물의 회복력은 어마어마하다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "티라노사우르스 다리 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 티라노사우르스의 다리와 엉덩이다."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "독무 잼 도넛"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "흔한 도넛 에다가 독무 잼을 발랐다."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/3",
+        "value": "대목의 선율\n노래를 탄 변조에\n세를 넘긴다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/2",
+        "value": "이 나무는 수세기를 살아왔지, 보호국의 힘과 존엄의 상징이야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/1",
+        "value": "어떤 상황은 서두름이 필요하겠지만, 삶의 작은 순간의 가치를 무시하고 넘기지마."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "잠시 나와 같이 앉아서 이 아름다운 꽃들을 즐겨보자."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "和我坐一会吧，让我们一起欣赏这些美丽的花儿。",
+            "某些情况下需要人们匆忙应对，但不要让生活中美好的瞬间在你的指缝溜走。",
+            "这棵树已经站立了好几个世纪，他就是守护团力量和尊严的象征。",
+            "雄伟的树上的风铃摇动。\n风中奏响了未来变化莫测的歌曲。\n流年似水花瓣凋落。"
+        ]
+    }
+]

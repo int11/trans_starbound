@@ -1,0 +1,38 @@
+[
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default/0",
+        "value": "사과. 검은 갑주를 입은 제 동료가 당신과 말을 나누려고 하지 않아도 너무 기분 상해하진 마세요, 그는 말하는 걸 별로 좋아하지 않습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default/0",
+        "value": "사과. 검은 갑주를 입은 제 동료가 당신과 말을 나누려고 하지 않아도 너무 기분 상해하진 마세요, 그는 말하는 걸 별로 좋아하지 않습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
+        "value": "무념. 이것들에 대해서 알게되기 전엔 참으로 간단한 삶이였지, 안그런가?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/default/default",
+        "value": [
+            "愧疚。如果我黑色的战友不跟你说话的话请不要生气。他不怎么键谈。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/default",
+        "value": [
+            "愧疚。如果我黑色的战友不跟你说话的话请不要生气。他不怎么键谈。"
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/dialog/converse/glitch/glitch",
+        "value": [
+            "沉思。在我们掌握…一切之前，生活应该并不容易？"
+        ]
+    }
+]

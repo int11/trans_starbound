@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 특이한 돌출부"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "으스스한 모오양"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "기묘한 돌출부"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "기묘한 돌출부"
+    }
+]
