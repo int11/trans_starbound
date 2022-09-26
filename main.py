@@ -13,6 +13,8 @@ from PyQt5.Qt import QFileSystemModel
 class patch_viewer(QTreeView):
     def __init__(self, parent):
         super().__init__(parent)
+        self.lines = None
+        self.selectindex = None
         self.setEditTriggers(QAbstractItemView.DoubleClicked)
 
         self.model = QStandardItemModel()
@@ -37,12 +39,18 @@ class patch_viewer(QTreeView):
                                i.value if isinstance(i.value, str) else json.dumps(i.value, ensure_ascii=False))
 
     def textchange(self):
-        value = self.koreatext.toPlainText()
-        self.model.setData(self.model.index(self.selectindex, 1), value)
-        typ = type(self.lines[self.selectindex].value)
-        value = value if typ == str else json.loads(value, strict=False)
-        print(type(value))
-        print(value)
+        if not self.selectindex is None:
+            value = self.koreatext.toPlainText()
+            self.model.setData(self.model.index(self.selectindex, 1), value)
+            typ = type(self.lines[self.selectindex].value)
+            self.lines[self.selectindex].value = value if typ == str else json.loads(value, strict=False)
+            self.lines[self.selectindex].target_patch.save(False)
+
+    def clear(self):
+        self.lines = None
+        self.selectindex = None
+        self.koreatext.clear()
+        self.originaltext.clear()
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
@@ -105,11 +113,12 @@ class Form(QWidget):
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
+        self.viewer.clear()
+
         model = self.sender().model
         indexitem = model.index(index.row(), 0, index.parent())
         filename = model.fileName(indexitem)
         filepath = model.filePath(indexitem)
-
         ex = os.path.splitext(filename)[1]
 
         if ex == '.patch':
@@ -125,7 +134,6 @@ if __name__ == "__main__":
     # ch = asset('chinese')
 
     app = QApplication(sys.argv)
-
     form = Form()
     form.show()
     exit(app.exec_())

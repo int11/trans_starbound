@@ -97,8 +97,9 @@ class patchfile:
         self.lines.append(l)
         return l
 
-    def save(self):
-        assert not os.path.exists(self.get_dir()), 'must save other directory for protect data'
+    def save(self, must=True):
+        if must:
+            assert not os.path.exists(self.get_dir()), 'must save other directory for protect data'
         if not os.path.exists(os.path.dirname(self.get_dir())):
             os.makedirs(os.path.dirname(self.get_dir()))
         js = []
