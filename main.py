@@ -34,13 +34,13 @@ class patch_viewer(QTreeView):
             self.model.insertRow(e)
             self.model.setData(self.model.index(e, 0), i.path)
             self.model.setData(self.model.index(e, 1),
-                               json.dumps(i.value, ensure_ascii=False) if isinstance(i.value, dict) else i.value)
+                               i.value if isinstance(i.value, str) else json.dumps(i.value, ensure_ascii=False))
 
     def textchange(self):
         value = self.koreatext.toPlainText()
         self.model.setData(self.model.index(self.selectindex, 1), value)
         typ = type(self.lines[self.selectindex].value)
-        value = json.loads(value, strict=False) if typ == dict else value
+        value = value if typ == str else json.loads(value, strict=False)
         print(type(value))
         print(value)
 
@@ -54,7 +54,7 @@ class patch_viewer(QTreeView):
             self.originaltext.setPlainText("""This line "op" flag is "add" """)
         elif op == 'replace':
             org = self.lines[self.selectindex].original_value('english')
-            self.originaltext.setPlainText(json.dumps(org, ensure_ascii=False) if isinstance(org, dict) else org)
+            self.originaltext.setPlainText(json.dumps(org if isinstance(org, str) else org, ensure_ascii=False))
         else:
             print(f"Not consider this line op flag : {op}")
             raise
