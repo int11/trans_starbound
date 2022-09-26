@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/category",
-        "value": "蓝图"
+        "value": "청사진"
     }
 ]

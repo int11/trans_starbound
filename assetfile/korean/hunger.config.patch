@@ -2,91 +2,91 @@
     {
         "op": "replace",
         "path": "/1/up/0",
-        "value": "这是在开玩笑吗？"
+        "value": "장난해?"
     },
     {
         "op": "replace",
         "path": "/1/down/0",
-        "value": "告别悲惨世界"
+        "value": "안녕, 잔혹한 세상"
     },
     {
         "op": "replace",
         "path": "/5/up/0",
-        "value": "如果得不到更多我就会死"
+        "value": "더 먹지못하면 죽을거야"
     },
     {
         "op": "replace",
         "path": "/5/down/0",
-        "value": "我看到了亮光…"
+        "value": "빛이 보인다.."
     },
     {
         "op": "replace",
         "path": "/10/up/0",
-        "value": "更多，更多！我需要更多！"
+        "value": "더, 더! 더 필요해!"
     },
     {
         "op": "replace",
         "path": "/10/down/0",
-        "value": "我几乎站不稳."
+        "value": "서 있을수 없어"
     },
     {
         "op": "replace",
         "path": "/15/up/0",
-        "value": "必须找到更多食物！"
+        "value": "더 많은 음식이 필요해!"
     },
     {
         "op": "replace",
         "path": "/15/down/0",
-        "value": "我受不了了！"
+        "value": "더 이상은 못참아!"
     },
     {
         "op": "replace",
         "path": "/25/up/0",
-        "value": "我需要更多！"
+        "value": "더 필요해!"
     },
     {
         "op": "replace",
         "path": "/25/down/0",
-        "value": "好饿…"
+        "value": "배애애애고파..."
     },
     {
         "op": "replace",
         "path": "/50/up/0",
-        "value": "我还很饿"
+        "value": "아직 배고파"
     },
     {
         "op": "replace",
         "path": "/50/down/0",
-        "value": "非常饿"
+        "value": "많이 배고파"
     },
     {
         "op": "replace",
         "path": "/75/up/0",
-        "value": "好点了"
+        "value": "조금 나아졌다"
     },
     {
         "op": "replace",
         "path": "/75/down/0",
-        "value": "饿死了"
+        "value": "출출한데"
     },
     {
         "op": "replace",
         "path": "/99/up/0",
-        "value": "唔，吃饱了！"
+        "value": "음, 배불러!"
     },
     {
         "op": "replace",
         "path": "/99/down/0",
-        "value": "唔，吃饱了！"
+        "value": "음, 배불러!"
     },
     {
         "op": "replace",
         "path": "/100/up/0",
-        "value": "唔，吃饱了！"
+        "value": "음, 배불러!"
     },
     {
         "op": "replace",
         "path": "/100/down/0",
-        "value": "唔，吃饱了！"
+        "value": "음, 배불러!"
     }
 ]

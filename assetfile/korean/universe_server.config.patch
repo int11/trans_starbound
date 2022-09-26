@@ -2,11 +2,11 @@
     {
         "op": "replace",
         "path": "/serverAssetsMismatchMessage",
-        "value": "该服务器不允许资源不匹配的客户端进行连接"
+        "value": "이 서버는 리소스가 일치하지 않는 클라이언트의 연결을 허용하지 않습니다."
     },
     {
         "op": "replace",
         "path": "/clientAssetsMismatchMessage",
-        "value": "客户端和服务端资源不匹配，且并未被设置为忽略"
+        "value": "클라이언트와 서버 간에 리소스가 불일치하며, 무시되도록 설정되어 있지 않음"
     }
 ]
