@@ -104,7 +104,6 @@ class patchfile:
             os.makedirs(os.path.dirname(self.get_dir()))
         js = []
         for i in self.get_lines():
-            print(i.get_dirpath(), i.value)
             js.append({'op': i.op, 'path': i.path, 'value': i.value})
 
         with open(self.get_dir(), 'w', encoding='UTF-8') as f:
