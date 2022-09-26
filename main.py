@@ -25,6 +25,7 @@ class patch_viewer(QTreeView):
         self.koreatext = QPlainTextEdit(parent)
         self.koreatext.textChanged.connect(self.textchange)
         self.originaltext = QPlainTextEdit(parent)
+        self.originaltext.setReadOnly(True)
 
     def reload(self, lines):
         self.lines = lines
@@ -48,8 +49,15 @@ class patch_viewer(QTreeView):
         self.selectindex = index.row()
         indexitem = self.model.index(index.row(), 1, index.parent())
         self.koreatext.setPlainText(indexitem.data())
-        org = self.lines[self.selectindex].original_value('english')
-        self.originaltext.setPlainText(json.dumps(org, ensure_ascii=False) if isinstance(org, dict) else org)
+        op = self.lines[self.selectindex].op
+        if op == 'add':
+            self.originaltext.setPlainText("""This line "op" flag is "add" """)
+        elif op == 'replace':
+            org = self.lines[self.selectindex].original_value('english')
+            self.originaltext.setPlainText(json.dumps(org, ensure_ascii=False) if isinstance(org, dict) else org)
+        else:
+            print(f"Not consider this line op flag : {op}")
+            raise
 
 
 class explorer(QTreeView):
