@@ -52,6 +52,7 @@ class patch_viewer(QTreeView):
         self.selectindex = None
         self.koreatext.clear()
         self.originaltext.clear()
+        self.model.removeRows(0, self.model.rowCount())
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
@@ -78,8 +79,7 @@ class explorer(QTreeView):
 
         self.model = QFileSystemModel()
         # set path
-        path = os.getcwd()
-        path = os.path.join(path, 'assetfile', asset)
+        path = assetpath
         self.model.setRootPath(path)
         # set model
         self.setModel(self.model)
@@ -120,11 +120,11 @@ class Form(QWidget):
         ex = os.path.splitext(filename)[1]
 
         if ex == '.patch':
-            a = patchfile(del_absolute_path(filepath[len(os.getcwd()) + 1:]), 'assetfile\\korean')
+            a = patchfile(filepath[len(assetpath)+1:], assetpath)
             lines = [i for i in a.get_lines()]
             self.viewer.reload(lines)
 
-
+assetpath = os.path.abspath('assetfile\\korean')
 app = QApplication(sys.argv)
 form = Form()
 form.show()

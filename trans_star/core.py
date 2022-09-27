@@ -21,7 +21,6 @@ class line:
     def original_value(self, originalAssetName='original'):
         if self.op == 'add':
             return None
-
         temp = self.path.split('/')[1:]
         asdf = os.path.join('assetfile', originalAssetName, self.get_dir(True, True))
 
