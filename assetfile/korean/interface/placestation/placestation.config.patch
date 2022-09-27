@@ -77,7 +77,7 @@
     {
         "op": "replace",
         "path": "/connect/successText",
-        "value": "^green;建立高带宽连接\n传输系统数据中"
+        "value": "^green;고대역폭 연결 설정\n시스템 데이터 전송 중"
     },
     {
         "op": "replace",
@@ -87,6 +87,6 @@
     {
         "op": "replace",
         "path": "/descriptionLabel",
-        "value": "描述 > "
+        "value": "묘사 > "
     }
 ]

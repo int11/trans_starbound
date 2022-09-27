@@ -2,16 +2,16 @@
     {
         "op": "replace",
         "path": "/maxDamageTitleLabel/value",
-        "value": "基础最大伤害："
+        "value": "기본 최대 데미지："
     },
     {
         "op": "replace",
         "path": "/energyPerShotTitleLabel/value",
-        "value": "每击耗能："
+        "value": "발사당 에너지："
     },
     {
         "op": "replace",
         "path": "/descriptionLabel/value",
-        "value": "从怪物身上收获肉和其他好东西。"
+        "value": "몬스터로부터 고기 및 기타 좋은 물품을 수확합니다."
     }
 ]

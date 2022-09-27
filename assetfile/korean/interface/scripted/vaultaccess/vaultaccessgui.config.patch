@@ -22,6 +22,6 @@
     {
         "op": "replace",
         "path": "/gui/lblTimeDescription/value",
-        "value": "剩余时间："
+        "value": "남은시간："
     }
 ]

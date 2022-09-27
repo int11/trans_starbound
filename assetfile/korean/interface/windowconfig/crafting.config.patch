@@ -2,41 +2,41 @@
     {
         "op": "replace",
         "path": "/paneLayout/windowtitle/title",
-        "value": " 基础合成"
+        "value": " 기본 제작"
     },
     {
         "op": "replace",
         "path": "/paneLayout/windowtitle/subtitle",
-        "value": "^#b9b5b2;只有你，你包里的原料和你的手^green;[C]"
+        "value": "^#b9b5b2;오직 너, 너의 재료, 그리고 너의 손^green;[C]"
     },
     {
         "op": "replace",
         "path": "/paneLayout/lblSchematics/value",
-        "value": "^#b9b5b2;蓝图"
+        "value": "^#b9b5b2;청사진"
     },
     {
         "op": "replace",
         "path": "/paneLayout/lblProducttitle/value",
-        "value": "^#b9b5b2;生产"
+        "value": "^#b9b5b2;완성품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/btnCraft/caption",
-        "value": "制作"
+        "value": "제작"
     },
     {
         "op": "replace",
         "path": "/paneLayout/btnStopCraft/caption",
-        "value": "停止"
+        "value": "정지"
     },
     {
         "op": "replace",
         "path": "/paneLayout/lblProduct/value",
-        "value": "可用材料"
+        "value": "제작가능한 물품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/filter/hint",
-        "value": "搜索"
+        "value": "검색"
     }
 ]

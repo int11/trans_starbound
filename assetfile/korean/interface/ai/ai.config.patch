@@ -2,7 +2,7 @@
     {
         "op": "replace",
         "path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/missionName/value",
-        "value": "mission name"
+        "value": "임무 이름"
     },
     {
         "op": "replace",
@@ -52,7 +52,7 @@
     {
         "op": "replace",
         "path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/missionText/value",
-        "value": "mission text"
+        "value": "임무 내용"
     },
     {
         "op": "replace",
@@ -62,7 +62,7 @@
     {
         "op": "replace",
         "path": "/guiConfig/homeBreadcrumb/value",
-        "value": "HOME"
+        "value": "집"
     },
     {
         "op": "replace",
@@ -72,26 +72,26 @@
     {
         "op": "replace",
         "path": "/defaultRecruitName",
-        "value": "炮灰"
+        "value": "Cannon Fodder"
     },
     {
         "op": "replace",
         "path": "/defaultRecruitDescription",
-        "value": "> 没有数据。"
+        "value": "> 데이터가 없습니다."
     },
     {
         "op": "replace",
         "path": "/missionBreadcrumbText",
-        "value": "任务"
+        "value": "임무"
     },
     {
         "op": "replace",
         "path": "/missionDeployText",
-        "value": "部署"
+        "value": "DEPLOY"
     },
     {
         "op": "replace",
         "path": "/crewBreadcrumbText",
-        "value": "船员"
+        "value": "승무원"
     }
 ]

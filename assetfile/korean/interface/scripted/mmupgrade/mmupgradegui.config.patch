@@ -87,7 +87,7 @@
     {
         "op": "replace",
         "path": "/upgrades/range2/description",
-        "value": "기기의 사거리가 2칸 증가합니다."
+        "value": "기기의 사거리가 4칸 증가합니다."
     },
     {
         "op": "replace",
@@ -97,7 +97,7 @@
     {
         "op": "replace",
         "path": "/upgrades/range3/description",
-        "value": "기기의 사거리가 2칸 증가합니다."
+        "value": "기기의 사거리가 6칸 증가합니다."
     },
     {
         "op": "replace",
@@ -107,6 +107,6 @@
     {
         "op": "replace",
         "path": "/defaultDescription",
-        "value": "选择一项升级来查看升级所需和升级内容"
+        "value": "필요량과 내용을 보려면 업그레이드 항목을 선택하십시오"
     }
 ]

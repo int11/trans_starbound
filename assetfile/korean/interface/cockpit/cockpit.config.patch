@@ -682,7 +682,7 @@
     {
         "op": "replace",
         "path": "/jumpDialog/invalid",
-        "value": "FTL 항해는 ^red;%i 연료^reset;를 필요로 합니다.\n연료가 부족합니다."
+        "value": "FTL 항해는 ^red;%i 연료^reset;를 필요로 합니다.\n 연료가 부족합니다."
     },
     {
         "op": "replace",
@@ -744,24 +744,24 @@
         "op": "replace",
         "path": "/jumpDialog",
         "value": {
-            "valid": "超光速航行将消耗^green;%s燃料^reset;。\n点击确认以继续。",
-            "invalid": "超光速航行需要^red;%i燃料^reset;。\n没有足够的燃料以继续。"
+            "valid": "FTL 항해는 ^green;%s 연료^reset;를 사용할 것입니다.\n계속할 것인지 확인해주세요.",
+            "invalid": "FTL 항해는 ^red;%i 연료^reset;를 필요로 합니다.\n 연료가 부족합니다."
         }
     },
     {
         "op": "replace",
         "path": "/topLeftButtonTooltips",
         "value": {
-            "showBookmarkList": "标签",
-            "goToShip": "查看飞船",
-            "goToQuest": "查看任务地点",
-            "showCoordinates": "坐标"
+            "showBookmarkList": "북마크",
+            "goToShip": "함선보기",
+            "goToQuest": "미션장소보기",
+            "showCoordinates": "좌표"
         }
     },
     {
         "op": "replace",
         "path": "/gui/editBookmarkFrame/children/name/hint",
-        "value": "输入标签名"
+        "value": "북마크 이름 입력"
     },
     {
         "op": "replace",
@@ -771,91 +771,91 @@
     {
         "op": "replace",
         "path": "/gui/clusterinfo/children/inner/children/name/value",
-        "value": "这是个集群"
+        "value": "이것은 클러스터다"
     },
     {
         "op": "replace",
         "path": "/gui/clusterinfo/children/inner/children/moons/value",
-        "value": "很多卫星"
+        "value": "많은 위성"
     },
     {
         "op": "replace",
         "path": "/gui/objectinfo/children/inner/children/name/value",
-        "value": "空间对象"
+        "value": "우주 물체"
     },
     {
         "op": "replace",
         "path": "/gui/objectinfo/children/inner/children/description/value",
-        "value": "这是个非常好的空间对象"
+        "value": "이것은 매우 좋은 우주 물체"
     },
     {
         "op": "replace",
         "path": "/gui/objectinfo/children/inner/children/bookmark/caption",
-        "value": "添加标签"
+        "value": "북마크 추가"
     },
     {
         "op": "replace",
         "path": "/gui/systeminfo/children/inner/children/type/value",
-        "value": "星球类型"
+        "value": "별 유형"
     },
     {
         "op": "replace",
         "path": "/gui/systeminfo/children/inner/children/name/value",
-        "value": "系统"
+        "value": "시스템"
     },
     {
         "op": "replace",
         "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
-        "value": "星球种类"
+        "value": "행성 유형"
     },
     {
         "op": "replace",
         "path": "/gui/planetinfo/children/inner/children/name/value",
-        "value": "这是个星球"
+        "value": "이것은 행성이다"
     },
     {
         "op": "replace",
         "path": "/gui/planetinfo/children/inner/children/description/value",
-        "value": "此星球的描述"
+        "value": "이 행성에 대한 설명"
     },
     {
         "op": "replace",
         "path": "/gui/systemName/value",
-        "value": "系统名"
+        "value": "시스템명"
     },
     {
         "op": "replace",
         "path": "/planetInfoBox/bookmarkButtonCaption",
         "value": {
-            "add": "添加标签",
-            "edit": "编辑标签",
-            "disabled": "无法标签"
+            "add": "북마크 추가",
+            "edit": "북마크 편집",
+            "disabled": "북마크할 수 없음"
         }
     },
     {
         "op": "replace",
         "path": "/clusterInfoBox/viewButtonCaption",
         "value": {
-            "enabled": "查看",
-            "disabled": "未探索"
+            "enabled": "탐색",
+            "disabled": "미탐색"
         }
     },
     {
         "op": "replace",
         "path": "/objectInfoBox/bookmarkButtonCaption",
         "value": {
-            "add": "添加标签",
-            "edit": "编辑标签",
-            "disabled": "无法标签",
-            "unexplored": "未探索"
+            "add": "북마크 추가",
+            "edit": "북마크 편집",
+            "disabled": "북마크할 수 없음",
+            "unexplored": "미탐색"
         }
     },
     {
         "op": "replace",
         "path": "/systemInfoBox/viewButtonCaption",
         "value": {
-            "enabled": "查看",
-            "disabled": "未探索"
+            "enabled": "탐색",
+            "disabled": "미탐색"
         }
     }
 ]

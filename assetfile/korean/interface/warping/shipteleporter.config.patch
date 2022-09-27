@@ -2,7 +2,7 @@
     {
         "op": "replace",
         "path": "/destinations/0/name",
-        "value": "빔 다운"
+        "value": "행성으로 전송"
     },
     {
         "op": "replace",
@@ -12,7 +12,7 @@
     {
         "op": "replace",
         "path": "/destinations/1/name",
-        "value": "메크 전개"
+        "value": "기체 배치"
     },
     {
         "op": "replace",
@@ -23,8 +23,8 @@
         "op": "replace",
         "path": "/destinations/0",
         "value": {
-            "name": "传送到星球",
-            "planetName": "飞船停靠的星球",
+            "name": "행성으로 전송",
+            "planetName": "현재 궤도 중심 천체",
             "warpAction": "OrbitedWorld",
             "icon": "beamdown"
         }
@@ -33,8 +33,8 @@
         "op": "replace",
         "path": "/destinations/1",
         "value": {
-            "name": "部署机甲",
-            "planetName": "飞船停靠的星球",
+            "name": "기체 배치",
+            "planetName": "현재 궤도 중심 천체",
             "warpAction": "OrbitedWorld",
             "deploy": true,
             "icon": "deploy"

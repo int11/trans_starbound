@@ -2,31 +2,31 @@
     {
         "op": "replace",
         "path": "/selectText",
-        "value": "<species>"
+        "value": "Choose <species> Codex"
     },
     {
         "op": "replace",
         "path": "/paneLayout/windowtitle/title",
-        "value": "图书馆"
+        "value": "도서관"
     },
     {
         "op": "replace",
         "path": "/paneLayout/windowtitle/subtitle",
-        "value": "^#b9b5b2;旅途中发现的书籍^green;[L]"
+        "value": "^#b9b5b2;여행 중 발견한 책^green;[L]"
     },
     {
         "op": "replace",
         "path": "/paneLayout/pageLabel/value",
-        "value": "页"
+        "value": "쪽"
     },
     {
         "op": "replace",
         "path": "/paneLayout/prevButton/caption",
-        "value": "< 前页"
+        "value": "< 이전"
     },
     {
         "op": "replace",
         "path": "/paneLayout/nextButton/caption",
-        "value": "后页 >"
+        "value": "다음 >"
     }
 ]

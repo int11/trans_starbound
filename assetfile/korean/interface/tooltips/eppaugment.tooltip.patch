@@ -2,6 +2,6 @@
     {
         "op": "replace",
         "path": "/instructionLabel/value",
-        "value": "右键装备到EPP"
+        "value": "EPP에 마우스 오른쪽 클릭으로 장착 가능"
     }
 ]

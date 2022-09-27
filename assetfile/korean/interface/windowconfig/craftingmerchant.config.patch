@@ -22,11 +22,11 @@
     {
         "op": "replace",
         "path": "/paneLayout/lblProduct/value",
-        "value": "可用材料"
+        "value": "제작가능한 물품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/filter/hint",
-        "value": "搜索"
+        "value": "검색"
     }
 ]

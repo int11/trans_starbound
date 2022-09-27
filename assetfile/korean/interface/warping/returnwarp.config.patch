@@ -8,7 +8,7 @@
         "op": "replace",
         "path": "/destinations/0",
         "value": {
-            "name": "返回大门",
+            "name": "관문으로 돌아가기",
             "planetName": "",
             "warpAction": "Return",
             "icon": "ancientgateway"

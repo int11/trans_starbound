@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/gui/windowtitle/title",
-        "value": "图架"
+        "value": "E.A.S.E.L"
     }
 ]

@@ -52,26 +52,26 @@
     {
         "op": "replace",
         "path": "/disabledText",
-        "value": "^red;未经授权的用户"
+        "value": "^red;권한 없는 사용자"
     },
     {
         "op": "replace",
         "path": "/incompleteText",
-        "value": "^red;配置不完整"
+        "value": "^red;구성 미완성"
     },
     {
         "op": "replace",
         "path": "/completeText",
-        "value": "^cyan;准备部署！"
+        "value": "^cyan;배치 준비！"
     },
     {
         "op": "replace",
         "path": "/energyFormat",
-        "value": "能量：%d MJ"
+        "value": "에너지：%d MJ"
     },
     {
         "op": "replace",
         "path": "/drainFormat",
-        "value": "使用：%.02f MJ/s"
+        "value": "Usage: %.02f MJ/s"
     }
 ]

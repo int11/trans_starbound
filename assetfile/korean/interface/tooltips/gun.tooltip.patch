@@ -2,21 +2,21 @@
     {
         "op": "replace",
         "path": "/altAbilityTitleLabel/value",
-        "value": "特殊："
+        "value": "특수："
     },
     {
         "op": "replace",
         "path": "/speedTitleLabel/value",
-        "value": "射击速度："
+        "value": "발사속도："
     },
     {
         "op": "replace",
         "path": "/damagePerShotTitleLabel/value",
-        "value": "每击伤害："
+        "value": "발사당 데미지："
     },
     {
         "op": "replace",
         "path": "/energyPerShotTitleLabel/value",
-        "value": "每击耗能："
+        "value": "발사당 에너지："
     }
 ]

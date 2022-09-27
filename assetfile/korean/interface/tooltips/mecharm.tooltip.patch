@@ -2,11 +2,11 @@
     {
         "op": "replace",
         "path": "/powerStatLabel/value",
-        "value": "能量"
+        "value": "힘"
     },
     {
         "op": "replace",
         "path": "/energyDrainLabelLabel/value",
-        "value": "能量使用"
+        "value": "에너지 샤용량"
     }
 ]

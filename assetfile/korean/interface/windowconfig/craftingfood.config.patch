@@ -2,41 +2,41 @@
     {
         "op": "replace",
         "path": "/paneLayout/windowtitle/title",
-        "value": "厨房灶台"
+        "value": "주방 부뚜막"
     },
     {
         "op": "replace",
         "path": "/paneLayout/windowtitle/subtitle",
-        "value": "^#b9b5b2;准备和烹饪食物"
+        "value": "^#b9b5b2;음식을 준비하고 조리하세요"
     },
     {
         "op": "replace",
         "path": "/paneLayout/lblSchematics/value",
-        "value": "^#b9b5b2;食谱"
+        "value": "^#b9b5b2;레시피"
     },
     {
         "op": "replace",
         "path": "/paneLayout/lblProducttitle/value",
-        "value": "^#b9b5b2;碟子"
+        "value": "^#b9b5b2;완성품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/btnCraft/caption",
-        "value": "准备"
+        "value": "요리"
     },
     {
         "op": "replace",
         "path": "/paneLayout/btnStopCraft/caption",
-        "value": "停止"
+        "value": "정지"
     },
     {
         "op": "replace",
         "path": "/paneLayout/lblProduct/value",
-        "value": "可用素材"
+        "value": "제작가능한 물품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/filter/hint",
-        "value": "搜索"
+        "value": "검색"
     }
 ]

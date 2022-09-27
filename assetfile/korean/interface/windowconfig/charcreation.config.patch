@@ -2,96 +2,96 @@
     {
         "op": "replace",
         "path": "/paneLayout/labelSpeciesRadio/value",
-        "value": "^#8d8d8d;种族"
+        "value": "^#8d8d8d;종족"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelGender/value",
-        "value": "^#8d8d8d;性别"
+        "value": "^#8d8d8d;성별"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelCustomise/value",
-        "value": "^#8d8d8d;自定义"
+        "value": "^#8d8d8d;의상"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelName/value",
-        "value": "^#8d8d8d;名称"
+        "value": "^#8d8d8d;이름"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelDifficulty/value",
-        "value": "^#8d8d8d;难度"
+        "value": "^#8d8d8d;난이도"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelRandomise/value",
-        "value": "随机："
+        "value": "랜덤："
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelToggleClothing/value",
-        "value": "显示衣物"
+        "value": "의상 보이기"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelPortrait/value",
-        "value": "人类"
+        "value": "인간"
     },
     {
         "op": "replace",
         "path": "/paneLayout/saveChar/caption",
-        "value": "完成"
+        "value": "완료"
     },
     {
         "op": "replace",
         "path": "/paneLayout/cancel/caption",
-        "value": "取消"
+        "value": "취소"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelCasualMode/value",
-        "value": "休闲"
+        "value": "쉬움"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelSurvivalMode/value",
-        "value": "生存"
+        "value": "일반"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelHardcoreMode/value",
-        "value": "硬核"
+        "value": "어려움"
     },
     {
         "op": "replace",
         "path": "/paneLayout/mode/buttons/0/data/description",
-        "value": "不需要吃东西并且无死亡惩罚。"
+        "value": "음식을 먹을필요도없고 사망에 대한 패널티도 없습니다."
     },
     {
         "op": "replace",
         "path": "/paneLayout/mode/buttons/1/data/description",
-        "value": "吃东西才能存活，死亡会掉落物品。"
+        "value": "음식을 먹어야 살 수 있고, 사망하면 아이템을 떨어뜨립니다."
     },
     {
         "op": "replace",
         "path": "/paneLayout/mode/buttons/2/data/description",
-        "value": "如果角色死亡则将永久死亡！"
+        "value": "캐릭터가 죽으면 영구히 죽습니다!"
     },
     {
         "op": "replace",
         "path": "/paneLayout/name/regex",
-        "value": ".{0,32}"
+        "value": "[a-zA-Z0-9 '-]{0,16}"
     },
     {
         "op": "replace",
         "path": "/paneLayout/name/hint",
-        "value": "名称"
+        "value": "이름"
     },
     {
         "op": "replace",
         "path": "/paneLayout/lblSkipIntro/value",
-        "value": "跳过介绍任务"
+        "value": "초반 임무 스킵"
     }
 ]

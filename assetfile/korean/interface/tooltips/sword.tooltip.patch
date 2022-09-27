@@ -2,17 +2,17 @@
     {
         "op": "replace",
         "path": "/altAbilityTitleLabel/value",
-        "value": "特殊："
+        "value": "특수："
     },
     {
         "op": "replace",
         "path": "/speedTitleLabel/value",
-        "value": "挥动速度："
+        "value": "공격속도："
     },
     {
         "op": "replace",
         "path": "/damagePerShotTitleLabel/value",
-        "value": "每次挥动伤害："
+        "value": "공격당 데미지："
     },
     {
         "op": "replace",
@@ -22,6 +22,6 @@
     {
         "op": "replace",
         "path": "/handednessLabel/hAnchor",
-        "value": "mid"
+        "value": "right"
     }
 ]

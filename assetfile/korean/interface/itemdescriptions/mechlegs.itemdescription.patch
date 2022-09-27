@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/jumpStatLabel/value",
-        "value": "跳跃力"
+        "value": "점프력"
     }
 ]

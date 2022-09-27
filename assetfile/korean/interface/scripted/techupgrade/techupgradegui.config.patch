@@ -47,16 +47,16 @@
     {
         "op": "replace",
         "path": "/slotLabelText/Head",
-        "value": "头部科技"
+        "value": "머리 테크"
     },
     {
         "op": "replace",
         "path": "/slotLabelText/Body",
-        "value": "身体科技"
+        "value": "몸통 테크"
     },
     {
         "op": "replace",
         "path": "/slotLabelText/Legs",
-        "value": "腿部科技"
+        "value": "다리 테크"
     }
 ]

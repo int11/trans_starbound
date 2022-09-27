@@ -2,11 +2,11 @@
     {
         "op": "replace",
         "path": "/damagePerShotTitleLabel/value",
-        "value": "每击伤害(DPS)："
+        "value": "공격당 데미지："
     },
     {
         "op": "replace",
         "path": "/speedTitleLabel/value",
-        "value": "挥动速率："
+        "value": "공격속도："
     }
 ]

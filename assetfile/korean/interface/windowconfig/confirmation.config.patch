@@ -2,16 +2,16 @@
     {
         "op": "replace",
         "path": "/paneLayout/windowtitle/title",
-        "value": "确认"
+        "value": "수락"
     },
     {
         "op": "replace",
         "path": "/paneLayout/ok/caption",
-        "value": "确认"
+        "value": "수락"
     },
     {
         "op": "replace",
         "path": "/paneLayout/cancel/caption",
-        "value": "取消"
+        "value": "취소"
     }
 ]

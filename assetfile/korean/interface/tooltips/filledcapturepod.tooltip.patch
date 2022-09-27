@@ -2,6 +2,6 @@
     {
         "op": "replace",
         "path": "/noCollarLabel/value",
-        "value": "未佩戴项圈"
+        "value": "목걸이 미착용"
     }
 ]

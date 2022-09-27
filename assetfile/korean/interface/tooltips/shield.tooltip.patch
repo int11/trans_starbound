@@ -2,16 +2,16 @@
     {
         "op": "replace",
         "path": "/healthLabel/value",
-        "value": "盾牌生命值："
+        "value": "방패 체력："
     },
     {
         "op": "replace",
         "path": "/cooldownTitleLabel/value",
-        "value": "冷却时间："
+        "value": "쿨타임："
     },
     {
         "op": "replace",
         "path": "/healthTitleLabel/value",
-        "value": "盾牌生命值："
+        "value": "방패 체력："
     }
 ]

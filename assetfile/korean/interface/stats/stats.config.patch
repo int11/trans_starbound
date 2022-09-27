@@ -2,31 +2,31 @@
     {
         "op": "replace",
         "path": "/maxHealth/label",
-        "value": "最大生命值"
+        "value": "최대체력"
     },
     {
         "op": "replace",
         "path": "/healthRegen/label",
-        "value": "生命自动恢复率"
+        "value": "체력 자동 회복률"
     },
     {
         "op": "replace",
         "path": "/maxEnergy/label",
-        "value": "最大能量值"
+        "value": "최대에너지"
     },
     {
         "op": "replace",
         "path": "/energyRegen/label",
-        "value": "能量自动恢复率"
+        "value": "에너지 자동 회복률"
     },
     {
         "op": "replace",
         "path": "/protection/label",
-        "value": "护甲"
+        "value": "방어력"
     },
     {
         "op": "replace",
         "path": "/powerMultiplier/label",
-        "value": "武器伤害"
+        "value": "무기 공격력"
     }
 ]

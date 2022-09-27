@@ -2,135 +2,81 @@
     {
         "op": "replace",
         "path": "/subtitle",
-        "value": "^#b9b5b2;你的物品及装备^green;[I]"
+        "value": "^#b9b5b2;당신의 물품 및 장비^green;[I]"
     },
     {
         "op": "replace",
         "path": "/defaultPetNameLabel",
-        "value": "^#b9b5b2;宠物状态"
+        "value": "^#b9b5b2;애완동물 상태"
     },
     {
         "op": "replace",
         "path": "/paneLayout/head/data/tooltipText",
-        "value": "头盔"
+        "value": "머리 갑옷"
     },
     {
         "op": "replace",
         "path": "/paneLayout/chest/data/tooltipText",
-        "value": "胸甲"
+        "value": "가슴 방어구"
     },
     {
         "op": "replace",
         "path": "/paneLayout/legs/data/tooltipText",
-        "value": "腿甲"
+        "value": "다리 방어구"
     },
     {
         "op": "replace",
         "path": "/paneLayout/back/data/tooltipText",
-        "value": "背甲"
+        "value": "등 방어구"
     },
     {
         "op": "replace",
         "path": "/paneLayout/headCosmetic/data/tooltipText",
-        "value": "头部装饰"
+        "value": "머리 장식품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/chestCosmetic/data/tooltipText",
-        "value": "胸部装饰"
+        "value": "가슴 장식품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/legsCosmetic/data/tooltipText",
-        "value": "腿部装饰"
+        "value": "다리 장식품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/backCosmetic/data/tooltipText",
-        "value": "背部装饰"
+        "value": "등 장식품"
     },
     {
         "op": "replace",
         "path": "/paneLayout/trash/data/tooltipText",
-        "value": "垃圾"
+        "value": "쓰레기"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelappearance/value",
-        "value": "防具栏"
+        "value": "방어구"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelstats/value",
-        "value": "状态"
+        "value": "상태"
     },
     {
         "op": "replace",
         "path": "/paneLayout/companionName/value",
-        "value": "宠物状态"
+        "value": "애완동물 상태"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labeltech/value",
-        "value": "当前科技"
+        "value": "현재 기술"
     },
     {
         "op": "replace",
         "path": "/paneLayout/labelinventory/value",
-        "value": "库存"
-    },
-    {
-        "op": "add",
-        "path": "/paneLayout/companionAtkR",
-        "value": {
-            "type": "label",
-            "position": [
-                145,
-                159
-            ],
-            "hAnchor": "mid",
-            "value": "攻击",
-            "color": [
-                185,
-                181,
-                178
-            ]
-        }
-    },
-    {
-        "op": "add",
-        "path": "/paneLayout/companionDefR",
-        "value": {
-            "type": "label",
-            "position": [
-                145,
-                150
-            ],
-            "hAnchor": "mid",
-            "value": "防御",
-            "color": [
-                185,
-                181,
-                178
-            ]
-        }
-    },
-    {
-        "op": "add",
-        "path": "/paneLayout/companionHPR",
-        "value": {
-            "type": "label",
-            "position": [
-                145,
-                141
-            ],
-            "hAnchor": "mid",
-            "value": "生命",
-            "color": [
-                185,
-                181,
-                178
-            ]
-        }
+        "value": "물품 목록"
     }
 ]
