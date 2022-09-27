@@ -1,6 +1,6 @@
 # trans_starbound
 <p align="center">
-    <img width="800" height="auto" src="https://github.com/int11/trans_starbound/blob/master/example.png" alt="GDLauncher" />
+    <img width="800" height="auto" src="https://github.com/int11/trans_starbound/blob/master/trans_star/example.png" alt="exampleimage" />
 </p>
 
 This project made for translation Starbound which is indie game

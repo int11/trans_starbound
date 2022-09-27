@@ -18,15 +18,12 @@ class line:
     def get_dirpath(self, del_patch=False, del_absolute_path=False):
         return self.get_dir(del_patch, del_absolute_path) + self.path
 
-    def original_value(self, originalAssetName):
+    def original_value(self, originalAssetName='original'):
         if self.op == 'add':
             return None
 
         temp = self.path.split('/')[1:]
         asdf = os.path.join('assetfile', originalAssetName, self.get_dir(True, True))
-        # print(f'{os.getcwd()}\\assetfile\\sb_korpatch_union-master\\{self.get_dir(del_absolute_path=True)}')
-        # print(f'{os.getcwd()}\\assetfile\\chinese\\{self.get_dir(del_absolute_path=True)}')
-        # print(f'{os.getcwd()}\\assetfile\\english\\{self.get_dir(True, del_absolute_path=True)}')
 
         with open(asdf, 'r', encoding='UTF-8') as f:
             read = f.read()
@@ -149,7 +146,6 @@ class asset:
             return self.patchfiles[temp.index(dir)]
         except:
             return None
-
 
     @staticmethod
     def download_original_assets(starbound_dir, asset_name):

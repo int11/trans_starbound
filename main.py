@@ -1,13 +1,14 @@
-import sys
-from trans_star import *
 import json
-from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QTableView, QTabWidget, QPlainTextEdit, \
-    QHBoxLayout, QGridLayout, QVBoxLayout
-from PyQt5.QtGui import QStandardItemModel, QStandardItem
-from PyQt5.QtCore import Qt
+import sys
+
 from PyQt5 import QtCore
-from PyQt5.QtCore import pyqtSlot
 from PyQt5.Qt import QFileSystemModel
+from PyQt5.QtCore import Qt, pyqtSlot
+from PyQt5.QtGui import QStandardItemModel
+from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QPlainTextEdit, \
+    QHBoxLayout, QVBoxLayout
+
+from trans_star import *
 
 
 class patch_viewer(QTreeView):
@@ -61,7 +62,10 @@ class patch_viewer(QTreeView):
         if op == 'add':
             self.originaltext.setPlainText("""This line "op" flag is "add" """)
         elif op == 'replace':
-            org = self.lines[self.selectindex].original_value('english')
+            try:
+                org = self.lines[self.selectindex].original_value('original')
+            except FileNotFoundError as f:
+                org = f"""{f}\n\nplease check "assetfile\\original" directory or if not exist download original asset"""
             self.originaltext.setPlainText(org if isinstance(org, str) else json.dumps(org, ensure_ascii=False))
         else:
             print(f"Not consider this line op flag : {op}")
@@ -92,18 +96,12 @@ class Form(QWidget):
         self.setGeometry(int(rect.height() * 0.1), int(rect.height() * 0.1), size[1], size[0])
 
         self.ko_explorer = explorer(self, 'korean')
-        self.ch_explorer = explorer(self, 'chinese')
         self.ko_explorer.clicked.connect(self.cil)
-        self.ch_explorer.clicked.connect(self.cil)
-
-        self.tab = QTabWidget(self)
-        self.tab.addTab(self.ko_explorer, 'korean')
-        self.tab.addTab(self.ch_explorer, 'chinese')
 
         self.viewer = patch_viewer(self)
 
         hbox = QHBoxLayout()
-        hbox.addWidget(self.tab)
+        hbox.addWidget(self.ko_explorer)
         hbox.addWidget(self.viewer)
         vbox = QVBoxLayout()
         vbox.addWidget(self.viewer.koreatext)
@@ -127,13 +125,7 @@ class Form(QWidget):
             self.viewer.reload(lines)
 
 
-if __name__ == "__main__":
-    # name = asset.download_original_assets('E:\SteamLibrary\steamapps\common\Starbound', 'english')
-    # en = asset(name)
-    # ko = asset('sb_korpatch_union-master')
-    # ch = asset('chinese')
-
-    app = QApplication(sys.argv)
-    form = Form()
-    form.show()
-    exit(app.exec_())
+app = QApplication(sys.argv)
+form = Form()
+form.show()
+sys.exit(app.exec_())
