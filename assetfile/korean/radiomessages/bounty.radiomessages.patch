@@ -2,7 +2,7 @@
     {
         "op": "replace",
         "path": "/exploreclueplanet/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
@@ -12,7 +12,7 @@
     {
         "op": "replace",
         "path": "/approachingclue/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
@@ -22,7 +22,7 @@
     {
         "op": "replace",
         "path": "/approachingbounty/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
@@ -32,7 +32,7 @@
     {
         "op": "replace",
         "path": "/tutorialexplore/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
@@ -42,7 +42,7 @@
     {
         "op": "replace",
         "path": "/tutorialapproachclue/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",

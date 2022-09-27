@@ -72,7 +72,7 @@
     {
         "op": "replace",
         "path": "/gui/configure/children/saveButton/caption",
-        "value": "保存"
+        "value": "저장"
     },
     {
         "op": "replace",
@@ -82,7 +82,7 @@
     {
         "op": "replace",
         "path": "/nameLabel",
-        "value": "名称 > "
+        "value": "이름 > "
     },
     {
         "op": "replace",

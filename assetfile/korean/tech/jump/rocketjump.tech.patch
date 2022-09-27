@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/shortDescription",
-        "value": "火箭跳跃"
+        "value": "로켓 점프"
     }
 ]

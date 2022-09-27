@@ -272,7 +272,7 @@
     {
         "op": "replace",
         "path": "/cultistmission01b/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",

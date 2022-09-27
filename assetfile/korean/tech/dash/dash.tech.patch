@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/shortDescription",
-        "value": "能量猛冲"
+        "value": "돌진"
     }
 ]

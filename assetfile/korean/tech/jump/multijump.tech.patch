@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/shortDescription",
-        "value": "四段跳"
+        "value": "연속 점프"
     }
 ]

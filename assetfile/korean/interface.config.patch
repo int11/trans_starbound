@@ -82,26 +82,26 @@
     {
         "op": "replace",
         "path": "/cursorTooltip/mmUpgradeText",
-        "value": "物质枪升级"
+        "value": "M.M. 업그레이드"
     },
     {
         "op": "replace",
         "path": "/modeTypeTextAndColor/1/0",
-        "value": "休闲"
+        "value": "쉬움"
     },
     {
         "op": "replace",
         "path": "/modeTypeTextAndColor/2/0",
-        "value": "生存"
+        "value": "일반"
     },
     {
         "op": "replace",
         "path": "/modeTypeTextAndColor/3/0",
-        "value": "硬核"
+        "value": "하드코어"
     },
     {
         "op": "replace",
         "path": "/escapeDialog/lblcopyright/value",
-        "value": "呵呵鱼游戏 2016 — 制作于英国伦敦"
+        "value": "Chucklefish Games 2016 - Made in London, UK"
     }
 ]

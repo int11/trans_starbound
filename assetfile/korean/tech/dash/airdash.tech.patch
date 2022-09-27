@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/shortDescription",
-        "value": "空中冲刺"
+        "value": "공중 돌진"
     }
 ]

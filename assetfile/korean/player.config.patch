@@ -17,6 +17,6 @@
     {
         "op": "replace",
         "path": "/companionsConfig/recruitDescription",
-        "value": "^cyan;> 名称：^white;<name>\n^cyan;> 工作：^white; <role>\n^cyan;> 等级：^white; <rank>\n^cyan;> 状态：^white; <status>"
+        "value": "^cyan;> 이름：^white;<name>\n^cyan;> 직업：^white; <role>\n^cyan;> 등급：^white; <rank>\n^cyan;> 상태：^white; <status>"
     }
 ]

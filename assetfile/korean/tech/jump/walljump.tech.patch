@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/shortDescription",
-        "value": "蹬墙跳"
+        "value": "벽 점프"
     }
 ]

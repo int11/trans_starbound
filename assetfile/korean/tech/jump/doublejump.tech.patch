@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/shortDescription",
-        "value": "二段跳"
+        "value": "펄스 점프"
     }
 ]

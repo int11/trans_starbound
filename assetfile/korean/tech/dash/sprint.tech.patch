@@ -7,6 +7,6 @@
     {
         "op": "replace",
         "path": "/shortDescription",
-        "value": "加速"
+        "value": "달리기"
     }
 ]

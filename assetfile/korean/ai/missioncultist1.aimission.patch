@@ -2,12 +2,12 @@
     {
         "op": "replace",
         "path": "/speciesText/default/buttonText",
-        "value": "旃塔霖"
+        "value": "단탈리온"
     },
     {
         "op": "replace",
         "path": "/speciesText/default/repeatButtonText",
-        "value": "重返旃塔霖"
+        "value": "단탈리온 재도전"
     },
     {
         "op": "replace",
