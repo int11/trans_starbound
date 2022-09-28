@@ -65,7 +65,7 @@ class patch_viewer(QTreeView):
             self.originaltext.setPlainText("""This line "op" flag is "add" """)
         elif op == 'replace':
             try:
-                org = self.lines[self.selectindex].original_value('original')
+                org = self.lines[self.selectindex].original_value()
             except FileNotFoundError as f:
                 org = f"""{f}\n\nplease check "assetfile\\original" directory or if not exist download original asset"""
             self.originaltext.setPlainText(org if isinstance(org, str) else json.dumps(org, ensure_ascii=False))

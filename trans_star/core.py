@@ -57,6 +57,48 @@ class line:
 
         return jsdic
 
+    def original_index(self, originalAssetName='original'):
+        if self.op == 'add':
+            return 1000
+        temp = self.path.split('/')[1:]
+        asdf = os.path.join('assetfile', originalAssetName, self.get_dir(True, True))
+
+        with open(asdf, 'r', encoding='UTF-8') as f:
+            read = f.read()
+            while True:
+                try:
+                    jsdic = json.loads(read, strict=False)
+                    break
+                except json.decoder.JSONDecodeError as e:
+                    index = read.find('//')
+                    if index == -1:
+                        index = read.find('/*')
+                    if index == -1:
+                        index = read.find('*/')
+                    if index == -1:
+                        read = read[:e.pos] + ',' + read[e.pos:]
+                    b = read[index:]
+                    read = read[:index] + b[b.find('\n'):]
+                    continue
+
+        def loop(value, find):
+            if isinstance(value, dict):
+                for index, (key, value) in enumerate(value.items()):
+                    if key == find[0]:
+                        if len(find) != 1:
+                            return index + (loop(value, find[1:]) + 1) * 0.1
+                        else:
+                            return index
+            elif isinstance(value, list):
+                index = int(find[0])
+                value = value[index]
+                if len(find) != 1:
+                    return index + (loop(value, find[1:]) + 1) * 0.1
+                else:
+                    return index
+
+        return loop(jsdic, temp)
+
 
 class patchfile:
     def __init__(self, patch_dir=None, asset_target=None):
@@ -104,6 +146,9 @@ class patchfile:
 
         with open(self.get_dir(), 'w', encoding='UTF-8') as f:
             json.dump(js, f, indent=4, ensure_ascii=False)
+
+    def sort(self):
+        self.lines = sorted(self.lines, key=lambda x: x.original_index())
 
 
 class asset:

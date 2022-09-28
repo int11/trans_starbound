@@ -1,10 +1,14 @@
+import os
 
 import trans_star
 
+os.chdir('../')
 asset = trans_star.asset('test')
 new = trans_star.asset('test1')
 b = {}
+c = []
 for patchfile in asset.patchfiles:
+    print(patchfile.dir)
     newpatch = new.newPatchAppend(patchfile.dir)
     for line in patchfile.get_lines():
         pathdir = line.path[:line.path.rfind('/')]
@@ -19,10 +23,28 @@ for patchfile in asset.patchfiles:
                 b[pathdir] = []
                 b[pathdir].append(pathname)
         except ValueError:
-            pass
+            c.append(line)
         print(line.path)
 
     for i in b.values(): i.sort()
     print(b)
+    if b:
+        for i in b.keys():
+            l = newpatch.newLineAppend('replace', i, [])
+            for a in b[i]:
+                index = [line.path for line in patchfile.get_lines()].index(f'{i}/{a}')
+                l.value.append([line for line in patchfile.get_lines()][index].value)
+
+    for s in c:
+        if s.path not in [i.path for i in newpatch.get_lines()]:
+            newpatch.newLineAppend(s.op, s.path, s.value)
+    newpatch.sort()
     b = {}
+    c = []
     print()
+
+new.save()
+
+
+
+
