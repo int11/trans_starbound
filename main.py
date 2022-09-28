@@ -75,12 +75,11 @@ class patch_viewer(QTreeView):
 
 
 class explorer(QTreeView):
-    def __init__(self, parent):
+    def __init__(self, parent, path):
         super().__init__(parent)
 
         self.model = QFileSystemModel()
         # set path
-        path = parent.assetpath
         self.model.setRootPath(path)
         # set model
         self.setModel(self.model)
@@ -89,10 +88,8 @@ class explorer(QTreeView):
 
 
 class Form(QtWidgets.QMainWindow):
-
     def __init__(self):
         QWidget.__init__(self, flags=Qt.Widget)
-        self.assetpath = os.path.abspath('assetfile\\korean')
         self.setWindowTitle("Asset Editer")
         rect = app.desktop().screenGeometry()
         size = (int(rect.height() * 0.8), int(rect.width() * 0.8))
@@ -109,23 +106,32 @@ class Form(QtWidgets.QMainWindow):
         file_menu.addAction(action0)
         file_menu.addAction(action1)
 
-        self.explorer = explorer(self)
-        self.explorer.clicked.connect(self.cil)
-        self.viewer = patch_viewer(self)
+        self.tab = QtWidgets.QTabWidget(self)
+        self.addtap('assetfile/korean')
+        self.addtap('assetfile/chinese')
+        self.addtap('assetfile/sb_korpatch_union-master')
+        self.setCentralWidget(self.tab)
 
-        temp = QWidget()
-        hbox = QHBoxLayout(temp)
-        hbox.addWidget(self.explorer)
-        hbox.addWidget(self.viewer)
-        vbox = QVBoxLayout(temp)
-        vbox.addWidget(self.viewer.koreatext)
-        vbox.addWidget(self.viewer.originaltext)
+    def addtap(self, path):
+        widget = QWidget()
+        new_explorer = explorer(self, os.path.abspath(path))
+        new_explorer.clicked.connect(self.cil)
+        viewer = patch_viewer(self)
+
+        hbox = QHBoxLayout(widget)
+        hbox.addWidget(new_explorer)
+        hbox.addWidget(viewer)
+        vbox = QVBoxLayout(widget)
+        vbox.addWidget(viewer.koreatext)
+        vbox.addWidget(viewer.originaltext)
         hbox.addLayout(vbox)
-        self.setCentralWidget(temp)
+
+        self.tab.addTab(widget, path[path.rfind('/') + 1:])
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
-        self.viewer.clear()
+        viewer = self.tab.currentWidget().findChildren(patch_viewer)[0]
+        viewer.clear()
 
         model = self.sender().model
         indexitem = model.index(index.row(), 0, index.parent())
@@ -134,16 +140,14 @@ class Form(QtWidgets.QMainWindow):
         ex = os.path.splitext(filename)[1]
 
         if ex == '.patch':
-            a = patchfile(filepath[len(self.assetpath) + 1:], self.assetpath)
+            a = patchfile(filepath[len(model.rootPath()) + 1:], model.rootPath())
             lines = [i for i in a.get_lines()]
-            self.viewer.reload(lines)
+            viewer.reload(lines)
 
     def action0f(self):
-        path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Asset Folder", '.\\assetfile')
+        path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Asset Folder", './assetfile')
         if not path == '':
-            self.assetpath = path
-            self.explorer.model.setRootPath(path)
-            self.explorer.setRootIndex(self.explorer.model.index(self.explorer.model.rootPath()))
+            self.addtap(path)
 
     def action1f(self):
         path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Starbound Folder")
