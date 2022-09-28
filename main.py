@@ -7,7 +7,7 @@ from PyQt5.QtCore import Qt, pyqtSlot
 from PyQt5.QtGui import QStandardItemModel
 from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QPlainTextEdit, \
     QHBoxLayout, QVBoxLayout
-
+from PyQt5 import QtWidgets
 from trans_star import *
 
 
@@ -16,9 +16,10 @@ class patch_viewer(QTreeView):
         super().__init__(parent)
         self.lines = None
         self.selectindex = None
-        self.setEditTriggers(QAbstractItemView.DoubleClicked)
+        self.setEditTriggers(QAbstractItemView.NoEditTriggers)
 
         self.model = QStandardItemModel()
+
         self.setModel(self.model)
         self.model.setHorizontalHeaderLabels(["path", "value"])
         self.setColumnWidth(0, int(parent.size().width() * 0.2))
@@ -79,7 +80,7 @@ class explorer(QTreeView):
 
         self.model = QFileSystemModel()
         # set path
-        path = assetpath
+        path = parent.assetpath
         self.model.setRootPath(path)
         # set model
         self.setModel(self.model)
@@ -87,27 +88,40 @@ class explorer(QTreeView):
         self.setColumnWidth(0, int(parent.size().width() * 0.35))
 
 
-class Form(QWidget):
+class Form(QtWidgets.QMainWindow):
+
     def __init__(self):
         QWidget.__init__(self, flags=Qt.Widget)
-        self.setWindowTitle("trans_star")
+        self.assetpath = os.path.abspath('assetfile\\korean')
+        self.setWindowTitle("Asset Editer")
         rect = app.desktop().screenGeometry()
         size = (int(rect.height() * 0.8), int(rect.width() * 0.8))
         self.setGeometry(int(rect.height() * 0.1), int(rect.height() * 0.1), size[1], size[0])
 
+        menubar = self.menuBar()
+        menubar.setNativeMenuBar(False)
+        action0 = QtWidgets.QAction("Open Assset", self)
+        action0.triggered.connect(self.action0f)
+        action1 = QtWidgets.QAction("Original asset download", self)
+        action1.triggered.connect(self.action1f)
+
+        file_menu = menubar.addMenu("File")
+        file_menu.addAction(action0)
+        file_menu.addAction(action1)
+
         self.ko_explorer = explorer(self, 'korean')
         self.ko_explorer.clicked.connect(self.cil)
-
         self.viewer = patch_viewer(self)
 
-        hbox = QHBoxLayout()
+        temp = QWidget()
+        hbox = QHBoxLayout(temp)
         hbox.addWidget(self.ko_explorer)
         hbox.addWidget(self.viewer)
-        vbox = QVBoxLayout()
+        vbox = QVBoxLayout(temp)
         vbox.addWidget(self.viewer.koreatext)
         vbox.addWidget(self.viewer.originaltext)
         hbox.addLayout(vbox)
-        self.setLayout(hbox)
+        self.setCentralWidget(temp)
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
@@ -120,11 +134,21 @@ class Form(QWidget):
         ex = os.path.splitext(filename)[1]
 
         if ex == '.patch':
-            a = patchfile(filepath[len(assetpath)+1:], assetpath)
+            a = patchfile(filepath[len(self.assetpath) + 1:], self.assetpath)
             lines = [i for i in a.get_lines()]
             self.viewer.reload(lines)
 
-assetpath = os.path.abspath('assetfile\\korean')
+    def action0f(self):
+        path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Asset Folder", '.\\assetfile')
+        self.assetpath = path
+        self.ko_explorer.model.setRootPath(path)
+        self.ko_explorer.setRootIndex(self.ko_explorer.model.index(self.ko_explorer.model.rootPath()))
+
+    def action1f(self):
+        path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Starbound Folder")
+        asset.download_original_assets(path)
+
+
 app = QApplication(sys.argv)
 form = Form()
 form.show()

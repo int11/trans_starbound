@@ -147,7 +147,7 @@ class asset:
             return None
 
     @staticmethod
-    def download_original_assets(starbound_dir, asset_name):
+    def download_original_assets(starbound_dir, asset_name="original"):
         current_dir = os.getcwd()
         os.chdir(starbound_dir)
         dir = f'{current_dir}\\assetfile\\{asset_name}'
