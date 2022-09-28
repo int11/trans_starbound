@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/charGenTextLabels/9",
-        "value": "성격"
+        "path": "/charCreationTooltip/title",
+        "value": "하이로틀"
     },
     {
         "op": "replace",
@@ -11,68 +11,18 @@
     },
     {
         "op": "replace",
-        "path": "/charGenTextLabels/7",
-        "value": "하의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/6",
-        "value": "상의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/5",
-        "value": "지느러미 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/4",
-        "value": "배 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/3",
-        "value": "하의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/2",
-        "value": "상의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/1",
-        "value": "지느러미"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/0",
-        "value": "피부 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charCreationTooltip/title",
-        "value": "하이로틀"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/8",
-        "value": "하이로틀"
-    },
-    {
-        "op": "replace",
         "path": "/charGenTextLabels",
         "value": [
-            "肤色",
-            "鱼鳍",
-            "上衣",
-            "裤子",
-            "腹部颜色",
-            "鱼鳍颜色",
-            "上衣颜色",
-            "裤子颜色",
-            "鲛人",
-            "人物性格"
+            "피부 색상",
+            "지느러미",
+            "상의",
+            "하의",
+            "배 색상",
+            "지느러미 색상",
+            "상의 색상",
+            "하의 색상",
+            "하이로틀",
+            "성격"
         ]
     }
 ]

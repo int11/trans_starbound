@@ -1,207 +1,77 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/hail/novakid/default/0",
-        "value": "다른 이들을 보호하는건 올바른 미덕이지요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/apex/default/0",
-        "value": "당신의 모험을 즐기고 있나?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/hylotl/default/1",
-        "value": "여기선 당신의 시간이 평안할 것을 보장하지.."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/avian/default/3",
-        "value": "다른이들을 안전하게 지키는건, 의미있는 일이죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/avian/default/2",
-        "value": "오늘은 조용하군요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/avian/default/1",
-        "value": "저는 이 일이 좋아요, 다양하고 재미있는 사람들을 만나왔죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/avian/default/0",
-        "value": "저는 이 장소를 안전하게 지키는 것이 좋아요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/human/default/2",
-        "value": "난 이 구역을 적군으로 부터 지키고있어. 쉬운 일이지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/apex/default/3",
-        "value": "이 구역은 잘 지켜지고있지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/apex/default/2",
-        "value": "걱정하지 마라. 이 구역은 안전하다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/apex/default/1",
-        "value": "지금은 조용하군요. 잠시 느긋하게 있을수 있겠습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/hylotl/default/3",
-        "value": "제 집중이 흐트러지게 두지 않겠습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/hylotl/default/2",
-        "value": "전 당신과, 정당하게 이곳에 온 모든이를 지키기위해 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/hylotl/default/0",
-        "value": "다른 이들을 지키며 살아가는 것에는 미덕이 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/glitch/default/3",
-        "value": "피곤. 내가 쉴 수 있을거라 생각 하시오? 꽤나 조용해진 모양이구려, 안 그런가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/glitch/default/2",
-        "value": "기민. 난 적대적 활동으로 부터 이 지역을 안전하게 지킬 필요가 있소."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/glitch/default/1",
-        "value": "자부심. 난 경비를 봐온 경험이 있다네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/glitch/default/0",
-        "value": "보호. 내 꼭 자네와 이곳을 지켜드리겠네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/floran/default/2",
-        "value": "플로란 전투복 입는다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/floran/default/0",
-        "value": "플로란 지루하다, 쌰우고 싶다...."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/floran/default/3",
-        "value": "걱정 마라, 플로란 침입자 찌를거다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/floran/default/1",
-        "value": "플로란 여기 안전하게 지킬 준비 됐다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/default/default/0",
-        "value": "만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/human/default/3",
-        "value": "경비병으로서 일하는 건 즐겁지, 생각하고 있을 시간을 주거든."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/human/default/1",
-        "value": "날 봐, 경비하고 일터에서 안자는, 멋지지 않아?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/hail/human/default/0",
-        "value": "딴짓 안 하고 있었다고, 맹세해!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/hail/default/default",
         "value": [
-            "见到你真好！"
+            "만나서 반가워요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/hail/avian/default",
         "value": [
-            "我希望保护这片土地的安全。",
-            "我喜欢这工作，我会见到许多有趣的人。",
-            "多么安宁的一天。",
-            "保护人们的安全，是很有意义的一件事"
+            "저는 이 장소를 안전하게 지키는 것이 좋아요.",
+            "저는 이 일이 좋아요, 다양하고 재미있는 사람들을 만나왔죠.",
+            "오늘은 조용하군요.",
+            "다른이들을 안전하게 지키는건, 의미있는 일이죠."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/hail/apex/default",
         "value": [
-            "享受你的冒险吗？",
-            "现在还真安静呢，真是难得的放松机会。",
-            "不用担心，这里很安全。",
-            "该地区有很好的防护。"
+            "당신의 모험을 즐기고 있나?",
+            "지금은 조용하군요. 잠시 느긋하게 있을수 있겠습니다.",
+            "걱정하지 마라. 이 구역은 안전하다.",
+            "이 구역은 잘 지켜지고있지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/hail/floran/default",
         "value": [
-            "叶族人很无聊，想想想要打架…",
-            "叶族人准备保护这里的安安安全！",
-            "叶族人的这身衣服就是是是用来战斗的！",
-            "别担心，叶族人会捅捅捅入侵者者者的。"
+            "플로란 지루하다, 쌰우고 싶다....",
+            "플로란 여기 안전하게 지킬 준비 됐다!",
+            "플로란 전투복 입는다!",
+            "걱정 마라, 플로란 침입자 찌를거다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/hail/glitch/default",
         "value": [
-            "保护。我将守护你，守护这个地方。",
-            "骄傲。对于保护东西我很有经验。",
-            "警觉。我要确保该区安全不受敌对活动的影响。",
-            "困倦。你觉得我能休息一下么？现在很安宁，不是吗？"
+            "보호. 내 꼭 자네와 이곳을 지켜드리겠네.",
+            "자부심. 난 경비를 봐온 경험이 있다네.",
+            "기민. 난 적대적 활동으로 부터 이 지역을 안전하게 지킬 필요가 있소.",
+            "피곤. 내가 쉴 수 있을거라 생각 하시오? 꽤나 조용해진 모양이구려, 안 그런가?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/hail/human/default",
         "value": [
-            "我发誓我真的，真的没偷懒！",
-            "伙计，看看我，工作开始时，保持警惕，而且不能睡觉。",
-            "我可以让地区内没有敌对势力，就像吃一碟小菜一样简单。",
-            "我喜欢被雇作为一个保安. 它给了我大量时间思考。"
+            "딴짓 안 하고 있었다고, 맹세해!",
+            "날 봐, 경비하고 일터에서 안자는, 멋지지 않아?",
+            "난 이 구역을 적군으로 부터 지키고있어. 쉬운 일이지.",
+            "경비병으로서 일하는 건 즐겁지, 생각하고 있을 시간을 주거든."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/hail/hylotl/default",
         "value": [
-            "为保护他人生命而活，是一件很有品德的事。",
-            "我将确保你在这里的时间这是安全的。",
-            "我在这是为了保护你，还有那些来这里的正直的人。",
-            "我不会走神的。"
+            "다른 이들을 지키며 살아가는 것에는 미덕이 있습니다.",
+            "여기선 당신의 시간이 평안할 것을 보장하지..",
+            "전 당신과, 정당하게 이곳에 온 모든이를 지키기위해 있습니다.",
+            "제 집중이 흐트러지게 두지 않겠습니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/hail/novakid/default",
         "value": [
-            "你吼啊！",
-            "雷猴！"
+            "거기 안녕!",
+            "안녕!"
         ]
     }
 ]

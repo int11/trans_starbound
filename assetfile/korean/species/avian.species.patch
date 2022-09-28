@@ -1,51 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/charGenTextLabels/9",
-        "value": "성격"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/7",
-        "value": "하의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/6",
-        "value": "상의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/5",
-        "value": "얼굴 무늬"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/4",
-        "value": "부리"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/3",
-        "value": "하의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/2",
-        "value": "상의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/1",
-        "value": "털 모양"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/0",
-        "value": "깃털 색상"
-    },
-    {
-        "op": "replace",
         "path": "/charCreationTooltip/title",
         "value": "아비안"
     },
@@ -56,23 +11,18 @@
     },
     {
         "op": "replace",
-        "path": "/charGenTextLabels/8",
-        "value": "아비안"
-    },
-    {
-        "op": "replace",
         "path": "/charGenTextLabels",
         "value": [
-            "毛色",
-            "羽毛",
-            "上衣",
-            "裤子",
-            "喙",
-            "绒毛",
-            "上衣颜色",
-            "裤子颜色",
-            "翼族",
-            "人物性格"
+            "깃털 색상",
+            "털 모양",
+            "상의",
+            "하의",
+            "부리",
+            "얼굴 무늬",
+            "상의 색상",
+            "하의 색상",
+            "아비안",
+            "성격"
         ]
     }
 ]

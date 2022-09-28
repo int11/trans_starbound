@@ -1,46 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/charGenTextLabels/9",
-        "value": "성격"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/7",
-        "value": "하의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/6",
-        "value": "상의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/5",
-        "value": "기호"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/3",
-        "value": "하의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/2",
-        "value": "상의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/1",
-        "value": "머리 모양"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/0",
-        "value": "가스 색상"
-    },
-    {
-        "op": "replace",
         "path": "/charCreationTooltip/title",
         "value": "노바키드"
     },
@@ -51,23 +11,18 @@
     },
     {
         "op": "replace",
-        "path": "/charGenTextLabels/8",
-        "value": "노바키드"
-    },
-    {
-        "op": "replace",
         "path": "/charGenTextLabels",
         "value": [
-            "气体颜色",
-            "发型",
-            "上衣",
-            "裤子",
+            "가스 색상",
+            "머리 모양",
+            "상의",
+            "하의",
             "",
-            "烙印",
-            "上衣颜色",
-            "裤子颜色",
-            "星之子",
-            "人物性格"
+            "기호",
+            "상의 색상",
+            "하의 색상",
+            "노바키드",
+            "성격"
         ]
     }
 ]

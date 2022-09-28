@@ -1,290 +1,100 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/1",
-        "value": "알고 싶은것이 있나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0",
-        "value": "여기, 주신 도움에 대한 감사입니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/17",
-        "value": "지구에 안가본지가 한참 됬군요! 요즘엔 어떻게 돌아가나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/16",
-        "value": "한 행성에서만 살수있는 삶이 상상이 되시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/15",
-        "value": "많은 행성의 지하에서 이상한 유적이 발견됬다는 군요. 사실일까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/14",
-        "value": "행성에 따라 하루의 길이가 다르지요, 멋지지 않나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/13",
-        "value": "혹시나 해서 말해두는겁니다만, 다니다가 마을을 발견하게 된다면, 경비병을 화나게 할짓은 하지 마세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/12",
-        "value": "어디서나 볼수있는 저런 하얀 보급 캡슐을 부수면, 꽤 쓸만한걸 구할 수 있을겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/11",
-        "value": "이곳의 날씨는 대부분의 행성들 보다 훨신 좋은편이죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/10",
-        "value": "언제 물어봐도 도시에서 사는것보다는 멋진 야생에서 사는것이 좋다고 대답할겁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/9",
-        "value": "극단적인 날씨는 너의 움직임을 제한할 수 도 있답니다. 까먹지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/8",
-        "value": "야생 생물들을 조심하세요. 평화로운 생물이라도 싸움을 걸면 공격할겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/7",
-        "value": "지하 탐험을 갈때는 횃불을 까먹지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/6",
-        "value": "어두워 질땐 손전등이 없으면 곤란할 수 도 있습니다. 배고픈 짐승들이 사냥하러 나오거든요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/5",
-        "value": "낙하를 조심하세요! 필요하다면 차라리 새로 길을 만드는게 더 좋을수도 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/4",
-        "value": "덩쿨을 보면 자르는걸 까먹지 마세요! 그것들은 반창고나 로프를 만드는데 쓸수있답니다. 둘다 쓸모있죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/3",
-        "value": "오랜만에 보는 신입이군요! 생존을 위한 조언이 필요하신가요? 상당히 많이 있답니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/2",
-        "value": "광부들은 옛날에 떠났을겁니다. 광산은 지금 몬스터들 천지니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/1",
-        "value": "핵 파편은 화학 반응을 이르키는데 좋죠. 그래서 옛날에는 광부들이 그걸로 폭탄을 만들었답니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/0",
-        "value": "아, 누군진 모르지만 핵 파편을 찾는 거라면 이 옛 광선 아래에 잔뜩 있을겁니다. 확인해 보세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/1",
-        "value": "여기, 걷다가 발견한겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/2",
-        "value": "도와주신것에 대한 선물입니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/0",
-        "value": "여행하다가 이런걸 발견했죠. 받아주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0",
-        "value": "집이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/2",
-        "value": "필요하신것이 있나요? 조언이라도?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/0",
-        "value": "부르셨나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "그냥 여행길에 있습니다. 원하는걸 하면서요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/safe/default/default/2",
-        "value": "좀 쉬고 싶다구요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/safe/default/default/1",
-        "value": "미래엔 좀 더 조심해야겠군요. 방금의 것은 위험했습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/safe/default/default/0",
-        "value": "아슬 아슬하게 살아 남았군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/helpme/default/default/2",
-        "value": "여기서 죽을순 없다구요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/helpme/default/default/1",
-        "value": "죽이지 마세요! 전 살아 있을때 더 유용하다구요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/helpme/default/default/0",
-        "value": "튀는 거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/helpthem/default/default/0",
-        "value": "뭔 짓을 한거죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/encourage/default/default/3",
-        "value": "도망치게 놔두지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/encourage/default/default/2",
-        "value": "절 위해 한대 박아주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/encourage/default/default/1",
-        "value": "복수해주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/flee/encourage/default/default/0",
-        "value": "잡아라!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default",
         "value": [
-            "我回家啦！"
+            "집이다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default",
         "value": [
-            "你喊我？",
-            "有什么你想知道的么？",
-            "你需要我帮忙？也许你需要一些建议？"
+            "부르셨나요?",
+            "알고 싶은것이 있나요?",
+            "필요하신것이 있나요? 조언이라도?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default",
         "value": [
-            "拾人恩惠，授之以礼！"
+            "여기, 주신 도움에 대한 감사입니다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default",
         "value": [
-            "我在旅途中发现了这个，你拿着吧！",
-            "这是我在散步中发现的东西！",
-            "拾人恩惠，授之以礼！"
+            "여행하다가 이런걸 발견했죠. 받아주세요!",
+            "여기, 걷다가 발견한겁니다.",
+            "도와주신것에 대한 선물입니다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/flee/helpme/default/default",
         "value": [
-            "该逃走了！",
-            "英雄饶命！求您高抬贵手放小人一命，我甘做牛马！",
-            "吾命不该绝于此地！"
+            "튀는 거야!",
+            "죽이지 마세요! 전 살아 있을때 더 유용하다구요!",
+            "여기서 죽을순 없다구요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/flee/helpthem/default/default",
         "value": [
-            "你干了什么！？"
+            "뭔 짓을 한거죠!?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/flee/encourage/default/default",
         "value": [
-            "抓住他们！",
-            "为我报仇！",
-            "揍他们时带上我那份！",
-            "别让他们跑了！"
+            "잡아라!",
+            "복수해주세요!",
+            "절 위해 한대 박아주세요!",
+            "도망치게 놔두지 마세요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/flee/safe/default/default",
         "value": [
-            "我又一次死里逃生了！",
-            "我未来应该更小心一点儿。刚刚就差点没命儿了。",
-            "我需要休息会儿！"
+            "아슬 아슬하게 살아 남았군요!",
+            "미래엔 좀 더 조심해야겠군요. 방금의 것은 위험했습니다.",
+            "좀 쉬고 싶다구요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我只是在旅行，做我自己的事儿。"
+            "그냥 여행길에 있습니다. 원하는걸 하면서요."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/default",
         "value": [
-            "嗨，陌生人！如果你在寻找星核碎片，在这个老矿洞底下你能找到一些－你应该去看看！",
-            "星核碎片的化学反应很剧烈，所以过去的矿工都把它做成炸弹。",
-            "我猜矿工们已经离开很久了，因为矿洞里现在全是生物。",
-            "我已经有一阵子没有见到新面孔了！你需要生存建议么？因为我有很多！",
-            "当你看到藤蔓的时候你应该把他们砍下来！它们可以用于制作绷带和攀登绳－都很有用。",
-            "小心坠落！如果有必要从山顶建一条路下来相对更加安全。",
-            "天黑的时候你应该带个手电筒。饥饿的野兽会在晚上出来捕猎。",
-            "如果你打算在地下洞穴探险，记得带一些火把！",
-            "小心野生动物－即使和平的生物也会在你挑衅它之后对你发起攻击…",
-            "极端天气可以决定你能否四处走动。永远记住这一点！",
-            "我宁愿天天出门也不愿意住在城市里！",
-            "这里的气候比大多数星球的更好。其他星球并不都这样…",
-            "如果你打碎那些随处可见白色的补给舱，你可能会获得一些奇妙的玩意儿。",
-            "如果你中途遇到了一些村庄，切记不要激怒任何警卫。只是个建议…",
-            "每个星球上的白天的长度都不一样。很酷，不是么？",
-            "我听说过很多星球地下发现奇怪废墟的传言。不知道这是不是真的？",
-            "你能想象只能生活在一个星球上的感觉么？",
-            "我好几年没回地球了！那边最近怎么样？"
+            "아, 누군진 모르지만 핵 파편을 찾는 거라면 이 옛 광선 아래에 잔뜩 있을겁니다. 확인해 보세요!",
+            "핵 파편은 화학 반응을 이르키는데 좋죠. 그래서 옛날에는 광부들이 그걸로 폭탄을 만들었답니다.",
+            "광부들은 옛날에 떠났을겁니다. 광산은 지금 몬스터들 천지니까요.",
+            "오랜만에 보는 신입이군요! 생존을 위한 조언이 필요하신가요? 상당히 많이 있답니다!",
+            "덩쿨을 보면 자르는걸 까먹지 마세요! 그것들은 반창고나 로프를 만드는데 쓸수있답니다. 둘다 쓸모있죠.",
+            "낙하를 조심하세요! 필요하다면 차라리 새로 길을 만드는게 더 좋을수도 있습니다.",
+            "어두워 질땐 손전등이 없으면 곤란할 수 도 있습니다. 배고픈 짐승들이 사냥하러 나오거든요!",
+            "지하 탐험을 갈때는 횃불을 까먹지 마세요!",
+            "야생 생물들을 조심하세요. 평화로운 생물이라도 싸움을 걸면 공격할겁니다.",
+            "극단적인 날씨는 너의 움직임을 제한할 수 도 있답니다. 까먹지 마세요!",
+            "언제 물어봐도 도시에서 사는것보다는 멋진 야생에서 사는것이 좋다고 대답할겁니다!",
+            "이곳의 날씨는 대부분의 행성들 보다 훨신 좋은편이죠.",
+            "어디서나 볼수있는 저런 하얀 보급 캡슐을 부수면, 꽤 쓸만한걸 구할 수 있을겁니다.",
+            "혹시나 해서 말해두는겁니다만, 다니다가 마을을 발견하게 된다면, 경비병을 화나게 할짓은 하지 마세요.",
+            "행성에 따라 하루의 길이가 다르지요, 멋지지 않나요?",
+            "많은 행성의 지하에서 이상한 유적이 발견됬다는 군요. 사실일까요?",
+            "한 행성에서만 살수있는 삶이 상상이 되시나요?",
+            "지구에 안가본지가 한참 됬군요! 요즘엔 어떻게 돌아가나요?"
         ]
     }
 ]

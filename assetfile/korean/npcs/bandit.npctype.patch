@@ -1,62 +1,22 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/1",
-        "value": "쉽게 빠져나갈 생각은 버리는 게 좋을걸!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/6",
-        "value": "놀랐지, 네 몸을 벌집으로 만들어주마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/5",
-        "value": "개인적인 감정은 없어, 난 그냥 강도짓이 재밌거든!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/4",
-        "value": "싸움이야! 지루하던 참이었는데!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/3",
-        "value": "호랑이 굴에 머리를 들이밀었군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/2",
-        "value": "너라면 분명 픽셀을 왕창 흘릴 거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/0",
-        "value": "저기 봐, 손쉬운 먹잇감이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "공격!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "攻击！"
+            "공격!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/human/default",
         "value": [
-            "嘿看！真容易上钩！",
-            "别以为你可以轻易离开这里！",
-            "我敢打赌，你会丢下很多像素！",
-            "你已经走入狼穴了！",
-            "很好，一场战斗！我现在非常无聊！",
-            "没有个人恩怨，只是我就是很喜欢攻击人！",
-            "惊喜吧！你会被刺的千疮百孔！"
+            "저기 봐, 손쉬운 먹잇감이야!",
+            "쉽게 빠져나갈 생각은 버리는 게 좋을걸!",
+            "너라면 분명 픽셀을 왕창 흘릴 거야!",
+            "호랑이 굴에 머리를 들이밀었군!",
+            "싸움이야! 지루하던 참이었는데!",
+            "개인적인 감정은 없어, 난 그냥 강도짓이 재밌거든!",
+            "놀랐지, 네 몸을 벌집으로 만들어주마!"
         ]
     }
 ]

@@ -1,53 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/charGenTextLabels/9",
-        "value": "성격"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/8",
+        "path": "/charCreationTooltip/title",
         "value": "에이펙스"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/7",
-        "value": "하의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/6",
-        "value": "상의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/5",
-        "value": "수염 모양"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/4",
-        "value": "피부 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/3",
-        "value": "하의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/2",
-        "value": "상의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/1",
-        "value": "머리 모양"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/0",
-        "value": "털 색상"
     },
     {
         "op": "replace",
@@ -56,23 +11,18 @@
     },
     {
         "op": "replace",
-        "path": "/charCreationTooltip/title",
-        "value": "에이펙스"
-    },
-    {
-        "op": "replace",
         "path": "/charGenTextLabels",
         "value": [
-            "毛色",
-            "发型",
-            "上衣",
-            "裤子",
-            "皮肤颜色",
-            "胡子风格",
-            "上衣颜色",
-            "裤子颜色",
-            "猿族",
-            "人物性格"
+            "털 색상",
+            "머리 모양",
+            "상의",
+            "하의",
+            "피부 색상",
+            "수염 모양",
+            "상의 색상",
+            "하의 색상",
+            "에이펙스",
+            "성격"
         ]
     }
 ]

@@ -117,41 +117,41 @@
     {
         "op": "replace",
         "path": "/peacekeeper02/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
         "path": "/peacekeeper02/text",
-        "value": "希望你喜欢这个新空间站！我们现在甚至有一个^orange;和平卫士补给商店^white;！"
+        "value": "새 정거장이 마음에 들었으면 좋겠네, 파트너! 이제 ^orange;평화 유지군의 보급품 가게^white;도 생겼어!"
     },
     {
         "op": "replace",
         "path": "/peacekeeper03/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
         "path": "/peacekeeper03/text",
-        "value": "在我看来，这个新空间站也不是很差嘛！我们会越来越好的，伙伴！"
+        "value": "내가 보기엔 이 새 우주정거장도 형편없어! 우리는 점점 더 좋아질 것이야, 파트너!"
     },
     {
         "op": "replace",
         "path": "/peacekeeper04/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
         "path": "/peacekeeper04/text",
-        "value": "欢迎来到我们超棒的新地方，伙伴！为什么不看看我们的^orange;和平卫士家具商店^white;呢？"
+        "value": "우리의 멋지고 새로운 곳에 오신 것을 환영합니다, 파트너! 왜 우리의 ^orange;평화 유지군의 가구 가게^white;를 보지 않습니까?"
     },
     {
         "op": "replace",
         "path": "/peacekeeper05/senderName",
-        "value": "诺布尔队长"
+        "value": "캡틴 노블"
     },
     {
         "op": "replace",
         "path": "/peacekeeper05/text",
-        "value": "伙伴，我们终于迎来了大时代！和平卫士真正的回归了，甚至比以往更好！"
+        "value": "드디어 대성공을 거두었어, 파트너! 평화 유지군이 다시 돌아왔고, 그 어느 때보다 좋아 보인다!"
     }
 ]

@@ -1,122 +1,32 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/1",
-        "value": "상인이 들어올만한 상점을 만드시고 싶다면, 그들이 쓸만한 창고가 필요합니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/3",
-        "value": "농작물은 스스로 키우시는지요? 괭이를 만드시면 당신도 할 수 있을겁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/16",
-        "value": "지구에 안가본지가 한참 됬군요! 요즘엔 어떻게 돌아가나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/5",
-        "value": "꽃이나 잔디를 키울려면 물뿌리개를 구하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/2",
-        "value": "사람들이 충분히 오랜 시간동안 당신의 집에서 산다면, 아마 선물을 줄겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/0",
-        "value": "멋진 곳 이군요! 마치 고향 같은데요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "그냥 여행길에 있습니다, 원하는걸 하면서요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/15",
-        "value": "요즘엔 대채 커피 한잔을 만드는게 왜이리 힘든건지..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/14",
-        "value": "큰 공동으로 뛰어내리고 싶지 않다면, 로프를 써서 천천히 내려가는건 어떤가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/13",
-        "value": "누가 무기 상자를 온곳에 설치해두는 걸까요? 무단 투기 수준인것 같은데!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/12",
-        "value": "만약 몬스터들이 입주자 들을 공격한다면, 경비병을 불러오는게 좋을겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/11",
-        "value": "폭탄을 다룰때는 조심하세요! 랄까, 그런말을 할 필요가 있긴 할려나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/10",
-        "value": "일부 입주자는 집에 둘 장식물을 굉장히 가린답니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/9",
-        "value": "아마 대부분의 방랑 모험가들은 평화로운 행성을 위주로 다닐겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/8",
-        "value": "탤래포터들은 행성간 이동에는 굉장히 유용하지만, 역시 만들기 위한 탤래포터 코어를 구하기가 힘들죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/7",
-        "value": "입주자가 불만이 있으면 방 빼고 나가기 전에 도와주는게 좋습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/6",
-        "value": "그 이상한 관문들은 또 뭡니까? 항상 거기에 있었던 건가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/4",
-        "value": "대부분의 입주자는 문이나 광원채가 없는 집에는 안들어 올겁니다!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我只是在旅行，做一些自己的事情。"
+            "그냥 여행길에 있습니다, 원하는걸 하면서요."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/default",
         "value": [
-            "这是个好地方！就像家一样。",
-            "如果你想建一个能吸引商人的地方，你需要给他们建一些储藏室！",
-            "如果人们在你建立的家园居住的足够久，他们可能会送给你礼物。",
-            "你自己种过庄稼么？如果你给自己做个锄头你就能种田了！",
-            "大部分人都不会选择住在一个没有灯或门的地方！仅仅是个建议。",
-            "如果你想种花种草的话，你应该弄个水壶。",
-            "那些奇怪的石头门是干啥的？它们一直都在那里吗？",
-            "如果你的住户们有些抱怨，你应该在他们永远离开之前为他们解决烦恼。",
-            "传送器在星球间旅游时特别有用，但制作它们需要一个传送核心。",
-            "我打赌大多数漫游宇宙的旅行者都住在安宁的星球上。",
-            "一些住户对他们的家园的装饰有些非常挑剔的要求。",
-            "小心炸弹！这我需要说么？",
-            "如果怪物攻击你的住户，你应该鼓励一些卫兵住进来！",
-            "是谁到处乱放这些武器箱？这应该算乱扔垃圾！",
-            "如果你不愿直接跳下一个大山洞，你可以用攀登绳把自己放下去！",
-            "如今做一杯咖啡有多难？",
-            "我很多年没回地球了！那边现在怎么样？"
+            "멋진 곳 이군요! 마치 고향 같은데요.",
+            "상인이 들어올만한 상점을 만드시고 싶다면, 그들이 쓸만한 창고가 필요합니다!",
+            "사람들이 충분히 오랜 시간동안 당신의 집에서 산다면, 아마 선물을 줄겁니다.",
+            "농작물은 스스로 키우시는지요? 괭이를 만드시면 당신도 할 수 있을겁니다!",
+            "대부분의 입주자는 문이나 광원채가 없는 집에는 안들어 올겁니다!",
+            "꽃이나 잔디를 키울려면 물뿌리개를 구하세요.",
+            "그 이상한 관문들은 또 뭡니까? 항상 거기에 있었던 건가요?",
+            "입주자가 불만이 있으면 방 빼고 나가기 전에 도와주는게 좋습니다.",
+            "탤래포터들은 행성간 이동에는 굉장히 유용하지만, 역시 만들기 위한 탤래포터 코어를 구하기가 힘들죠.",
+            "아마 대부분의 방랑 모험가들은 평화로운 행성을 위주로 다닐겁니다.",
+            "일부 입주자는 집에 둘 장식물을 굉장히 가린답니다.",
+            "폭탄을 다룰때는 조심하세요! 랄까, 그런말을 할 필요가 있긴 할려나요?",
+            "만약 몬스터들이 입주자 들을 공격한다면, 경비병을 불러오는게 좋을겁니다.",
+            "누가 무기 상자를 온곳에 설치해두는 걸까요? 무단 투기 수준인것 같은데!",
+            "큰 공동으로 뛰어내리고 싶지 않다면, 로프를 써서 천천히 내려가는건 어떤가요?",
+            "요즘엔 대채 커피 한잔을 만드는게 왜이리 힘든건지...",
+            "지구에 안가본지가 한참 됬군요! 요즘엔 어떻게 돌아가나요?"
         ]
     }
 ]

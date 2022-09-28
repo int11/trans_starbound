@@ -2,21 +2,21 @@
     {
         "op": "replace",
         "path": "/output/parameters/shortdescription",
-        "value": "和平卫士无人机"
+        "value": "평화유지군 드론"
     },
     {
         "op": "replace",
         "path": "/output/parameters/description",
-        "value": "可部署的自动化无人机，用于发射爆炸性弹药。"
+        "value": "폭발성 탄약을 발사하는 배치 가능한 자동화 드론입니다."
     },
     {
         "op": "replace",
         "path": "/output/parameters/tooltipFields/subtitle",
-        "value": "和平卫士无人机"
+        "value": "평화유지군 드론"
     },
     {
         "op": "replace",
         "path": "/output/parameters/pets/0/name",
-        "value": "无人机"
+        "value": "드론"
     }
 ]

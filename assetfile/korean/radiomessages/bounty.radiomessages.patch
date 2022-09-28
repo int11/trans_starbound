@@ -7,7 +7,7 @@
     {
         "op": "replace",
         "path": "/exploreclueplanet/text",
-        "value": "我们知道目标曾经在这出现过。^orange;搜寻^reset;线索。不知道从哪儿开始？看看周围，伙伴！"
+        "value": "목표물이 최근에 여기 있었군. 단서를 ^orange;찾아^reset;. 어디서부터 시작해야 할지 모르겠어? 주위를 둘러봐, 파트너!"
     },
     {
         "op": "replace",
@@ -17,7 +17,7 @@
     {
         "op": "replace",
         "path": "/approachingclue/text",
-        "value": "看来你已经接近目标了，伙伴。^orange;调查^reset;指定地区！"
+        "value": "목표물에 가까워지고 있는 것 같군, 파트너. 지정된 지역을 ^orange;조사^reset;하자!"
     },
     {
         "op": "replace",
@@ -27,7 +27,7 @@
     {
         "op": "replace",
         "path": "/approachingbounty/text",
-        "value": "看来你已经十分接近目标了。^orange;拘押目标^reset;，伙伴！"
+        "value": "목표물에 충분히 가까워진 것 같다. ^orange;목표물을 파악 했다^reset;, 파트너!"
     },
     {
         "op": "replace",
@@ -37,7 +37,7 @@
     {
         "op": "replace",
         "path": "/tutorialexplore/text",
-        "value": "目标可能在这个星球的任意地点，甚至地下！^green;探索^reset;这个星球直到我们拿到^orange;目标的特征^reset;，伙伴！"
+        "value": "목표물은 행성 어디든 있을 수 있어!, 심지어 지하에도! 목표물의 ^orange;특징^reset;을 알아낼 떄까지 행성을 ^green;탐색^reset;하자, 파트너!"
     },
     {
         "op": "replace",
@@ -47,6 +47,6 @@
     {
         "op": "replace",
         "path": "/tutorialapproachclue/text",
-        "value": "我们已经拿到^orange;目标的特征^reset;了！你的^green;指南针^reset;会为你指明方向—跟着它，伙伴！"
+        "value": "목표물의 ^orange;특징^reset;을 포착했습니다! ^green;나침반^reset;이 방향을 보여줄 거야 - 그것을 따라가, 파트너!"
     }
 ]

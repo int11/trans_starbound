@@ -1,78 +1,28 @@
 [
     {
         "op": "replace",
-        "path": "/charCreationTooltip/description",
-        "value": "이들의 온화한 외모에 속지 마세요! 플로란은 가장 사납고 공격적인 사냥꾼으로 온 우주에 알려져 있습니다. 그 자신들은 그닥 창의적이지 못하지만 승리를 받아낸 사람들로부터 기술을 획득하고 응용하는 것을 좋아합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/9",
-        "value": "성격"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/7",
-        "value": "하의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/6",
-        "value": "상의 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/5",
-        "value": "꽃 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/4",
-        "value": "잎 색상"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/3",
-        "value": "하의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/2",
-        "value": "상의"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/1",
-        "value": "화초"
-    },
-    {
-        "op": "replace",
-        "path": "/charGenTextLabels/0",
-        "value": "피부 색상"
-    },
-    {
-        "op": "replace",
         "path": "/charCreationTooltip/title",
         "value": "플로란"
     },
     {
         "op": "replace",
-        "path": "/charGenTextLabels/8",
-        "value": "플로란"
+        "path": "/charCreationTooltip/description",
+        "value": "이들의 온화한 외모에 속지 마세요! 플로란은 가장 사납고 공격적인 사냥꾼으로 온 우주에 알려져 있습니다. 그 자신들은 그닥 창의적이지 못하지만 승리를 받아낸 사람들로부터 기술을 획득하고 응용하는 것을 좋아합니다."
     },
     {
         "op": "replace",
         "path": "/charGenTextLabels",
         "value": [
-            "肤色",
-            "枝叶",
-            "上衣",
-            "裤子",
-            "叶子颜色",
-            "花的颜色",
-            "上衣颜色",
-            "裤子颜色",
-            "叶族",
-            "人物性格"
+            "피부 색상",
+            "화초",
+            "상의",
+            "하의",
+            "잎 색상",
+            "꽃 색상",
+            "상의 색상",
+            "하의 색상",
+            "플로란",
+            "성격"
         ]
     }
 ]

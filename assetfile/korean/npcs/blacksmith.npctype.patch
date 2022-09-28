@@ -1,68 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/7",
-        "value": "보기 싫음. 당신은 나에게 수업을 받아야 할 것 처럼 보이오."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/6",
-        "value": "열망. 이 무기를 시험하기에 좋은 기회요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/5",
-        "value": "물러남. 하, 더 붕괴됐소."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/4",
-        "value": "음산함. 난 멋진 새로운 무기를 어지럽힐거요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/3",
-        "value": "거침. 그들이 당신에게 말해주지 않았소, 대장장이에게 화내지 말라고?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/2",
-        "value": "삐뚤어짐. 당신은 내가 조롱하게 만들지 않을거요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/1",
-        "value": "피곤함. 우리 다시 합시다..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "음산함. 난 멋진 새로운 무기를 어지럽힐거요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/0",
-        "value": "인색함. 당신은 어리고 항상 문제를 만드오!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "愠怒。看起来又要麻烦我准备精良的新武器了。"
+            "인색함. 당신은 어리고 항상 문제를 만드오!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/glitch/default",
         "value": [
-            "吝啬。你们年轻人总是惹麻烦！",
-            "厌烦。又来了…",
-            "冒犯。不许嘲笑我！",
-            "粗暴。他们没告诉过你，别惹铁匠吗？",
-            "愠怒。看起来又要麻烦我准备精良的新武器了。",
-            "听天由命。唉，更多的破坏。",
-            "热切。一个测试我打造的武器的好机会。",
-            "暴躁。看来我得给你上一课。"
+            "음산함. 난 멋진 새로운 무기를 어지럽힐거요.",
+            "피곤함. 우리 다시 합시다...",
+            "삐뚤어짐. 당신은 내가 조롱하게 만들지 않을거요!",
+            "거침. 그들이 당신에게 말해주지 않았소, 대장장이에게 화내지 말라고?",
+            "음산함. 난 멋진 새로운 무기를 어지럽힐거요.",
+            "보기 싫음. 당신은 나에게 수업을 받아야 할 것 처럼 보이오.",
+            "열망. 이 무기를 시험하기에 좋은 기회요!",
+            "물러남. 하, 더 붕괴됐소."
         ]
     }
 ]
