@@ -75,7 +75,7 @@ class patch_viewer(QTreeView):
 
 
 class explorer(QTreeView):
-    def __init__(self, parent, asset):
+    def __init__(self, parent):
         super().__init__(parent)
 
         self.model = QFileSystemModel()
@@ -109,13 +109,13 @@ class Form(QtWidgets.QMainWindow):
         file_menu.addAction(action0)
         file_menu.addAction(action1)
 
-        self.ko_explorer = explorer(self, 'korean')
-        self.ko_explorer.clicked.connect(self.cil)
+        self.explorer = explorer(self)
+        self.explorer.clicked.connect(self.cil)
         self.viewer = patch_viewer(self)
 
         temp = QWidget()
         hbox = QHBoxLayout(temp)
-        hbox.addWidget(self.ko_explorer)
+        hbox.addWidget(self.explorer)
         hbox.addWidget(self.viewer)
         vbox = QVBoxLayout(temp)
         vbox.addWidget(self.viewer.koreatext)
@@ -140,13 +140,15 @@ class Form(QtWidgets.QMainWindow):
 
     def action0f(self):
         path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Asset Folder", '.\\assetfile')
-        self.assetpath = path
-        self.ko_explorer.model.setRootPath(path)
-        self.ko_explorer.setRootIndex(self.ko_explorer.model.index(self.ko_explorer.model.rootPath()))
+        if not path == '':
+            self.assetpath = path
+            self.explorer.model.setRootPath(path)
+            self.explorer.setRootIndex(self.explorer.model.index(self.explorer.model.rootPath()))
 
     def action1f(self):
         path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Starbound Folder")
-        asset.download_original_assets(path)
+        if not path == '':
+            asset.download_original_assets(path)
 
 
 app = QApplication(sys.argv)
