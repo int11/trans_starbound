@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "용맹. 방랑 무지개단은 무고한 이들을 악으로부터 지켜줄 것이오! 우린 진중한 조직이오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "성급. 여기 온 이유는 약간의 중요 보급품을 모으기 위한것 뿐이오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "친절. 내가 방랑 무지개단일지언정, 그게 우리가 말을 나누지 못할 이유는 아니오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "친절. 잘 와주었네 친구여!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "자랑. 나는 방랑 무지개단의 이름으로 여기에 심부름을 하러 왔다오."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "自夸。我在这儿代表了我的家族，彩虹猛兽团！",
-            "友善。好高兴见到你，我的朋友！",
-            "友善。我可能是一个彩虹猛兽，但这不代表我们是不能沟通的。",
-            "不耐烦。我只是在这里收集一些重要物资！",
-            "强悍。彩虹猛兽公会保护无辜者不受伤害！我们是一个正义严肃的组织！"
+            "자랑. 나는 방랑 무지개단의 이름으로 여기에 심부름을 하러 왔다오.",
+            "친절. 잘 와주었네 친구여!",
+            "친절. 내가 방랑 무지개단일지언정, 그게 우리가 말을 나누지 못할 이유는 아니오!",
+            "성급. 여기 온 이유는 약간의 중요 보급품을 모으기 위한것 뿐이오!",
+            "용맹. 방랑 무지개단은 무고한 이들을 악으로부터 지켜줄 것이오! 우린 진중한 조직이오!"
         ]
     }
 ]

@@ -1,32 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "볼로는 자신의 동물들 뒤에 숨어서 장거리에서 공격할걸세, 전장을 방패삼아 그녀의 총탄을 피하게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "볼로의 총탄은 자네의 기동력을 대폭 감소시킬걸세, 가능하다면 피해 보게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "선반을 사용한다면 볼로가 알아서 접근 할걸세, 그때를 노려서 공격하게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "볼로의 동물들은 그녀보다 약하지, 그들을 우선적으로 치우는걸 권장하지."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "瓦洛的步枪子弹会严重减慢你的移动，注意别被击中。",
-            "瓦洛会试图站在她宠物后面进行远程攻击，合理利用地形防止被击中。",
-            "相比之下，瓦洛的宠物更脆弱。我建议你在这场战斗中先除去她的宠物。",
-            "你可以通过壁架来引诱瓦洛靠近。那是最好的进攻时机！"
+            "볼로의 총탄은 자네의 기동력을 대폭 감소시킬걸세, 가능하다면 피해 보게.",
+            "볼로는 자신의 동물들 뒤에 숨어서 장거리에서 공격할걸세, 전장을 방패삼아 그녀의 총탄을 피하게.",
+            "볼로의 동물들은 그녀보다 약하지, 그들을 우선적으로 치우는걸 권장하지.",
+            "선반을 사용한다면 볼로가 알아서 접근 할걸세, 그때를 노려서 공격하게."
         ]
     }
 ]

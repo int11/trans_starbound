@@ -1,68 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "멀고도 고단한 길을 걸어온 사람 같구만, 친구."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "항상 무리보다 상류에서 물을 마셔라. 옛 속담이지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/9",
-        "value": "온 곳 보단 갈 곳이 더 의미 있지. 모두 마찬가지일꺼야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/8",
-        "value": "고민하지 말고 와. 난 너가 듣던 심술궃은 녀석들은 아니니까."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/7",
-        "value": "성가신 일이 대문을 두드려도, 열어줄 필요는 없지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/6",
-        "value": "태양을 너무 쫒지 말아 친구. 내일이면 다시 돌아올테니."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/5",
-        "value": "넌 역사 같은거 중요시 하나?  난 내가 어디서 왔는지도 기억 안나는데."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "앉아, 친구. 삶은 달리기만 해야하는건 아니라구."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "방랑자의 혼이 그 눈빛에서 느껴지는군, 친구."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안목이 날카롭군, 많은걸 봐왔겠지."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "你看起来像个眼光锐利的人，我打赌你曾经经历过一些事。",
-            "你的目光飘忽不定，伙计。",
-            "总是在牧群的上游喝水。这是句古话。",
-            "你看起来很艰辛，伙计。",
-            "请坐，伙计。生活并不需要一直忙碌。",
-            "你们的历史很悠久吗？至于我，我甚至都记不得我是哪里来的。",
-            "不需要去追逐太阳，伙计。第二天时它总会自己回来的。",
-            "即使有麻烦来敲门，也并不意味着你要邀请它进来。",
-            "我很平易近人的，我－不是他们说的那种故意刁难他人的人。",
-            "相比于我从哪里来，我往哪里去才更加重要。同样，对于每个人来说都是如此。"
+            "안목이 날카롭군, 많은걸 봐왔겠지.",
+            "방랑자의 혼이 그 눈빛에서 느껴지는군, 친구.",
+            "항상 무리보다 상류에서 물을 마셔라. 옛 속담이지.",
+            "멀고도 고단한 길을 걸어온 사람 같구만, 친구.",
+            "앉아, 친구. 삶은 달리기만 해야하는건 아니라구.",
+            "넌 역사 같은거 중요시 하나?  난 내가 어디서 왔는지도 기억 안나는데.",
+            "태양을 너무 쫒지 말아 친구. 내일이면 다시 돌아올테니.",
+            "성가신 일이 대문을 두드려도, 열어줄 필요는 없지.",
+            "고민하지 말고 와. 난 너가 듣던 심술궃은 녀석들은 아니니까.",
+            "온 곳 보단 갈 곳이 더 의미 있지. 모두 마찬가지일꺼야."
         ]
     }
 ]

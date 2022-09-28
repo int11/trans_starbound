@@ -1,200 +1,70 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/follow/default/default/1",
-        "value": "보급품 때문에 왔수? 도와드리리다! 이리 오시우."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
-        "value": "여기우!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
-        "value": "자 이제, 뭘 찾고계시나?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "여깁디다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/5",
-        "value": "그냥 뭣이 중헌지 알고싶구먼야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/4",
-        "value": "일등품 아니믄 없지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/3",
-        "value": "함 보쇼!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "거래합시다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "시선 가는 거라도 있으셔?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "그래서, 뭣이 필요헌디?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/avian/default/4",
-        "value": "일등품 빼고는 없지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/avian/default/3",
-        "value": "한 번 보쇼!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/avian/default/2",
-        "value": "거래합시다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/avian/default/1",
-        "value": "눈길 가는 거라도?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
-        "value": "보급품을 찾아왔거들랑 거래는 내가 전담이라우!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
-        "value": "보급품이 필요하쇼? 내가 도와드릴게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/avian/default/2",
-        "value": "댁이 픽셀을 주면 우린 물건을 주지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/avian/default/5",
-        "value": "그냥 뭣이 중헌지 알고싶구만야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/follow/default/default/2",
-        "value": "아, 그래서 보급품이 필요하시겠다? 응? 이쪽으로!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
-        "value": "거래를 하고 싶으시다? 따라오쇼."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
-        "value": "댁이 픽셀을 주면 우린 물건을 주지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
-        "value": "또 필요한 거 있으면 날 보러 와!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "나중에 필요한 거 생기면 또 찾아와!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/avian/default/0",
-        "value": "그래서, 뭐가 필요하시다고?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/avian/default/1",
-        "value": "또 필요한 거 있으면 날 보러 와!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/avian/default/0",
-        "value": "나중에 필요한 거 생기면 또 찾아와!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "嗯，你需要什么？",
-            "有什么吸引你的么？",
-            "我们来交易吧！",
-            "看看吧！",
-            "我们卖的货物都是最好的。",
-            "我知道我这里有一些对你有用的东西。"
+            "그래서, 뭣이 필요헌디?",
+            "시선 가는 거라도 있으셔?",
+            "거래합시다!",
+            "함 보쇼!",
+            "일등품 아니믄 없지.",
+            "그냥 뭣이 중헌지 알고싶구먼야."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/avian/default",
         "value": [
-            "嗯，你需要什么？",
-            "有什么吸引你的么？",
-            "我们来交易吧！",
-            "看看吧！",
-            "我们卖的货物都是最好的。",
-            "我知道我这里有一些对你有用的东西。"
+            "그래서, 뭐가 필요하시다고?",
+            "눈길 가는 거라도?",
+            "거래합시다!",
+            "한 번 보쇼!",
+            "일등품 빼고는 없지.",
+            "그냥 뭣이 중헌지 알고싶구만야."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "当你需要更多补给时来找我们吧！",
-            "如果你还需要什么，就来找我！",
-            "如果你有像素，我们就有你需要的一切。"
+            "나중에 필요한 거 생기면 또 찾아와!",
+            "또 필요한 거 있으면 날 보러 와!",
+            "댁이 픽셀을 주면 우린 물건을 주지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/avian/default",
         "value": [
-            "当你需要更多补给时来找我们吧！",
-            "如果你还需要什么，就来找我！",
-            "如果你有像素，我们就有你需要的一切。"
+            "나중에 필요한 거 생기면 또 찾아와!",
+            "또 필요한 거 있으면 날 보러 와!",
+            "댁이 픽셀을 주면 우린 물건을 주지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/follow/default/default",
         "value": [
-            "来交易的吗？跟我来。",
-            "想买些东西吗？我可以帮助你，跟我来。",
-            "啊，你要买东西，是吗？这边走。"
+            "거래를 하고 싶으시다? 따라오쇼.",
+            "보급품 때문에 왔수? 도와드리리다! 이리 오시우.",
+            "아, 그래서 보급품이 필요하시겠다? 응? 이쪽으로!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/default/default",
         "value": [
-            "到这里来！",
-            "那么，你要买些什么呢？",
-            "请进！"
+            "여깁디다!",
+            "자 이제, 뭘 찾고계시나?",
+            "여기우!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/tout/default/default",
         "value": [
-            "想买点东西？我能为您提供服务。",
-            "如果你想买什么东西的话，找我好了！"
+            "보급품이 필요하쇼? 내가 도와드릴게!",
+            "보급품을 찾아왔거들랑 거래는 내가 전담이라우!"
         ]
     }
 ]

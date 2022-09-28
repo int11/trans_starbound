@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "흥미로운 장난감들 좀 보시렵니까?"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "도망치는 상인"
     },
     {
         "op": "replace",
@@ -11,98 +11,38 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/2",
-        "value": "이곳 보다 훨신 심각한곳에 많이 살아봤지요. 여기... 작은 보답이라고 생각해주시죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/1",
-        "value": "내 감사를 보여주기 위한 약간의 선물... 이라고 할까요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/0",
-        "value": "받아주시죠. 제... 뭐. '안전' 을 지켜주신것에 대한 감사 라고 할까요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "당신의 소유지를... '보호' 해야 된다구요?... 어서 오십쇼."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "당신이 필요한걸 가지고 있답니다..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
-        "value": "자, 도착 했습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
-        "value": "제 천한 상점에 환영하지요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "자아, 이제..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
-        "value": "제 '보급품' 이 마음에 드시면 좋겠군요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
-        "value": "더 많은 공간을 '지키고' 싶다면, 누굴 불러야 하는지는 아실겁니다..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "'보호'... 가 필요하시다면 언제나 돌아오시죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "도망치는 상인"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "我知道你要什么…",
-            "你需要…保护…你的财产？不妨看看…",
-            "想看一些有趣的小玩意么？"
+            "당신이 필요한걸 가지고 있답니다...",
+            "당신의 소유지를... '보호' 해야 된다구요?... 어서 오십쇼.",
+            "흥미로운 장난감들 좀 보시렵니까?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/default/default",
         "value": [
-            "我们到了…",
-            "欢迎来到我简陋的商店…",
-            "来瞧瞧我们这。"
+            "자아, 이제...",
+            "제 천한 상점에 환영하지요...",
+            "자, 도착 했습니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "任何时候，只要你需要一些…保护手段，回来就是了。",
-            "如果你需要保护更大的地方，你知道找谁…",
-            "我希望你欣赏我的…货物。"
+            "'보호'... 가 필요하시다면 언제나 돌아오시죠.",
+            "더 많은 공간을 '지키고' 싶다면, 누굴 불러야 하는지는 아실겁니다...",
+            "제 '보급품' 이 마음에 드시면 좋겠군요..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default",
         "value": [
-            "这有一个小玩意，为确保我的…我们所说的…安全。",
-            "这里有些东西，以表我的一点小心意…",
-            "我曾经住在个更糟的地方。这是一点我的…小心意。"
+            "받아주시죠. 제... 뭐. '안전' 을 지켜주신것에 대한 감사 라고 할까요.",
+            "내 감사를 보여주기 위한 약간의 선물... 이라고 할까요.",
+            "이곳 보다 훨신 심각한곳에 많이 살아봤지요. 여기... 작은 보답이라고 생각해주시죠."
         ]
     }
 ]

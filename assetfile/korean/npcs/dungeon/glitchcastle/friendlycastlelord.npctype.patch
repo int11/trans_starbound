@@ -1,68 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "공포. 근위대! 내게로 오라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/7",
-        "value": "적의. 자네는 갈기갈리 찢겨진체... 이곳을 떠나게 될 걸세!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/6",
-        "value": "격분. 이곳을 침공한 날을 후회하게 될 것이오, 악당!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/5",
-        "value": "경멸. 자네를 내손으로 죽이고 싶지만, 근위대가 직접 하게 둬야겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/4",
-        "value": "도발. 근위대, 저 무뢰한을 갈기갈기 찢어라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/3",
-        "value": "섬뜩. 근위대! 도와주시오, 근위대!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/2",
-        "value": "심각. 난 죽기엔 너무 어려!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/1",
-        "value": "두려움. 산적이군! 근위대!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/0",
-        "value": "공포. 근위대! 내게로 오라!"
+        "path": "/scriptConfig/dialog/attack/default/default",
+        "value": [
+            "공포. 근위대! 내게로 오라!"
+        ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/glitch",
         "value": [
-            "害怕。卫兵！护驾！",
-            "惊慌。一个匪徒！卫兵！",
-            "惊呆。我这么年轻就要死了吗！",
-            "害怕。卫兵！卫兵！救命！",
-            "轻蔑。卫兵，快把这个匪徒劈成两半！",
-            "轻蔑。我很想亲自干掉你，但我的卫兵会替我做了。",
-            "愤怒。匪徒，你会后悔闯入这里的！",
-            "强势。你会离开这里的…以碎片的形式！"
-        ]
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default",
-        "value": [
-            "害怕。卫兵！护驾！"
+            "공포. 근위대! 내게로 오라!",
+            "두려움. 산적이군! 근위대!",
+            "심각. 난 죽기엔 너무 어려!",
+            "섬뜩. 근위대! 도와주시오, 근위대!",
+            "도발. 근위대, 저 무뢰한을 갈기갈기 찢어라!",
+            "경멸. 자네를 내손으로 죽이고 싶지만, 근위대가 직접 하게 둬야겠군.",
+            "격분. 이곳을 침공한 날을 후회하게 될 것이오, 악당!",
+            "적의. 자네는 갈기갈리 찢겨진체... 이곳을 떠나게 될 걸세!"
         ]
     }
 ]

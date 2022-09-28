@@ -1,74 +1,24 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/4",
-        "value": "무례, 그렇게 나쁜 집은 아니지만 내가 생각했던 것 보다 한심하군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/2",
-        "value": "무시. 살만은 하겠군. 이곳보다 훨씬 큰 곳에 살아보긴 했지만."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/1",
-        "value": "실망. 이런 곳 보다 훨씬 훌륭한 곳에서 살아왔는데..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/0",
-        "value": "독존. 난 왕족이라고! 나를 잘 대하는 게 좋을 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/4",
-        "value": "흥미. 시종이 없으면 자네의 잔업은 누가 처리해주나?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/2",
-        "value": "무시. 이런 집보다는 훨씬 큰 집에 살아봤다. 너 같은 녀석은 아마 이해도 못할 테지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/1",
-        "value": "몽환. 딱 너 같이 생긴 시종이 있었지..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
-        "value": "공손. 당신이 서민처럼 보이더라도, 위대한 일을 달성할 수 없는 건 아니오."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/3",
-        "value": "허무. 한때는 하늘에 닿을 정도로 높은 성에 살았지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/3",
-        "value": "허무. 한때는 하늘에 닿을 정도로 높은 성에 살았지."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/glitch/default",
         "value": [
-            "自大。我是一名小小的皇室成员！如果你聪明点儿就好好伺候我。",
-            "失望。我曾住过比这里更加气势恢宏的地方。",
-            "不识抬举。我想我勉强可以住在这里。尽管我曾经住在过更大的地方…",
-            "怀念。我曾经住在高耸入云的城堡里。",
-            "无礼。这个家还凑活，但是没有我想象中的大。"
+            "독존. 난 왕족이라고! 나를 잘 대하는 게 좋을 거다.",
+            "실망. 이런 곳 보다 훨씬 훌륭한 곳에서 살아왔는데...",
+            "무시. 살만은 하겠군. 이곳보다 훨씬 큰 곳에 살아보긴 했지만.",
+            "허무. 한때는 하늘에 닿을 정도로 높은 성에 살았지.",
+            "무례, 그렇게 나쁜 집은 아니지만 내가 생각했던 것 보다 한심하군."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/glitch/glitch",
         "value": [
-            "礼貌。你看起来像个乡下人，但并不意味着你将来没有出人头地的机会。",
-            "恍惚。我曾经也有一个长的像你的仆人。",
-            "不识抬举。我曾经住在比这个更大的房子里。像你这样的人是不会理解的。",
-            "怀念。我曾经住在高耸入云的城堡里。",
-            "好奇。如果你没有仆人，谁来替你做杂务？"
+            "공손. 당신이 서민처럼 보이더라도, 위대한 일을 달성할 수 없는 건 아니오.",
+            "몽환. 딱 너 같이 생긴 시종이 있었지...",
+            "무시. 이런 집보다는 훨씬 큰 집에 살아봤다. 너 같은 녀석은 아마 이해도 못할 테지.",
+            "허무. 한때는 하늘에 닿을 정도로 높은 성에 살았지.",
+            "흥미. 시종이 없으면 자네의 잔업은 누가 처리해주나?"
         ]
     }
 ]

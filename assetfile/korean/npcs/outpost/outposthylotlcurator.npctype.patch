@@ -1,38 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "환영합니다! 좋은 하루 보내시길."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/Hylotl/default/0",
-        "value": "환영합니다! 좋은 하루 보내시길."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/Hylotl/hylotl/0",
-        "value": "환영합니다, 젊은이여, 당신도 학문을 쫒는걸 즐기시나요?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "你好！我希望你今天过得不错。"
+            "환영합니다! 좋은 하루 보내시길."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/Hylotl/default",
         "value": [
-            "你好！我希望你今天过得不错。"
+            "환영합니다! 좋은 하루 보내시길."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/Hylotl/hylotl",
         "value": [
-            "你好，我年轻的朋友！你也喜欢这种追求文化的氛围吗？"
+            "환영합니다, 젊은이여, 당신도 학문을 쫒는걸 즐기시나요?"
         ]
     }
 ]

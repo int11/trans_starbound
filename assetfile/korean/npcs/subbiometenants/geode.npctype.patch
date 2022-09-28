@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "낙담. 아무도 내 바위를 사려하지 않소...  하지만 당신이라면 다를지도?"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "지질 상인"
     },
     {
         "op": "replace",
@@ -11,62 +11,27 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "열렬. 어쩌면 당신이 내 바위에 관심이 있을지도?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "친근. 바위가 필요하시오? 아주 많이 있소!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
-        "value": "환영. 여기왔으니, 바위를 좀 사가는 건 어떻소?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
-        "value": "흥분. 정말 바위를 사고 싶소?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "기쁜. 정말로 내 가게에 와준 것이오? 멋지군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "자포자기. 나중에 오시오. 난 더 많은 소비자가 필요하오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "지질 상인"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "友好。你想要一些石头吗？我有很多！",
-            "沮丧。没人想买我的石头…但也许你会？",
-            "渴望。也许你会对我的石头感兴趣？"
+            "친근. 바위가 필요하시오? 아주 많이 있소!",
+            "낙담. 아무도 내 바위를 사려하지 않소...  하지만 당신이라면 다를지도?",
+            "열렬. 어쩌면 당신이 내 바위에 관심이 있을지도?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/default/default",
         "value": [
-            "很高兴。你真的来我的店了？多么美妙！",
-            "兴奋。你真的想买石头？",
-            "欢迎。你来这，是想买一些石头吗？"
+            "기쁜. 정말로 내 가게에 와준 것이오? 멋지군!",
+            "흥분. 정말 바위를 사고 싶소?",
+            "환영. 여기왔으니, 바위를 좀 사가는 건 어떻소?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "绝望。请尽快回来。我需要更多的顾客！"
+            "자포자기. 나중에 오시오. 난 더 많은 소비자가 필요하오!"
         ]
     }
 ]

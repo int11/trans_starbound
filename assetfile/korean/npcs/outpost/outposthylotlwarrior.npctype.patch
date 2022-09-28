@@ -1,50 +1,30 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/hylotl/default/0",
-        "value": "우리 하이로틀은 전사로서 인정받지는 않지만, 사실은 최고의 전사들과 비교해도 밀리지 않지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "우리 하이로틀은 전사로서 인정받지는 않지만, 사실은 최고의 전사들과 비교해도 밀리지 않지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0",
-        "value": "당신의 존재가 저에게는 영광입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/hylotl/floran/0",
-        "value": "제 사람들은 당신들을 경멸하지만, 플로란의 끈기는 칭송받을만한 것으로 생각합니다."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我们鲛人没有被广泛地认可为伟大的战士，但事实上我们的战士几乎是最好的战士之一。"
+            "우리 하이로틀은 전사로서 인정받지는 않지만, 사실은 최고의 전사들과 비교해도 밀리지 않지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/hylotl/default",
         "value": [
-            "我们鲛人没有被广泛地认可为伟大的战士，但事实上我们的战士几乎是最好的战士之一。"
+            "우리 하이로틀은 전사로서 인정받지는 않지만, 사실은 최고의 전사들과 비교해도 밀리지 않지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/hylotl/floran",
         "value": [
-            "我们之中的很多人鄙视你的种群，但我认为叶族的韧劲值得称赞。"
+            "제 사람들은 당신들을 경멸하지만, 플로란의 끈기는 칭송받을만한 것으로 생각합니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/hylotl/hylotl",
         "value": [
-            "您的光临让我大感荣幸。"
+            "당신의 존재가 저에게는 영광입니다."
         ]
     }
 ]

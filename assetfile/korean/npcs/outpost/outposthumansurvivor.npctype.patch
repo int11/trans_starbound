@@ -1,38 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/0",
-        "value": "지구가 공격받을 때 간신히 도망칠 수 있었어. 여기에 와서 다행이야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "지구가 공격받을 때 간신히 도망칠 수 있었어. 여기에 와서 다행이야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/human/0",
-        "value": "모든 인류는 우주 너머로 흩어져버렸어...우리가 뭘 할 수 있을까?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "当地球四分五裂的时候我堪堪逃出来。我很幸运能到这。"
+            "지구가 공격받을 때 간신히 도망칠 수 있었어. 여기에 와서 다행이야."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/default",
         "value": [
-            "当地球四分五裂的时候我堪堪逃出来。我很幸运能到这。"
+            "지구가 공격받을 때 간신히 도망칠 수 있었어. 여기에 와서 다행이야."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/human",
         "value": [
-            "所有的，分散在全宇宙的人类…我们该怎么办？"
+            "모든 인류는 우주 너머로 흩어져버렸어...우리가 뭘 할 수 있을까?"
         ]
     }
 ]

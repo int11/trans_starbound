@@ -1,38 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "너가 먼나먼 세상에 배정을 받더라도, 여기 지구에는 언제나 너의 친구가 있다는걸 기억해!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "어디서 들었는데, 물질 조작기는 모든 종류의 물질을 분해할 수 있데."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "곧 넌 진짜 수호자가 될거야, 너만의 물질 조작기와 말이지, 기대되지 않아?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/speak/default/default/0",
-        "value": "이봐 <entityname>! 약간 말을 나눌 시간이 있어?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "马上你将会成为一名守护者，并拥有你自己的物质枪。这一定让人兴奋异常！",
-            "我听说那些物质枪可以分解一切物质。",
-            "如果你被分配到了遥远的星球上，不要忘了地球上永远有你的忠实的朋友！"
+            "곧 넌 진짜 수호자가 될거야, 너만의 물질 조작기와 말이지, 기대되지 않아?",
+            "어디서 들었는데, 물질 조작기는 모든 종류의 물질을 분해할 수 있데.",
+            "너가 먼나먼 세상에 배정을 받더라도, 여기 지구에는 언제나 너의 친구가 있다는걸 기억해!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/speak/default/default",
         "value": [
-            "嘿 <entityname>！有空聊聊吗？"
+            "이봐 <entityname>! 약간 말을 나눌 시간이 있어?"
         ]
     }
 ]

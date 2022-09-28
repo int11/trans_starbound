@@ -16,27 +16,37 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "你今年做了熊孩子还是乖孩子，<entityname>？"
+        "path": "/scriptConfig/dialog/merchant/start/default/default",
+        "value": [
+            "你今年做了熊孩子还是乖孩子，<entityname>？"
+        ]
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "祝所有人，有一个美好的夜晚！"
+        "path": "/scriptConfig/dialog/merchant/end/default/default",
+        "value": [
+            "祝所有人，有一个美好的夜晚！"
+        ]
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
-        "value": "一起来，帮我传播节日的欢声！"
+        "path": "/scriptConfig/dialog/merchant/follow/default/default",
+        "value": [
+            "一起来，帮我传播节日的欢声！"
+        ]
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "你今年做了熊孩子还是乖孩子，<entityname>？"
+        "path": "/scriptConfig/dialog/merchant/welcome/default/default",
+        "value": [
+            "你今年做了熊孩子还是乖孩子，<entityname>？"
+        ]
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
-        "value": "嗬嗬嗬！"
+        "path": "/scriptConfig/dialog/merchant/tout/default/default",
+        "value": [
+            "嗬嗬嗬！"
+        ]
     }
 ]

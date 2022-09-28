@@ -1,68 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/9",
-        "value": "제 삶은 항상 휴일이라는 느낌이지 않으면 안되지요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/8",
-        "value": "집이 정말 편안해요! 마치 평생토록 휴일인것 같지요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/7",
-        "value": "평생을 느긋하고 즐겁게 보내길 위해서는 뭘 못할까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/5",
-        "value": "이런 스커트를 입으면 춥지 않냐구요?... 내, 그렇습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "지구에서 그 사건이 발생한 후, 약간의 긴장을 풀고자 노력하고 있어요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "삶은 파티죠! 고향 행성이 날아갈때를 빼면요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "좀 더 머물면서 즐기시는건 어떤가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "당신은 충분히 긴장을 푼 것처럼 보이지 않는걸요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕하세요! 즐겁게 보내고 계신가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/6",
-        "value": "당신은 걱정을 너무 많이하는 사람같아요! 가끔은 별들 아래에서 긴장을 푸는게 어때요?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嘿！你玩的开心吗？",
-            "你看上去好像很忙碌的样子。",
-            "为何不留在这里放松一下呢？",
-            "生活就像是一场派对！除非你的母星被摧毁了…",
-            "自地球出事之后，我一直在试图让自己放松一点。",
-            "也许你会认为我穿着这件裙子会感到冷…好吧，你是对的。",
-            "你看起来像是担忧太多了！为何不试着在星空下放松一会？",
-            "啊，我真想就这样放松心情然后无忧无虑地生活下去。",
-            "我的家就能给我完全的放松！就像永远生活在节日里。",
-            "我的生活就像一个无休止的假期。"
+            "안녕하세요! 즐겁게 보내고 계신가요?",
+            "당신은 충분히 긴장을 푼 것처럼 보이지 않는걸요!",
+            "좀 더 머물면서 즐기시는건 어떤가요?",
+            "삶은 파티죠! 고향 행성이 날아갈때를 빼면요...",
+            "지구에서 그 사건이 발생한 후, 약간의 긴장을 풀고자 노력하고 있어요.",
+            "이런 스커트를 입으면 춥지 않냐구요?... 내, 그렇습니다.",
+            "당신은 걱정을 너무 많이하는 사람같아요! 가끔은 별들 아래에서 긴장을 푸는게 어때요?",
+            "평생을 느긋하고 즐겁게 보내길 위해서는 뭘 못할까요?",
+            "집이 정말 편안해요! 마치 평생토록 휴일인것 같지요.",
+            "제 삶은 항상 휴일이라는 느낌이지 않으면 안되지요."
         ]
     }
 ]

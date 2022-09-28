@@ -1,50 +1,20 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/4",
-        "value": "나와 결투를 하고 싶다고? 그래, 어디 해보자!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/3",
-        "value": "나의 수준을 널 한참 뛰어 넘었다! 너의 운도 이걸로 끝이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/2",
-        "value": "나의 기술은 너를 한참 뛰어넘지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/1",
-        "value": "저리 꺼지지 않으면 미안하게 만들어주지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/0",
-        "value": "이런일을 한두번 해본줄아나? 너에게 기회는 없다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "공격!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "进攻！"
+            "공격!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/human/default",
         "value": [
-            "我已经干了很多年了，你毫无机会！",
-            "别挡我道，否则你会后悔的！",
-            "我的本领远远超过你！",
-            "我的本领远超你想象！你真不走运！",
-            "你想和我枪战？如你所愿！"
+            "이런일을 한두번 해본줄아나? 너에게 기회는 없다!",
+            "저리 꺼지지 않으면 미안하게 만들어주지!",
+            "나의 기술은 너를 한참 뛰어넘지!",
+            "나의 수준을 널 한참 뛰어 넘었다! 너의 운도 이걸로 끝이다!",
+            "나와 결투를 하고 싶다고? 그래, 어디 해보자!"
         ]
     }
 ]

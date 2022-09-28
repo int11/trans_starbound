@@ -1,26 +1,16 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/0",
-        "value": "플로란 여행 좋다! 플로란 온 우주 다 보고싶다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "플로란 여행 좋다! 플로란 온 우주 다 보고싶다!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "叶族人喜欢旅行！叶族人想要看看看整个宇宙！"
+            "플로란 여행 좋다! 플로란 온 우주 다 보고싶다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/floran/default",
         "value": [
-            "叶族人喜欢旅行！叶族人想要看看看整个宇宙！"
+            "플로란 여행 좋다! 플로란 온 우주 다 보고싶다!"
         ]
     }
 ]

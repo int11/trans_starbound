@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-        "value": " 강력한 마법들을 판답니다."
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": " 마법사"
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": " 마법사"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": " 강력한 마법들을 판답니다."
     },
     {
         "op": "replace",

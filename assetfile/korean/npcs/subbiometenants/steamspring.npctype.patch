@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
-        "value": "열망. 꼭 돌아와요!"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "발명가"
     },
     {
         "op": "replace",
@@ -11,92 +11,32 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/3",
-        "value": "환영. 내가 어떤 발명품이 있는지 보는건 어떤가요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "열망. 내 발명품을 한번 보겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "젏망. 누군가 내 발명품을 사줘야 하는데..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "희망참. 나의 발명품을 좀 사주시겠습니까? 제발?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
-        "value": "흥분. 드디어, 내 발명품을 살 손님인가!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
-        "value": "열망. 자 이제 내 가 팔아야하는 발명품을 봐주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "만족. 자 이제 내 발명품을 봐주시면 됩니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/4",
-        "value": "긴장. 제 제품들이 마음에 드셨으면 좋겠군요. 꼭 돌아와 주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/3",
-        "value": "불안. 더 필요하다면 꼭 돌아와주세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
-        "value": "걱정. 돌아오는걸 까먹지 마세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "혼란. 돌아오는걸 까먹지 말고 다시 들려주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "발명가"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "乐观。你想买一点我的发明么？",
-            "绝望。我真的很需要有人来买我的发明…",
-            "渴望。你想看看我的发明么？",
-            "欢迎。你应该看看我提供的发明！"
+            "희망참. 나의 발명품을 좀 사주시겠습니까? 제발?",
+            "젏망. 누군가 내 발명품을 사줘야 하는데...",
+            "열망. 내 발명품을 한번 보겠습니까?",
+            "환영. 내가 어떤 발명품이 있는지 보는건 어떤가요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/default/default",
         "value": [
-            "高兴。现在你可以来看一下我的发明！",
-            "渴望。现在你可以看一下我要卖的发明！",
-            "兴奋。终于有人愿意买我的发明了！"
+            "만족. 자 이제 내 발명품을 봐주시면 됩니다!",
+            "열망. 자 이제 내 가 팔아야하는 발명품을 봐주세요!",
+            "흥분. 드디어, 내 발명품을 살 손님인가!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "感激。别忘了再次光临！",
-            "担心。别忘了再来。",
-            "渴望。下次再来！",
-            "焦虑。如果你以后需要其他什么请再次光临。",
-            "紧张。但愿你喜欢我的货物。希望你再次光临！"
+            "혼란. 돌아오는걸 까먹지 말고 다시 들려주세요!",
+            "걱정. 돌아오는걸 까먹지 마세요.",
+            "열망. 꼭 돌아와요!",
+            "불안. 더 필요하다면 꼭 돌아와주세요.",
+            "긴장. 제 제품들이 마음에 드셨으면 좋겠군요. 꼭 돌아와 주세요!"
         ]
     }
 ]

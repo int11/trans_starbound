@@ -1,110 +1,30 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/13",
-        "value": "모르는 사람은 싫다고!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/12",
-        "value": "으르르! 고깃조각으로 만들어주마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/11",
-        "value": "안면에 죽빵좀 날리게 이리 와바!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/10",
-        "value": "도망칠순 없을거다, 이방인!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/9",
-        "value": "건드릴 사람을 잘못 봤다구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/8",
-        "value": "내놈한태 죽빵을 날리고, 그다음에 한방 더 날릴거다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/7",
-        "value": "존내 맞으러 왔냐!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/6",
-        "value": "여기로 오라구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/5",
-        "value": "흐흐흐, 재미있겠는걸!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/4",
-        "value": "여기 오다니, 멍청한 놈."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/3",
-        "value": "몸좀 풀겠는걸!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/2",
-        "value": "종잇장 처럼 찢어주마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/1",
-        "value": "드디어 좀 때릴만한게 나왔군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "침입자다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/14",
-        "value": "이리와라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/0",
-        "value": "신입인가!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "入侵者！"
+            "침입자다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/human/default",
         "value": [
-            "新鲜的肉！",
-            "总算有个有趣的东西来练练拳头了！",
-            "我要把你像纸一样撕碎！",
-            "这会让我很满意的！",
-            "敢来这？大错特错！",
-            "我会好好享受的！",
-            "嘿！过来啊！",
-            "你有大麻烦了！",
-            "我要揍你一顿，然后再揍你一顿！",
-            "你惹错人了！",
-            "无路可逃了，陌生人！",
-            "乖乖靠近点让我揍你！",
-            "呃！你已是砧板上的肉了！",
-            "我恨陌生人！",
-            "过来！"
+            "신입인가!",
+            "드디어 좀 때릴만한게 나왔군.",
+            "종잇장 처럼 찢어주마!",
+            "몸좀 풀겠는걸!",
+            "여기 오다니, 멍청한 놈.",
+            "흐흐흐, 재미있겠는걸!",
+            "여기로 오라구!",
+            "존내 맞으러 왔냐!",
+            "내놈한태 죽빵을 날리고, 그다음에 한방 더 날릴거다!",
+            "건드릴 사람을 잘못 봤다구!",
+            "도망칠순 없을거다, 이방인!",
+            "안면에 죽빵좀 날리게 이리 와바!",
+            "으르르! 고깃조각으로 만들어주마!",
+            "모르는 사람은 싫다고!",
+            "이리와라!"
         ]
     }
 ]

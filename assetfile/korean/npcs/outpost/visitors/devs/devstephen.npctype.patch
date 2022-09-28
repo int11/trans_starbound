@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕, 나는 스텝판이야! 나는 많은 각기 다른 소리를 낼 수 있어. 부웁!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嗨，我是Stephen！我可以发出很多不同的声音的。动次打次！"
+            "안녕, 나는 스텝판이야! 나는 많은 각기 다른 소리를 낼 수 있어. 부웁!"
         ]
     }
 ]

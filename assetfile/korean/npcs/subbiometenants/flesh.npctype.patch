@@ -1,152 +1,67 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "나는 희귀한 살코기를 취급해! 가능하다면 뭔가 좋은 것을 구해다 줘 볼게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1",
-        "value": "여기 바람이 좀  거센거 같은데, 벽이 부서졌나?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0",
-        "value": "여기 부서진 벽이 있는 것 같아! 도와줄 수 있어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/1",
-        "value": "이렇게는 못 살아, 미지육을 찾아 여행을 떠날 시간이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/0",
-        "value": "흠, 다른 곳에서 내 육운을 찾을 시간이군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1",
-        "value": "내 육가구에 무슨 일이 생긴 거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0",
-        "value": "여기엔 지금보다 살점들이 더 있었건만!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1",
-        "value": "이런 상황에서 어찌 내가 육운을 찾겠어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0",
-        "value": "이런 육운과 집은 찾아볼 수 없을 거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1",
-        "value": "여기 우리집 아니였나?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0",
-        "value": "이봐, 아무도 여기로 이사와서는 안 돼, 알았어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/1",
-        "value": "거래중에 오다 주웠어! 마음에 들었으면 좋겠어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0",
-        "value": "거래하다 이걸 우연히 발견했어! 너를 위한 선물이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/1",
-        "value": "이봐 거기, 어떻게 지내?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0",
-        "value": "이봐, 나에게 뭔가 필요한게 있니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "난 육보화들을 살펴보고 있어! 만약 너한테 뭔가 줄게 있다면 말해줄게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "나는 희귀한 육보화를 찾고 있어. 가끔 찾아와! 선물이라도 챙겨줄게!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default",
         "value": [
-            "这里曾经还有比这更多的血肉物品！",
-            "我的血肉家具怎么了？"
+            "여기엔 지금보다 살점들이 더 있었건만!",
+            "내 육가구에 무슨 일이 생긴 거야?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default",
         "value": [
-            "我认为这里的墙破碎了！你能帮助我吗？",
-            "凉风习习，我家的墙是不是有点破了？"
+            "여기 부서진 벽이 있는 것 같아! 도와줄 수 있어?",
+            "여기 바람이 좀  거센거 같은데, 벽이 부서졌나?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default",
         "value": [
-            "嘿，没有人可以随意闯进这里，懂吗？",
-            "这个地方难道不是属于我的吗？"
+            "이봐, 아무도 여기로 이사와서는 안 돼, 알았어?",
+            "여기 우리집 아니였나?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default",
         "value": [
-            "我不能在我的家成了这样的时候出去找血肉商品！",
-            "你叫我怎么能在这种情况下出发寻找血肉制品？！"
+            "이런 육운과 집은 찾아볼 수 없을 거야!",
+            "이런 상황에서 어찌 내가 육운을 찾겠어?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default",
         "value": [
-            "好吧，是时侯去某处寻找我血肉财富了！",
-            "我不能在这种地方生活，是时候向前旅行了，深入未知的血肉！"
+            "흠, 다른 곳에서 내 육운을 찾을 시간이군!",
+            "이렇게는 못 살아, 미지육을 찾아 여행을 떠날 시간이야!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default",
         "value": [
-            "嘿，你需要我去做点什么吗？！",
-            "嘿，最近如何？"
+            "이봐, 나에게 뭔가 필요한게 있니?",
+            "이봐 거기, 어떻게 지내?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default",
         "value": [
-            "在我做生意的时候碰巧得到了这个！这是给你的礼物！",
-            "在我经商期间，给你带回来了这个！我希望你会喜欢！"
+            "거래하다 이걸 우연히 발견했어! 너를 위한 선물이야!",
+            "거래중에 오다 주웠어! 마음에 들었으면 좋겠어!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我是一个出售罕见血肉商品的商人！我会尽我的努力为你带来好东西！",
-            "我在找罕见的血肉宝藏。有时间来找我，我可能会给你一件礼物！",
-            "我在找血肉宝藏！当我有东西给你时我会告诉你！"
+            "나는 희귀한 살코기를 취급해! 가능하다면 뭔가 좋은 것을 구해다 줘 볼게!",
+            "나는 희귀한 육보화를 찾고 있어. 가끔 찾아와! 선물이라도 챙겨줄게!",
+            "난 육보화들을 살펴보고 있어! 만약 너한테 뭔가 줄게 있다면 말해줄게!"
         ]
     }
 ]

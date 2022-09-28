@@ -1,62 +1,22 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/6",
-        "value": "성남. 멍청한 놈, 건드릴 기사를 잘못 골랐다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/5",
-        "value": "오만. 별로 위험해 보이진 않는군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/4",
-        "value": "대담. 네놈보다 훨씬 더 위험한 적도 싸워본 적 있지, 넌 위협조차 아니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/3",
-        "value": "흥분. 싸움을 기대하고 있었지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/2",
-        "value": "위협. 지금 날 꼴아본건가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/1",
-        "value": "열망. 싸우는 걸 기다리고 있었다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/0",
-        "value": "위협. 우리를 건드리는 멍청한 짓은 안 하는 게 좋을 것이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "공격!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "攻击！"
+            "공격!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/glitch/default",
         "value": [
-            "恐吓。你不会想来惹我的。",
-            "渴望。我一直在渴望来一场战斗！",
-            "挑衅。你要看我出洋相吗？",
-            "兴奋。我一直在等待来一场战斗！",
-            "无畏。我之前打败过比你更大的敌人，相比之下你没有什么可怕的",
-            "傲慢。你看起来构不成多大威胁。",
-            "愤怒。你惹错了对手！"
+            "위협. 우리를 건드리는 멍청한 짓은 안 하는 게 좋을 것이다!",
+            "열망. 싸우는 걸 기다리고 있었다!",
+            "위협. 지금 날 꼴아본건가?",
+            "흥분. 싸움을 기대하고 있었지!",
+            "대담. 네놈보다 훨씬 더 위험한 적도 싸워본 적 있지, 넌 위협조차 아니다!",
+            "오만. 별로 위험해 보이진 않는군.",
+            "성남. 멍청한 놈, 건드릴 기사를 잘못 골랐다!"
         ]
     }
 ]

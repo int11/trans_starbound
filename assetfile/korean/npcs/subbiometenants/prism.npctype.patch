@@ -1,96 +1,41 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-        "value": "창문 재료를 판다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/3",
-        "value": "전 창문 재료를 팔지요! 오늘부터 더 밝은 집을 지으세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "창문이 있는 집에서 사는 사람들은 더 행복하게 산다고 하는군요. 이건 사실입니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "빛이 당신의 집에 들어오게 해주세요, 창문을 놓는겁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "아름다운 창문을 설치해서 집의 가치를 올려보세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
-        "value": "여기있습니다, 창문을 만들때 쓰일 유리를 좀 사시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
-        "value": "좋습니다. 자 이제 제 창문을 좀 보시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "오셨군요! 창문 자재를 구매하시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/3",
-        "value": "다시 돌아와주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
-        "value": "창문에 만족 하실수 있길 바랍니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
-        "value": "당신에 집에 빛을 들여놓으세요, 꼭 돌아오시길!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "창문이 더 필요하다면, 어디로 가야하는지 아시죠?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
         "value": "창문 판매원"
     },
     {
         "op": "replace",
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "창문 재료를 판다."
+    },
+    {
+        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "用一些优雅的窗户来提升你的家的品质吧！",
-            "让光线照进房屋－装扇窗户！",
-            "家里有窗户的人过的更幸福，这是真的！",
-            "我出售窗户的材料，今天就造一个明亮的家！"
+            "아름다운 창문을 설치해서 집의 가치를 올려보세요!",
+            "빛이 당신의 집에 들어오게 해주세요, 창문을 놓는겁니다!",
+            "창문이 있는 집에서 사는 사람들은 더 행복하게 산다고 하는군요. 이건 사실입니다!",
+            "전 창문 재료를 팔지요! 오늘부터 더 밝은 집을 지으세요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/default/default",
         "value": [
-            "你来了！你想买一些窗户材料么？",
-            "太棒了，现在也许你想看看我的窗户？",
-            "我们到了－你想在我这里买点玻璃做窗户么？"
+            "오셨군요! 창문 자재를 구매하시겠습니까?",
+            "좋습니다. 자 이제 제 창문을 좀 보시겠습니까?",
+            "여기있습니다, 창문을 만들때 쓰일 유리를 좀 사시겠습니까?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "如果你需要更多的窗户，你知道在哪能找到我！",
-            "让阳光照进来屋里吧－期待下次相见！",
-            "我希望你能对所买的窗户感到满意！",
-            "稍候我们再继续做生意吧！"
+            "창문이 더 필요하다면, 어디로 가야하는지 아시죠?",
+            "당신에 집에 빛을 들여놓으세요, 꼭 돌아오시길!",
+            "창문에 만족 하실수 있길 바랍니다!",
+            "다시 돌아와주세요!"
         ]
     }
 ]

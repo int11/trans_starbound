@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
-        "value": "또 와."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/3",
-        "value": "플로란 거래 좋다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/hylotl/default/1",
-        "value": "찾는 물건이 있으시길 바랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0",
-        "value": "만족스러우셨길 바랍니다."
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "자연주의 상인"
     },
     {
         "op": "replace",
@@ -26,143 +11,53 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "안녕하십니까, 친구여! 이 우주 전체에 자연의 미를 전파하여보지 않으시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "유기농으로! 온 세상에 아름다움을!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
-        "value": "플로란 픽셸 원한다. 씨앗 준다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
-        "value": "자연 좋아하냐? 플로란 씨앗이랑 식물 판다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
-        "value": "플로란 식물 팔아셔 자연 퍼트린다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/6",
-        "value": "다시 거래를 시작해볼까."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/5",
-        "value": "만나서 반갑습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/4",
-        "value": "제 가게를 방문해주셔서 감사합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/3",
-        "value": "좋은 거래였습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
-        "value": "그대의 픽셀은 언제든지 환영입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "다음에 또 봅시다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
-        "value": "플로란 파는 거 좋다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
-        "value": "식물 더 샤려면 또 와라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
-        "value": "플로란 물건 더 팔아셔 늘샹 좋다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/hylotl/default/3",
-        "value": "가슴이랑 영혼을 강인하게 간직하십시오."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/hylotl/default/2",
-        "value": "그대의 앞길이 훤히 보이기를."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "전 자연의 광명을 되찾는 중입니다. 사랑을 흩뿌립시다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "자연주의 상인"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "我让大家重新认识大自然。传播爱心！",
-            "向着有机！传播美丽！",
-            "你好，朋友！你有兴趣向整个宇宙传播自然之美么？"
+            "전 자연의 광명을 되찾는 중입니다. 사랑을 흩뿌립시다!",
+            "유기농으로! 온 세상에 아름다움을!",
+            "안녕하십니까, 친구여! 이 우주 전체에 자연의 미를 전파하여보지 않으시겠습니까?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/floran/default",
         "value": [
-            "叶族传播自然。卖卖卖植物。",
-            "你想要自然？叶族卖种子和植植植物。",
-            "叶族想要要要像素素素,能给种种种子。"
+            "플로란 식물 팔아셔 자연 퍼트린다.",
+            "자연 좋아하냐? 플로란 씨앗이랑 식물 판다.",
+            "플로란 픽셸 원한다. 씨앗 준다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "欢迎下次光临！",
-            "再来啊。",
-            "你的像素在这里总是受欢迎的。",
-            "和你做生意很荣幸！",
-            "感谢来访小店。",
-            "很荣幸见到你！",
-            "有机会再做交易。"
+            "다음에 또 봅시다!",
+            "또 와.",
+            "그대의 픽셀은 언제든지 환영입니다.",
+            "좋은 거래였습니다!",
+            "제 가게를 방문해주셔서 감사합니다.",
+            "만나서 반갑습니다!",
+            "다시 거래를 시작해볼까."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/hylotl/default",
         "value": [
-            "我希望你对这次交易感到满意。",
-            "我希望你找到你想找的东西了。",
-            "愿你前路光明。",
-            "保持心灵和精神的坚强。"
+            "만족스러우셨길 바랍니다.",
+            "찾는 물건이 있으시길 바랍니다.",
+            "그대의 앞길이 훤히 보이기를.",
+            "가슴이랑 영혼을 강인하게 간직하십시오."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/floran/default",
         "value": [
-            "叶族人总是很高兴能卖卖卖给你更多！",
-            "记得早早早点回来买更多的植物！",
-            "叶族人喜欢买卖卖卖。",
-            "叶族人对交交交易很满意。"
+            "플로란 물건 더 팔아셔 늘샹 좋다!",
+            "식물 더 샤려면 또 와라!",
+            "플로란 파는 거 좋다.",
+            "플로란 거래 좋다."
         ]
     }
 ]

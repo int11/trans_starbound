@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "이봐, 난 아담이야! 이곳에 차 마실 곳은 있어? 커피는? 주전자가 아무데에도 안 보여."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嗨，我是Adam！这个地方有什么茶？咖啡？我甚至不能在任何地方找到一个水壶。"
+            "이봐, 난 아담이야! 이곳에 차 마실 곳은 있어? 커피는? 주전자가 아무데에도 안 보여."
         ]
     }
 ]

@@ -1,140 +1,35 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/7",
-        "value": "너 누루 이길 가능셩 얼마나 될 것 같냐, 냧션 샤람?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/19",
-        "value": "대샤냥 할 거면 셔둘러라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/18",
-        "value": "우주에셔 대샤냥 하려고 왔냐? 빨리 가봐라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/17",
-        "value": "외부 샤람 대샤냥 하러 온 거면 늦었다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/16",
-        "value": "대샤냥 하러 왔냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/15",
-        "value": "낯션 샤람? 동굴 들어가셔 쌰우려고?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/14",
-        "value": "동굴에서 샤냥하고 싶냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/13",
-        "value": "뭐하러 샤냥하냐, 낯션 샤람? 누루 못 이긴다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/12",
-        "value": "나도 샤냥 하고 싶다, 근데 누루 또 참가한다..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/11",
-        "value": "플로란 누루가 또 이길 거라 섕각한다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/10",
-        "value": "올해는 다른 샤람이 이길 슈도 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/9",
-        "value": "너 빠르겠다. 하지만 누루 더 빠르다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/8",
-        "value": "플로란 누루가 맨날 대샤냥 이겨셔 지겹다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/6",
-        "value": "올해 대샤냥은 누가 이길까? 나 누루에 걸었다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/5",
-        "value": "누루 다른 샤냥꾼 체면 다 버린다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/3",
-        "value": "더 많은 샤냥꾼, 더 많은 재미!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/2",
-        "value": "누루 올해는 못 이길 슈도 있지 않을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/1",
-        "value": "누루 경쟁자 샤냥꾼이 동굴 쇽으로!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/0",
-        "value": "뭐가 대슈냐? 누루가 매년 이기는데!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/4",
-        "value": "샤냥꾼! 너 늦었다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "너한테 할 말 없다."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我和你没什么好说说说的。"
+            "너한테 할 말 없다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/floran/default",
         "value": [
-            "有什么意义？努鲁每年都赢赢赢！",
-            "洞穴穴穴中努鲁碰到了新的猎人对手！",
-            "也许努鲁今今今年会遭遇滑铁卢？",
-            "更多猎人人人，更多刺激！",
-            "猎人人人！你迟到了！",
-            "努鲁让剩余的猎人人人自惭形愧！",
-            "今年的狩猎谁会赢？我赌赌赌努鲁！",
-            "你有什么机会会会能赢努鲁，陌陌陌生人？",
-            "叶族人已经经经对努鲁每年狩猎都赢感到厌烦了！",
-            "你也许很快，但努鲁更快快快！",
-            "也许今年其其其他人会赢？",
-            "叶族人很确确确定努鲁今年还会赢！",
-            "我也会去参加狩猎，但努鲁又又又参加了…",
-            "为什么打搅我狩猎，陌陌陌生人？努鲁是不可战胜的！",
-            "你希望能在洞穴中狩猎？",
-            "一个陌陌陌生人？你是来进到这个洞穴来比赛的么？",
-            "你是来参加狩猎的么？",
-            "如果你是来狩猎的，外外外来者，你已经迟到了！",
-            "你是从宇宇宇宙来参加狩猎猎猎的？你最好赶紧动身！",
-            "如果还想赶上狩猎的话你最好好好快点！"
+            "뭐가 대슈냐? 누루가 매년 이기는데!",
+            "누루 경쟁자 샤냥꾼이 동굴 쇽으로!",
+            "누루 올해는 못 이길 슈도 있지 않을까?",
+            "더 많은 샤냥꾼, 더 많은 재미!",
+            "샤냥꾼! 너 늦었다!",
+            "누루 다른 샤냥꾼 체면 다 버린다.",
+            "올해 대샤냥은 누가 이길까? 나 누루에 걸었다!",
+            "너 누루 이길 가능셩 얼마나 될 것 같냐, 냧션 샤람?",
+            "플로란 누루가 맨날 대샤냥 이겨셔 지겹다!",
+            "너 빠르겠다. 하지만 누루 더 빠르다!",
+            "올해는 다른 샤람이 이길 슈도 있을까?",
+            "플로란 누루가 또 이길 거라 섕각한다!",
+            "나도 샤냥 하고 싶다, 근데 누루 또 참가한다...",
+            "뭐하러 샤냥하냐, 낯션 샤람? 누루 못 이긴다!",
+            "동굴에서 샤냥하고 싶냐?",
+            "낯션 샤람? 동굴 들어가셔 쌰우려고?",
+            "대샤냥 하러 왔냐?",
+            "외부 샤람 대샤냥 하러 온 거면 늦었다!",
+            "우주에셔 대샤냥 하려고 왔냐? 빨리 가봐라!",
+            "대샤냥 할 거면 셔둘러라!"
         ]
     }
 ]

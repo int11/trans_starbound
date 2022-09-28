@@ -1,110 +1,30 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/12",
-        "value": "난 모르는 녀석을 아무나 골라 잡아서 줘패는걸 좋아하지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "침입자다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/14",
-        "value": "오호호호! 이거 즐겁겠는걸!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/13",
-        "value": "도망치고 싶으면 도망치라고 겁쟁아, 몰아가는게 더 재미있게 만드니까!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/11",
-        "value": "태양에 집어 던져주마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/10",
-        "value": "지금 날 꼴아본거냐!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/9",
-        "value": "쳐맞을 시간이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/8",
-        "value": "뭐라고 생각해서 이런곳에 출타한거냐!?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/7",
-        "value": "어이!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/6",
-        "value": "여기에 온걸 후회하게 해주마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/5",
-        "value": "어딜 도망쳐도 안전한곳은 없다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/4",
-        "value": "이리와라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/3",
-        "value": "하하하하! 여기에 온건 곧 네 인생 최고의 실수가 될거다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/2",
-        "value": "이곳에서 멀쩡하게 나갈 수 있을거라 생각했냐? 우습군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/1",
-        "value": "도망쳐봐라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/human/default/0",
-        "value": "도망치면 죽는다!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "入侵者！"
+            "침입자다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/human/default",
         "value": [
-            "不要逃避我！",
-            "你最好快跑！",
-            "你觉得你能完完整整地离开这里吗？大错特错！",
-            "哈哈哈哈！你来这就是个错误，不是吗！",
-            "来啊！",
-            "逃跑是没有意义的，没有安全的地方！",
-            "你就不该来这！",
-            "嘿！",
-            "你以为你是谁啊，啊！？",
-            "你玩完了！",
-            "你对我翻白眼了是吗！？",
-            "我要把你轰成渣！",
-            "我喜欢把外来者砸成肉酱！",
-            "尽情的逃跑吧，懦夫。你越跑，咱俩的游戏就越有趣！",
-            "噢吼吼！太有意思了！"
+            "도망치면 죽는다!",
+            "도망쳐봐라!",
+            "이곳에서 멀쩡하게 나갈 수 있을거라 생각했냐? 우습군!",
+            "하하하하! 여기에 온건 곧 네 인생 최고의 실수가 될거다!",
+            "이리와라!",
+            "어딜 도망쳐도 안전한곳은 없다!",
+            "여기에 온걸 후회하게 해주마!",
+            "어이!",
+            "뭐라고 생각해서 이런곳에 출타한거냐!?",
+            "쳐맞을 시간이다!",
+            "지금 날 꼴아본거냐!",
+            "태양에 집어 던져주마!",
+            "난 모르는 녀석을 아무나 골라 잡아서 줘패는걸 좋아하지!",
+            "도망치고 싶으면 도망치라고 겁쟁아, 몰아가는게 더 재미있게 만드니까!",
+            "오호호호! 이거 즐겁겠는걸!"
         ]
     }
 ]

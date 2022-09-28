@@ -1,36 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/leave/default/default/0",
-        "value": "난 갈게, 나중에 봐!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/start/default/default/0",
-        "value": "이 두건 쓴 샤냥꾼들이 한 번 붙고 싶나봐. 끔찍한 시간을 보내게 해주자!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/3",
-        "value": "내 작샬맛을 봐라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/2",
-        "value": "나같은 샤냥꾼을 이기겠다니 어림도 없어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/1",
-        "value": "이게 바로 나한테 딱 맞는 파티야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "네가 보인다!"
-    },
-    {
-        "op": "replace",
         "path": "/npcname",
         "value": "努鲁"
     },
@@ -38,24 +8,24 @@
         "op": "replace",
         "path": "/scriptConfig/dialog/start/default/default",
         "value": [
-            "这些穿袍子的猎手手手们渴望着战斗。我们来给他们吃点苦头！"
+            "이 두건 쓴 샤냥꾼들이 한 번 붙고 싶나봐. 끔찍한 시간을 보내게 해주자!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/leave/default/default",
         "value": [
-            "我走啦，待会见！"
+            "난 갈게, 나중에 봐!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "我看看看到你了！",
-            "这这这是我的同伴！",
-            "你无望战胜像我这样的猎手！",
-            "吃我一矛矛矛！"
+            "네가 보인다!",
+            "이게 바로 나한테 딱 맞는 파티야!",
+            "나같은 샤냥꾼을 이기겠다니 어림도 없어!",
+            "내 작샬맛을 봐라!"
         ]
     }
 ]

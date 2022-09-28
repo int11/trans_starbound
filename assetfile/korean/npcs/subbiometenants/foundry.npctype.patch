@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "어서 오게! 채굴장 비가 필요한가? 아니면 금속들은 어떤가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "주조소산 물품들이 바로 여기에!"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "주조소 상인"
     },
     {
         "op": "replace",
@@ -16,69 +11,29 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "지역 주조소에서 직송으로 나온 광산 생산품을 사세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
-        "value": "도착했군! 그래, 무엇이 필요한가? 제작용 금속?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "도착했군! 그래, 채굴 장비라도 좀 필요한가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
-        "value": "미가공 금속이 필요하다면 언제든 돌아오게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
-        "value": "가공 안 된 금속이 필요하다면 다시 돌아오게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "광석이 필요하다면 어디서 구할 것인지 알고 있지?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "주조소 상인"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
-        "value": "어서 오십시오! 금속을 좀 사시겠습니까?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "来买从你当地铸造厂运来的矿产品！",
-            "铸造厂出品的材料，在这！",
-            "欢迎！大概你需要一些采矿设备？或者来些金属？"
+            "지역 주조소에서 직송으로 나온 광산 생산품을 사세요!",
+            "주조소산 물품들이 바로 여기에!",
+            "어서 오게! 채굴장 비가 필요한가? 아니면 금속들은 어떤가?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/default/default",
         "value": [
-            "我们在这！那么，你想买些挖矿工具吗？",
-            "我们到了！那么，你想要什么？来些成品金属？",
-            "欢迎！你想买些金属吗？"
+            "도착했군! 그래, 채굴 장비라도 좀 필요한가?",
+            "도착했군! 그래, 무엇이 필요한가? 제작용 금속?",
+            "어서 오십시오! 금속을 좀 사시겠습니까?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "如果你想要一些矿石，你得确切地知道哪能挖到它们！",
-            "如果你想要一些金属原料，你知道在哪能找到我！",
-            "任何时候，你需要金属原料，回来就是了！"
+            "광석이 필요하다면 어디서 구할 것인지 알고 있지?",
+            "가공 안 된 금속이 필요하다면 다시 돌아오게!",
+            "미가공 금속이 필요하다면 언제든 돌아오게!"
         ]
     }
 ]

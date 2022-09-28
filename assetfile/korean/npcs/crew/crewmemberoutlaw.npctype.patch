@@ -1,336 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
-        "value": "숨어있어야해! 제발 날 넘기지 말아줘, 대신 너의 승무원이 될 수 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/6",
-        "value": "숨어있을 곳이 정말 필요한데... 그러고 보니 당신, 함선이 있나요? 거래를 제시하고 싶은데..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
-        "value": "플로란은 피하고 있는 샤람들이 있어! 플로란을 도와줄 슈 있어? 예를 들어서 플로란을 너의 함션에 챙겨 넣는다던가."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/5",
-        "value": "거래하자, 너의 함선에 날 숨겨주면 널 위해 싸워주지. 내가 피해야 하는 사람들이 있어서..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
-        "value": "이 함션은 플로란이 슘기 딱 좋아! 플로란은 여기 있을 테니 필요하면 언제든 불러줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
-        "value": "플로란을 도와줘셔 고마워. 플로란은 너의 적과 언제든 쌰워줄게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
-        "value": "플로란은 진짜 나쁘지 않다니까. 이 함션은 슘기 딱 좋은걸. 쌰움에 도움이 필요하면 플로란을 불러줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/3",
-        "value": "플로란은 샤람들이 플로란이 한 일을 까먹을 때 까지 여기에 슘을슈 있을 것 같아. 고마워! 도움이 필요하다면 플로란을 불러줘."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
-        "value": "숨게 도와주셔서 감사합니다! 뭔가 힘쓸 곳이 생기면 제가 여기 있다는걸 잊지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
-        "value": "이곳이라면 조용히 있을 수 있겠군요. 고맘군요. 지원이 필요하시다면 언제나 도와드리죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
-        "value": "그렇게 나쁘진 않을겁니다. 이 함선은 조용히 있기 딱 좋군요. 당신이 뒤를 봐줄 사람이 필요하다면 저를 불러주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/3",
-        "value": "가라앉을 때 까지 여기서 숨을 수 있겠군요! 모두 당신 덕분입니다, 도움이나 칼이 한자루 더 필요하다면 인사하러 와주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
-        "value": "감사. 여기에 남아있도록 허락해줘서 고맙군. 필요하다면 언제든 참전해주지, 거래는 까먹지 않았네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
-        "value": "고마움. 이 함선은 조용히 있기 정말 좋군. 지원이 필요하다면 난 여기있을껄세."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
-        "value": "감사. 숨게 도와줘서 고맙소! 자네가 필요할때 마다 나가서 싸워주도록 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
-        "value": "고마움. 상황 가라앉을 때 까지 여기서 숨을 수 있겠군. 모두 자네 덕분이네, 지원이 필요하다면 날 찾아주게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "value": "숨게 도와주셔서 감사합니다! 뭔가 힘쓸 곳이 생기면 제가 여기 있다는걸 잊지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
-        "value": "이곳이라면 조용히 있을 수 있겠군요. 고맙군요! 지원이 필요하시다면 언제나 도와드리죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
-        "value": "제가 그렇게 나쁘진 않아요. 이 함선은 조용히 있기 딱 좋군요. 당신이 도와줄 사람이 필요하다면 저를 불러주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
-        "value": "가라앉을 때 까지 여기서 숨을 수 있겠군요. 모두 당신 덕분입니다, 도와줄 사람이나, 칼이 한자루 더 필요하다면 인사하러 와주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
-        "value": "숨게 도와주셔서 감사합니다! 뭔가 더 힘을 쓸곳이 생기면 제가 여기 있다는걸 잊지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
-        "value": "이곳이라면 조용히 있을 수 있겠군요. 고맙습니다! 원군이 필요하시다면 언제나 도와드리죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
-        "value": "제가 그렇게 나쁘진 않아요. 이 함선은 조용히 있기 딱 좋군요. 당신이 도움이 필요하다면 저를 불러주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
-        "value": "가라앉을 때 까지 여기서 숨을 수 있겠군요. 모두 당신 덕분입니다, 추가 화력이 필요하다면 절 찾아주세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
-        "value": "숨게 도와주셔서 감사합니다! 뭔가 힘쓸 곳이 생기면 제가 여기 있다는걸 잊지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
-        "value": "이곳이라면 조용히 있을 수 있겠군요. 고맙습니다! 지원이 필요하시다면 언제나 도와드리죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
-        "value": "제가 그렇게 나쁘진 않아요. 이 함선은 조용히 있기 딱 좋군요. 당신이 도움이 필요하다면 저를 불러주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/4",
-        "value": "조용히 숨고 싶은데... 당신의 함선에 승선하는 걸 허락해준다면 당신을 위해 싸워드리죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
-        "value": "플로란 좋은 샤람이라구! 그냥 플로란은 조용히만 있으면 돼. 도와주면 안될까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
-        "value": "함션이 있어? 플로란이 슘어야할 샤람들이 있어. 플로란을 도와주겠어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/3",
-        "value": "플로란은 슘어야해. 너의 함션에 자리를 마련해줄슈 있으면 플로란이 널 위해 싸울게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/4",
-        "value": "플로란이 제시할 게 있어. 플로란을 너의 함선에 슘겨주면, 플로란의 힘을 너에게 제공할게. 플로란은 여기에 있으면 안 돼..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/5",
-        "value": "플로란은 어딘가에 슘어야해. 함션이 있어? 플로란이 제의가 있어..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/6",
-        "value": "플로란은 조용히 있어야해! 플로란을 넘기지 말아줘... 플로란이 널 위해 일해줄게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
-        "value": "그냥 조용히 있고 싶습니다. 체포하지 말아주세요! 대신 당신과 함께 가면 안 될까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
-        "value": "난 좋은 사람이라니까! 제발 승선을 허용해줘..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
-        "value": "나를… 찾는 사람들이 있는데... 당신의 함선에 숨는 걸 허락해주면 당신을 위해 일해드리죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/3",
-        "value": "당신을 다치게 하려는게 아닙니다, 그냥 제가 숨는걸 도와주실 수 없나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/4",
-        "value": "숨어야하는데... 당신의 함선에 있도록 해주신다면 당신을 위해 싸워드리지요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/5",
-        "value": "당신을 위해 싸우는 조건으로 당신의 함선에 숨겨주실 수 있을까요? 어떤 일이 있어도 피하고 싶은 사람들이 있습니다..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/6",
-        "value": "어딘가에 급히 숨어야 하는데. 그래, 당신은 함선이 있나요? 그렇다면 이런 건 어떻습니까..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
-        "value": "필사적. 그냥 조용히 있고 싶네. 체포하지 말아주게! 대신 자네와 함께 가면 안 되는가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
-        "value": "필사적. 난 좋은 사람이라니까! 제발 승선을 허용해주게! "
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
-        "value": "걱정. 날 추적하는 사람들이 있네... 당신의 함선에 숨도록 허용해 준다면 자네를 위해 싸우지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
-        "value": "필사적. 당신을 공격하려는 게 아니오. 그냥 제가 숨는걸 도와주실 수 없소?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/4",
-        "value": "필사적. 조용히 숨고 싶은데... 당신의 함선에 승선하는 걸 허락해준다면 당신을 위해 싸워드리겠소."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/5",
-        "value": "필사적. 당신을 위해 일하는 조건으로 당신의 함선에 숨겨주실 수 있소? 어떤 일이 있어도 피하고 싶은 사람들이 있소..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/6",
-        "value": "필사적. 조용히 숨을 곳이 필요한데... 함선이 있는 건가? 그럼 이 조건으로 거래는 어떠한가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
-        "value": "전 나쁜 사람이 아니라구요! 제발 승선을 허락해주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
-        "value": "나를…. 찾는 사람들이 있는데... 당신의 함선에 숨는 걸 허락해주면 당신을 위해 일해드리죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
-        "value": "당신을 공격하려는 게 아닙니다. 그냥 제가 숨는걸 도와주실 수 없나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
-        "value": "숨어야하는데... 당신의 함선에 있도록 해주신다면 당신을 위해 싸우지요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/5",
-        "value": "당신을 위해 일하는 조건으로 당신의 함선에 숨겨주실 수 있을까요? 어떤 일이 있어도 피하고 싶은 사람들이 있습니다..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/6",
-        "value": "어딘가에 급히 숨어야 하는데. 그래, 당신은 함선이 있나요? 그렇다면 이런 건 어떻습니까..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0",
-        "value": "그냥 조용히 있고 싶습니다. 체포하지 말아주세요! 대신 당신과 함께 가면 안 될까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1",
-        "value": "전 나쁜 사람이 아니라구요! 제발 승선을 허락해주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2",
-        "value": "절 추적하는 사람들이 있습니다... 당신의 함선에 승선을 허용해 준다면 당신을 위해 일해드리죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3",
-        "value": "당신을 공격하려는 게 아닙니다. 그냥 제가 숨는걸 도와주실 수 없나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1",
-        "value": "전 나쁜 사람이 정말 아니라구요! 제발 당신의 함선에 끼어가게 해주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2",
-        "value": "나를…. 찾는 사람들이 있는데... 당신의 함선에 숨는 걸 허락해주면 당신을 위해 일해드리죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/3",
-        "value": "당신과 싸우고 싶지는 않습니다, 그냥 조용히 숨어있고 싶어요! 당신과 끼어가도 될까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/4",
-        "value": "숨어야하는데... 당신의 함선에 있도록 해주신다면 당신을 위해 싸우지요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/5",
-        "value": "거래하죠, 당신의 함선에 숨겨주신다면, 당신을 위해 피를 흘리겠습니다. 그런다면 그들을 피할 수 있겠죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/6",
-        "value": "조용히 숨을 곳이 필요한데... 함선이 있는 겁니까? 그럼 이 조건으로 거래는 어떤가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/3",
-        "value": "상황이 가라앉을 때 까지 여기서 숨을 수 있을 것 같아! 도와줘서 고마워, 도움이 필요하거나 두 번째 칼이 필요하다면, 나를 불러줘."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0",
-        "value": "숨어야 하는데! 제발 날 체포하지 말아줘, 대신 너의 승무원이 될 수 있을까?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/crew/role/name",
         "value": "亡命之徒"
     },
@@ -343,138 +13,138 @@
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/default/default",
         "value": [
-            "我需要低调的生活！请不要把我送进监狱，我可以加入你的船员吗？",
-            "我是一个好人，真的！请让我加入你的飞船！",
-            "有人…在找我的麻烦…如果你让我躲在你的船上，我会为你工作的！",
-            "我不想伤害你，我只需要安稳的生活！我可以加入你的队伍吗？",
-            "我需要平静的生活。如果你让我待在你的船上，我会为你战斗的！",
-            "我有一个提议给你-让我躲在你的船上，我会为你而战！我想要躲开某些人的追捕…",
-            "我真的需要在某个地方躲藏。话说，你有一艘飞船吗？ 我想和你做笔交易…"
+            "숨어있어야해! 제발 날 넘기지 말아줘, 대신 너의 승무원이 될 수 있을까?",
+            "전 나쁜 사람이 아니라구요! 제발 승선을 허락해주세요!",
+            "나를…. 찾는 사람들이 있는데... 당신의 함선에 숨는 걸 허락해주면 당신을 위해 일해드리죠!",
+            "당신을 공격하려는 게 아닙니다. 그냥 제가 숨는걸 도와주실 수 없나요?",
+            "숨어야하는데... 당신의 함선에 있도록 해주신다면 당신을 위해 싸우지요!",
+            "당신을 위해 일하는 조건으로 당신의 함선에 숨겨주실 수 있을까요? 어떤 일이 있어도 피하고 싶은 사람들이 있습니다...",
+            "어딘가에 급히 숨어야 하는데. 그래, 당신은 함선이 있나요? 그렇다면 이런 건 어떻습니까..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/avian/default",
         "value": [
-            "我需要低调的生活！请不要把我送进监狱，我可以加入你的船员吗？",
-            "我是一个好人，真的！请让我加入你的飞船！",
-            "有人…在找我的麻烦…如果你让我躲在你的船上，我会为你工作的！",
-            "我不想伤害你，我只需要安稳的生活！我可以加入你的队伍吗？",
-            "我需要平静的生活。如果你让我待在你的船上，我会为你战斗的！",
-            "我有一个提议给你-让我躲在你的船上，我会为你而战！我想要躲开某些人的追捕…",
-            "我真的需要在某个地方躲藏。话说，你有一艘飞船吗？ 我想和你做笔交易…"
+            "숨어야 하는데! 제발 날 체포하지 말아줘, 대신 너의 승무원이 될 수 있을까?",
+            "전 나쁜 사람이 정말 아니라구요! 제발 당신의 함선에 끼어가게 해주세요!",
+            "나를…. 찾는 사람들이 있는데... 당신의 함선에 숨는 걸 허락해주면 당신을 위해 일해드리죠!",
+            "당신과 싸우고 싶지는 않습니다, 그냥 조용히 숨어있고 싶어요! 당신과 끼어가도 될까요?",
+            "숨어야하는데... 당신의 함선에 있도록 해주신다면 당신을 위해 싸우지요!",
+            "거래하죠, 당신의 함선에 숨겨주신다면, 당신을 위해 피를 흘리겠습니다. 그런다면 그들을 피할 수 있겠죠.",
+            "조용히 숨을 곳이 필요한데... 함선이 있는 겁니까? 그럼 이 조건으로 거래는 어떤가요?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/apex/default",
         "value": [
-            "我需要低调的生活！请不要把我送进监狱，我可以加入你的船员吗？",
-            "我是一个好人，真的！请让我加入你的飞船！",
-            "有人…在找我的麻烦…如果你让我躲在你的船上，我会为你工作的！",
-            "我不想伤害你，我只需要安稳的生活！我可以加入你的队伍吗？",
-            "我需要平静的生活。如果你让我待在你的船上，我会为你战斗的！",
-            "我有一个提议给你-让我躲在你的船上，我会为你而战！我想要躲开某些人的追捕…",
-            "我真的需要在某个地方躲藏。话说，你有一艘飞船吗？ 我想和你做笔交易…"
+            "그냥 조용히 있고 싶습니다. 체포하지 말아주세요! 대신 당신과 함께 가면 안 될까요?",
+            "전 나쁜 사람이 아니라구요! 제발 승선을 허락해주세요!",
+            "절 추적하는 사람들이 있습니다... 당신의 함선에 승선을 허용해 준다면 당신을 위해 일해드리죠!",
+            "당신을 공격하려는 게 아닙니다. 그냥 제가 숨는걸 도와주실 수 없나요?",
+            "조용히 숨고 싶은데... 당신의 함선에 승선하는 걸 허락해준다면 당신을 위해 싸워드리죠.",
+            "거래하자, 너의 함선에 날 숨겨주면 널 위해 싸워주지. 내가 피해야 하는 사람들이 있어서...",
+            "숨어있을 곳이 정말 필요한데... 그러고 보니 당신, 함선이 있나요? 거래를 제시하고 싶은데..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default",
         "value": [
-            "我需要低调的生活！请不要把我送进监狱，我可以加入你的船员吗？",
-            "我是一个好人，真的！请让我加入你的飞船！",
-            "有人…在找我的麻烦…如果你让我躲在你的船上，我会为你工作的！",
-            "我不想伤害你，我只需要安稳的生活！我可以加入你的队伍吗？",
-            "我需要平静的生活。如果你让我待在你的船上，我会为你战斗的！",
-            "我有一个提议给你-让我躲在你的船上，我会为你而战！我想要躲开某些人的追捕…",
-            "我真的需要在某个地方躲藏。话说，你有一艘飞船吗？ 我想和你做笔交易…"
+            "그냥 조용히 있고 싶습니다. 체포하지 말아주세요! 대신 당신과 함께 가면 안 될까요?",
+            "난 좋은 사람이라니까! 제발 승선을 허용해줘...",
+            "나를… 찾는 사람들이 있는데... 당신의 함선에 숨는 걸 허락해주면 당신을 위해 일해드리죠!",
+            "당신을 다치게 하려는게 아닙니다, 그냥 제가 숨는걸 도와주실 수 없나요?",
+            "숨어야하는데... 당신의 함선에 있도록 해주신다면 당신을 위해 싸워드리지요!",
+            "당신을 위해 싸우는 조건으로 당신의 함선에 숨겨주실 수 있을까요? 어떤 일이 있어도 피하고 싶은 사람들이 있습니다...",
+            "어딘가에 급히 숨어야 하는데. 그래, 당신은 함선이 있나요? 그렇다면 이런 건 어떻습니까..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/floran/default",
         "value": [
-            "叶族人真的是好人！叶族人只是需需需要保持低调。你可以帮助叶族人躲避吗？",
-            "你有一艘飞船？叶族人想要躲开某某某些人的追捕。你可以帮助叶族人吗？",
-            "叶族人正正正在低调的躲避某些人！你可以帮叶族人一把，让叶族人待待待在你的飞船上吗？",
-            "叶族人需要安静低调的生活。如果你在飞船上给我一席之地叶族人会为你而战！",
-            "叶族人有个建议-让叶族人躲在你的船上，叶族人将为你而战斗！叶族人不能继续留在这里了…",
-            "叶族人需要一个地方躲藏。你有一艘飞船？叶族人想和你做个交易…",
-            "叶族人需要保持低调！请不要把叶族人交出去…叶族人会为你工作。"
+            "플로란 좋은 샤람이라구! 그냥 플로란은 조용히만 있으면 돼. 도와주면 안될까?",
+            "함션이 있어? 플로란이 슘어야할 샤람들이 있어. 플로란을 도와주겠어?",
+            "플로란은 피하고 있는 샤람들이 있어! 플로란을 도와줄 슈 있어? 예를 들어서 플로란을 너의 함션에 챙겨 넣는다던가.",
+            "플로란은 슘어야해. 너의 함션에 자리를 마련해줄슈 있으면 플로란이 널 위해 싸울게!",
+            "플로란이 제시할 게 있어. 플로란을 너의 함선에 슘겨주면, 플로란의 힘을 너에게 제공할게. 플로란은 여기에 있으면 안 돼...",
+            "플로란은 어딘가에 슘어야해. 함션이 있어? 플로란이 제의가 있어...",
+            "플로란은 조용히 있어야해! 플로란을 넘기지 말아줘... 플로란이 널 위해 일해줄게."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/glitch/default",
         "value": [
-            "绝望。我需要低调的生活！请不要把我送进监狱，我可以加入你的船员吗？",
-            "绝望。我是一个好人，真的！请让我加入你的飞船！",
-            "担心。有人…在找我的麻烦…如果你让我躲在你的船上，作为回报，我会为你战斗！",
-            "绝望。我不想伤害你，我只需要安稳的生活！我可以加入你的队伍吗？",
-            "绝望。我需要平静的生活。如果你让我待在你的船上，我会为你战斗的！",
-            "绝望。让我躲在你的船上，我会为你而战！我想要躲开某些人的追捕…",
-            "绝望。我真的需要在某个地方躲藏。你有一艘飞船？我可以为你而战斗！ "
+            "필사적. 그냥 조용히 있고 싶네. 체포하지 말아주게! 대신 자네와 함께 가면 안 되는가?",
+            "필사적. 난 좋은 사람이라니까! 제발 승선을 허용해주게! ",
+            "걱정. 날 추적하는 사람들이 있네... 당신의 함선에 숨도록 허용해 준다면 자네를 위해 싸우지.",
+            "필사적. 당신을 공격하려는 게 아니오. 그냥 제가 숨는걸 도와주실 수 없소?",
+            "필사적. 조용히 숨고 싶은데... 당신의 함선에 승선하는 걸 허락해준다면 당신을 위해 싸워드리겠소.",
+            "필사적. 당신을 위해 일하는 조건으로 당신의 함선에 숨겨주실 수 있소? 어떤 일이 있어도 피하고 싶은 사람들이 있소...",
+            "필사적. 조용히 숨을 곳이 필요한데... 함선이 있는 건가? 그럼 이 조건으로 거래는 어떠한가?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default",
         "value": [
-            "谢谢你给我一个藏身之地！如果您的旅行中需要一点点额外的帮助，我会一直在这里帮助你！",
-            "我终于可以安稳的躺下了。太感谢你了-如果需要任何帮助，我会义无反顾的的帮助你！",
-            "我发誓我真的不是个坏人…这艘飞船是一个完美的躲藏地点。如果你需要任何帮助，尽管来找我！",
-            "我可以躲在这里直到风头过去！我欠你一条命-如果你需要帮助，或者需要打手，尽管向我开口！"
+            "숨게 도와주셔서 감사합니다! 뭔가 힘쓸 곳이 생기면 제가 여기 있다는걸 잊지 마세요!",
+            "이곳이라면 조용히 있을 수 있겠군요. 고맙군요! 지원이 필요하시다면 언제나 도와드리죠.",
+            "제가 그렇게 나쁘진 않아요. 이 함선은 조용히 있기 딱 좋군요. 당신이 도와줄 사람이 필요하다면 저를 불러주세요!",
+            "가라앉을 때 까지 여기서 숨을 수 있겠군요. 모두 당신 덕분입니다, 도와줄 사람이나, 칼이 한자루 더 필요하다면 인사하러 와주세요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default",
         "value": [
-            "谢谢你给我一个藏身之地。如果您的旅行中需要一点点额外的帮助，我会一直在这里帮助你！",
-            "我终于可以安稳的躺下了。太感谢你了-如果需要任何帮助，我会义无反顾的的帮助你！",
-            "我发誓我真的不是个坏人。这艘飞船是一个完美的躲藏地点。如果你需要任何帮助，尽管来找我！",
-            "我可以躲在这里直到风头过去！我欠你一条命 -如果你需要帮助，或者需要打手，尽管向我开口！"
+            "숨게 도와주셔서 감사합니다! 뭔가 더 힘을 쓸곳이 생기면 제가 여기 있다는걸 잊지 마세요!",
+            "이곳이라면 조용히 있을 수 있겠군요. 고맙습니다! 원군이 필요하시다면 언제나 도와드리죠.",
+            "제가 그렇게 나쁘진 않아요. 이 함선은 조용히 있기 딱 좋군요. 당신이 도움이 필요하다면 저를 불러주세요!",
+            "가라앉을 때 까지 여기서 숨을 수 있겠군요. 모두 당신 덕분입니다, 추가 화력이 필요하다면 절 찾아주세요."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default",
         "value": [
-            "谢谢你给我一个藏身之地！如果您的旅行中需要一点点额外的帮助，我会一直在这里帮助你！",
-            "我终于可以安稳的躺下了。太感谢你了-如果需要任何帮助，我会义无反顾的的帮助你！",
-            "我发誓我真的不是个坏人…这艘飞船是一个完美的躲藏地点。如果你需要任何帮助，尽管来找我！",
-            "我可以躲在这里直到风头过去！我欠你一条命-如果你需要帮助，或者需要打手，尽管向我开口！"
+            "숨게 도와주셔서 감사합니다! 뭔가 힘쓸 곳이 생기면 제가 여기 있다는걸 잊지 마세요!",
+            "이곳이라면 조용히 있을 수 있겠군요. 고맙습니다! 지원이 필요하시다면 언제나 도와드리죠.",
+            "제가 그렇게 나쁘진 않아요. 이 함선은 조용히 있기 딱 좋군요. 당신이 도움이 필요하다면 저를 불러주세요!",
+            "상황이 가라앉을 때 까지 여기서 숨을 수 있을 것 같아! 도와줘서 고마워, 도움이 필요하거나 두 번째 칼이 필요하다면, 나를 불러줘."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default",
         "value": [
-            "谢谢你给我一个藏身之地！如果您的旅行中需要一点点额外的帮助，我会一直在这里帮助你！",
-            "我终于可以安稳的躺下了。太感谢你了 —— 如果需要任何帮助，我会义无反顾的的帮助你！",
-            "我发誓我真的不是个坏人…这艘飞船是一个完美的躲藏地点。如果你需要任何帮助，尽管来找我！",
-            "我可以躲在这里直到风头过去！我欠你一条命-如果你需要帮助，或者需要打手，尽管向我开口！"
+            "숨게 도와주셔서 감사합니다! 뭔가 힘쓸 곳이 생기면 제가 여기 있다는걸 잊지 마세요!",
+            "이곳이라면 조용히 있을 수 있겠군요. 고맘군요. 지원이 필요하시다면 언제나 도와드리죠.",
+            "그렇게 나쁘진 않을겁니다. 이 함선은 조용히 있기 딱 좋군요. 당신이 뒤를 봐줄 사람이 필요하다면 저를 불러주세요!",
+            "가라앉을 때 까지 여기서 숨을 수 있겠군요! 모두 당신 덕분입니다, 도움이나 칼이 한자루 더 필요하다면 인사하러 와주세요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default",
         "value": [
-            "这这这艘飞船对叶族人来说是个完美的藏身之所！叶族人会在这里随时为你提供帮助。",
-            "叶族人感激你的帮助。叶族人会为你而战无论何时何地！",
-            "说实话…叶族人不是个真的坏蛋。这艘飞船是一个完美的躲藏地点。如果你需要任何战斗中的帮助，尽管来找我！",
-            "叶族人可以在这里躲藏直到人们忘了叶族人的所作所为…谢谢你！如果你需要任何帮助，我会在这里。"
+            "이 함션은 플로란이 슘기 딱 좋아! 플로란은 여기 있을 테니 필요하면 언제든 불러줘!",
+            "플로란을 도와줘셔 고마워. 플로란은 너의 적과 언제든 쌰워줄게!",
+            "플로란은 진짜 나쁘지 않다니까. 이 함션은 슘기 딱 좋은걸. 쌰움에 도움이 필요하면 플로란을 불러줘!",
+            "플로란은 샤람들이 플로란이 한 일을 까먹을 때 까지 여기에 슘을슈 있을 것 같아. 고마워! 도움이 필요하다면 플로란을 불러줘."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default",
         "value": [
-            "感激。谢谢你让我留在这儿。我可以和你一起战斗，如果你需要我，我不会忘记我们的交易。",
-            "感恩。这船要藏匿的理想场所。如果您需要帮助，我就在这里！",
-            "感激。谢谢你给我一个地方躲起来。我会留在这儿，当你需要时我将为你而战。",
-            "感恩。我可以躲在这里直到风头过去！只要你需要，无论何时我都会帮助你。"
+            "감사. 여기에 남아있도록 허락해줘서 고맙군. 필요하다면 언제든 참전해주지, 거래는 까먹지 않았네.",
+            "고마움. 이 함선은 조용히 있기 정말 좋군. 지원이 필요하다면 난 여기있을껄세.",
+            "감사. 숨게 도와줘서 고맙소! 자네가 필요할때 마다 나가서 싸워주도록 하지.",
+            "고마움. 상황 가라앉을 때 까지 여기서 숨을 수 있겠군. 모두 자네 덕분이네, 지원이 필요하다면 날 찾아주게."
         ]
     }
 ]

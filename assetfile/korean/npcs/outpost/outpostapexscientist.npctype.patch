@@ -1,38 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "에이펙스 동지들이 지정부의 손에 놀아나는 걸 보고 있자니 지쳐서 떠났지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/0",
-        "value": "에이팩스 동지들이 지정부의 손에 놀아나는걸 보고 있자니 지쳐서 그곳을 떠났지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/apex/0",
-        "value": "지정부의 야만스러운 통치에서 탈출한 에이팩스를 만나게 되서 기쁘군."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "每天看着我的猿人兄弟姐妹在科技发展部手心里受折磨让我感到厌烦，所以我就离开了。"
+            "에이펙스 동지들이 지정부의 손에 놀아나는 걸 보고 있자니 지쳐서 떠났지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/apex/default",
         "value": [
-            "每天看着我的猿人兄弟姐妹在科技发展部手心里受折磨让我感到厌烦，所以我就离开了。"
+            "에이팩스 동지들이 지정부의 손에 놀아나는걸 보고 있자니 지쳐서 그곳을 떠났지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/apex/apex",
         "value": [
-            "能看到另一位逃脱了科技发展部暴行的猿人同志真让我高兴。"
+            "지정부의 야만스러운 통치에서 탈출한 에이팩스를 만나게 되서 기쁘군."
         ]
     }
 ]

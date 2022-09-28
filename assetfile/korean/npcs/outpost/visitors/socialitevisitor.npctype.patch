@@ -1,32 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "지구와 함깨 수많은 예술이 사라졌지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "너가 지금까지 본 복장중 가장 멋지지 않나?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "난 어디를 들리더라도 가장 뛰어난 복장을 입지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "가치를 매길수없는 나의 동전 컬랙션은 그 사건이 있었을때 지구에... 망한건가!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "地球已经沦陷了，许多精美的艺术也一同消失了！",
-            "我价值连城的钱币收藏就存放在地球上当…灾难发生时。现在我真个人都崩溃了！",
-            "在我去过的所有地方，我都是打扮的最得体的人！",
-            "难道我的装扮不是你见过最好的？"
+            "지구와 함깨 수많은 예술이 사라졌지.",
+            "가치를 매길수없는 나의 동전 컬랙션은 그 사건이 있었을때 지구에... 망한건가!",
+            "난 어디를 들리더라도 가장 뛰어난 복장을 입지!",
+            "너가 지금까지 본 복장중 가장 멋지지 않나?"
         ]
     }
 ]

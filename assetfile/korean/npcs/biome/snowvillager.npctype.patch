@@ -1,44 +1,14 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/5",
-        "value": "밖이 꽤 춥죠, 하지만 가끔은 지금보다 더 춥답니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "상당히 춥죠? 전 별로 신경쓰지 않지만요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "눈을 좋아하신다면 잘오셨군요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "준비 없이 왔다면 이 날씨가 당신을 산채로 얼릴지도 모릅니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "무언가 필요해서 왔나보군요, 안그랬다면 올 이유가 없겠죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "다행히도, 전 이런 추위에 익숙하답니다!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "幸运的是，我已经习惯了冰天雪地的状况！",
-            "这星球上肯定有什么你需要的东西，不然你可不会来这！",
-            "如果你没有准备好，这鬼天气可以把你冻成冰块！",
-            "如果你喜欢雪，那真是来对地方了。",
-            "这里真冷呢，是吧？我不大在乎，我是说我自己。",
-            "外头真冷，但有时候会比这会儿还冷！"
+            "다행히도, 전 이런 추위에 익숙하답니다!",
+            "무언가 필요해서 왔나보군요, 안그랬다면 올 이유가 없겠죠!",
+            "준비 없이 왔다면 이 날씨가 당신을 산채로 얼릴지도 모릅니다!",
+            "눈을 좋아하신다면 잘오셨군요.",
+            "상당히 춥죠? 전 별로 신경쓰지 않지만요.",
+            "밖이 꽤 춥죠, 하지만 가끔은 지금보다 더 춥답니다!"
         ]
     }
 ]

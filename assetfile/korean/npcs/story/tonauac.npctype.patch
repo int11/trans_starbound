@@ -1,146 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/1",
-        "value": "클루엑스를 섬기기 위해 오신 거군요! 그의 호의와 지도 없이 여기 오는 건 불가능했을 테니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/continue/default/default/0",
-        "value": "들어오세요! 머리, 다리 그리고 에.... 그냥 전부 조심하시고요. 여긴 좀 위험할 수도 있답니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/endTour/default/default/2",
-        "value": "위에 있는 방에는 멋진 물건들이 있답니다, 보고 여기로 다시 나가시면 돼요. 제가 문을 열어드리죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/endTour/default/default/1",
-        "value": "일단 방문객이 볼 수 있는 건 여기까지랍니다. 그 이후는 관리인과 위대한 신들께서만 드나들 수 있지요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/endTour/default/default/0",
-        "value": "자, 이번 투어가 즐거웠길 바랍니다! 원하는 만큼 돌아다니셔도 되고요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/3",
-        "value": "제가 당신과 함께해도 될까요? 전 클루엑스에게 일신을 바친 열광적인 종으로서, 제가 가치 있다는 걸 보여드릴게요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/2",
-        "value": "이 유물이 당신을 위해 있었다는 전조겠지요: 이 아볼라이트 수정은 클루엑스의 의지를 담고 있다고 해요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/0",
-        "value": "...무엇을 하려고 하셨는지 드디어 알겠습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/feelingTired/default/default/1",
-        "value": "음, 새로운 친구를 만들게 돼서 정말 좋았어요. 하지만 이 여행은... 조금... 피곤하네요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/feelingTired/default/default/0",
-        "value": "제.발. 깊숙히 들어가지 말아 주세요. 거긴 너무 위험해요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/statueDescription/default/default/1",
-        "value": "그 사람이 이걸 쓸 일은 더 없겠네요. 왜냐면, 음, 죽었으니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/statueDescription/default/default/0",
-        "value": "이건 오래된 아비안 전사의 조각상이네요! 이것들은 그의 창이고요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/doorOpened/default/default/1",
-        "value": "당신은 그쪽을 확인해 주세요. 저는 이쪽에서 나가는 문을 찾아볼게요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/doorOpened/default/default/0",
-        "value": "이 문은 제게는 좀 너무 작네요. 그래도 분명 당신에게 딱 맞겠지만요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/altarDescription/default/default/2",
-        "value": "세상에! 강하고도 경이로웠네요. 그렇지 않나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/altarDescription/default/default/1",
-        "value": "이 사원은 클루엑스 스스로께서 만든 것 중 하나였어요"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/altarDescription/default/default/0",
-        "value": "여긴 우리의 희생의 제단입니다. 멋진 예군요. 이 홈들은 피를 끝까지 실어나르죠."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/doorGreeting/default/default/2",
-        "value": "솔직히 말해서, 어.. 저도 길을 잃었어요... 하지만 저는 분명 우리 둘이라면 돌아가는 길을 찾을 수 있을 거예요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/doorGreeting/default/default/1",
-        "value": "사실, 저도 여기 있으면 안 됩니다, 이렇게 깊숙이 들어온 적은 없었거든요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/doorGreeting/default/default/0",
-        "value": "오, 여기 계셨군요! 당신이 안전하시니 다행이네요! 길을 잃어버리신 것 같네요...정말 여기 계시면 안 돼요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/maskDescription/default/default/1",
-        "value": "이것들은 매우 오래돼서 저희도 어느 정도 흔적을 놓쳤어요... 하지만 저희는 클루엑스님이 의식용 가면의 열렬한 팬이라는 것은 확실히 알고 있지요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/maskDescription/default/default/0",
-        "value": "이 의식용 가면은 매우 고대의 것이고, 클루엑스님의 우주의 힘이 깃들었어요. 우린 그렇게 생각해요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/start/default/default/4",
-        "value": "저는 당신이 무언가를 가져갈 생각을 하지 않을 거라는 것을 알지만, 모든 사람이 신뢰할 만한 사람들은 아니에요. 매우 화나는 일이죠..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/start/default/default/3",
-        "value": "한 가지 일러두자면, 제발 아무 것도 만지지 마세요. 감이 잡히시겠지만, 우리는 예전에 도난 문제로 골치가 아픈 적이 있었어요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/start/default/default/2",
-        "value": "혹시 우리의 놀라운 신 클루엑스에 대해 배우기 위해 오셨나요? 도움을 드릴 수 있어 매우 기쁘네요! 제가 여길 보여드릴게요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/start/default/default/1",
-        "value": "신전에 오신걸 환영합니다! 여기에 오신걸 후회하지 않을거에요. 저는^orange;토나우악^white;, 이 신전의 관리인입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/start/default/default/0",
-        "value": "오!... 방문객이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/tonauac/end/default/default/0",
-        "value": "텔레포터다! 감사합니다. 클루엑스시여! 오, 그분은 정말 놀라우셔."
-    },
-    {
-        "op": "replace",
         "path": "/npcname",
         "value": "图南瓦克"
     },
@@ -148,94 +8,94 @@
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/start/default/default",
         "value": [
-            "哦！…一位游客！",
-            "欢迎光临神殿！很高兴你能来到这里。我是^orange;图南瓦克^white;，神殿的守护者。",
-            "你是到这里来了解我们不可思议的神明克鲁西斯的吗？我很高兴能帮上忙！我会带你参观的。",
-            "不过有一点，请不要触碰任何东西。你看，我们曾经遇到过偷窃的问题。",
-            "我知道你从未想过拿走任何东西，但不是所有人都值得信任。这点很令人不安…"
+            "오!... 방문객이다!",
+            "신전에 오신걸 환영합니다! 여기에 오신걸 후회하지 않을거에요. 저는^orange;토나우악^white;, 이 신전의 관리인입니다.",
+            "혹시 우리의 놀라운 신 클루엑스에 대해 배우기 위해 오셨나요? 도움을 드릴 수 있어 매우 기쁘네요! 제가 여길 보여드릴게요.",
+            "한 가지 일러두자면, 제발 아무 것도 만지지 마세요. 감이 잡히시겠지만, 우리는 예전에 도난 문제로 골치가 아픈 적이 있었어요.",
+            "저는 당신이 무언가를 가져갈 생각을 하지 않을 거라는 것을 알지만, 모든 사람이 신뢰할 만한 사람들은 아니에요. 매우 화나는 일이죠..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/continue/default/default",
         "value": [
-            "请进！小心你的头，还有你的脚，还有你…自己。这里可能会有点危险。"
+            "들어오세요! 머리, 다리 그리고 에.... 그냥 전부 조심하시고요. 여긴 좀 위험할 수도 있답니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/maskDescription/default/default",
         "value": [
-            "这些仪式面具都非常古老，并灌注有克鲁西斯的万象之力。我们是这么认为的。",
-            "它们如此古老以至于我们有些对它失去了线索…但是我们敢肯定克鲁西斯是个仪式面具的大粉丝！"
+            "이 의식용 가면은 매우 고대의 것이고, 클루엑스님의 우주의 힘이 깃들었어요. 우린 그렇게 생각해요.",
+            "이것들은 매우 오래돼서 저희도 어느 정도 흔적을 놓쳤어요... 하지만 저희는 클루엑스님이 의식용 가면의 열렬한 팬이라는 것은 확실히 알고 있지요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/altarDescription/default/default",
         "value": [
-            "这是我们的祭祀神坛。它相当经典。这些贯其全长的凹槽引导着血液。",
-            "这座神殿是克鲁西斯亲自建造的其中一座。",
-            "天啊！他真是既无所不能又不可思议，不是吗？"
+            "여긴 우리의 희생의 제단입니다. 멋진 예군요. 이 홈들은 피를 끝까지 실어나르죠.",
+            "이 사원은 클루엑스 스스로께서 만든 것 중 하나였어요",
+            "세상에! 강하고도 경이로웠네요. 그렇지 않나요?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/statueDescription/default/default",
         "value": [
-            "这是一座古代翼族战士的雕像！这是他的长矛…",
-            "他不再使用它们了，因为，呃，他过世啦。"
+            "이건 오래된 아비안 전사의 조각상이네요! 이것들은 그의 창이고요...",
+            "그 사람이 이걸 쓸 일은 더 없겠네요. 왜냐면, 음, 죽었으니까요."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/endTour/default/default",
         "value": [
-            "好吧，我希望你能旅游愉快！请随意在这里转转。",
-            "很遗憾这是最后一扇对游客开放的门了。只有守护者和全知全能的神除外。",
-            "在上面的内庭中有些可爱的物品，然后你可以原路返回离开这儿。让我来打开门。"
+            "자, 이번 투어가 즐거웠길 바랍니다! 원하는 만큼 돌아다니셔도 되고요.",
+            "일단 방문객이 볼 수 있는 건 여기까지랍니다. 그 이후는 관리인과 위대한 신들께서만 드나들 수 있지요.",
+            "위에 있는 방에는 멋진 물건들이 있답니다, 보고 여기로 다시 나가시면 돼요. 제가 문을 열어드리죠."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/feelingTired/default/default",
         "value": [
-            "请不要尝试深入这里，里面确实太危险了…",
-            "唔，交新朋友真好。不过这段旅程…有点…累人…"
+            "제.발. 깊숙히 들어가지 말아 주세요. 거긴 너무 위험해요...",
+            "음, 새로운 친구를 만들게 돼서 정말 좋았어요. 하지만 이 여행은... 조금... 피곤하네요..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/doorGreeting/default/default",
         "value": [
-            "哦，你在那儿！看到你安全我就放心了！我猜你迷路了…你真不应该来到这里…",
-            "事实上，我也不应该来这里—我以前从来没有这么深入神殿过…",
-            "说实在的，嗯，我也迷路了…但是就我们而言我敢肯定我们可以找到回去的路！"
+            "오, 여기 계셨군요! 당신이 안전하시니 다행이네요! 길을 잃어버리신 것 같네요...정말 여기 계시면 안 돼요...",
+            "사실, 저도 여기 있으면 안 됩니다, 이렇게 깊숙이 들어온 적은 없었거든요.",
+            "솔직히 말해서, 어.. 저도 길을 잃었어요... 하지만 저는 분명 우리 둘이라면 돌아가는 길을 찾을 수 있을 거예요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/doorOpened/default/default",
         "value": [
-            "这扇门对我而言太小了。我确定你可以进得去。",
-            "你去那边检查一圈，同时我在这边找找出口。"
+            "이 문은 제게는 좀 너무 작네요. 그래도 분명 당신에게 딱 맞겠지만요.",
+            "당신은 그쪽을 확인해 주세요. 저는 이쪽에서 나가는 문을 찾아볼게요."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default",
         "value": [
-            "…我知道你是来干什么的了！自始至终！！",
-            "你是来服侍克鲁西斯的！我意思是，没有他的垂青与引导，你根本无法走到这一步。",
-            "这是这件神器将属于你的神谕：这些阿沃斯水晶承载着克鲁西斯意志的碎片！",
-            "拜托，可以让我加入你吗？我是克鲁西斯专注而热情的仆从—我保证我担当得起！"
+            "...무엇을 하려고 하셨는지 드디어 알겠습니다!",
+            "클루엑스를 섬기기 위해 오신 거군요! 그의 호의와 지도 없이 여기 오는 건 불가능했을 테니까요.",
+            "이 유물이 당신을 위해 있었다는 전조겠지요: 이 아볼라이트 수정은 클루엑스의 의지를 담고 있다고 해요!",
+            "제가 당신과 함께해도 될까요? 전 클루엑스에게 일신을 바친 열광적인 종으로서, 제가 가치 있다는 걸 보여드릴게요!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/tonauac/end/default/default",
         "value": [
-            "一座传送门！感谢克鲁西斯！哦，他真伟大。"
+            "텔레포터다! 감사합니다. 클루엑스시여! 오, 그분은 정말 놀라우셔."
         ]
     }
 ]

@@ -1,98 +1,38 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/avian/default/2",
-        "value": "거대한 망치를 휘두르는것도 그렇게 어렵지만은 않아."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/avian/default/1",
-        "value": "모성에서 태어날때 부터 전사로서 길러졌지, 이곳을 지키는건 어렵지 않아!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/avian/default/0",
-        "value": "깃털을 넘어서 땀을 흘리고 있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/2",
-        "value": "여길 땀 흘릴 정도로 지켰다고! 보여?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/1",
-        "value": "계속 바쁘게 일하다 보니 땀이 멈추질 않아. 상당히 불쾌하군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/0",
-        "value": "빅 에이프라도 팔씨름에서 이길 정도로 강해졌다고!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/2",
-        "value": "지루함. 여기를 지키고 있는 건 참 지루하군. 누군가 대련 상대라도 찾아야 하는 건가..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/1",
-        "value": "걱정. 내가 땀을 흘리는 것 처럼 보이나? 사실 증기가 고인거라네... 진짜야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/0",
-        "value": "용감. 이 행성의 어떠한 위험이라도 맞설 수 있소!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "내 망치는 이곳의 평화를 지키기 위해 있지. 망나니처럼 다니지 않으면 이걸 쓰는 걸 볼일은 없을 거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "여기서 일하는 건 나에게 강철의 팔을 줬지! 나는 함부로 시비 걸고 다닐 사람이 아니라고."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "난 이곳의 평화를 지키기 위해 있어. 돌아다니는 건 자유지만, 문제를 일으키진 말아줘."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我在这维护和平。欢迎你到处看看，只是别惹麻烦。",
-            "铸造厂给了我钢铁武器！我可不是好惹的。",
-            "我的铁锤可是为了维护附近的和平。乖乖站好，你不希望看到我用它。"
+            "난 이곳의 평화를 지키기 위해 있어. 돌아다니는 건 자유지만, 문제를 일으키진 말아줘.",
+            "여기서 일하는 건 나에게 강철의 팔을 줬지! 나는 함부로 시비 걸고 다닐 사람이 아니라고.",
+            "내 망치는 이곳의 평화를 지키기 위해 있지. 망나니처럼 다니지 않으면 이걸 쓰는 걸 볼일은 없을 거야."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/apex/default",
         "value": [
-            "我变得如此强壮以至于大猿人都不能在掰手腕上击败我！",
-            "我如此努力地工作以至于汗流不止。这真令人不开心。",
-            "我保护这铸造厂几乎是汗流浃背，你懂吗？"
+            "빅 에이프라도 팔씨름에서 이길 정도로 강해졌다고!",
+            "계속 바쁘게 일하다 보니 땀이 멈추질 않아. 상당히 불쾌하군.",
+            "여길 땀 흘릴 정도로 지켰다고! 보여?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/avian/default",
         "value": [
-            "我的汗水随着羽毛流下来！",
-            "在母星上我从小被当作战士一样养大。保护这里很简单！",
-            "挥舞着一把大铁锤，一点也不难。"
+            "깃털을 넘어서 땀을 흘리고 있어!",
+            "모성에서 태어날때 부터 전사로서 길러졌지, 이곳을 지키는건 어렵지 않아!",
+            "거대한 망치를 휘두르는것도 그렇게 어렵지만은 않아."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/glitch/default",
         "value": [
-            "英勇。我能抵御这个星球上任何危险！",
-            "担心。看上去我像在出汗吗？它实际上是凝结…说实话！",
-            "无聊。站在这做守卫真沉闷。大概我得去找人打一架…"
+            "용감. 이 행성의 어떠한 위험이라도 맞설 수 있소!",
+            "걱정. 내가 땀을 흘리는 것 처럼 보이나? 사실 증기가 고인거라네... 진짜야!",
+            "지루함. 여기를 지키고 있는 건 참 지루하군. 누군가 대련 상대라도 찾아야 하는 건가..."
         ]
     }
 ]

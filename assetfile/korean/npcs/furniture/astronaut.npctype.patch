@@ -1,68 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/9",
-        "value": "네가 우주를 여행할 때 운전하는 저건 뭐야?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/8",
-        "value": "아마 언젠간, 난 지구를 대신할 행성을 찾을거야..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/7",
-        "value": "난 자발적으로 우주를 여행하는 모든 사람들을 존경해!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/6",
-        "value": "넌 알려지지 않은 어딘가를 탐험하는 것을 두려워하지 않는 사람처럼 보여! 난 그 점을 존경해."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/5",
-        "value": "너 최근에 우주의 깊은 곳으로 여행한 적 있니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "미지를 도약하기 위한 그 충동은 결코 나와 같은 우주비행사를 남기지 않아..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "넌 너에 대한 새내기 우주 여행가를 봐!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "우주 여행은 아직도 나를 신나게 만들어, 심지어 오늘날까지도."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "너는 종종 먼 세상을 여행하니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "너는 알 수 없는 곳으로 여행하는 것이 준비가 돼야만 해!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "直至今天，太空旅行依然使我心潮澎湃。",
-            "我们的征途是星辰大海！",
-            "你经常去遥远的世界旅行吗？",
-            "你看起来像个初露头角的太空探险家！",
-            "像我这样的太空探险家从未丢失那颗勇于探索未知世界的心…",
-            "你最近有去宇宙深处旅行吗？",
-            "你看起来像一个勇于探索未知世界的人!我向你表示敬意。",
-            "我尊敬任何勇于探索宇宙的人！",
-            "也许有一天，我会找到一个真正能替代地球的星球…",
-            "是什么驱使你在太空中旅行？"
+            "우주 여행은 아직도 나를 신나게 만들어, 심지어 오늘날까지도.",
+            "너는 알 수 없는 곳으로 여행하는 것이 준비가 돼야만 해!",
+            "너는 종종 먼 세상을 여행하니?",
+            "넌 너에 대한 새내기 우주 여행가를 봐!",
+            "미지를 도약하기 위한 그 충동은 결코 나와 같은 우주비행사를 남기지 않아...",
+            "너 최근에 우주의 깊은 곳으로 여행한 적 있니?",
+            "넌 알려지지 않은 어딘가를 탐험하는 것을 두려워하지 않는 사람처럼 보여! 난 그 점을 존경해.",
+            "난 자발적으로 우주를 여행하는 모든 사람들을 존경해!",
+            "아마 언젠간, 난 지구를 대신할 행성을 찾을거야...",
+            "네가 우주를 여행할 때 운전하는 저건 뭐야?"
         ]
     }
 ]

@@ -1,32 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "우리들의 문화가 모두 사라졌다 해도, 과학은 언젠가는 다시 발견되겠지요, 흥미롭지 않나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "오랫동안 있지는 못합니다, 연구 여행을 위해서 보급품을 구하러 온거거든요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "이 노란 슈트 아래엔, 제 가슴이 발견에 들떠서 울리는군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "잠시 연구 물품을 구하러 온거랍니다!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我只是来这里拿一些研究资料！",
-            "在我的黄色套装下面，我的心脏只为了狂热的探索未知的世界而跳动！",
-            "我不会在这里待很长时间，我只是来这里买一些用品，为了我的研究之旅！",
-            "即使所有的文化因为某种原因遗失了，人们仍然会重新发现科学。这难道不令人着迷吗？"
+            "잠시 연구 물품을 구하러 온거랍니다!",
+            "이 노란 슈트 아래엔, 제 가슴이 발견에 들떠서 울리는군요!",
+            "오랫동안 있지는 못합니다, 연구 여행을 위해서 보급품을 구하러 온거거든요.",
+            "우리들의 문화가 모두 사라졌다 해도, 과학은 언젠가는 다시 발견되겠지요, 흥미롭지 않나요?"
         ]
     }
 ]

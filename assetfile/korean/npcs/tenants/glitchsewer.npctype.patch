@@ -1,86 +1,26 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/5",
-        "value": "발명. 이 마스크를 조정해서 나쁜 하수 냄새를 거르게 하였소. 거의 먹히는 것 같군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/4",
-        "value": "피곤. 내 일평생의 대부분을 하수도를 관리하는 데 썼소."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/3",
-        "value": "불만. 내 일생 하수도를 닦았지. 누군가는 반드시 해야 하는 일이지만 말이네..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/2",
-        "value": "허무. 하수도를 관리하는 건 더러운 일이지. 사실 자네처럼 모험하는걸 선호한다네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/1",
-        "value": "열광. 하수도 관리자라고 해도, 즐길 수 없는 일은 없는 법이네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/5",
-        "value": "발명. 이 마스크를 조작해서 나쁜 하수 냄새를 거르게 했지. 어느 정도는 작동해주네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/4",
-        "value": "피곤. 내 삶의 대부분은 하수도를 관리하는 데 썼지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/3",
-        "value": "불만. 하수도를 닦으며 평생을 보내다니. 뭐 누군가는 해야 했던 일이니 말일세..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/2",
-        "value": "허무. 하수도를 관리하는 건 힘든 일일세. 차라리 자네처럼 여행을 다니고 싶군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/1",
-        "value": "열광. 하수도 관리자라고 해도, 충분히 일을 즐길 수 있네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/0",
-        "value": "불편. 내 집엔 아직도 제거하지 못하는 불쾌한 냄새가 도네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
-        "value": "불편. 내 집엔 아직도 불쾌한 냄새가 돌지, 제거도 못 하겠더군."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/glitch/default",
         "value": [
-            "不适。我的家里有一股挥之不去的气味。",
-            "热情。即使你在打扫下水道，你也可以享受所做的每一件事。",
-            "惆怅。管理下水道是个肮脏的工作。我更希望出去探险，像你一样。",
-            "不快。我把人生浪费在了清洁下水道上。但是，我想这件工作又必须有人干…",
-            "厌倦。我已经花了如此长的人生在管理下水道上。",
-            "创造。我在调整面具以防止任何下水道的味道透过来。几乎要起作用了！"
+            "불편. 내 집엔 아직도 제거하지 못하는 불쾌한 냄새가 도네.",
+            "열광. 하수도 관리자라고 해도, 즐길 수 없는 일은 없는 법이네.",
+            "허무. 하수도를 관리하는 건 더러운 일이지. 사실 자네처럼 모험하는걸 선호한다네.",
+            "불만. 내 일생 하수도를 닦았지. 누군가는 반드시 해야 하는 일이지만 말이네...",
+            "피곤. 내 일평생의 대부분을 하수도를 관리하는 데 썼소.",
+            "발명. 이 마스크를 조정해서 나쁜 하수 냄새를 거르게 하였소. 거의 먹히는 것 같군!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/glitch/glitch",
         "value": [
-            "不适。我的家里有一股挥之不去的气味。",
-            "热情。即使你在打扫下水道，你也可以享受所做的每一件事。",
-            "惆怅。管理下水道是个肮脏的工作。我更希望出去探险，像你一样。",
-            "不快。我把人生浪费在了清洁下水道上。但是，我想这件工作又必须有人干…",
-            "厌倦。我已经花了如此长的人生在管理下水道上。",
-            "创造。我在调整面具以防止任何下水道的味道透过来。几乎要起作用了！"
+            "불편. 내 집엔 아직도 불쾌한 냄새가 돌지, 제거도 못 하겠더군.",
+            "열광. 하수도 관리자라고 해도, 충분히 일을 즐길 수 있네.",
+            "허무. 하수도를 관리하는 건 힘든 일일세. 차라리 자네처럼 여행을 다니고 싶군.",
+            "불만. 하수도를 닦으며 평생을 보내다니. 뭐 누군가는 해야 했던 일이니 말일세...",
+            "피곤. 내 삶의 대부분은 하수도를 관리하는 데 썼지.",
+            "발명. 이 마스크를 조작해서 나쁜 하수 냄새를 거르게 했지. 어느 정도는 작동해주네."
         ]
     }
 ]

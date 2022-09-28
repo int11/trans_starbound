@@ -1,31 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/bless/default/default/3",
-        "value": "이곳은 통치자의 신전보다도 낡아보이는군요! 여기, 축복을 받으세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/bless/default/default/2",
-        "value": "축복을 받으시길!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/bless/default/default/1",
-        "value": "아보스크립트 81권 제 1장 6절, \"클루엑스를 따르는 자는 다른 자들보다 우월하니.\""
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/bless/default/default/0",
-        "value": "그리고 클루엑스가 말하길 \"나의 전사들에게 선물이 있으라!\""
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "이런 위대한 고대 유적이라니... 분명히 클루엑스가 만들었을겁니다!"
-    },
-    {
-        "op": "replace",
         "path": "/npcname",
         "value": "图南瓦克"
     },
@@ -33,17 +8,17 @@
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "多么伟大的远古遗迹…我毫不怀疑是克鲁西斯造就的这些遗迹。"
+            "이런 위대한 고대 유적이라니... 분명히 클루엑스가 만들었을겁니다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/bless/default/default",
         "value": [
-            "克鲁西斯说过，“让那儿作为为我而战的勇士的赏赐！”",
-            "阿沃斯经典 81章1节6行 — “这些遵循克鲁西斯脚步的人比其他种族更加优越。”",
-            "来，接受我的祝福！",
-            "这个地方看起来甚至比君主寺还要年代久远！来，接收一下祝福吧！"
+            "그리고 클루엑스가 말하길 \"나의 전사들에게 선물이 있으라!\"",
+            "아보스크립트 81권 제 1장 6절, \"클루엑스를 따르는 자는 다른 자들보다 우월하니.\"",
+            "축복을 받으시길!",
+            "이곳은 통치자의 신전보다도 낡아보이는군요! 여기, 축복을 받으세요."
         ]
     }
 ]

@@ -1,194 +1,74 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/glitch/0",
-        "value": "안녕한가요 글리치여, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/human/2",
-        "value": "이 부족에 온 걸 환영합니다. 인간이여, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/avian/1",
-        "value": "안녕하셰요. 인간이여, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/avian/0",
-        "value": "안녕한가요. 인간이여, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/human/1",
-        "value": "안녕하셰요, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/floran/2",
-        "value": "우리 부족에 온 걸 환영합니다, 플로란 동지. 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/floran/1",
-        "value": "환영합니다! 전 원예가 <selfname> 입니다. 플로란은 언제든지 환영입니다, 물론 우리를 존중해준다는 가정하에요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/novakid/2",
-        "value": "우리 부족에 온 걸 환영합니다, 별친구. 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/novakid/1",
-        "value": "환영합니다, 빛나는 친구! 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/novakid/0",
-        "value": "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "이 부족에 온 걸 환영합니다, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "안녕하셰요, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/hylotl/2",
-        "value": "우리 부족에 온 걸 환영합니다, 하이로틀. 전 원예가 <selfname>, 당신이 우리를 존중한다면 저희도 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/hylotl/1",
-        "value": "안녕하세요 하이로틀, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/hylotl/0",
-        "value": "안녕하세요 하이로틀, 전 이 부족의 원예가입니다. 당신들이 우리를 두려워한다는건 압니다만, 여기선 걱정하지 않으셔도 됩니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/avian/2",
-        "value": "이 부족에 온 걸 환영합니다, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/human/0",
-        "value": "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용서해주세요, 그건 플로란의 자연적인 반응이랍니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/apex/2",
-        "value": "이 부족에 온 걸 환영합니다, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/apex/1",
-        "value": "안녕하세요, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/apex/0",
-        "value": "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용서해주세요, 그건 플로란의 자연적인 반응이랍니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/glitch/2",
-        "value": "이 부족에 온 걸 환영합니다 글리치여, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/glitch/1",
-        "value": "안녕하셰요 글리치, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/floran/0",
-        "value": "플로란 동지! 전 이 부족의 원예가입니다. 당신은 먼 곳으로부터 온 것 같군요."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "你好，我是这这这部落的绿手指。如果叶族人有点兴奋请别责怪他们，叶族人就就就是这样的！",
-            "欢迎。我是绿手指<selfname>。领导这个叶族部落就就就是我的职责。",
-            "欢迎来到我们部落。我是绿手指<selfname>，只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!",
+            "안녕하셰요, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다.",
+            "이 부족에 온 걸 환영합니다, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/apex",
         "value": [
-            "你好猿人，我是这这这部落的绿手指。如果叶族人有点兴奋请别责怪他们，叶族人就就就是这样的！",
-            "欢迎，猿人。我是绿手指<selfname>。领导这个叶族部落就就就是我的职责。",
-            "欢迎来到我们部落，猿人。我是绿手指<selfname>，只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용서해주세요, 그건 플로란의 자연적인 반응이랍니다!",
+            "안녕하세요, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다.",
+            "이 부족에 온 걸 환영합니다, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/avian",
         "value": [
-            "你好鸟朋友，我是这这这部落的绿手指。如果叶族人有点兴奋请别责怪他们，叶族人就就就是这样的！",
-            "欢迎，鸟朋友。我是绿手指<selfname>。领导这个叶族部落就就就是我的职责。",
-            "欢迎来到我们部落，鸟朋友。我是绿手指<selfname>，只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "안녕한가요. 인간이여, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!",
+            "안녕하셰요. 인간이여, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다.",
+            "이 부족에 온 걸 환영합니다, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/floran",
         "value": [
-            "叶族同伴！我是这这这个部落的绿手指。你看上去远道而来，我的朋友。",
-            "欢迎！我是绿手指<selfname>。任何叶族人都欢迎来这，当然得你尊重我们。",
-            "欢迎来到我们部落，叶族同步。我是绿手指<selfname>，只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "플로란 동지! 전 이 부족의 원예가입니다. 당신은 먼 곳으로부터 온 것 같군요.",
+            "환영합니다! 전 원예가 <selfname> 입니다. 플로란은 언제든지 환영입니다, 물론 우리를 존중해준다는 가정하에요.",
+            "우리 부족에 온 걸 환영합니다, 플로란 동지. 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/glitch",
         "value": [
-            "你好电子人，我是这这这部落的绿手指。如果叶族人有点兴奋请别责怪他们，叶族人就就就是这样的！",
-            "欢迎，电子人。我是绿手指<selfname>。领导这个叶族部落就就就是我的职责。",
-            "欢迎来到我们部落，电子人。我是绿手指<selfname>，只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "안녕한가요 글리치여, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!",
+            "안녕하셰요 글리치, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다.",
+            "이 부족에 온 걸 환영합니다 글리치여, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/human",
         "value": [
-            "你好人类，我是这这这部落的绿手指。如果叶族人有点兴奋请别责怪他们，叶族人就就就是这样的！",
-            "欢迎，人类。我是绿手指<selfname>。领导这个叶族部落就就就是我的职责。",
-            "欢迎来到我们部落，人类。我是绿手指<selfname>，只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용서해주세요, 그건 플로란의 자연적인 반응이랍니다!",
+            "안녕하셰요, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다.",
+            "이 부족에 온 걸 환영합니다. 인간이여, 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/hylotl",
         "value": [
-            "你好鲛人，我是这这这部落的绿手指。我知知知道你们的人民很害怕我们，但你在这里没有什么好害怕的。",
-            "欢迎，鲛人。我是绿手指<selfname>。领导这个叶族部落就就就是我的职责。",
-            "欢迎来到我们部落，鲛人。我是绿手指<selfname>，只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "안녕하세요 하이로틀, 전 이 부족의 원예가입니다. 당신들이 우리를 두려워한다는건 압니다만, 여기선 걱정하지 않으셔도 됩니다.",
+            "안녕하세요 하이로틀, 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다.",
+            "우리 부족에 온 걸 환영합니다, 하이로틀. 전 원예가 <selfname>, 당신이 우리를 존중한다면 저희도 당신을 존중할 겁니다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/novakid",
         "value": [
-            "欢迎，我是这这这部落的绿手指。如果叶族人有点兴奋请别责怪他们，叶族人就就就是这样的！",
-            "欢迎，我奇奇奇怪的灼热的朋友。我是绿手指<selfname>。领导这个叶族部落就就就是我的职责。",
-            "欢迎来到我们部落，我的恒星朋友。只要你尊尊尊重我们，我们也会尊尊尊重你。"
+            "안녕하셰요, 전 이 부족의 원예가입니다. 저들이 너무 과하게 반응해도 용셔해주셰요, 그건 플로란의 자연적인 반응이랍니다!",
+            "환영합니다, 빛나는 친구! 전 원예가 <selfname>, 이 부족의 플로란 들을 이끄는 자랍니다.",
+            "우리 부족에 온 걸 환영합니다, 별친구. 전 원예가 <selfname> 이고, 우리는 당신이 우리를 존중하는 한 당신을 존중할 겁니다."
         ]
     }
 ]

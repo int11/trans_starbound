@@ -1,38 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/avian/avian/0",
-        "value": "이곳에선 관측자의 악의를 두려워하지 않아도 되네, 친구여."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "한때는 관측자들을 섬겼지, 그들의 의견과 동의하지 못한다는걸 알았을떼, 때려쳤네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/avian/default/0",
-        "value": "한때는 관측자들을 섬겼지, 그들의 의견과 동의하지 못한다는걸 알았을떼, 때려쳤지만."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我曾为观星者服务，直到我开始发现自己不再赞同他们的观点。"
+            "한때는 관측자들을 섬겼지, 그들의 의견과 동의하지 못한다는걸 알았을떼, 때려쳤네."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/avian/default",
         "value": [
-            "我曾为观星者服务，直到我开始发现自己不再赞同他们的观点。"
+            "한때는 관측자들을 섬겼지, 그들의 의견과 동의하지 못한다는걸 알았을떼, 때려쳤지만."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/avian/avian",
         "value": [
-            "你在这里不用害怕观星者的怨恨，我的朋友。"
+            "이곳에선 관측자의 악의를 두려워하지 않아도 되네, 친구여."
         ]
     }
 ]

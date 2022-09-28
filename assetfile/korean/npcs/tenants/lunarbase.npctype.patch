@@ -1,32 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/0",
-        "value": "원래 달 채굴시설에서 일했었지. 지금은 다행이도 은퇴했지만."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/3",
-        "value": "근접전에는 모자를지 몰라도, 채굴시설에서 일했던 날들은 나에게 날카로운 눈을 줬지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/2",
-        "value": "채굴시설에서 일한 땐 모두가 완전히 무장했었지, 보통 해적들이 나타날 때를 대비해서 말이야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/1",
-        "value": "에르키우스 용액의 냄새를 질릴도록 맡아봤어, 마치 시럽같지."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/default",
         "value": [
-            "我曾经驻守过月球采矿设施。不过，我很高兴我现在退休了。",
-            "我厌倦液态能源的味道了。就像…糖浆。",
-            "在采矿设施中驻守的日子里，我们必须全副武装。主要是为了防备宇宙海盗。",
-            "我也许不是一个近战高手，但在矿区的生活给了我一双敏锐的眼睛。"
+            "원래 달 채굴시설에서 일했었지. 지금은 다행이도 은퇴했지만.",
+            "에르키우스 용액의 냄새를 질릴도록 맡아봤어, 마치 시럽같지.",
+            "채굴시설에서 일한 땐 모두가 완전히 무장했었지, 보통 해적들이 나타날 때를 대비해서 말이야.",
+            "근접전에는 모자를지 몰라도, 채굴시설에서 일했던 날들은 나에게 날카로운 눈을 줬지."
         ]
     }
 ]

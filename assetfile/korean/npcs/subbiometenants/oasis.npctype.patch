@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-        "value": "예쁜 분수 팔아요!"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "오아시스 상인"
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "오아시스 상인"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+        "value": "예쁜 분수 팔아요!"
     }
 ]

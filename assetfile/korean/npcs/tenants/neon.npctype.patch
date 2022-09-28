@@ -1,62 +1,22 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/0",
-        "value": "나도 한때 지정부의 기술자였지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/3",
-        "value": "난 이 복장으로 컴퓨터와 직접 소통하지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/2",
-        "value": "내 슈트는 무선으로 은하 서버 정보를 업대이트하지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/apex/default/1",
-        "value": "이걸 입고도 내가 에이팩스라는걸 알수있어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/3",
-        "value": "이 슈트로 컴퓨터와 무선으로 상호 작용을 하고 있지요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/2",
-        "value": "이 슈트를 쓰면 컴퓨터를 생각하는것 만으로 조작할수 있답니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/1",
-        "value": "이 기술 슈트안에 있으면 땀이 찬다니까요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/0",
-        "value": "이 슈트를 쓰면 제가 직접 컴퓨터 네트워크에 연결할수있지요. 멋진 녀석이죠."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/apex/default",
         "value": [
-            "我曾经在科技发展部当过技术猿。这是真事。",
-            "我穿这套衣服你还能看出我是个猿人吗？",
-            "我的外套可以在无线状态下为更新我银河服务器信息。",
-            "我用这套装备和计算机直接交互。"
+            "나도 한때 지정부의 기술자였지.",
+            "이걸 입고도 내가 에이팩스라는걸 알수있어?",
+            "내 슈트는 무선으로 은하 서버 정보를 업대이트하지.",
+            "난 이 복장으로 컴퓨터와 직접 소통하지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/default",
         "value": [
-            "这套衣服让我可以和计算机网络直接交互。真是件酷炫的东西。",
-            "穿这件数码套装真的很闷热！",
-            "穿着这件衣服我可以通过思维与计算机交互！",
-            "我正用这件衣服和计算机进行无线交互！"
+            "이 슈트를 쓰면 제가 직접 컴퓨터 네트워크에 연결할수있지요. 멋진 녀석이죠.",
+            "이 기술 슈트안에 있으면 땀이 찬다니까요!",
+            "이 슈트를 쓰면 컴퓨터를 생각하는것 만으로 조작할수 있답니다!",
+            "이 슈트로 컴퓨터와 무선으로 상호 작용을 하고 있지요!"
         ]
     }
 ]

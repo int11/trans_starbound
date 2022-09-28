@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕, 나는 메타뎁트야! 나는 프로그래밍과 회색을 좋아해."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嘿，我叫Metadept！我喜欢编程和灰色。"
+            "안녕, 나는 메타뎁트야! 나는 프로그래밍과 회색을 좋아해."
         ]
     }
 ]

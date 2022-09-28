@@ -1,50 +1,20 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/avian/default/4",
-        "value": "여긴 우리 구역이에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/avian/default/3",
-        "value": "우린 당신을 여기다 묻어버릴거에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/avian/default/2",
-        "value": "지금 우리 바쁜 거 안보이나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/avian/default/1",
-        "value": "라이벌 도적단에요 - 잡아요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/avian/default/0",
-        "value": "여기서 나가요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "공격!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "进攻！"
+            "공격!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/avian/default",
         "value": [
-            "滚出这里！",
-            "敌方侵入者—把他们赶出去！",
-            "难道你看不到我们这很忙吗？！",
-            "我们要把你埋葬在这！",
-            "这块地方是我们要清理的！"
+            "여기서 나가요!",
+            "라이벌 도적단에요 - 잡아요!",
+            "지금 우리 바쁜 거 안보이나요?",
+            "우린 당신을 여기다 묻어버릴거에요!",
+            "여긴 우리 구역이에요!"
         ]
     }
 ]

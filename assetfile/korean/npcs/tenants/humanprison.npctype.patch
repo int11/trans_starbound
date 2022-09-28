@@ -1,74 +1,24 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/3",
-        "value": "이 슈트를 입고 있다고 경계하지 마! 난 그냥 편해서 입는 거니까."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/2",
-        "value": "이 슈트를 입고 있으면 괴짜같이 보여?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/0",
-        "value": "방금 감옥에서 출소했습니다! 그래도 그렇게 나쁘진 않았지만."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/1",
-        "value": "걱정 마, 너한테 위험이 될 건수도 없으니까. 난 금융 사기로 감옥에 갔거든..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/human/3",
-        "value": "당신에게 위험 될 건 없습니다. 전 금융 사기로 감옥에 들어가서요..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/human/4",
-        "value": "감옥에 간 적 없어요, 그냥 편해서 입는거라구요... 진짜로요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/4",
-        "value": "감옥에 간 적 없어, 그냥 편해서 입는거라구... 진짜로."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/human/2",
-        "value": "이 슈트를 입고 있으면 괴짜같이 보여?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/human/1",
-        "value": "지구에 생긴 일은 들었습니다, 다른 행성의 감옥에 있어서 다행이었군요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/human/0",
-        "value": "만약 보호국에 들어갔다면, 감옥에 가지 않았을지도 모르죠."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/default",
         "value": [
-            "我刚出狱！不过，我很喜欢那里。",
-            "别担心。我不危险！我是因为金融诈骗罪而入狱的…",
-            "我穿这身囚服看起来有些不合适吗？",
-            "别因为这身囚服就认为我有威胁！我穿着它是因为舒服。",
-            "我没坐过牢，穿这身衣服只是为了舒服…真的。"
+            "방금 감옥에서 출소했습니다! 그래도 그렇게 나쁘진 않았지만.",
+            "걱정 마, 너한테 위험이 될 건수도 없으니까. 난 금융 사기로 감옥에 갔거든...",
+            "이 슈트를 입고 있으면 괴짜같이 보여?",
+            "이 슈트를 입고 있다고 경계하지 마! 난 그냥 편해서 입는 거니까.",
+            "감옥에 간 적 없어, 그냥 편해서 입는거라구... 진짜로."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/human",
         "value": [
-            "如果我加入了守护团，我也许就不会进监狱了。",
-            "我听说了地球发生的事。我很庆幸当时我在别的地方服刑。",
-            "我穿这身囚服看起来有些不合适吗？",
-            "别担心。我不危险！我是因为金融诈骗罪而入狱的…",
-            "我没坐过牢，穿这身衣服只是为了舒服…真的。"
+            "만약 보호국에 들어갔다면, 감옥에 가지 않았을지도 모르죠.",
+            "지구에 생긴 일은 들었습니다, 다른 행성의 감옥에 있어서 다행이었군요.",
+            "이 슈트를 입고 있으면 괴짜같이 보여?",
+            "당신에게 위험 될 건 없습니다. 전 금융 사기로 감옥에 들어가서요...",
+            "감옥에 간 적 없어요, 그냥 편해서 입는거라구요... 진짜로요."
         ]
     }
 ]

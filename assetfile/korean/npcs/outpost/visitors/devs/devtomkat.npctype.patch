@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕! 나는 톰이야. 나는 완전한 우주에서 목록 작성자로 일하고 있어! 나는 꽤 스타바운더야."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嗨！我是Tom。我正在给整个宇宙做个导航目录！我是一个狂热的星界爱好者。"
+            "안녕! 나는 톰이야. 나는 완전한 우주에서 목록 작성자로 일하고 있어! 나는 꽤 스타바운더야."
         ]
     }
 ]

@@ -1,68 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/9",
-        "value": "저 신선한 나무에서는 가구 냄새가 나... 더 좋은 건 없지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/8",
-        "value": "사람들은 오랫동안 이런 집을 가지고있었어. 나는 전통을 수행하고 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/7",
-        "value": "나는 항상 이런 나만의 장소를 가지기를 원했어! 나에게 딱 좋군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/5",
-        "value": "여기엔 나 같은, 단순한 삶을 선호하는 사람이 많아."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/6",
-        "value": "신비한 기술을 과대평가 되었어. 나는 단순한 삶을 선호해."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "오랫동안 큰 팔자동물은 나를 먹으려고 시도하지 않았어. 나는 행복하게 살 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "읽을 책과 함께 불 앞에서 말려... 바로 그게 사는거지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "기술이 너를 더 행복하게 만들었니? 나는, 그것이 없어도 새만큼 자유로운 느낌을 느낄 수 있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "나는 기술의 합병증이 없는 삶을 선호해."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "오두막 생활은 나를 위한 삶이야!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "我的小屋，舒适舒适最舒适！",
-            "我喜欢住在没有科学技术打扰的地方。",
-            "科技会让你更快乐吗？自从离开了它们，我感觉自己就像鸟儿一样自由！",
-            "蜷缩在篝火旁读书…这才是生活。",
-            "只要那些巨大的古老生物不是想要吃我，我就可以快乐的生活下去。",
-            "有很多人像我一样，喜欢过简单的生活。",
-            "新奇的科技产品被高估了－而我更情愿于过简单的生活。",
-            "我一直想这样有一块属于自己的地方！对我而言完美无瑕。",
-            "人类曾经住这样的房子很长一段时间。这是我继承下来的传统。",
-            "新鲜的木质家具的气息…没有什么比这更好了！"
+            "오두막 생활은 나를 위한 삶이야!",
+            "나는 기술의 합병증이 없는 삶을 선호해.",
+            "기술이 너를 더 행복하게 만들었니? 나는, 그것이 없어도 새만큼 자유로운 느낌을 느낄 수 있어!",
+            "읽을 책과 함께 불 앞에서 말려... 바로 그게 사는거지.",
+            "오랫동안 큰 팔자동물은 나를 먹으려고 시도하지 않았어. 나는 행복하게 살 수 있어.",
+            "여기엔 나 같은, 단순한 삶을 선호하는 사람이 많아.",
+            "신비한 기술을 과대평가 되었어. 나는 단순한 삶을 선호해.",
+            "나는 항상 이런 나만의 장소를 가지기를 원했어! 나에게 딱 좋군.",
+            "사람들은 오랫동안 이런 집을 가지고있었어. 나는 전통을 수행하고 있지.",
+            "저 신선한 나무에서는 가구 냄새가 나... 더 좋은 건 없지!"
         ]
     }
 ]

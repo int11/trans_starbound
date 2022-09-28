@@ -1,78 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/8",
-        "value": "빛보다 멋있는 게 있나요? 아니죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/7",
-        "value": "집을 밝게 단장하고 싶나요? 여기서 등을 사시는 건 어떻습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/6",
-        "value": "어둠이 너의 꿈을 이루는 걸 막게 놔두지 말길!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/5",
-        "value": "전 빛을 팝니다, 까먹지 마시길!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/4",
-        "value": "집에 멋진 등이 필요한가요? 당연하죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/3",
-        "value": "음? 장식용 등이 필요하다고요? 잘 오셨습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/2",
-        "value": "어둠을 두려워하지 마세요, 밝게 가는 겁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/1",
-        "value": "어둠 끝에는 빛이 있지요! 제가 팔고 있는 겁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/default/default/0",
-        "value": "밤을 밝히세요! 제 제품으로 어둠에서 벗어나세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/6",
-        "value": "다시 거래하러 오세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/5",
-        "value": "등이 더 필요하다면 돌아오는 걸 잊지 마세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/4",
-        "value": "빛이 필요하시다면 들려주시길!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/3",
-        "value": "좋은 비즈니스 감사드립니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/2",
-        "value": "다시 등을 사러 와주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/1",
-        "value": "어둠을 두려워하지 마세요! 빛이 필요하다면 다시 돌아오시길!"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "빛나는 상인"
     },
     {
         "op": "replace",
@@ -81,64 +11,39 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
-        "value": "왔습니다. 집에 놓을 등을 사러 오신 건가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
-        "value": "좋습니다, 이제 제가 가진 등들을 보시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
-        "value": "어서 오세요! 멋진 등을 살 수 있는 상점입니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/default/default/0",
-        "value": "등이 필요할 때마다 들려주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "빛나는 상인"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/default/default",
         "value": [
-            "照亮夜晚！用我的产品驱逐黑暗！",
-            "隧道尽头有盏灯！而我就是卖这个的！",
-            "别害怕黑暗，照亮它们！",
-            "什么？你需要一些装饰用的灯？你来对地方了！",
-            "你的家需要一些漂亮的灯？哦，那当然！",
-            "我这儿出售灯具－别忘了这点！",
-            "不要让黑暗阻止你实现梦想的脚步！",
-            "你家里需要更亮一些么？为什么不买点灯？",
-            "有什么比灯更酷的？当然没有！"
+            "밤을 밝히세요! 제 제품으로 어둠에서 벗어나세요!",
+            "어둠 끝에는 빛이 있지요! 제가 팔고 있는 겁니다!",
+            "어둠을 두려워하지 마세요, 밝게 가는 겁니다!",
+            "음? 장식용 등이 필요하다고요? 잘 오셨습니다!",
+            "집에 멋진 등이 필요한가요? 당연하죠!",
+            "전 빛을 팝니다, 까먹지 마시길!",
+            "어둠이 너의 꿈을 이루는 걸 막게 놔두지 말길!",
+            "집을 밝게 단장하고 싶나요? 여기서 등을 사시는 건 어떻습니까?",
+            "빛보다 멋있는 게 있나요? 아니죠!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/default/default",
         "value": [
-            "欢迎来我的店铺！你可以在这里买一些漂亮的灯！",
-            "太好了－现在，你愿意看看我储藏的灯么？",
-            "我们到了－你愿意给你自己家里添些灯具么？"
+            "어서 오세요! 멋진 등을 살 수 있는 상점입니다!",
+            "좋습니다, 이제 제가 가진 등들을 보시겠습니까?",
+            "왔습니다. 집에 놓을 등을 사러 오신 건가요?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/default/default",
         "value": [
-            "当你需要灯的时候随时来找我！",
-            "别害怕黑暗！当你需要灯的时候随时来找我！",
-            "期待下一次交易！",
-            "和你做生意很高兴！",
-            "如果你需要灯的话记得来逛逛！",
-            "如果你需要灯的话别忘记回来看看！",
-            "欢迎下次再来！"
+            "등이 필요할 때마다 들려주세요!",
+            "어둠을 두려워하지 마세요! 빛이 필요하다면 다시 돌아오시길!",
+            "다시 등을 사러 와주세요!",
+            "좋은 비즈니스 감사드립니다!",
+            "빛이 필요하시다면 들려주시길!",
+            "등이 더 필요하다면 돌아오는 걸 잊지 마세요!",
+            "다시 거래하러 오세요!"
         ]
     }
 ]

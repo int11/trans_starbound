@@ -1,26 +1,11 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/2",
-        "value": "이 차림새는 실제 생물에게는 쓰이지 않아...정직해."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/1",
-        "value": "넌 나의 차림새가 좋니? 이건 매우... 나야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/human/default/0",
-        "value": "이것은 차림새야, 난 맹세해."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/human/default",
         "value": [
-            "这只是一套服装，我发誓。",
-            "你喜欢我的服装吗？很有…个性。",
-            "这套衣服不是用真的动物做的…讲真。"
+            "이것은 차림새야, 난 맹세해.",
+            "넌 나의 차림새가 좋니? 이건 매우... 나야.",
+            "이 차림새는 실제 생물에게는 쓰이지 않아...정직해."
         ]
     }
 ]

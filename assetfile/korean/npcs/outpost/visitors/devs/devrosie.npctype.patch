@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕, 나는 로이스야! 우주는 아주 큰 공간이야, 나는 모든 향기나는 꽃을 좋아하고, 모든 벌레를 잡는 것과 모든 나무에 오르는 것도 좋아해."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嗨，我是Rosie！宇宙是这样大的一个地方，我想闻每一朵花，抓住每一只昆虫，爬上每一棵树。"
+            "안녕, 나는 로이스야! 우주는 아주 큰 공간이야, 나는 모든 향기나는 꽃을 좋아하고, 모든 벌레를 잡는 것과 모든 나무에 오르는 것도 좋아해."
         ]
     }
 ]

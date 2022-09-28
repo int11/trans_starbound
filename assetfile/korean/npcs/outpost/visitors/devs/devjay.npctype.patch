@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕, 나는 제이야. 내가 지구가 파괴됐단 소리를 들었어? 그것은 나쁜 펜케이크야."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嗨，我是Jay。我听到地球被摧毁？真是个不好的消息。"
+            "안녕, 나는 제이야. 내가 지구가 파괴됐단 소리를 들었어? 그것은 나쁜 펜케이크야."
         ]
     }
 ]

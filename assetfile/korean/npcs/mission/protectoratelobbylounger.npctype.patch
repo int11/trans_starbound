@@ -1,32 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "보통 사람들은 정중히 물어보면 자리를 양보해줄 정도로 예의 바르지만, 이 자리는 포기하기엔 너무 편해서 말이지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "네 졸업을 축하해. 친구야. 드디어 졸업장을 받는구나."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "난 이 자리가 좋아. 편하고, 경치도 좋잖아."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "졸업식에 좀 늦은 감이 있지 않아, <entityname>?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "你出发的有点晚了，不是吗 <entityname>？",
-            "我爱这把椅子。那么舒服，而且那么好看。",
-            "如果你礼貌的请求大多数人会彬彬有礼的给你一个座位，但是这把椅子实在太舒服了让人难以割舍。",
-            "恭喜你毕业了，我的朋友，你实至名归。"
+            "졸업식에 좀 늦은 감이 있지 않아, <entityname>?",
+            "난 이 자리가 좋아. 편하고, 경치도 좋잖아.",
+            "보통 사람들은 정중히 물어보면 자리를 양보해줄 정도로 예의 바르지만, 이 자리는 포기하기엔 너무 편해서 말이지.",
+            "네 졸업을 축하해. 친구야. 드디어 졸업장을 받는구나."
         ]
     }
 ]

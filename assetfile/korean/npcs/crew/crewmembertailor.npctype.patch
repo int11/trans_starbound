@@ -1,111 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "이 차림새는 당신의 선원을 정말 눈에 띄게 만들어 줄거야. 좋은 선택이야, 선장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/novakid/default/2",
-        "value": "멋진 복장 선정이야, 친구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/novakid/default/1",
-        "value": "새로 채택된 선원 유니폼 이거 고강도강 거울 보다도 깔끔하구만. 좋은 선택이야, 친구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/novakid/default/0",
-        "value": "강철 등자보다 날카로워 보이는데, 친구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
-        "value": "선원의 복장을 바꾸고 싶으면, 이몸을 찾으라고!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
-        "value": "그렇게 간절히 복장을 갈고 싶으면 와서 인서하라구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/2",
-        "value": "열망. 나는 새 옷을 사람들이 어떻게 생각할 지 알고 싶어서 견딜 수가 없소, 선장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/0",
-        "value": "플로란 이 옷 좋다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/1",
-        "value": "신남. 사람들이 당신의 옷을 좋아할 거라 확신하오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/glitch/default/0",
-        "value": "감명. 안목있는 유니폼 선택이오, 선장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/2",
-        "value": "플로란 차림섀 마음에 든다, 션장."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/floran/default/1",
-        "value": "플로란 너 스타일 셴스 마음에 든다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "놀라운 패션 감각이군, 선장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "보기 좋군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "이 복장은 마침 딱 적당하군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
-        "value": "열망. 만약 당신이 선원들의 옷을 새롭게 하고싶다면, 나에게 와서 말을 걸어주시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
-        "value": "붙임성 있음. 당신의 선원들의 옷을 새롭게 하고싶을 때 나에게로 오시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
-        "value": "플로란 너 원할 때 션원들 옷 섀로 해준다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
-        "value": "섀 옷 있으면 플로란 말해라!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
-        "value": "내 재봉기술만 있으면 선원들 복장도 바꿀 수 있지. 내가 필요할 땐 나를 불러줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "value": "선원들의 옷을 새로이 하고 싶을 때 나에게로 와!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/crew/role/name",
         "value": "裁缝"
     },
@@ -118,69 +13,69 @@
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default",
         "value": [
-            "如果你想要升级你的船员的制服就过来找我！",
-            "我的裁缝技能让我升级你的船员制服。当你需要我的服务时尽管和我开口！"
+            "선원들의 옷을 새로이 하고 싶을 때 나에게로 와!",
+            "내 재봉기술만 있으면 선원들 복장도 바꿀 수 있지. 내가 필요할 땐 나를 불러줘!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default",
         "value": [
-            "当你需要升级你的制服时就过来和叶族人说说说！",
-            "无论何时你想要叶族人都能帮你升级船员的制服！"
+            "섀 옷 있으면 플로란 말해라!",
+            "플로란 너 원할 때 션원들 옷 섀로 해준다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default",
         "value": [
-            "和蔼。当你想要升级船员的制服是就来找我。",
-            "渴望。当你需要升级你的船员制服是，尽管来找我！"
+            "붙임성 있음. 당신의 선원들의 옷을 새롭게 하고싶을 때 나에게로 오시오!",
+            "열망. 만약 당신이 선원들의 옷을 새롭게 하고싶다면, 나에게 와서 말을 걸어주시오!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default",
         "value": [
-            "如果你想着要升级你的船员的制服，就来跟我说！",
-            "如果你想改变你的船员的服装，我就是你要找的人！"
+            "그렇게 간절히 복장을 갈고 싶으면 와서 인서하라구!",
+            "선원의 복장을 바꾸고 싶으면, 이몸을 찾으라고!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "那个看上去绝对符合这一季的潮流！",
-            "看上去棒极了！",
-            "这件制服会让你的船员非常显眼，很棒的选择，我的船长！",
-            "不可思议的时尚动感，我的船长！"
+            "이 복장은 마침 딱 적당하군요!",
+            "보기 좋군요!",
+            "이 차림새는 당신의 선원을 정말 눈에 띄게 만들어 줄거야. 좋은 선택이야, 선장!",
+            "놀라운 패션 감각이군, 선장!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/floran/default",
         "value": [
-            "叶族人觉得这这这是一件很棒的制服！",
-            "你对造造造型的审美让叶族人影响深刻！",
-            "叶族人喜喜喜欢这件外套的造型选择，我的船长！"
+            "플로란 이 옷 좋다!",
+            "플로란 너 스타일 셴스 마음에 든다!",
+            "플로란 차림섀 마음에 든다, 션장."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/glitch/default",
         "value": [
-            "难忘。这件制服的选择让人赞赏，我的船长！",
-            "兴奋。我确信人们会爱上你的制服！",
-            "渴望。我迫不及待的想要知道人们对你的这件新制服的看法，我的船长"
+            "감명. 안목있는 유니폼 선택이오, 선장!",
+            "신남. 사람들이 당신의 옷을 좋아할 거라 확신하오!",
+            "열망. 나는 새 옷을 사람들이 어떻게 생각할 지 알고 싶어서 견딜 수가 없소, 선장!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/novakid/default",
         "value": [
-            "你看起来就和钢马镫一样时髦，伙计！",
-            "这套新的船员制服比耐钢靴刺还时髦。真是正确的选择，伙计！",
-            "这真是套好服装，伙计！"
+            "강철 등자보다 날카로워 보이는데, 친구!",
+            "새로 채택된 선원 유니폼 이거 고강도강 거울 보다도 깔끔하구만. 좋은 선택이야, 친구!",
+            "멋진 복장 선정이야, 친구!"
         ]
     }
 ]

@@ -1,44 +1,14 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/5",
-        "value": "밖은 정말 더워."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "여긴 너무 건조해, 그렇지? 난 신경안써."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "만약 네가 모래를 좋아한다면, 넌 올바른 장소에 있는거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "사막에 온 걸 환영해!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "이 행성에 네가 뭔가 필요한 게 있을 거야, 그렇지 않다면 넌 여기 올 필요가 없었어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "운이 좋게도, 더운 상태에 익숙해!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "幸运的是，我已经习惯这样的热天气了！",
-            "这个星球上一定有你需要的东西，否则你就不会来这里了。",
-            "欢迎来到沙漠！",
-            "如果你喜欢沙子，那你来对地方了。",
-            "这很干燥，是吗？我自己一点也不介意。",
-            "外面真热。"
+            "운이 좋게도, 더운 상태에 익숙해!",
+            "이 행성에 네가 뭔가 필요한 게 있을 거야, 그렇지 않다면 넌 여기 올 필요가 없었어.",
+            "사막에 온 걸 환영해!",
+            "만약 네가 모래를 좋아한다면, 넌 올바른 장소에 있는거야.",
+            "여긴 너무 건조해, 그렇지? 난 신경안써.",
+            "밖은 정말 더워."
         ]
     }
 ]

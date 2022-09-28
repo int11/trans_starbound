@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
-        "value": "빨리 돌아와. 난 네가 그럴 거라는걸 알아!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/3",
-        "value": "만약 네가 뼈가 필요하다면, 난 항샹 여기있을게..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
-        "value": "안전하게 있어. 세샹은 무셔워."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
-        "value": "만약 네가 나에게 뼈를 팔고 싶다면 나에게 와!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/floran/default/0",
-        "value": "여기 샹점이 있어!"
+        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+        "value": "뼈 세공인"
     },
     {
         "op": "replace",
@@ -31,90 +11,40 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/follow/floran/default/2",
-        "value": "이 길로 플로란을 따라와..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/follow/floran/default/1",
-        "value": "플로란은 전문 뼈 세공인이야. 그거지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/follow/floran/default/0",
-        "value": "따라와, 샹점은 이 길에 있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/3",
-        "value": "플로란은 판매할 뼈를 갖고있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
-        "value": "뼈는 적이 도망가도록 해줄거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
-        "value": "이리 와, 나의 물건을 좀 샤."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
-        "value": "너 뼈를 원하니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/floran/default/2",
-        "value": "난 네가 필요할만한 것을 갖고있어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/welcome/floran/default/1",
-        "value": "넌 지금 플로란과 거래했어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-        "value": "뼈 세공인"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/merchant/start/floran/default",
         "value": [
-            "你想要一些骨头头头？",
-            "来，买一些我的东西西西。",
-            "骨头头头让敌人远离你！",
-            "叶族人有骨头头头卖！"
+            "너 뼈를 원하니?",
+            "이리 와, 나의 물건을 좀 샤.",
+            "뼈는 적이 도망가도록 해줄거야!",
+            "플로란은 판매할 뼈를 갖고있어!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/end/floran/default",
         "value": [
-            "请尽尽尽快回来。我知道你会的！",
-            "当你想卖骨头头头给我的时候就回来！",
-            "注意安全。这是一个可可可怕的世界。",
-            "如果你需要骨头头头，叶族人一直在这里…"
+            "빨리 돌아와. 난 네가 그럴 거라는걸 알아!",
+            "만약 네가 나에게 뼈를 팔고 싶다면 나에게 와!",
+            "안전하게 있어. 세샹은 무셔워.",
+            "만약 네가 뼈가 필요하다면, 난 항샹 여기있을게..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/follow/floran/default",
         "value": [
-            "客官，商商商店这边请！",
-            "叶族人是是是专业的骨匠。这边走。",
-            "跟着叶族人来这这这边…"
+            "따라와, 샹점은 이 길에 있어!",
+            "플로란은 전문 뼈 세공인이야. 그거지.",
+            "이 길로 플로란을 따라와..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/merchant/welcome/floran/default",
         "value": [
-            "商店到到到了！",
-            "现在你可以和叶族人交易了！",
-            "我有些你可能需要的东西。"
+            "여기 샹점이 있어!",
+            "넌 지금 플로란과 거래했어!",
+            "난 네가 필요할만한 것을 갖고있어."
         ]
     }
 ]

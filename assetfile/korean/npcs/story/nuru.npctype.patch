@@ -1,166 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "경고 하나만 해줄게. 다른 샤냥꾼들도 이 샤냥 의식에서 이기고 싶어셔 널 막으려 들 거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "난 다른 샤냥꾼들이 먼저 셔두르는 동안 여기셔 간식이나 먹고 있으려고. 쟤들은 셔로 쌰우다 나가떨어지겠지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/boss/finish/default/default/0",
-        "value": "거의 다 잡았어. 끝내버려!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/13",
-        "value": "플로란은 나쁘지 않아. 우리 부족 원예가가 섕명을 존중하라고 그랬어. 수많은 이들이 배우지 못 한 교훈이지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/12",
-        "value": "나도 샤냥이 좋지만, 그것만으론 충분치 않을 때가 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/9",
-        "value": "난 플로란들에게 서로 쌰우는 게 최선의 수는 아니라는 걸 알려주려고 샤냥 의식에 참가하는 거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/6",
-        "value": "최고의 샤냥꾼이 되면 사람들이 네게 바라는 게 많아진다니까..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/5",
-        "value": "플로란들은 가끔 별 이유 없이 사나워질 때가 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "난 항상 우주를 꼭 보고 싶었는데, 넌 어디서 왔어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/endscene/smalltalk/default/default/0",
-        "value": "있잖아, 아까 그거 진짜 인샹깊었어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/endscene/follow/default/default/0",
-        "value": "만족스러웠어! 가자."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/endscene/end/default/default/1",
-        "value": "사실은... 축하해! 네 승리 트로피에 공짜 누루가 샤은품으로 따라오게 됐지 뭐야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/endscene/end/default/default/0",
-        "value": "여태껏 해온 일 중에셔 제일 재밌는 일이었어. 자기관리 제대로 할 줄 아는 샤람이 옆에 있어주면 참 안심된다니까."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/boss/shellbroken/default/default/0",
-        "value": "외피가 부셔졌어! 지금이 공격할 기회야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/boss/fleshy/default/default/0",
-        "value": "때려! 샬이 나와있을 때 때려!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/startboss/start/default/default/0",
-        "value": "이거 재밌겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/startboss/intro/default/default/0",
-        "value": "이거 작년 샤냥감보다 훨씬 크잖아. 드디어! 제대로 된 도전이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/4",
-        "value": "그러다 대부분 다 죽어... 어쨌든, 행운을 빌어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/3",
-        "value": "여기, 플로란은 슈 년동안 기량을 닦아. 슉련된 대장장이가 창날을 갈아내는 것처럼."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/2",
-        "value": "한 마디 해야겠다. 이거 진짜 인샹깊었어!  네가 조각조각 나거나 했으면 덜 인샹깊었겠지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/1",
-        "value": "아, 나? 난 ^orange;누루^white;야. 샤냥 의식 역샤샹 최연쇼 챔피언."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/0",
-        "value": "와! 외지인이다! 진짜 여기에 샤냥하러 온 거야? 좀 이샹하긴 해도 용감무썅하네."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionstart/end/default/default/0",
-        "value": "다른 샤냥꾼들을 조심하고!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionswitch/hello/default/default/0",
-        "value": "이봐! 여기야! 여기까지 오다니 믿기지가 않네. 잘 했어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionswitch/goodbye/default/default/0",
-        "value": "거의 다 온 것 같아. 네가 입맛을 돋궈주었음 좋겠다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/floranmissionswitch/stuck/default/default/0",
-        "value": "그으러언데에 너 지금 갇혀버렸네. 비꼬듯이 '천천히 박슈'치고 싶어지는걸. 자, 내가 열어줄게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/11",
-        "value": "난 열일곱 여름을 보냈어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/10",
-        "value": "웬만하면 이 샤아아 하는 쇼리 안 내고 싶은데, 가끔은 나도 어쩔 슈 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/8",
-        "value": "플로란이 잡아본 짐승들보다 훨씬 대단한 놈이 있다는 쇼문은 들었어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/7",
-        "value": "저 밖엔 샤낭감이 더 많을 거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/4",
-        "value": "언젠가 여기셔 빠져나갈 방법을 찾아야겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "난 섀쌱때부터 샤냥을 시작해 봉오리 시절부터 승승장구였지."
-    },
-    {
-        "op": "replace",
         "path": "/npcname",
         "value": "努鲁"
     },
@@ -168,116 +8,116 @@
         "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "只只只是警告一下——其他的猎人们会试图阻止你赢得狩猎。",
-            "我还是萌芽的时候就开始狩猎了，从花苞起就开始赢。",
-            "他们往前冲的时候我正在这里吃零食。他们自己就会打起来。",
-            "我一直都想去看看宇宙，你是从哪里来的？",
-            "总有一天我会找到出路。",
-            "叶族人常常是盲目的野蛮人。",
-            "当你是顶尖猎手的时候人们总会对你抱以很多期待…",
-            "除了狩猎之外肯定还有更多的东西。",
-            "我听过关于远超任何叶族人曾经捕过的野兽的传闻。",
-            "我参加狩猎以告知叶族人们赢得胜利的最佳手段就是避免内斗。",
-            "我尽量不去发发发出嘶嘶嘶声，但是有有有时候我忍不住。",
-            "我有十七个夏夏夏天那么大了。",
-            "我喜欢打猎，但是有有有时候这并不足够。",
-            "叶族人并不邪恶。我们部落的绿手指教导我要尊重生命。这是也许是一堂永远也上不完的课。"
+            "경고 하나만 해줄게. 다른 샤냥꾼들도 이 샤냥 의식에서 이기고 싶어셔 널 막으려 들 거야.",
+            "난 섀쌱때부터 샤냥을 시작해 봉오리 시절부터 승승장구였지.",
+            "난 다른 샤냥꾼들이 먼저 셔두르는 동안 여기셔 간식이나 먹고 있으려고. 쟤들은 셔로 쌰우다 나가떨어지겠지.",
+            "난 항상 우주를 꼭 보고 싶었는데, 넌 어디서 왔어?",
+            "언젠가 여기셔 빠져나갈 방법을 찾아야겠어.",
+            "플로란들은 가끔 별 이유 없이 사나워질 때가 있어.",
+            "최고의 샤냥꾼이 되면 사람들이 네게 바라는 게 많아진다니까...",
+            "저 밖엔 샤낭감이 더 많을 거야.",
+            "플로란이 잡아본 짐승들보다 훨씬 대단한 놈이 있다는 쇼문은 들었어.",
+            "난 플로란들에게 서로 쌰우는 게 최선의 수는 아니라는 걸 알려주려고 샤냥 의식에 참가하는 거야.",
+            "웬만하면 이 샤아아 하는 쇼리 안 내고 싶은데, 가끔은 나도 어쩔 슈 없어.",
+            "난 열일곱 여름을 보냈어.",
+            "나도 샤냥이 좋지만, 그것만으론 충분치 않을 때가 있어.",
+            "플로란은 나쁘지 않아. 우리 부족 원예가가 섕명을 존중하라고 그랬어. 수많은 이들이 배우지 못 한 교훈이지."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default",
         "value": [
-            "呜哇！一个陌陌陌生人！你真是来狩猎的吗？我真该向你那放错地方的勇气表示敬意。",
-            "哦我啊？我是^orange;努鲁^white; ——狩猎史上最年轻的冠军。",
-            "我得说说说，这真是令人难忘！或者至少会是，只要你不被撕成碎片的话。",
-            "在这里，叶族人花费数年磨练他们的高超技艺，就像老老老练的工匠打磨矛头一样…",
-            "然后他们大部分都死了…不管怎样，祝你好运！"
+            "와! 외지인이다! 진짜 여기에 샤냥하러 온 거야? 좀 이샹하긴 해도 용감무썅하네.",
+            "아, 나? 난 ^orange;누루^white;야. 샤냥 의식 역샤샹 최연쇼 챔피언.",
+            "한 마디 해야겠다. 이거 진짜 인샹깊었어!  네가 조각조각 나거나 했으면 덜 인샹깊었겠지.",
+            "여기, 플로란은 슈 년동안 기량을 닦아. 슉련된 대장장이가 창날을 갈아내는 것처럼.",
+            "그러다 대부분 다 죽어... 어쨌든, 행운을 빌어!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/floranmissionstart/end/default/default",
         "value": [
-            "小心其他的猎人们！"
+            "다른 샤냥꾼들을 조심하고!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/floranmissionswitch/hello/default/default",
         "value": [
-            "嘿！在这！我真不敢相信你能走到这里。干得漂亮。"
+            "이봐! 여기야! 여기까지 오다니 믿기지가 않네. 잘 했어."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/floranmissionswitch/stuck/default/default",
         "value": [
-            "不不不过你现在被困住了。我脑中浮现了“缓慢鼓掌”这个词。这儿；我可以打开它。"
+            "그으러언데에 너 지금 갇혀버렸네. 비꼬듯이 '천천히 박슈'치고 싶어지는걸. 자, 내가 열어줄게."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/floranmissionswitch/goodbye/default/default",
         "value": [
-            "我觉得我们很接近了—我希望你能食欲大增！"
+            "거의 다 온 것 같아. 네가 입맛을 돋궈주었음 좋겠다!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/boss/shellbroken/default/default",
         "value": [
-            "甲壳被打破了！这可是攻击的好机会！"
+            "외피가 부셔졌어! 지금이 공격할 기회야!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/boss/fleshy/default/default",
         "value": [
-            "打它！在它露出肉来的时候打它！"
+            "때려! 샬이 나와있을 때 때려!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/boss/finish/default/default",
         "value": [
-            "我们快要打败它了。搞定它吧！"
+            "거의 다 잡았어. 끝내버려!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/endscene/follow/default/default",
         "value": [
-            "那真是让人满满满足！来吧。"
+            "만족스러웠어! 가자."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/endscene/smalltalk/default/default",
         "value": [
-            "你知道的，那真是相当让人难难难忘。"
+            "있잖아, 아까 그거 진짜 인샹깊었어."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/endscene/end/default/default",
         "value": [
-            "那是我这些年最好的乐子了。能有个泰然自若的人人人在身边感觉真好。",
-            "事实上…恭喜你！我决定赏给你一个免费的努鲁作为战利品！"
+            "여태껏 해온 일 중에셔 제일 재밌는 일이었어. 자기관리 제대로 할 줄 아는 샤람이 옆에 있어주면 참 안심된다니까.",
+            "사실은... 축하해! 네 승리 트로피에 공짜 누루가 샤은품으로 따라오게 됐지 뭐야!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/startboss/intro/default/default",
         "value": [
-            "这可比去年的猎物要大得多。终于！一个旗鼓相当的对手！"
+            "이거 작년 샤냥감보다 훨씬 크잖아. 드디어! 제대로 된 도전이야!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/startboss/start/default/default",
         "value": [
-            "这会很有意思。"
+            "이거 재밌겠는데."
         ]
     }
 ]

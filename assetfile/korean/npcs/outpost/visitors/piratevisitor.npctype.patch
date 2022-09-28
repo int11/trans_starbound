@@ -1,26 +1,11 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "시원한 공기와 자유! 그게 나의 삶이지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "클루엑스를 믿는걸 그만 뒀을때 비공정 승무원이 됬지. 요즘엔 즐겁게 바람을 타지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "요호호! 배교자의 삶이란거지!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "哟哟哟, 这对我来说是接地的生活！",
-            "当我不再信仰克鲁西斯后，我加入了一个飞船船员队伍。从此快乐的日子踏风而来。",
-            "新鲜空气和自由，这就是我想要的生活！"
+            "요호호! 배교자의 삶이란거지!",
+            "클루엑스를 믿는걸 그만 뒀을때 비공정 승무원이 됬지. 요즘엔 즐겁게 바람을 타지.",
+            "시원한 공기와 자유! 그게 나의 삶이지!"
         ]
     }
 ]

@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "안녕, 난 톰이야! 레나라는 사람 본 적 있니?"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "嗨，我是Tom！你身边有人叫莱娜吗？"
+            "안녕, 난 톰이야! 레나라는 사람 본 적 있니?"
         ]
     }
 ]

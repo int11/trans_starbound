@@ -1,74 +1,24 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/8",
-        "value": "플로란 저녁식샤 찾았다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/7",
-        "value": "플로란 도착했다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/6",
-        "value": "샤냥 시작!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/5",
-        "value": "너 나한테셔 도망 못 친다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/4",
-        "value": "플로란 배고파!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/3",
-        "value": "플로란 음식 보인다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/2",
-        "value": "플로란 식샤 찾았다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/1",
-        "value": "플로란 점점 배고프다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/floran/default/0",
-        "value": "네가 보인다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "침입자!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "入侵者！"
+            "침입자!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/floran/default",
         "value": [
-            "我看看看到你了！",
-            "叶族人真真真的很饿！",
-            "叶族人已已已经发现晚餐了！",
-            "叶族人看看看见食物了！",
-            "叶族人饿了！",
-            "你不可能逃离我！",
-            "狩猎开开开始！",
-            "食物已已已经就位！",
-            "叶族人知道谁要要要被当作晚餐！"
+            "네가 보인다!",
+            "플로란 점점 배고프다!",
+            "플로란 식샤 찾았다!",
+            "플로란 음식 보인다!",
+            "플로란 배고파!",
+            "너 나한테셔 도망 못 친다!",
+            "샤냥 시작!",
+            "플로란 도착했다!",
+            "플로란 저녁식샤 찾았다!"
         ]
     }
 ]

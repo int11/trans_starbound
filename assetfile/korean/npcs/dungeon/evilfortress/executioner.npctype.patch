@@ -1,44 +1,19 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/3",
-        "value": "대담. 너 같은 녀석은 예전에 몇 번이나 배어보았다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/2",
-        "value": "흥분. 이번에 새로 장만한 도끼를 시험해보고 싶었는데 잘됐군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/1",
-        "value": "위협. 지금 날 꼴아본건가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/glitch/default/0",
-        "value": "위협. 널 토막 내주마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/attack/default/default/0",
-        "value": "공격!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/attack/default/default",
         "value": [
-            "攻击！"
+            "공격!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/attack/glitch/default",
         "value": [
-            "恐吓。我要把你切成碎片！",
-            "挑衅。你是为了看我出洋相的吗？",
-            "兴奋。我要试试我的新斧头！",
-            "无畏。我已经打败了很多像你这样的人。"
+            "위협. 널 토막 내주마!",
+            "위협. 지금 날 꼴아본건가?",
+            "흥분. 이번에 새로 장만한 도끼를 시험해보고 싶었는데 잘됐군!",
+            "대담. 너 같은 녀석은 예전에 몇 번이나 배어보았다!"
         ]
     }
 ]

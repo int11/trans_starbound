@@ -1,26 +1,11 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "내 사람들을 보호하기 위해선 강할 수 있을 만큼 강해져야지요. 그 뜻은 영양섭취가 중요하다는겁니다... 랄까, 여긴 그냥 간식을 먹으러 왔습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "이곳은 놀랍지 않나요? 시를 하나 쓰고 싶어지는군요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "하이로틀 전사는 탄탄하게 먹어야 하지요! 여긴 그냥 음식을 사러 왔습니다."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "一个鲛人战士总是需要吃得饱饱的！我只是在这里购买食物。",
-            "这里难道不是一个神奇的地方？这个地方让我想要赋诗一首，或唱一首民谣。",
-            "如果我要保护我的人民，我一定要变得足够的坚强。这就以为我一定要吃得饱饱的…我只是来这里找点小吃填报我的肚子。"
+            "하이로틀 전사는 탄탄하게 먹어야 하지요! 여긴 그냥 음식을 사러 왔습니다.",
+            "이곳은 놀랍지 않나요? 시를 하나 쓰고 싶어지는군요.",
+            "내 사람들을 보호하기 위해선 강할 수 있을 만큼 강해져야지요. 그 뜻은 영양섭취가 중요하다는겁니다... 랄까, 여긴 그냥 간식을 먹으러 왔습니다."
         ]
     }
 ]

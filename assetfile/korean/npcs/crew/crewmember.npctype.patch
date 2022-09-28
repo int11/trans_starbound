@@ -1,708 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
-        "value": "플로란 장기 고용에 관심있어. 플로란에게 일거리를 줄 슈 있어?"
+        "path": "/scriptConfig/crew/role/name",
+        "value": "士兵"
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
-        "value": "신남. 당신의 여정에 참가해도 되겠소? 난 당신을 도와줄 만한 능력을 갖고있소!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
-        "value": "플로란 여기셔 기다릴게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/0",
-        "value": "밝은 빛을 본것 같은데... 아니, 그냥 저인것 같군요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/1",
-        "value": "죽었던가요? 뭐, 이젠 더이상 아니니까!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/2",
-        "value": "리스폰 되니 피곤한데."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/3",
-        "value": "다시 살아 돌아오는건 소름 끼치는 일이지..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1",
-        "value": "당신의 모험에 도움이 될 만한 능력을 갖추고 있답니다. 고용해주시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2",
-        "value": "제가 원했던 삶은 함선에서의 삶 일지도 모르겠군요. 당신과 같이 가도 될까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3",
-        "value": "새로운 삶으로 도피하고 싶은데, 고용하고 계신가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/0",
-        "value": "내가 어디서 왔는진 잊어도, 어딜 가고싶은진 알아, 너랑 말이지 친구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/1",
-        "value": "어이 친구, 같이 달릴 별빛 방랑가를 한명 찾고있나?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/2",
-        "value": "너랑 나랑은 잘 맞을것 같은데. 선원으로 고용해줄래?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/3",
-        "value": "끝내주는 별 선원을 찾는다면, 이몸이 있다구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
-        "value": "저기... 전 <selfname> 이고 함선에 합류하고 싶은데. 고용해 주시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
-        "value": "너가 내 서비스를 다시 필요로 할때 까지 기다리고 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
-        "value": "당신은 딱! 제가 같이 일하고 싶은 사람이군요! 고용해주시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
-        "value": "함선의 승무원이 될려고 하는 중입니다. 흥미 있으신가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
-        "value": "승무원이 되고 싶습니다. 당신과 함깨 가도 될까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
-        "value": "일단 여기에 있을테니 다시 필요하면 불러 달라구, 친구."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2",
-        "value": "걱정마, 내가 필요할떄 까지 여기서 기다려주지, 친구."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0",
-        "value": "좋아, 친구. 여기 얌전히 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1",
-        "value": "네가 바란다면 여기서 기다리고 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2",
-        "value": "잠깐 여기에 기다리고 있을까."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/0",
-        "value": "낭비할 시간 없지, 달리자구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/1",
-        "value": "말뚝을 치우고 달릴 시간이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/2",
-        "value": "달릴 시간인가, 친구?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/3",
-        "value": "이야호! 가자구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
-        "value": "헤... 죽는건 간지러운 수준이군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
-        "value": "무슨일이 일어난거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
-        "value": "난 돌아왔다! 그리고 살아있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
-        "value": "멀쩡하게 돌아왔습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
-        "value": "다시 살아났군요! 좋아요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
-        "value": "나는 내가 확실하게 리스폰 한다고 생각한 적이 없어..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
-        "value": "내 머리 다쳤어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
-        "value": "내가 죽기 전에 뭘 하고 있었지?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
-        "value": "플로란 웃겨."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
-        "value": "플로란 죽는거 안좋아해."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
-        "value": "부활은 간지러워."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
-        "value": "플로란 다음엔 더 좋게 싸울거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/0",
-        "value": "뭔가가 중간에 맞았을 때 내가 죽었다는게 믿기지가 않아."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/1",
-        "value": "자신을 존중하지 않는 펭귄은 오랫동안 죽어있을 거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/2",
-        "value": "헤... 죽는건 간지러워."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/3",
-        "value": "부활은 나의 머리가 흐려지는 것을 느끼게 만들어. 난 이게 좋아."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
-        "value": "혼란. 나 죽었었소?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
-        "value": "안심. 내가 돌아왔소!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
-        "value": "걱정. 난 내가 확실하게 부활했으면 좋겠소.  내가 괜찮아 보이오?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
-        "value": "혼란. 나 잠시 동안 죽었었소?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
-        "value": "피곤. 부활은 소모적이오."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
-        "value": "알겠습니다. 선장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
-        "value": "선장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
-        "value": "가자!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
-        "value": "갑시다. 선장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
-        "value": "우리 어디 갈거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0",
-        "value": "알겠어, 션장!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1",
-        "value": "가자!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
-        "value": "플로란 다시 갈 준비가 됐어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4",
-        "value": "우리 어디 갈거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/1",
-        "value": "그럼 이제 가자."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/2",
-        "value": "네가 두목이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/3",
-        "value": "난 돌아온다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
-        "value": "겸손. 나는 따르겠소. 선장."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
-        "value": "경계. 우리 갈거요. 선장?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
-        "value": "엄숙. 우리 이제 움직일 시간이오. 선장?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
-        "value": "탐구. 우리 어디 가는거요?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
-        "value": "플로란은 션원이 되고 싶어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
-        "value": "너 매우 셰보여. 플로란은 너와 함께하고 싶어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
-        "value": "혹시 여행자의 생활은 나를 위한 일인가? 내가 너의 선원이 된다는 것에 대해 물어봐도 되겠니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
-        "value": "별을 통해서 여행하는 것은 영감만큼 일이 아니야. 내가 선원이 돼도 되겠니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
-        "value": "난 내가 너의 여행에 도움이 될 수 있다고 믿어. 혹시 내가 너의 함선의 선원이 될 수 있겠니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/0",
-        "value": "무법자에, 신의 존재를 부정하고,  날지 못한다면. 그건 나야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/1",
-        "value": "나는 옴에 걸린 방아쇠 팔을 갖고 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/2",
-        "value": "나는 에이펙스를 한 번 기어오른 적이 있어. 경치 좋아."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/3",
-        "value": "우리 펭귄들은 쉽사리 흥분하지 않아."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/4",
-        "value": "최근에 우주의 난류같은 느낌을 누군가가 느꼈던 적이 있니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/5",
-        "value": "모든 펭귄은 말썽쟁이가 아니야! 나는 농담하고, 그건 우리야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/6",
-        "value": "내 깃털은 총 기름으로 다 발라져있어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/7",
-        "value": "어제 나는 내 고등어에 거의 숨이 막혀서 엄청 웃었어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/8",
-        "value": "이봐, 나는 <selfname> 이야,  만나서 반가워!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/9",
-        "value": "사람들은 펭귄이 귀엽다고 생각해. 사람들은 틀렸어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
-        "value": "절망. 별에서 생활은 나를 위하는거요. 제발, 내가 선원이 될 수 있겠소?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
-        "value": "열망. 난 매우 쓸모있는 사람이오! 내가 당신과 같이 다녀도 되겠소?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
-        "value": "안녕 모험가,  넌 나와 함께 다닐 마음이 있어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0",
-        "value": "당신네 선원이 되면 날 빅 에이프에게서 보호해줄 수 있어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0",
-        "value": "별과 별 사이를 항해한다... 혹시 너 선원을 찾고있니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1",
-        "value": "너 함선이 있니? 혹시 너 선원이 되기 위한 사람을 찾고 있니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2",
-        "value": "말해줘, 선원을 찾고있니? 왜냐하면 별과 별 사이를 여행하는 것은 멋지기 때문이야..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
-        "value": "나 너한테까지 안 닿아!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
-        "value": "너 너무 멀어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
-        "value": "이봐, 기다려!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
-        "value": "너무 멀리 가지마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
-        "value": "내가 따라잡게 해줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
-        "value": "플로란 너무 멀리있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
-        "value": "플로란 버려진다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
-        "value": "플로란 너에게로 갈만큼 가깝게 있지 않아!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
-        "value": "실망. 난 당신에게 갈 수가 없소!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
-        "value": "우려. 날 기다려주오!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
-        "value": "난 그냥 여기 있을거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
-        "value": "난 지금부터 여기 있을게. 선장."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
-        "value": "내가 여기 있으면 좋겠어?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
-        "value": "그렇다면, 난 지금부터 여기 있겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
-        "value": "난 여기 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
-        "value": "플로란 여기에만 있어야 하니?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0",
-        "value": "난 여기 있을게... 대기..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/1",
-        "value": "좋아, 두목, 여기서 기다릴게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/2",
-        "value": "난 여기서 기다릴 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/3",
-        "value": "여기서 지느러미 좀 쉬고 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
-        "value": "의무. 그렇다면, 난 지금부터 여기에 있겠소."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
-        "value": "인내. 난 여기서 기다릴 수 있소. 선장."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
-        "value": "원만. 당신이 그렇게 하기를 원한다면 난 여기서 기다리겠소, 선장."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
-        "value": "기분 좋음. 당신이 그것을 바란다면 난 여기 있겠소, 선장."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
-        "value": "플로란 네가 뭔가 찌르거나 쏴야할 때 까지 여기셔 기다릴게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
-        "value": "플로란 최고의 샤냥꾼이야! 네가 때때로 도움이 필요할 때 플로란에게 물어봐."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
-        "value": "플로란 네가 필요로 하다면 네가 싸우는 것을 도와주기 위해 여기 있을게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
-        "value": "전투 때 지원이 필요하면 여기서 날 여기서 날 찾으면 돼."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
-        "value": "전투는 예술이야. 나는 예술가고! 네가 날 필요로 할 때 여기 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
-        "value": "난 네가 자신을 방어해야 할 때 여기 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0",
-        "value": "난 너를 위해 뭔가와 싸울 때 날 필요로 할 때까지 여기서 기다릴게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1",
-        "value": "내 보호가 필요하면 나한테로 와, 두목."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2",
-        "value": "나는 여기서 큰 친구를 기다릴테니, 싸울 시간이 되면 나한테 와."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
-        "value": "용감. 만약 당신이 당신을 보호할 전사가 필요할 때 난 여기 있겠소!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
-        "value": "용감. 만약 당신이 당신의 여행에 보조가 필요하다면, 난 여기 있겠소."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
-        "value": "충실함. 난 싸움에서 항상 나의 칼과 기술을 당신이 필요하다면 빌려줄 수 있소."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
-        "value": "열망. 만약 당신이 싸우는 것을 도울 사람이 필요하다면, 난 여기서 기다리고 있겠소!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "value": "난 네가 나쁜 사람들과 싸울 때 도와줄 사람이 필요할 때 여기에 널 위해 있을게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
-        "value": "보호가 필요할 때 어디서 날 찾으면 되는지 알고 있지?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
-        "value": "만약 싸움에서 내가 필요하다면, 난 여기 있을게!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
-        "value": "난 네가 지원이 필요할 때 까지 여기에 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
-        "value": "난 네가 필요할 때까지 가드로 남아있을게, 선장."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
-        "value": "만약 네가 군사 지원이 필요하다면, 난 여기 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
-        "value": "싸움에서 내가 필요하다면, 넌 내가 어디있는지 알거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
-        "value": "만약 네가 싸움에서 누군가를 필요로 한다면 난 여기에 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
-        "value": "만약 네가 배틀에서 도움이 필요하다면, 넌 나를 어디서 찾을 수 있는지 알거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
-        "value": "만약 네가 보호가 필요할 때 난 네가 알도록 여기 있을게."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/penguin/default/0",
-        "value": "이봐, 대장! 같이 좀 가!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/penguin/default/1",
-        "value": "너무 멀리 가지마!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/penguin/default/2",
-        "value": "기다려, 큰 친구!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/0",
-        "value": "좋아, 난 준비됐어, 뒤뚱뒤뚱 걷기 실행."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2",
-        "value": "선장은 플로란이 따라오기를 바래?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
-        "value": "그렇다면, 플로란은 여기 있을게..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
-        "value": "난 여기 있을게. 날 필요로 할 때 돌아와, 선장!"
+        "path": "/scriptConfig/crew/role/field",
+        "value": "安全"
     },
     {
         "op": "replace",
@@ -758,363 +63,353 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/crew/role/name",
-        "value": "士兵"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/crew/role/field",
-        "value": "安全"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/default/default",
         "value": [
-            "你好，冒险者，介意我加入你的队伍吗？",
-            "我是<selfname>，我真心实意地想要加入你的船队。你有意愿雇佣我吗？",
-            "你就是我想要一起共事的人，不考虑雇用我吗?",
-            "我正想成为一艘星际飞船的船员，你对我有兴趣吗？",
-            "我正想成为一艘飞船的船员，我可以加入你的团队吗？"
+            "안녕 모험가,  넌 나와 함께 다닐 마음이 있어?",
+            "저기... 전 <selfname> 이고 함선에 합류하고 싶은데. 고용해 주시겠습니까?",
+            "당신은 딱! 제가 같이 일하고 싶은 사람이군요! 고용해주시겠습니까?",
+            "함선의 승무원이 될려고 하는 중입니다. 흥미 있으신가요?",
+            "승무원이 되고 싶습니다. 당신과 함깨 가도 될까요?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/apex/default",
         "value": [
-            "如果我加入你的船员队伍，你可以保护我免遭大猿人的侵害吗?",
-            "我有着在你的冒险旅途上可以帮到你的技能。你愿意招募我吗？",
-            "可能飞船上的生活才是适合我的，我可以加入你的队伍吗？",
-            "我正想逃离去寻找一种新生活，你可以招纳我吗？"
+            "당신네 선원이 되면 날 빅 에이프에게서 보호해줄 수 있어?",
+            "당신의 모험에 도움이 될 만한 능력을 갖추고 있답니다. 고용해주시겠습니까?",
+            "제가 원했던 삶은 함선에서의 삶 일지도 모르겠군요. 당신과 같이 가도 될까요?",
+            "새로운 삶으로 도피하고 싶은데, 고용하고 계신가요?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/avian/default",
         "value": [
-            "在星海中遨游…可能你正在寻找一些得力的船员?",
-            "你有一艘飞船？可能你会想要找一些船员加入你的飞船？",
-            "告诉我，你是否再找一些船员加入你的队伍？ 一起在星海中遨游是一件美妙的事情…"
+            "별과 별 사이를 항해한다... 혹시 너 선원을 찾고있니?",
+            "너 함선이 있니? 혹시 너 선원이 되기 위한 사람을 찾고 있니?",
+            "말해줘, 선원을 찾고있니? 왜냐하면 별과 별 사이를 여행하는 것은 멋지기 때문이야..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default",
         "value": [
-            "可能旅行者的生活比较适合我？我可冒昧的问一句我能加入你的队伍吗？",
-            "没有什么听起来比在星海中遨游更加振奋人心了，我可以加入你的飞船吗？",
-            "我相信我可以在你的旅行中帮助你。我可以成为你飞船的船员吗？"
+            "혹시 여행자의 생활은 나를 위한 일인가? 내가 너의 선원이 된다는 것에 대해 물어봐도 되겠니?",
+            "별을 통해서 여행하는 것은 영감만큼 일이 아니야. 내가 선원이 돼도 되겠니?",
+            "난 내가 너의 여행에 도움이 될 수 있다고 믿어. 혹시 내가 너의 함선의 선원이 될 수 있겠니?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/floran/default",
         "value": [
-            "叶族人想想想要要加入你的飞船成员中！",
-            "叶族人对长期雇佣很感兴兴兴趣。你可以给我一份飞船上的工作吗？",
-            "你看起来非常强强强壮。叶族人想要加入你的队伍！"
+            "플로란은 션원이 되고 싶어!",
+            "플로란 장기 고용에 관심있어. 플로란에게 일거리를 줄 슈 있어?",
+            "너 매우 셰보여. 플로란은 너와 함께하고 싶어!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/glitch/default",
         "value": [
-            "兴奋。我可以加入你的星际旅行队伍吗？我有可以帮助你的技能！",
-            "急切。在星海中遨游就是我想要的生活。我可以加入你的船员吗？",
-            "渴望。我是个非常有用的人！我可以加入你的队伍吗？"
+            "신남. 당신의 여정에 참가해도 되겠소? 난 당신을 도와줄 만한 능력을 갖고있소!",
+            "절망. 별에서 생활은 나를 위하는거요. 제발, 내가 선원이 될 수 있겠소?",
+            "열망. 난 매우 쓸모있는 사람이오! 내가 당신과 같이 다녀도 되겠소?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/penguin/default",
         "value": [
-            "无法无天，不信神的，不会飞的-这就是我！",
-            "我有一双蠢蠢欲动渴望旅行的脚掌。",
-            "我曾经爬上一个猿人的背，那是让人心动的高大视野。",
-            "我们企鹅船员是最靠得住的！",
-            "最近有人觉得宇宙中发生了一些动荡的事情吗？",
-            "不是所有企鹅都是捣蛋鬼！我开个玩笑而已，我们就是搅乱宇宙的捣蛋鬼！",
-            "我已经整装待发，我的羽毛上沾满了枪支的润滑油！",
-            "昨天我太高兴了差点笑到窒息。",
-            "嘿，我是<selfname>, 很高兴见到你！",
-            "如果人们认为企鹅很可爱，那他们真是大错特错。"
+            "무법자에, 신의 존재를 부정하고,  날지 못한다면. 그건 나야!",
+            "나는 옴에 걸린 방아쇠 팔을 갖고 있어.",
+            "나는 에이펙스를 한 번 기어오른 적이 있어. 경치 좋아.",
+            "우리 펭귄들은 쉽사리 흥분하지 않아.",
+            "최근에 우주의 난류같은 느낌을 누군가가 느꼈던 적이 있니?",
+            "모든 펭귄은 말썽쟁이가 아니야! 나는 농담하고, 그건 우리야.",
+            "내 깃털은 총 기름으로 다 발라져있어.",
+            "어제 나는 내 고등어에 거의 숨이 막혀서 엄청 웃었어.",
+            "이봐, 나는 <selfname> 이야,  만나서 반가워!",
+            "사람들은 펭귄이 귀엽다고 생각해. 사람들은 틀렸어."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/offer/novakid/default",
         "value": [
-            "我忘了自己是从哪里来的了，但我知道我想到哪里去－只要是与你一起就行，伙伴！",
-            "嘿伙计，你在寻找一名星际漫游者与你一同旅行吗？",
-            "你感觉到了吗，你和我挺投缘的。想不想雇用我作为你的船员呢？",
-            "如果你想要某人加入你的星界船队，那我就是你要找的人！"
+            "내가 어디서 왔는진 잊어도, 어딜 가고싶은진 알아, 너랑 말이지 친구!",
+            "어이 친구, 같이 달릴 별빛 방랑가를 한명 찾고있나?",
+            "너랑 나랑은 잘 맞을것 같은데. 선원으로 고용해줄래?",
+            "끝내주는 별 선원을 찾는다면, 이몸이 있다구!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default",
         "value": [
-            "如果你需要有人帮你打败那些坏蛋的话！我就在这里等着你。",
-            "如果你需要保护，你知道在哪里找到我！",
-            "如果你需要我参加战斗，我就在这儿等着你的召唤！"
+            "난 네가 나쁜 사람들과 싸울 때 도와줄 사람이 필요할 때 여기에 널 위해 있을게!",
+            "보호가 필요할 때 어디서 날 찾으면 되는지 알고 있지?",
+            "만약 싸움에서 내가 필요하다면, 난 여기 있을게!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default",
         "value": [
-            "我会待在这里，直到你需要帮助。",
-            "我会一直守护在这里直到你需要我，船长。",
-            "如果你需要武装力量的帮助，我就在这里等着你。",
-            "如果你在战斗需要我，你知道我在哪里等着你。"
+            "난 네가 지원이 필요할 때 까지 여기에 있을게.",
+            "난 네가 필요할 때까지 가드로 남아있을게, 선장.",
+            "만약 네가 군사 지원이 필요하다면, 난 여기 있을게.",
+            "싸움에서 내가 필요하다면, 넌 내가 어디있는지 알거야."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default",
         "value": [
-            "如果你需要战斗中的帮助，我会一直在这里等待你的召唤！",
-            "如果你在战斗需要援手，你知道在哪里找到我！",
-            "我会一直在这里，所以当你需要保护的时候你知道去哪里找我！"
+            "만약 네가 싸움에서 누군가를 필요로 한다면 난 여기에 있을게.",
+            "만약 네가 배틀에서 도움이 필요하다면, 넌 나를 어디서 찾을 수 있는지 알거야!",
+            "만약 네가 보호가 필요할 때 난 네가 알도록 여기 있을게."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default",
         "value": [
-            "如果你需要战斗技艺的帮助，你会在这儿找到我的。",
-            "战斗就是一门艺术，我就是个那样的艺术家，当你需要我时，我就在这里等你",
-            "当你战斗中需要帮助时，我就在这里。"
+            "전투 때 지원이 필요하면 여기서 날 여기서 날 찾으면 돼.",
+            "전투는 예술이야. 나는 예술가고! 네가 날 필요로 할 때 여기 있을게.",
+            "난 네가 자신을 방어해야 할 때 여기 있을게."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default",
         "value": [
-            "叶族人会待在这里直到你需要叶族人去刺刺刺或是射什么东西。",
-            "叶族人是最最最高明的战士！当你需要帮助时来找叶族人帮忙吧。",
-            "如果你需要帮忙打架，叶族人就在这儿等着你的召唤！"
+            "플로란 네가 뭔가 찌르거나 쏴야할 때 까지 여기셔 기다릴게.",
+            "플로란 최고의 샤냥꾼이야! 네가 때때로 도움이 필요할 때 플로란에게 물어봐.",
+            "플로란 네가 필요로 하다면 네가 싸우는 것을 도와주기 위해 여기 있을게!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default",
         "value": [
-            "勇敢。如果你需要一位勇士保护你，我就在这儿等着你。",
-            "英勇。如果你在旅途中需要帮助，我会去帮助你。",
-            "坚定。当你需要的时候，我会在战斗拔出我的剑并展现我的技能！",
-            "渴望。如果你需要有人帮助你杀敌，我就在那里静静的等着你！"
+            "용감. 만약 당신이 당신을 보호할 전사가 필요할 때 난 여기 있겠소!",
+            "용감. 만약 당신이 당신의 여행에 보조가 필요하다면, 난 여기 있겠소.",
+            "충실함. 난 싸움에서 항상 나의 칼과 기술을 당신이 필요하다면 빌려줄 수 있소.",
+            "열망. 만약 당신이 싸우는 것을 도울 사람이 필요하다면, 난 여기서 기다리고 있겠소!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default",
         "value": [
-            "我会在这里等待直到你需要我在战斗中击败敌人。",
-            "当你需要我的保护时尽管来找我，我的老板。",
-            "我就在这儿等着大兄弟，当战斗来临时尽管来找我。"
+            "난 너를 위해 뭔가와 싸울 때 날 필요로 할 때까지 여기서 기다릴게.",
+            "내 보호가 필요하면 나한테로 와, 두목.",
+            "나는 여기서 큰 친구를 기다릴테니, 싸울 시간이 되면 나한테 와."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default",
         "value": [
-            "我会在这里待机。如果你再次需要我时就来这里同我打个招呼，伙伴。",
-            "我会一直在这里休息直到你下一次需要我的服务为止。",
-            "别担心我，我会在这里待机直到你又需要我为止，伙伴。"
+            "일단 여기에 있을테니 다시 필요하면 불러 달라구, 친구.",
+            "너가 내 서비스를 다시 필요로 할때 까지 기다리고 있지.",
+            "걱정마, 내가 필요할떄 까지 여기서 기다려주지, 친구."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/respawned/default/default",
         "value": [
-            "嘿…死亡的不适。",
-            "刚才发生了什么",
-            "我回来了！我还活着！",
-            "我完好无损的回来了！",
-            "我再一次幸存了，真是谢天谢地！",
-            "我不认为我复活的姿势很到位。",
-            "我的头部受伤了。",
-            "我刚才死之前究竟做了些什么？"
+            "헤... 죽는건 간지러운 수준이군.",
+            "무슨일이 일어난거지?",
+            "난 돌아왔다! 그리고 살아있어!",
+            "멀쩡하게 돌아왔습니다!",
+            "다시 살아났군요! 좋아요.",
+            "나는 내가 확실하게 리스폰 한다고 생각한 적이 없어...",
+            "내 머리 다쳤어.",
+            "내가 죽기 전에 뭘 하고 있었지?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/respawned/floran/default",
         "value": [
-            "叶族人感感感觉很有意思。",
-            "叶族人不喜欢死亡。",
-            "复复复活的痒痒的",
-            "叶族人下一次会战斗的更好…"
+            "플로란 웃겨.",
+            "플로란 죽는거 안좋아해.",
+            "부활은 간지러워.",
+            "플로란 다음엔 더 좋게 싸울거야."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default",
         "value": [
-            "迷茫。我已经死了？",
-            "安心。我又回来了！",
-            "担心。我希望我复活的很正确，我看着正常吗？",
-            "困惑。我刚才死了一小会儿？",
-            "疲倦。重生让人疲惫不堪。"
+            "혼란. 나 죽었었소?",
+            "안심. 내가 돌아왔소!",
+            "걱정. 난 내가 확실하게 부활했으면 좋겠소.  내가 괜찮아 보이오?",
+            "혼란. 나 잠시 동안 죽었었소?",
+            "피곤. 부활은 소모적이오."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default",
         "value": [
-            "不敢相信我站在那玩意正中央的时候死了。",
-            "没有自尊的企鹅和死了有什么分别。",
-            "嘿…死亡的不适。",
-            "重生让我的脑袋感到晕晕乎乎，我喜欢这种感觉。"
+            "뭔가가 중간에 맞았을 때 내가 죽었다는게 믿기지가 않아.",
+            "자신을 존중하지 않는 펭귄은 오랫동안 죽어있을 거야.",
+            "헤... 죽는건 간지러워.",
+            "부활은 나의 머리가 흐려지는 것을 느끼게 만들어. 난 이게 좋아."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default",
         "value": [
-            "我看到一道亮光…不对，等等，那其实是我。",
-            "我死了吗？好吧至少现在我还活着。",
-            "重生的过程是从我的脚后跟匆匆开始的。",
-            "重新回到人世让我感到极大的震感…"
+            "밝은 빛을 본것 같은데... 아니, 그냥 저인것 같군요.",
+            "죽었던가요? 뭐, 이젠 더이상 아니니까!",
+            "리스폰 되니 피곤한데.",
+            "다시 살아 돌아오는건 소름 끼치는 일이지..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/unfollow/default/default",
         "value": [
-            "我会在这里等待。",
-            "我会待在这里，当你需要时我会回来，船长！",
-            "我会在这里静候命令，船长。",
-            "你需要我待在这里吗？",
-            "我会静静地待在这里。",
-            "我会待在这里。"
+            "난 그냥 여기 있을거야.",
+            "난 여기 있을게. 날 필요로 할 때 돌아와, 선장!",
+            "난 지금부터 여기 있을게. 선장.",
+            "내가 여기 있으면 좋겠어?",
+            "그렇다면, 난 지금부터 여기 있겠어.",
+            "난 여기 있을게."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default",
         "value": [
-            "叶族人应该待待待在这里？",
-            "叶族人会待待待在这里。",
-            "叶族人会待在这里，然后…"
+            "플로란 여기에만 있어야 하니?",
+            "플로란 여기셔 기다릴게.",
+            "그렇다면, 플로란은 여기 있을게..."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default",
         "value": [
-            "随和。我会一直等在这里。",
-            "耐心。我会在这里等待，船长。",
-            "和睦。如果你需要我会带在这儿，船长。",
-            "赞同。如果你想的话我会带在这儿，船长。"
+            "의무. 그렇다면, 난 지금부터 여기에 있겠소.",
+            "인내. 난 여기서 기다릴 수 있소. 선장.",
+            "원만. 당신이 그렇게 하기를 원한다면 난 여기서 기다리겠소, 선장.",
+            "기분 좋음. 당신이 그것을 바란다면 난 여기 있겠소, 선장."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default",
         "value": [
-            "我就在这里…等待…",
-            "好的老大，我就在这里等候。",
-            "我可以在这里等待。",
-            "我就在这里等着，放松我的小脚蹼。"
+            "난 여기 있을게... 대기...",
+            "좋아, 두목, 여기서 기다릴게.",
+            "난 여기서 기다릴 수 있어.",
+            "여기서 지느러미 좀 쉬고 있을게."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default",
         "value": [
-            "好的，伙伴，我就在这里等待。",
-            "我会这里等你的，如你所愿。",
-            "我会在这里停留一段时间。"
+            "좋아, 친구. 여기 얌전히 있을게.",
+            "네가 바란다면 여기서 기다리고 있지.",
+            "잠깐 여기에 기다리고 있을까."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/follow/default/default",
         "value": [
-            "是的，船长！",
-            "船长！",
-            "让我们出发！",
-            "出发，船长！",
-            "我们这是准备出发去哪儿吗？"
+            "알겠습니다. 선장!",
+            "선장!",
+            "가자!",
+            "갑시다. 선장!",
+            "우리 어디 갈거야?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/follow/floran/default",
         "value": [
-            "是是是的，船长！",
-            "让我们们们出发！",
-            "船长想想想要叶族人跟随？",
-            "叶族人准备好再次出发了！",
-            "我们正要出发去哪儿吗？"
+            "알겠어, 션장!",
+            "가자!",
+            "선장은 플로란이 따라오기를 바래?",
+            "플로란 다시 갈 준비가 됐어!",
+            "우리 어디 갈거야?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/follow/glitch/default",
         "value": [
-            "谦逊。我会紧紧跟随，我的船长。",
-            "警觉。我们可以出发了吗，我的船长？",
-            "严肃。是时候行动了吗，我的船长？",
-            "好奇。我们准备去哪儿？"
+            "겸손. 나는 따르겠소. 선장.",
+            "경계. 우리 갈거요. 선장?",
+            "엄숙. 우리 이제 움직일 시간이오. 선장?",
+            "탐구. 우리 어디 가는거요?"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/follow/penguin/default",
         "value": [
-            "好吧，我准备好了，蹒跚着回答。",
-            "让我们行动起来。",
-            "你是老大你说了算！",
-            "我来了。"
+            "좋아, 난 준비됐어, 뒤뚱뒤뚱 걷기 실행.",
+            "그럼 이제 가자.",
+            "네가 두목이야!",
+            "난 돌아온다."
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/follow/novakid/default",
         "value": [
-            "没有时间耽搁了－出发吧！",
-            "是时候启程出发了！",
-            "启程时间到了，伙伴？",
-            "咦嗬，我们走！"
+            "낭비할 시간 없지, 달리자구!",
+            "말뚝을 치우고 달릴 시간이다!",
+            "달릴 시간인가, 친구?",
+            "이야호! 가자구!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/cantreach/default/default",
         "value": [
-            "我跟不上你了!",
-            "你离得太远了！",
-            "嘿，等一等我！",
-            "不要走的太远！",
-            "让我追上你！"
+            "나 너한테까지 안 닿아!",
+            "너 너무 멀어!",
+            "이봐, 기다려!",
+            "너무 멀리 가지마!",
+            "내가 따라잡게 해줘!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default",
         "value": [
-            "叶族人离你太远了！",
-            "叶族人被拉拉拉在后面了！",
-            "叶族人离你不够近！"
+            "플로란 너무 멀리있어!",
+            "플로란 버려진다!",
+            "플로란 너에게로 갈만큼 가깝게 있지 않아!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default",
         "value": [
-            "沮丧。我跟不上你的脚步！",
-            "关心。等等我。"
+            "실망. 난 당신에게 갈 수가 없소!",
+            "우려. 날 기다려주오!"
         ]
     },
     {
         "op": "replace",
         "path": "/scriptConfig/dialog/crewmember/penguin/default",
         "value": [
-            "嘿老大，让我赶上你的步伐！",
-            "不要走得太远！",
-            "等等我，老大！"
+            "이봐, 대장! 같이 좀 가!",
+            "너무 멀리 가지마!",
+            "기다려, 큰 친구!"
         ]
     }
 ]

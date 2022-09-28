@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "현상금 사냥꾼이 필요한가? 픽셸이 좀 필요한데."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "需要一名赏金猎人吗？我这可以用像素付款。"
+            "현상금 사냥꾼이 필요한가? 픽셸이 좀 필요한데."
         ]
     }
 ]

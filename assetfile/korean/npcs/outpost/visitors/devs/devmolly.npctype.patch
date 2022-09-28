@@ -1,14 +1,9 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "몰리고스, 그건 - 나야!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "是我，Mollygos！"
+            "몰리고스, 그건 - 나야!"
         ]
     }
 ]

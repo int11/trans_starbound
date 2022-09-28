@@ -11,12 +11,16 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
-        "value": "叶族人的种子能在太太太空生长。叶族人没几个顾顾顾客。"
+        "path": "/scriptConfig/dialog/merchant/start/floran/default",
+        "value": [
+            "叶族人的种子能在太太太空生长。叶族人没几个顾顾顾客。"
+        ]
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
-        "value": "在太太太空玩的开开开心点！"
+        "path": "/scriptConfig/dialog/merchant/end/floran/default",
+        "value": [
+            "在太太太空玩的开开开心点！"
+        ]
     }
 ]

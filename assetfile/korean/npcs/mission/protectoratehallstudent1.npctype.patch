@@ -1,26 +1,11 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "플로란이 화장실에 갈 시간이 있길 빌어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "플로란은 아침으로 오큘레몬에이드를 다셧 병이나 마신게 후회돼..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "플로란이 보호자가 되는 경우는 많지 않아. 플로란은 션택된게 자랑스러워!"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "少部分叶族人可以成为守护者者者，叶族人很荣幸被选中成为其中一员！",
-            "叶族人有点后悔早餐喝了五瓶柠檬水…",
-            "叶族人希希希望等会有时间可以上个厕所。"
+            "플로란이 보호자가 되는 경우는 많지 않아. 플로란은 션택된게 자랑스러워!",
+            "플로란은 아침으로 오큘레몬에이드를 다셧 병이나 마신게 후회돼...",
+            "플로란이 화장실에 갈 시간이 있길 빌어."
         ]
     }
 ]

@@ -1,32 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/3",
-        "value": "무념. 우주는 널고, 창의력은 무한하지! 만들고 싶은 것이 너무나도 많군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/2",
-        "value": "흥분. 나의 최신 발명품은 혁명적일걸 세!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/1",
-        "value": "친절. 난 발명가일세! 자네도 무언가를 만드는 걸 좋아하는가?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/dialog/converse/default/default/0",
-        "value": "열망. 난 천성적인 발명가지, 여기에 온 이유는 부품 때문이라네."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/dialog/converse/default/default",
         "value": [
-            "渴望。我是一个发明家，我在这里找到了我需要的一些组件！",
-            "友善。我是一个发明家！你也一样喜欢创造新事物吗？",
-            "兴奋。我最新的发明将会是突破性的！",
-            "迷惘。宇宙浩瀚，发明创造的潜力是无限的！我有这么多的东西可以去创造！"
+            "열망. 난 천성적인 발명가지, 여기에 온 이유는 부품 때문이라네.",
+            "친절. 난 발명가일세! 자네도 무언가를 만드는 걸 좋아하는가?",
+            "흥분. 나의 최신 발명품은 혁명적일걸 세!",
+            "무념. 우주는 널고, 창의력은 무한하지! 만들고 싶은 것이 너무나도 많군!"
         ]
     }
 ]
