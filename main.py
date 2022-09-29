@@ -160,7 +160,7 @@ class Form(QtWidgets.QMainWindow):
                 if result:
                     QtWidgets.QMessageBox.information(self, 'Success', 'Unpacking success')
                 else:
-                    QtWidgets.QMessageBox.information(self, 'Fail', 'Unpacking Fail')
+                    QtWidgets.QMessageBox.critical(self, 'Fail', 'Unpacking Fail')
             elif option == QtWidgets.QMessageBox.No:
                 pass
 
