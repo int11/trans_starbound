@@ -199,14 +199,14 @@ class asset:
         print('Original asset unpacking...')
         print(dir)
 
-        try:
-            os.system(f'.\\win32\\asset_unpacker.exe .\\assets\\packed.pak {dir}')
-            print('Done')
-        except:
-            if os.path.exists(dir):
-                os.remove(dir)
-            print('Unpacking Fail')
-            raise
 
+        a = os.system(f'.\\win32\\asset_unpacker.exe .\\assets\\packed.pak {dir}')
         os.chdir(current_dir)
-        return asset_name
+        if a:
+            print('Unpacking Fail')
+            return False
+        else:
+            print('Unpacking success')
+            return True
+
+
