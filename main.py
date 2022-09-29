@@ -152,12 +152,17 @@ class Form(QtWidgets.QMainWindow):
     def action1f(self):
         path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Starbound Folder")
         if not path == '':
-            QtWidgets.QMessageBox.information(self, 'Downloading...', 'Original asset unpacking...\n응답없음이 뜨거나 멈추면 다운로드중인겁니다. 기다려주세요.')
-            result = asset.download_original_assets(path)
-            if result:
-                QtWidgets.QMessageBox.information(self, 'Success', 'Unpacking success')
-            else:
-                QtWidgets.QMessageBox.information(self, 'Fail', 'Unpacking Fail')
+            option = QtWidgets.QMessageBox.question(self, 'Download',
+                     'Download the Original asset?\n다운로드 중에는 프로그램이 멈추거나 응답없음이 뜰수있습니다. 기다려주세요.',
+                     QtWidgets.QMessageBox.Yes |QtWidgets.QMessageBox.No)
+            if option == QtWidgets.QMessageBox.Yes:
+                result = asset.download_original_assets(path)
+                if result:
+                    QtWidgets.QMessageBox.information(self, 'Success', 'Unpacking success')
+                else:
+                    QtWidgets.QMessageBox.information(self, 'Fail', 'Unpacking Fail')
+            elif option == QtWidgets.QMessageBox.No:
+                pass
 
 
 app = QApplication(sys.argv)

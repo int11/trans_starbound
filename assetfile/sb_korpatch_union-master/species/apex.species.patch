@@ -1,1 +1,62 @@
-[{"op": "replace", "path": "/charGenTextLabels/9", "value": "\uc131\uaca9"}, {"op": "replace", "path": "/charGenTextLabels/8", "value": "\uc5d0\uc774\ud399\uc2a4"}, {"op": "replace", "path": "/charGenTextLabels/7", "value": "\ud558\uc758 \uc0c9\uc0c1"}, {"op": "replace", "path": "/charGenTextLabels/6", "value": "\uc0c1\uc758 \uc0c9\uc0c1"}, {"op": "replace", "path": "/charGenTextLabels/5", "value": "\uc218\uc5fc \ubaa8\uc591"}, {"op": "replace", "path": "/charGenTextLabels/4", "value": "\ud53c\ubd80 \uc0c9\uc0c1"}, {"op": "replace", "path": "/charGenTextLabels/3", "value": "\ud558\uc758"}, {"op": "replace", "path": "/charGenTextLabels/2", "value": "\uc0c1\uc758"}, {"op": "replace", "path": "/charGenTextLabels/1", "value": "\uba38\ub9ac \ubaa8\uc591"}, {"op": "replace", "path": "/charGenTextLabels/0", "value": "\ud138 \uc0c9\uc0c1"}, {"op": "replace", "path": "/charCreationTooltip/description", "value": "\uace0\ub3c4\uc758 \uc9c0\ub2a5\uc744 \uac00\uc9c4 \uc601\uc7a5\ub958 \uc885\uc871\uc785\ub2c8\ub2e4. \uc218\ucc9c \ub144 \ub3d9\uc548 \uc5d0\uc774\ud399\uc2a4\ub294 \uc778\uac04\uacfc \uc720\uc0ac\ud55c \uc678\ubaa8\ub97c \uc720\uc9c0\ud574 \uc654\uc73c\ub098, \uc678\ubaa8\ub97c \ud1f4\ud654\uc2dc\ud0a4\ub294 \ub300\uc2e0 \uc9c0\ub2a5\uc744 \ubc1c\ub2ec\uc2dc\ud0a4\ub294 \uacfc\ud559\uc801\uc778 \ud574\ubc95\uc744 \ud1b5\ud574 \ud604\uc7ac\uc758 \ubaa8\uc2b5\uc774 \ub418\uc5c8\uc2b5\ub2c8\ub2e4."}, {"op": "replace", "path": "/charCreationTooltip/title", "value": "\uc5d0\uc774\ud399\uc2a4"}]
+[
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/9",
+        "value": "성격"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/8",
+        "value": "에이펙스"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/7",
+        "value": "하의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/6",
+        "value": "상의 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/5",
+        "value": "수염 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/4",
+        "value": "피부 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/3",
+        "value": "하의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/2",
+        "value": "상의"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/1",
+        "value": "머리 모양"
+    },
+    {
+        "op": "replace",
+        "path": "/charGenTextLabels/0",
+        "value": "털 색상"
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/description",
+        "value": "고도의 지능을 가진 영장류 종족입니다. 수천 년 동안 에이펙스는 인간과 유사한 외모를 유지해 왔으나, 외모를 퇴화시키는 대신 지능을 발달시키는 과학적인 해법을 통해 현재의 모습이 되었습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/charCreationTooltip/title",
+        "value": "에이펙스"
+    }
+]
