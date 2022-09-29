@@ -90,7 +90,7 @@ class explorer(QTreeView):
 class Form(QtWidgets.QMainWindow):
     def __init__(self):
         QWidget.__init__(self, flags=Qt.Widget)
-        self.setWindowTitle("Asset Editer")
+        self.setWindowTitle("Asset Editer test")
         rect = app.desktop().screenGeometry()
         size = (int(rect.height() * 0.8), int(rect.width() * 0.8))
         self.setGeometry(int(rect.height() * 0.1), int(rect.height() * 0.1), size[1], size[0])
@@ -153,8 +153,8 @@ class Form(QtWidgets.QMainWindow):
         path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Starbound Folder")
         if not path == '':
             option = QtWidgets.QMessageBox.question(self, 'Download',
-                     'Download the Original asset?\n다운로드 중에는 프로그램이 멈추거나 응답없음이 뜰수있습니다. 기다려주세요.',
-                     QtWidgets.QMessageBox.Yes |QtWidgets.QMessageBox.No)
+                                                    'Download the Original asset?\n다운로드 중에는 프로그램이 멈추거나 응답없음이 뜰수있습니다. 기다려주세요.',
+                                                    QtWidgets.QMessageBox.Yes | QtWidgets.QMessageBox.No)
             if option == QtWidgets.QMessageBox.Yes:
                 result = asset.download_original_assets(path)
                 if result:
