@@ -90,7 +90,7 @@ class explorer(QTreeView):
 class Form(QtWidgets.QMainWindow):
     def __init__(self):
         QWidget.__init__(self, flags=Qt.Widget)
-        self.setWindowTitle("Asset Editer test")
+        self.setWindowTitle("Asset Editer")
         rect = app.desktop().screenGeometry()
         size = (int(rect.height() * 0.8), int(rect.width() * 0.8))
         self.setGeometry(int(rect.height() * 0.1), int(rect.height() * 0.1), size[1], size[0])
