@@ -9,6 +9,7 @@ from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView,
     QHBoxLayout, QVBoxLayout
 from PyQt5 import QtWidgets
 from trans_star import *
+import time
 
 
 class patch_viewer(QTreeView):
@@ -77,7 +78,7 @@ class patch_viewer(QTreeView):
 class explorer(QTreeView):
     def __init__(self, parent, path):
         super().__init__(parent)
-
+        self.parent0 = parent
         self.model = QFileSystemModel()
         # set path
         self.model.setRootPath(path)
@@ -85,6 +86,14 @@ class explorer(QTreeView):
         self.setModel(self.model)
         self.setRootIndex(self.model.index(self.model.rootPath()))
         self.setColumnWidth(0, int(parent.size().width() * 0.35))
+
+    def keyPressEvent(self, e):
+        super(explorer, self).keyPressEvent(e)
+
+        if e.key() == Qt.Key_Down:
+            self.parent0.cil(self.currentIndex())
+            if self.model.hasChildren(self.currentIndex()):
+                self.expand(self.currentIndex())
 
 
 class Form(QtWidgets.QMainWindow):
@@ -133,7 +142,7 @@ class Form(QtWidgets.QMainWindow):
         viewer = self.tab.currentWidget().findChildren(patch_viewer)[0]
         viewer.clear()
 
-        model = self.sender().model
+        model = self.tab.currentWidget().findChildren(explorer)[0].model
         indexitem = model.index(index.row(), 0, index.parent())
         filename = model.fileName(indexitem)
         filepath = model.filePath(indexitem)
