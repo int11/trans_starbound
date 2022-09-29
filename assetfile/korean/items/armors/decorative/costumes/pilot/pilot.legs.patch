@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조종사의 바지"
+        "path": "/description",
+        "value": "하늘은 우리의 일터요 싸움터, 하늘은 우리의 요람이요 또 무덤, 살아도 되살아도 정의와 자유, 넋이야 있고 없고 저 하늘을 지킨다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "하늘은 우리의 일터요 싸움터, 하늘은 우리의 요람이요 또 무덤, 살아도 되살아도 정의와 자유, 넋이야 있고 없고 저 하늘을 지킨다."
+        "path": "/shortdescription",
+        "value": "조종사의 바지"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "빨간 사과"
+        "path": "/description",
+        "value": "잘 익은 빨간 사과다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "잘 익은 빨간 사과다."
+        "path": "/shortdescription",
+        "value": "빨간 사과"
     }
 ]

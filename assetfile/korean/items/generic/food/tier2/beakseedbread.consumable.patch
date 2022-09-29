@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부리씨 빵"
+        "path": "/description",
+        "value": "씨앗을 고밀도로 가득 첨가한 빵이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "씨앗을 고밀도로 가득 첨가한 빵이다."
+        "path": "/shortdescription",
+        "value": "부리씨 빵"
     }
 ]

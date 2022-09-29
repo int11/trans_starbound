@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "폭동진압 방패"
+        "path": "/description",
+        "value": "불안정한 세상 속, 수호자의 명령이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "불안정한 세상 속, 수호자의 명령이다."
+        "path": "/shortdescription",
+        "value": "폭동진압 방패"
     }
 ]

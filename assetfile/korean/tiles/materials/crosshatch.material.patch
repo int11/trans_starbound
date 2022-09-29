@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "가는 나무 조각이 모두 서로 교차하고 있군."
+        "path": "/shortdescription",
+        "value": "창문 격자"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "나무로 만든 간단한 나무 격자이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나무로 만든 간단한 나무 격자이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "창문 격자"
+        "path": "/novakidDescription",
+        "value": "가는 나무 조각이 모두 서로 교차하고 있군."
     }
 ]

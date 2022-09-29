@@ -6,12 +6,12 @@
     },
     {
         "op": "replace",
-        "path": "/cooldownTitleLabel/value",
-        "value": "쿨타임："
+        "path": "/healthTitleLabel/value",
+        "value": "방패 체력："
     },
     {
         "op": "replace",
-        "path": "/healthTitleLabel/value",
-        "value": "방패 체력："
+        "path": "/cooldownTitleLabel/value",
+        "value": "쿨타임："
     }
 ]

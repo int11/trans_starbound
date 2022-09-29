@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 만들겠다고 결정 내리는 데 시간 좀 걸렸겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "에이펙스는 빅 에이프에게 무슨 소원을 빌었던 걸까?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이거 만들려면 손재주가 정교해야겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "에이펙스가 이런 거 강제로 만들지만 않았으면 좋겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "십자수는 에이펙스가 가질 수 있는 몇 안 되는 취미중 하나다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "사색. 왜 에이펙스가 이런 걸 만들지?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 셤유 작업 엄청 슉련됐다."
+        "path": "/description",
+        "value": "우리가 영원히 그를 섬길 수 있도록."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우리가 영원히 그를 섬길 수 있도록."
+        "path": "/apexDescription",
+        "value": "십자수는 에이펙스가 가질 수 있는 몇 안 되는 취미중 하나다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이거 만들려면 손재주가 정교해야겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 셤유 작업 엄청 슉련됐다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "사색. 왜 에이펙스가 이런 걸 만들지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "에이펙스가 이런 거 강제로 만들지만 않았으면 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "에이펙스는 빅 에이프에게 무슨 소원을 빌었던 걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 만들겠다고 결정 내리는 데 시간 좀 걸렸겠어."
     }
 ]

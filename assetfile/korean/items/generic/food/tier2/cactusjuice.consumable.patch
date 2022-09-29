@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선인장 주스"
+        "path": "/description",
+        "value": "시원한 선인장 맛이 일품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "시원한 선인장 맛이 일품이다."
+        "path": "/shortdescription",
+        "value": "선인장 주스"
     }
 ]

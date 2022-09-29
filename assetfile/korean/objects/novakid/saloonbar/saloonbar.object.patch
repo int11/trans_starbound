@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 바"
+        "path": "/description",
+        "value": "바 상단이 윤이 나며, 의자 세개와 완벽하게 어울린다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바 상단이 윤이 나며, 의자 세개와 완벽하게 어울린다."
+        "path": "/shortdescription",
+        "value": "술집 바"
     },
     {
         "op": "replace",

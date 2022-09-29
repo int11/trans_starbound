@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "황금 받침대"
+        "path": "/description",
+        "value": "무언가 특별한것을 위한 황금으로된 받침대다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무언가 특별한것을 위한 황금으로된 받침대다."
+        "path": "/shortdescription",
+        "value": "황금 받침대"
     },
     {
         "op": "replace",

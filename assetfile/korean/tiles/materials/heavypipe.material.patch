@@ -16,12 +16,12 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "더럽고 오래된 파이프군."
+        "path": "/floranDescription",
+        "value": "냄섀나는 하슈도 파이프."
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "냄섀나는 하슈도 파이프."
+        "path": "/novakidDescription",
+        "value": "더럽고 오래된 파이프군."
     }
 ]

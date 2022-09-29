@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 플랫폼은 신발을 질질 끌어도 멀쩡할 정도로 튼튼하다."
+        "path": "/shortdescription",
+        "value": "함선 난간"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "우주 여행에도 견딜 수 있을 만큼 튼튼하다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우주 여행에도 견딜 수 있을 만큼 튼튼하다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "함선 난간"
+        "path": "/novakidDescription",
+        "value": "이 플랫폼은 신발을 질질 끌어도 멀쩡할 정도로 튼튼하다."
     }
 ]

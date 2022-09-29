@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혐오. 살덩어리"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "고깃덩이이!"
+        "path": "/description",
+        "value": "살 덩이"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "살 덩이"
+        "path": "/floranDescription",
+        "value": "고깃덩이이!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 살덩어리"
     }
 ]

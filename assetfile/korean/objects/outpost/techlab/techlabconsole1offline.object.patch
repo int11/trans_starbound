@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기술 정비 조작기 자판기(정지됨)"
+        "path": "/description",
+        "value": "작동되지 않는 기술 정비 조작기 자판기이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작동되지 않는 기술 정비 조작기 자판기이다."
+        "path": "/shortdescription",
+        "value": "기술 정비 조작기 자판기(정지됨)"
     },
     {
         "op": "replace",

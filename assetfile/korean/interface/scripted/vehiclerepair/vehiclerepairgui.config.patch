@@ -16,13 +16,13 @@
     },
     {
         "op": "replace",
-        "path": "/gui/cancel/caption",
-        "value": "취소"
+        "path": "/gui/repairButton/caption",
+        "value": "수리"
     },
     {
         "op": "replace",
-        "path": "/gui/repairButton/caption",
-        "value": "수리"
+        "path": "/gui/cancel/caption",
+        "value": "취소"
     },
     {
         "op": "replace",

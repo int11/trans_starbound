@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "티타늄 주괴 (Titanium Bar)"
+        "path": "/description",
+        "value": "티타늄 주괴를 만드는데 쓰이는 광석은 대부분 고온 항성을 공전하는 행성에서 발견된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "티타늄 주괴를 만드는데 쓰이는 광석은 대부분 고온 항성을 공전하는 행성에서 발견된다."
+        "path": "/shortdescription",
+        "value": "티타늄 주괴 (Titanium Bar)"
     }
 ]

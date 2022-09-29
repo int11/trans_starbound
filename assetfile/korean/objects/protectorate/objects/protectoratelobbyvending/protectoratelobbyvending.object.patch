@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "맛있는 간식들"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "자판기"
+        "path": "/description",
+        "value": "보호국 로비에 있는 자판기다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "보호국 자판기"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "보호국 로비에 있는 자판기다."
     },
     {
         "op": "replace",
@@ -53,5 +43,15 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "这种能量饮料能让你一整晚都精神焕发。丧心病狂，我跟你们说。"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "자판기"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "맛있는 간식들"
     }
 ]

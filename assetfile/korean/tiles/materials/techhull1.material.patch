@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "속에 전선이 들어있는 비싸 보이는 패널이네."
+        "path": "/description",
+        "value": "강화 첨단기술 도금 재료 아래에 배선을 숨겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강화 기술 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "강화 기술 블록"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "강화 첨단기술 도금 재료 아래에 배선을 숨겼다."
+        "path": "/novakidDescription",
+        "value": "속에 전선이 들어있는 비싸 보이는 패널이네."
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 전등들은 전기를 동력으로 작동하는 것 처럼 보이지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "궁금. 이 고대 불빛의 동력원을 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "무엇이 이것을 파랗게 빛나게 하는거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 고대의 전등의 동력은 뭘까?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 전등은 영묘한 불빛을 내고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이런 전등들은 고대의 유적이나, 나이트 클럽 둘 중 한 곳에 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이샹한 파란 불빛..."
+        "path": "/description",
+        "value": "신비한 빛이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신비한 빛이다."
+        "path": "/apexDescription",
+        "value": "이 전등들은 전기를 동력으로 작동하는 것 처럼 보이지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 전등은 영묘한 불빛을 내고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이샹한 파란 불빛..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 이 고대 불빛의 동력원을 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이런 전등들은 고대의 유적이나, 나이트 클럽 둘 중 한 곳에 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 고대의 전등의 동력은 뭘까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "무엇이 이것을 파랗게 빛나게 하는거지?"
     }
 ]

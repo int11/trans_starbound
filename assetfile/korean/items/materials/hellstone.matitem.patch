@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "살 무더기"
+        "path": "/description",
+        "value": "으으, 살덩이같은 물질이네요!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "으으, 살덩이같은 물질이네요!"
+        "path": "/shortdescription",
+        "value": "살 무더기"
     },
     {
         "op": "replace",

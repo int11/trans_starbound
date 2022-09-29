@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "설명. 방울 꽃"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "빨간 방울 꽃"
+        "path": "/description",
+        "value": "방울 꽃"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "방울 꽃"
+        "path": "/floranDescription",
+        "value": "빨간 방울 꽃"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 방울 꽃"
     }
 ]

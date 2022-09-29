@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "봉봉 봉봉"
+        "path": "/description",
+        "value": "유래카! 완벽한 음식을 더 뛰어나게 하는건 더 늘리는거야."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유래카! 완벽한 음식을 더 뛰어나게 하는건 더 늘리는거야."
+        "path": "/shortdescription",
+        "value": "봉봉 봉봉"
     }
 ]

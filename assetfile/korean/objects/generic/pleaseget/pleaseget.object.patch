@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가져와주세요 표식"
+        "path": "/description",
+        "value": "..."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "..."
+        "path": "/shortdescription",
+        "value": "가져와주세요 표식"
     }
 ]

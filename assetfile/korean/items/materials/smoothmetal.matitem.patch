@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "윤기나는 금속 블럭"
+        "path": "/description",
+        "value": "차갑고 윤기나는 금속 덩이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "차갑고 윤기나는 금속 덩이다."
+        "path": "/shortdescription",
+        "value": "윤기나는 금속 블럭"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구운 베이컨"
+        "path": "/description",
+        "value": "짭잘하고 바삭바삭한 외계 베이컨이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "짭잘하고 바삭바삭한 외계 베이컨이다."
+        "path": "/shortdescription",
+        "value": "구운 베이컨"
     }
 ]

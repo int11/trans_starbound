@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "식물? 돌? 헷갈려.."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "정동석 수정 식물이 꽃 화분에 심겨져있다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 색다른 돌이 식물처럼 자라났어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 식물은 돌로 되어있어서 단단해."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "작은 초록 수정을 조각해 만든 식물이야."
+        "path": "/shortdescription",
+        "value": "정동석 식물 화분"
     },
     {
         "op": "replace",
@@ -31,13 +16,28 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 식물은 돌로 되어있어서 단단해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "식물? 돌? 헷갈려.."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "혼란. 이 식물은 내가 아는 모든것에 반하는 정동석의 한 형태이군."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정동석 식물 화분"
+        "path": "/humanDescription",
+        "value": "작은 초록 수정을 조각해 만든 식물이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 색다른 돌이 식물처럼 자라났어."
     },
     {
         "op": "replace",

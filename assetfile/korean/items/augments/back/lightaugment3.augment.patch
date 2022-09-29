@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "광원 III 확장 부품"
+        "path": "/description",
+        "value": "환경 방호 장비가 강한 빛을 내게 해주는 EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "환경 방호 장비가 강한 빛을 내게 해주는 EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "광원 III 확장 부품"
     },
     {
         "op": "replace",

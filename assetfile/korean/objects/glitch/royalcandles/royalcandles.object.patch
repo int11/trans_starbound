@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "왕실 촛대"
+        "path": "/description",
+        "value": "왕실 광원이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "왕실 광원이다."
+        "path": "/shortdescription",
+        "value": "왕실 촛대"
     },
     {
         "op": "replace",

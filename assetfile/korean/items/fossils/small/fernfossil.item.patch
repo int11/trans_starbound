@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "화석화 된 양치 식물 잎은 천년 전의 유기 생물의 증거이다."
+        "path": "/shortdescription",
+        "value": "양치식물 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 양치식물의 일부이다."
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "양치식물 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석화된 양치식물의 일부이다."
+        "path": "/completeSetDescriptions/description",
+        "value": "화석화 된 양치 식물 잎은 천년 전의 유기 생물의 증거이다."
     }
 ]

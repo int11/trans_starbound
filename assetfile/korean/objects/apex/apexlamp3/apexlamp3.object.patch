@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "종이 등불이라. 안전하길 바랄 뿐."
+        "path": "/description",
+        "value": "종이 재질의 천장 등이다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "종이로 된 전등이 천장에 매달려있다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하이로틀도 종이와 등불로 비슷한 조명을 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "불빛이 종이에 감싸여있다. 안전해보이진 않는다."
+        "path": "/shortdescription",
+        "value": "종이 전등"
     },
     {
         "op": "replace",
@@ -26,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주의. 종이의 온도가 너무 높다."
+        "path": "/avianDescription",
+        "value": "불빛이 종이에 감싸여있다. 안전해보이진 않는다."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "종이 재질의 천장 등이다."
+        "path": "/glitchDescription",
+        "value": "주의. 종이의 온도가 너무 높다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "종이 전등"
+        "path": "/humanDescription",
+        "value": "종이 등불이라. 안전하길 바랄 뿐."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀도 종이와 등불로 비슷한 조명을 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "종이로 된 전등이 천장에 매달려있다."
     }
 ]

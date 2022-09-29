@@ -1,6 +1,16 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "지식의 상징인 고대의 룬이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지식의 룬"
+    },
+    {
+        "op": "replace",
         "path": "/apexDescription",
         "value": "다소 복합적인 지식을 의미하는 오래된 룬."
     },
@@ -11,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "이것이 지식을 의미하는 룬이라면, 나는 이걸 통해 무엇을 배울 수 있을까?"
+        "path": "/floranDescription",
+        "value": " 지식의 복잡한 개념을 상징하는 복잡한 룬."
     },
     {
         "op": "replace",
@@ -21,18 +31,8 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "지식의 룬"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "지식의 상징인 고대의 룬이다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "끝내주게 보이는 룬, 이것은 지식과 관련되어 있다는 것을 의미한다."
+        "path": "/humanDescription",
+        "value": "이것이 지식을 의미하는 룬이라면, 나는 이걸 통해 무엇을 배울 수 있을까?"
     },
     {
         "op": "replace",
@@ -41,7 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": " 지식의 복잡한 개념을 상징하는 복잡한 룬."
+        "path": "/novakidDescription",
+        "value": "끝내주게 보이는 룬, 이것은 지식과 관련되어 있다는 것을 의미한다."
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기 있는 흙은 모두 이끼로 덮혀져 있어."
+        "path": "/shortdescription",
+        "value": "이끼낀 포장된 흙"
     },
     {
         "op": "replace",
@@ -16,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "이끼낀 포장된 흙"
+        "path": "/novakidDescription",
+        "value": "여기 있는 흙은 모두 이끼로 덮혀져 있어."
     },
     {
         "op": "replace",

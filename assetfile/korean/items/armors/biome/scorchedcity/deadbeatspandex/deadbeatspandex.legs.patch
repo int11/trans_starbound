@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하얗게 불태운 꽉 끼는 바지"
+        "path": "/description",
+        "value": "튼튼하고 꽉 끼는 스판덱스 바지."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "튼튼하고 꽉 끼는 스판덱스 바지."
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 꽉 끼는 바지"
     }
 ]

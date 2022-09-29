@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 광출력이다. 무언가 꺼져있거나 켜져있음을 표시한다."
+        "path": "/description",
+        "value": "출력 빛이다. 뭔가 꺼져있거나 켜져있음을 표시한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "전구"
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "출력 빛이다. 뭔가 꺼져있거나 켜져있음을 표시한다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "전구"
+        "path": "/glitchDescription",
+        "value": "중립. 광출력이다. 무언가 꺼져있거나 켜져있음을 표시한다."
     }
 ]

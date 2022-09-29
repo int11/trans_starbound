@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정동석 수정"
+        "path": "/description",
+        "value": "희미하게 빛나는 천연의 정동석 수정이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "희미하게 빛나는 천연의 정동석 수정이다."
+        "path": "/shortdescription",
+        "value": "정동석 수정"
     },
     {
         "op": "replace",

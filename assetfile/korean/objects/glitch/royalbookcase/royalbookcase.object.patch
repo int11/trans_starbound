@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "왕실 책장"
+        "path": "/description",
+        "value": "군주의 책장이다... 왕족이 뭘 읽는지 찾아보자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "군주의 책장이다... 왕족이 뭘 읽는지 찾아보자."
+        "path": "/shortdescription",
+        "value": "왕실 책장"
     },
     {
         "op": "replace",

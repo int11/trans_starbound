@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이해되지는 않는데 어째든 여기로 다시 올 수 있다는거군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "꽤 재미있는 물건이네. 내가 죽어도 여기서 살아난다니."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "내 육신이 훼손된다면 여기로 다시 돌아오는거군."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "현대의 기술력이 엄청나게 좋군. 내가 죽으면 여기로 돌아온다니!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이게 있다면 계속 할 수 있어... 실패한다 해도."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "사색. 이런게 있다면 우리가 진정으로 사라질 수 있을 것인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 잘못하면 여기로 돌아온다!"
+        "path": "/description",
+        "value": "이 이후로 죽는다면 여기서 부활한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 이후로 죽는다면 여기서 부활한다."
+        "path": "/apexDescription",
+        "value": "이게 있다면 계속 할 수 있어... 실패한다 해도."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "내 육신이 훼손된다면 여기로 다시 돌아오는거군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 잘못하면 여기로 돌아온다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "사색. 이런게 있다면 우리가 진정으로 사라질 수 있을 것인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "현대의 기술력이 엄청나게 좋군. 내가 죽으면 여기로 돌아온다니!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "꽤 재미있는 물건이네. 내가 죽어도 여기서 살아난다니."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이해되지는 않는데 어째든 여기로 다시 올 수 있다는거군."
     }
 ]

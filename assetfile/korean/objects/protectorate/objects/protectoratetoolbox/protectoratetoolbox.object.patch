@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "매우 튼튼해보이는 공구상자다."
+    },
+    {
+        "op": "replace",
         "path": "/shortdescription",
         "value": "빨간 공구상자"
     },
@@ -13,10 +18,5 @@
         "op": "replace",
         "path": "/glitchDescription",
         "value": "관찰. 매우 튼튼한 공구상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "매우 튼튼해보이는 공구상자다."
     }
 ]

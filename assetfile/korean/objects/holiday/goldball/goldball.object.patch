@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 찬다 반짝이 공!"
+        "path": "/description",
+        "value": "황금으로 된 공이다. 휴일 장식으로도 인기있다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "황금 공 휴일 장식"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "황금으로 된 공이다. 휴일 장식으로도 인기있다."
     },
     {
         "op": "replace",
@@ -23,6 +18,11 @@
         "op": "replace",
         "path": "/avianDescription",
         "value": "一颗雄伟的金球。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 찬다 반짝이 공!"
     },
     {
         "op": "replace",

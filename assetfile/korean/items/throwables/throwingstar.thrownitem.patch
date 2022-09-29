@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "위험하고 휴대하기 편한 투척 무기이다."
+        "path": "/shortdescription",
+        "value": "표창"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "표창"
+        "path": "/description",
+        "value": "위험하고 휴대하기 편한 투척 무기이다."
     }
 ]

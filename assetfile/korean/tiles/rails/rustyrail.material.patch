@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "좀 낡아 뵈는 레일, 타고싶어 몸이 근질거리는군."
+        "path": "/shortdescription",
+        "value": "녹슨 레일"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 레일은 약간 거칠다, 그래도 작동하는듯하다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹슨 레일"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "이 레일은 약간 거칠다, 그래도 작동하는듯하다."
+        "path": "/novakidDescription",
+        "value": "좀 낡아 뵈는 레일, 타고싶어 몸이 근질거리는군."
     }
 ]

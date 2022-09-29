@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "볼트"
+        "path": "/description",
+        "value": "작은 금속 볼트이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 금속 볼트이다."
+        "path": "/shortdescription",
+        "value": "볼트"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "다소 조각이 새겨진 오래된 블록이야."
+        "path": "/shortdescription",
+        "value": "사원 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "생명체가 표면을 새겨 복잡한 조각인 고대의 돌"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사원 블록"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "생명체가 표면을 새겨 복잡한 조각인 고대의 돌"
+        "path": "/novakidDescription",
+        "value": "다소 조각이 새겨진 오래된 블록이야."
     }
 ]

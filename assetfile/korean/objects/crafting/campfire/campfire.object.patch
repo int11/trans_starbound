@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "요리할 때 쓰는 훈훈한 모닥불이야. 뭐가 더 필요해?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "모닥불이다. 나는 불로 요리한 간단한 음식을 즐기지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "모닥불이다. 아주 기본적인 요리를 할 때 유용하다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "나는 항상 모닥불의 불꽃이 춤추는 걸 보는 게 즐거웠어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정보. 불로 고기를 데우는 게 요리의 기본적인 형태이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 불 싫어하지만, 요리는 좋다. 요리하면 먹을 슈 있다."
+        "path": "/description",
+        "value": "불꽃이 춤추며 주변을 따뜻하게 해준다. 이 열기로 뭔갈 구울 수 있다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "불꽃이 춤추며 주변을 따뜻하게 해준다. 이 열기로 뭔갈 구울 수 있다."
+        "path": "/apexDescription",
+        "value": "기세 좋은 모닥불이다. 이걸로 뭔가 요리할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "기세 좋은 모닥불이다. 이걸로 뭔가 요리할 수 있다."
+        "path": "/avianDescription",
+        "value": "모닥불이다. 아주 기본적인 요리를 할 때 유용하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 불 싫어하지만, 요리는 좋다. 요리하면 먹을 슈 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정보. 불로 고기를 데우는 게 요리의 기본적인 형태이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "나는 항상 모닥불의 불꽃이 춤추는 걸 보는 게 즐거웠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "모닥불이다. 나는 불로 요리한 간단한 음식을 즐기지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "요리할 때 쓰는 훈훈한 모닥불이야. 뭐가 더 필요해?"
     }
 ]

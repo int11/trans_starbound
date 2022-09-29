@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "픽셀 머신. 지금까지 쭉 갖고 싶었는데!"
+        "path": "/description",
+        "value": "광석을 넣어 태우면 픽셀로 정제해 배출한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^orange;정제소^white; "
     },
     {
         "op": "replace",
@@ -11,18 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "광물을 픽셀로 변환시키기 위한 복잡한 장치다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "돈 인쇄기야! 일종의..."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "광석을 넣어 태우면 픽셀로 정제해 배출한다."
+        "path": "/apexDescription",
+        "value": "광물을 넣으면 픽셀로 만들 수 있다."
     },
     {
         "op": "replace",
@@ -31,8 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "광물을 넣으면 픽셀로 만들 수 있다."
+        "path": "/floranDescription",
+        "value": "기계가 바위를 떄려서 돈을 만든댜."
     },
     {
         "op": "replace",
@@ -41,12 +36,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "기계가 바위를 떄려서 돈을 만든댜."
+        "path": "/humanDescription",
+        "value": "돈 인쇄기야! 일종의..."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;정제소^white; "
+        "path": "/hylotlDescription",
+        "value": "광물을 픽셀로 변환시키기 위한 복잡한 장치다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "픽셀 머신. 지금까지 쭉 갖고 싶었는데!"
     }
 ]

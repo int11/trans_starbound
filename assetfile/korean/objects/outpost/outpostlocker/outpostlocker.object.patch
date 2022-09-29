@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기초 금속 사물함"
+        "path": "/description",
+        "value": "주인을 알 수 없는 사물함이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "주인을 알 수 없는 사물함이다."
+        "path": "/shortdescription",
+        "value": "기초 금속 사물함"
     },
     {
         "op": "replace",

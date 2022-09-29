@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금"
+        "path": "/description",
+        "value": "음식을 두거나, 보드 게임 하기에는 딱이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "음식을 두거나, 보드 게임 하기에는 딱이다."
+        "path": "/shortdescription",
+        "value": "금"
     },
     {
         "op": "replace",

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "등 두개 달린 가로등이네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "내 앞에 놓인 길을 밝혀주는 자비로운 빛."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "불빛 두개, 날 위에서 노려보는거 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "가로등 꼭대기에서 두개의 빛이 날 쳐다보고 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 긴 가로등은 두개의 붉빛이 특징이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 길고 밝은 가로등이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "밝은 빛이 높은 가로등에 달려있어."
+        "path": "/description",
+        "value": "두개의 불빛이 달린 가로등이다. 괜찮네!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "두개의 불빛이 달린 가로등이다. 괜찮네!"
+        "path": "/apexDescription",
+        "value": "이 긴 가로등은 두개의 붉빛이 특징이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "불빛 두개, 날 위에서 노려보는거 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "밝은 빛이 높은 가로등에 달려있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 길고 밝은 가로등이군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "가로등 꼭대기에서 두개의 빛이 날 쳐다보고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "내 앞에 놓인 길을 밝혀주는 자비로운 빛."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "등 두개 달린 가로등이네."
     }
 ]

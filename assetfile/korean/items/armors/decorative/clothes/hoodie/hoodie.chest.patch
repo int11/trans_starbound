@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "캐주얼 후드티"
+        "path": "/description",
+        "value": "심플한 후드티, 조금 쌀쌀할수 있다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "심플한 후드티, 조금 쌀쌀할수 있다"
+        "path": "/shortdescription",
+        "value": "캐주얼 후드티"
     }
 ]

@@ -1,8 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "밝은 날을 떠오르게하는 빛이야. 고무시키는 힘이 있어."
+        "path": "/description",
+        "value": "전기 랜턴은 기분 좋은 따뜻한 빛을 만들어 내는 전기 랜턴."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달 기지 랜턴"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "작지만 효과적인 전등."
     },
     {
         "op": "replace",
@@ -16,13 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전기 랜턴은 기분 좋은 따뜻한 빛을 만들어 내는 전기 랜턴."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "배터리 떨어질 걱정은 없는 전기 랜턴."
+        "path": "/glitchDescription",
+        "value": "감사. 이 전등은 아주 좋군."
     },
     {
         "op": "replace",
@@ -31,17 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "작지만 효과적인 전등."
+        "path": "/hylotlDescription",
+        "value": "밝은 날을 떠오르게하는 빛이야. 고무시키는 힘이 있어."
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감사. 이 전등은 아주 좋군."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "달 기지 랜턴"
+        "path": "/novakidDescription",
+        "value": "배터리 떨어질 걱정은 없는 전기 랜턴."
     }
 ]

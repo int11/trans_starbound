@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기 큰 동그라미는 뭘 뜻하는 건지 모르겠단 말이지. 어쨌든 뭔가 많이 빠졌네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "인간들에겐 돈 좀 아껴쓰라는 표시다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "베리 타르트처럼 생긴 차트다. 조각이 몇 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오오, 정보 그래픽이다. 인터넷 꿀잼 유머는 없네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "파이 차트다. 맛은 없어보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "빈정. 정거장의 지출을 자세히 알려주는 훌륭한 파이 차트다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "낯셜고 재미없는 데이터."
+        "path": "/description",
+        "value": "예산 통계를 알려주는 파이 차트 화면이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "예산 통계를 알려주는 파이 차트 화면이다."
+        "path": "/apexDescription",
+        "value": "파이 차트다. 맛은 없어보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "베리 타르트처럼 생긴 차트다. 조각이 몇 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낯셜고 재미없는 데이터."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "빈정. 정거장의 지출을 자세히 알려주는 훌륭한 파이 차트다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오오, 정보 그래픽이다. 인터넷 꿀잼 유머는 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "인간들에겐 돈 좀 아껴쓰라는 표시다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기 큰 동그라미는 뭘 뜻하는 건지 모르겠단 말이지. 어쨌든 뭔가 많이 빠졌네."
     }
 ]

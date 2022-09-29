@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "직조된 천 (Woven Fabric)"
+        "path": "/description",
+        "value": "한 장의 네모난 천이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "한 장의 네모난 천이다."
+        "path": "/shortdescription",
+        "value": "직조된 천 (Woven Fabric)"
     }
 ]

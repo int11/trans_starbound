@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 사람들이 뭉쳐져있다. 던지기엔 딱이다."
+        "path": "/shortdescription",
+        "value": "소인 뭉치"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "소인 뭉치"
+        "path": "/description",
+        "value": "작은 사람들이 뭉쳐져있다. 던지기엔 딱이다."
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "늘여놓은 가죽이야. 뭐에 쓰는지는 모르겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "늘여놓은 가죽 조각이야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 늘인 가죽이라니. 장식용인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "내가 잘못 본 게 아니면 늘여놓은 가죽 조각처럼 보이는데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "가죽 조각을 늘여놓았네. 흔해빠진 가죽 냄새가 나."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 멋진 느낌 내려고 가죽 걸어놔."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "장식용 가죽이라니..."
+        "path": "/description",
+        "value": "얇은 가죽 한 조각이 천장에 뻗어 있다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얇은 가죽 한 조각이 천장에 뻗어 있다."
+        "path": "/apexDescription",
+        "value": "늘여놓은 가죽 조각이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "늘여놓은 가죽이야. 뭐에 쓰는지는 모르겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 멋진 느낌 내려고 가죽 걸어놔."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 늘인 가죽이라니. 장식용인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "가죽 조각을 늘여놓았네. 흔해빠진 가죽 냄새가 나."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "장식용 가죽이라니..."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 잘못 본 게 아니면 늘여놓은 가죽 조각처럼 보이는데."
     }
 ]

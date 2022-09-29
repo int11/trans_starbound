@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "네눈박쥐 모형"
+        "path": "/description",
+        "value": "\"빛이 들지 않는 빈 굴처럼 어두운 곳에서 아주 적합한 반응을 보이는 민감한 눈을 가진 생명체이다.\"라고 적혔다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"빛이 들지 않는 빈 굴처럼 어두운 곳에서 아주 적합한 반응을 보이는 민감한 눈을 가진 생명체이다.\"라고 적혔다."
+        "path": "/shortdescription",
+        "value": "네눈박쥐 모형"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "색칠된 벽돌"
+        "path": "/description",
+        "value": "깔끔하게 색칠된 벽돌."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "깔끔하게 색칠된 벽돌."
+        "path": "/shortdescription",
+        "value": "색칠된 벽돌"
     },
     {
         "op": "replace",

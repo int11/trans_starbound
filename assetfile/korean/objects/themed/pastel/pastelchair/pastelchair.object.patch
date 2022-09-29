@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 의자는 아무 전통적인 색상을 가졌어. 내 취향이야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "작은 의자가 매력적이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "하트 모양 의자라니!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "등받이가 하트모양이다. 창의적이네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀람. 이 등받이는 하트모양이네... 작은 하트 위에 말이지!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "의자 섁 이쁘다."
+        "path": "/description",
+        "value": "파스텔풍의 색상에 하트 모양의 등받이가 달려있다."
     },
     {
         "op": "replace",
@@ -36,8 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "파스텔풍의 색상에 하트 모양의 등받이가 달려있다."
+        "path": "/apexDescription",
+        "value": "등받이가 하트모양이다. 창의적이네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "작은 의자가 매력적이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "의자 섁 이쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 등받이는 하트모양이네... 작은 하트 위에 말이지!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "하트 모양 의자라니!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 의자는 아무 전통적인 색상을 가졌어. 내 취향이야."
     },
     {
         "op": "replace",

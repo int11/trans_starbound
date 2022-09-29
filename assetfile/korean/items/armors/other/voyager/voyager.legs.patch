@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "여행자의 바지"
+        "path": "/description",
+        "value": "이 바지는 착용감에 비하면 놀라울 만큼 튼튼하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 바지는 착용감에 비하면 놀라울 만큼 튼튼하다."
+        "path": "/shortdescription",
+        "value": "여행자의 바지"
     }
 ]

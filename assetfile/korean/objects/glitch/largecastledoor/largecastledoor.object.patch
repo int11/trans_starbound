@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "큰 중세 문"
+        "path": "/description",
+        "value": "거대하고 위협적인 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대하고 위협적인 문이다."
+        "path": "/shortdescription",
+        "value": "큰 중세 문"
     },
     {
         "op": "replace",

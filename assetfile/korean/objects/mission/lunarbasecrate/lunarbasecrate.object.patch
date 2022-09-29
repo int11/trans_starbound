@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달 기지 상자"
+        "path": "/description",
+        "value": "저장 상자, 일반적으로 장비와 광석을 보관하는 데 사용된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "저장 상자, 일반적으로 장비와 광석을 보관하는 데 사용된다."
+        "path": "/shortdescription",
+        "value": "달 기지 상자"
     },
     {
         "op": "replace",

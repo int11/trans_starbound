@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "학술적. 진화의 수학적 방정식을 전달하려는 뜻일 수 있겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 단어는 나도 내 번역기도 생소한 단어군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이건 대체 무슨 뜻이야? 번역기에도 안 나오네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "헤헤.Waz. 웃기네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "'WAZ'라고 쓰여 있다. 신랄하군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란도 벽에 피로 낙셔한다."
+        "path": "/description",
+        "value": "Waz."
     },
     {
         "op": "replace",
@@ -36,7 +11,32 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "Waz."
+        "path": "/apexDescription",
+        "value": "'WAZ'라고 쓰여 있다. 신랄하군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이건 대체 무슨 뜻이야? 번역기에도 안 나오네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란도 벽에 피로 낙셔한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "학술적. 진화의 수학적 방정식을 전달하려는 뜻일 수 있겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "헤헤.Waz. 웃기네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 단어는 나도 내 번역기도 생소한 단어군."
     }
 ]

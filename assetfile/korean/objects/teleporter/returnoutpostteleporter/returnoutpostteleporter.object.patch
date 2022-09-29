@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "관문기지로 손쉽게 갈 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "관문기지 직행 텔레포터, 딱이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "안심. 관문기지로 안전하게 갈 수 있는 텔레포터다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이걸로 관문기지 갈 슈 있다."
+        "path": "/description",
+        "value": "관문기지로 복귀하는 텔레포터다."
     },
     {
         "op": "replace",
@@ -26,13 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "관문기지로 복귀하는 텔레포터다."
+        "path": "/apexDescription",
+        "value": "관문기지 직행 텔레포터, 딱이야!"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기에 발을 디디면 관문기지로 뚝딱."
+        "path": "/avianDescription",
+        "value": "이 텔레포터로 관문기지로 돌아갈 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이걸로 관문기지 갈 슈 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "안심. 관문기지로 안전하게 갈 수 있는 텔레포터다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "관문기지로 손쉽게 갈 수 있다."
     },
     {
         "op": "replace",
@@ -41,7 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 텔레포터로 관문기지로 돌아갈 수 있다."
+        "path": "/novakidDescription",
+        "value": "여기에 발을 디디면 관문기지로 뚝딱."
     }
 ]

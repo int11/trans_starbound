@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하얗게 불태운 외뿔"
+        "path": "/description",
+        "value": "이 뿔은 위협적이며 동시에 쿨하게 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 뿔은 위협적이며 동시에 쿨하게 보인다."
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 외뿔"
     }
 ]

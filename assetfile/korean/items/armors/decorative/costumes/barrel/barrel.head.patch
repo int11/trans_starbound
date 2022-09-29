@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "통 뚜껑"
+        "path": "/description",
+        "value": "크고 아름다운 나무통의 뚜껑이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "크고 아름다운 나무통의 뚜껑이다."
+        "path": "/shortdescription",
+        "value": "통 뚜껑"
     }
 ]

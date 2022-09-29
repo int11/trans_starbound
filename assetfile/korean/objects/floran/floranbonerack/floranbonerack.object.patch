@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이렇게 뼈를 전시해 놓으니 소름이 끼쳐."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "뼈들을 도구처럼 걸어놓다니, 역겨워."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 뼈들, 무기야, 도구야?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 뼈들은 도구마냥 걸려있네. 근데 저걸 어디에 쓰는거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 이 뼈들은 도구로 사용된 것으로 보이는군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "여기 있는 뼈들은 다른 뼈들을 손질하는데 쎠."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이게 무기야, 도구야, 아니면 전리품이야?"
+        "path": "/description",
+        "value": "정체불명의 뼈 3개가 걸린 거치대다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "정체불명의 뼈 3개가 걸린 거치대다."
+        "path": "/apexDescription",
+        "value": "이 뼈들은 도구마냥 걸려있네. 근데 저걸 어디에 쓰는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이게 무기야, 도구야, 아니면 전리품이야?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "여기 있는 뼈들은 다른 뼈들을 손질하는데 쎠."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 뼈들은 도구로 사용된 것으로 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 뼈들, 무기야, 도구야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "뼈들을 도구처럼 걸어놓다니, 역겨워."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이렇게 뼈를 전시해 놓으니 소름이 끼쳐."
     }
 ]

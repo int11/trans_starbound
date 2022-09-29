@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "음식 창고."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "나눠먹을 음식이 있는 에이펙스는 꽤나 희귀하다."
+        "path": "/description",
+        "value": "음식을 차갑게 보관하기 좋은 냉장고다."
     },
     {
         "op": "replace",
@@ -16,18 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "저 바다 밑에선 이런 장비가 필요 없다."
+        "path": "/apexDescription",
+        "value": "나눠먹을 음식이 있는 에이펙스는 꽤나 희귀하다."
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "냉장고! 음식을 차게 하려면 필수품이지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "결의. 이 음식 창고를 필히 뒤져봐야겠군!"
+        "path": "/avianDescription",
+        "value": "음식 창고."
     },
     {
         "op": "replace",
@@ -36,8 +26,18 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "음식을 차갑게 보관하기 좋은 냉장고다."
+        "path": "/glitchDescription",
+        "value": "결의. 이 음식 창고를 필히 뒤져봐야겠군!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "냉장고! 음식을 차게 하려면 필수품이지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "저 바다 밑에선 이런 장비가 필요 없다."
     },
     {
         "op": "replace",

@@ -1,37 +1,7 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 무쇠 상자네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 금속 상자."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "금쇽 샹자."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "무거워보이는 금속 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "철로 만든 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "커다란 금속 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
+        "path": "/description",
         "value": "금속 상자다."
     },
     {
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/apexDescription",
         "value": "금속 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "철로 만든 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "금쇽 샹자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 금속 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "커다란 금속 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "무거워보이는 금속 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 무쇠 상자네."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "달리 먹을 만한 게 없으면 토마토도 괜찮다."
+        "path": "/description",
+        "value": "토마토는 맛과 즙이 풍부한 과일이다. 채소던가. 둘 중 하나다."
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "토마토는 몸에 좋은 샐러드를 만들면 좋고... 피자에 올리면 더 좋다."
+        "path": "/shortdescription",
+        "value": "토마토 씨앗"
     },
     {
         "op": "replace",
@@ -16,23 +16,13 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "토마토 피처럼 붉고 잘 터진다."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "토마토는 맛과 즙이 풍부한 과일이다. 채소던가. 둘 중 하나다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "토마토는 맛있는 간식의 재료로도, 악당에게 던지기에도 완벽하다."
-    },
-    {
-        "op": "replace",
         "path": "/avianDescription",
         "value": "토마토 씨앗은 음식을 더 맛있게 해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "토마토 피처럼 붉고 잘 터진다."
     },
     {
         "op": "replace",
@@ -41,7 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "토마토 씨앗"
+        "path": "/humanDescription",
+        "value": "토마토는 몸에 좋은 샐러드를 만들면 좋고... 피자에 올리면 더 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "달리 먹을 만한 게 없으면 토마토도 괜찮다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "토마토는 맛있는 간식의 재료로도, 악당에게 던지기에도 완벽하다."
     }
 ]

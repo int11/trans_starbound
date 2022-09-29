@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거꾸로다냥 모자"
+        "path": "/description",
+        "value": "초록 알과 햄 냄새같은게 난다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "초록 알과 햄 냄새같은게 난다."
+        "path": "/shortdescription",
+        "value": "거꾸로다냥 모자"
     }
 ]

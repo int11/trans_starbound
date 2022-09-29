@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 블록들은 달없는 밤보다도 어두운 걸."
+        "path": "/description",
+        "value": "가시 블록은 그림자 물질러 형성됬다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "그림자 가시 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가시 블록은 그림자 물질러 형성됬다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "그림자 가시 블록"
+        "path": "/novakidDescription",
+        "value": "이 블록들은 달없는 밤보다도 어두운 걸."
     }
 ]

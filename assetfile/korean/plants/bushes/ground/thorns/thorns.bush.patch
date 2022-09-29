@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 가시가 많은 수풀이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "가시 슈풀."
+        "path": "/description",
+        "value": "가시 수풀이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가시 수풀이다."
+        "path": "/floranDescription",
+        "value": "가시 슈풀."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 가시가 많은 수풀이군."
     }
 ]

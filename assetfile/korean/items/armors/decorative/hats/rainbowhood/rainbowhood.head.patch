@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "무지개 복면"
+        "path": "/description",
+        "value": "무지개 색이 일품인 복면이다. 멋있구만"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무지개 색이 일품인 복면이다. 멋있구만"
+        "path": "/shortdescription",
+        "value": "무지개 복면"
     }
 ]

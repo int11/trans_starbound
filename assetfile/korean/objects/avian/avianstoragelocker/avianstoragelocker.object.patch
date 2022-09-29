@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "벽에 붙은 사물함이야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "개인 물품을 보관하는 곳이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "공업용으로 보이는 사물함이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립적. 금속 사물함이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 샤물함에 물건 집어넣을슈 있다"
+        "path": "/description",
+        "value": "멋지고, 널찍한 붙박이 저장책이다."
     },
     {
         "op": "replace",
@@ -31,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "멋지고, 널찍한 붙박이 저장책이다."
+        "path": "/apexDescription",
+        "value": "금속으로 만들어진 사물함이다"
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "금속으로 만들어진 사물함이다"
+        "path": "/floranDescription",
+        "value": "플로란 샤물함에 물건 집어넣을슈 있다"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립적. 금속 사물함이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "공업용으로 보이는 사물함이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "개인 물품을 보관하는 곳이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "벽에 붙은 사물함이야."
     }
 ]

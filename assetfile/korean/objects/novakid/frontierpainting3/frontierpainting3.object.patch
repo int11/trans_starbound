@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "저 동물이 고귀해보여!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "저 그림 속 무시는 가축 치곤 매우 장엄해 보이네"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "그림 속 무시가 아무 당당해 보이는군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "영감. 이 장염한 동물을 보라!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 작은 샤냥감 잡고 싶어."
+        "path": "/description",
+        "value": "무시가 석양을 등지고 장염하게 있는 모습을 그렸다."
     },
     {
         "op": "replace",
@@ -31,8 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무시가 석양을 등지고 장염하게 있는 모습을 그렸다."
+        "path": "/apexDescription",
+        "value": "그림 속 무시가 아무 당당해 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "저 동물이 고귀해보여!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 작은 샤냥감 잡고 싶어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 이 장염한 동물을 보라!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저 그림 속 무시는 가축 치곤 매우 장엄해 보이네"
     },
     {
         "op": "replace",

@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "바나나 그림이다. 혹시나 누가 이름 잊어먹었을까봐 '바나나'라고 써주기까지 했다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이거 음식인가? 이색적인 음식이라면 꼭 먹어보고 싶다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안은 장이 민감하다. 웬만하면 우리 음식만 먹는다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "음... 꽤나 간결하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 이건 분명 에이펙스의 원동력일 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "쇼름돋는 음식."
+        "path": "/description",
+        "value": "위대한 바나나 만세!"
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "위대한 바나나 만세!"
+        "path": "/apexDescription",
+        "value": "이 간판은 지정부에서 금하기 전까지는 바나나 클럽 출입구의 상징이었다. 지금은 범법행위는 사형이라는 것을 상기시켜주는 데 쓰고 있다."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 간판은 지정부에서 금하기 전까지는 바나나 클럽 출입구의 상징이었다. 지금은 범법행위는 사형이라는 것을 상기시켜주는 데 쓰고 있다."
+        "path": "/avianDescription",
+        "value": "아비안은 장이 민감하다. 웬만하면 우리 음식만 먹는다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쇼름돋는 음식."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이건 분명 에이펙스의 원동력일 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "음... 꽤나 간결하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이거 음식인가? 이색적인 음식이라면 꼭 먹어보고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "바나나 그림이다. 혹시나 누가 이름 잊어먹었을까봐 '바나나'라고 써주기까지 했다."
     }
 ]

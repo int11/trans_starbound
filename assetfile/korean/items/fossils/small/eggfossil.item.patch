@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "고대 생물의 알. 세상밖으로 나오기전, 이 생명체의 시간은 멈추고 말았다."
+        "path": "/shortdescription",
+        "value": "알 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 알이다."
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "알 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석화된 알이다."
+        "path": "/completeSetDescriptions/description",
+        "value": "고대 생물의 알. 세상밖으로 나오기전, 이 생명체의 시간은 멈추고 말았다."
     }
 ]

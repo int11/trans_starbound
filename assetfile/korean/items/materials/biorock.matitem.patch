@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "노랑 발광석"
+        "path": "/description",
+        "value": "이 돌은 생물발광으로 빛나고 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 돌은 생물발광으로 빛나고 있다."
+        "path": "/shortdescription",
+        "value": "노랑 발광석"
     },
     {
         "op": "replace",

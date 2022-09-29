@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구리 기름 랜턴"
+        "path": "/description",
+        "value": "구리로 만들어진 기름 랜턴이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "구리로 만들어진 기름 랜턴이다."
+        "path": "/shortdescription",
+        "value": "구리 기름 랜턴"
     },
     {
         "op": "replace",

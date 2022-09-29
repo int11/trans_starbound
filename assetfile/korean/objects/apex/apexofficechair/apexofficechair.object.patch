@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "불편한 의자다. 더 오래 앉아있다간 고통이 엄습할 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 무슨 마귀의 장난이야, 의자에 바퀴를 달다니?"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "보기보다 훨씬 불편해. 겉보기에도 불편해 보이고."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "보기만 해도 우울해지는 바퀴달린 사무실 의자다. 얼마나 많은 사람들이 아직도 이런 걸 쓴담?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무감동. 인체공학은 고려하지도 않았네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "가죽에셔 맛있는 냄섀 난다."
+        "path": "/description",
+        "value": "제식 사무실 의자다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "제식 사무실 의자다."
+        "path": "/apexDescription",
+        "value": "사무실 직원들이 쓰던 기본 의자다. 디자인 때문에 불편하다."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "사무실 직원들이 쓰던 기본 의자다. 디자인 때문에 불편하다."
+        "path": "/avianDescription",
+        "value": "이 무슨 마귀의 장난이야, 의자에 바퀴를 달다니?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "가죽에셔 맛있는 냄섀 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무감동. 인체공학은 고려하지도 않았네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "보기만 해도 우울해지는 바퀴달린 사무실 의자다. 얼마나 많은 사람들이 아직도 이런 걸 쓴담?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "불편한 의자다. 더 오래 앉아있다간 고통이 엄습할 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "보기보다 훨씬 불편해. 겉보기에도 불편해 보이고."
     }
 ]

@@ -1,68 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/penguinmission1/message",
-        "value": "\n\n드레드윙과 싸울준비가 됬니?\n^red;이 놈과 싸우려면 매우 좋은 장비가 필요할거야."
-    },
-    {
-        "op": "replace",
-        "path": "/arena3/subtitle",
-        "value": "아레나 챔피언: 지옥의 템플러"
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_morphball/subtitle",
-        "value": "왜곡 구 실험"
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_doublejump/subtitle",
-        "value": "공중 도약 실험"
-    },
-    {
-        "op": "replace",
-        "path": "/penguinmission2/message",
-        "value": "\n\n펭귄 병기 가동 실험실로 가서 쇼크후퍼 MK I과 싸울준비가 됬니?\n^red;이 놈과 싸우려면 매우 좋은 장비가 필요할거야."
-    },
-    {
-        "op": "replace",
-        "path": "/arena3/message",
-        "value": "\n\n화염 기사인 지옥의 템플러와 싸우기 위해 전장에 들어갈 준비가 됐니? 한번 들어가면 나갈 유일한 방법은 승리하는거야."
-    },
-    {
-        "op": "replace",
-        "path": "/arena1/message",
-        "value": "\n\n검투사 삼인조와 싸우기 위해 전장에 들어갈 준비가 됐니? 한번 들어가면 나갈 유일한 방법은 승리하는거야."
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_dash/message",
-        "value": "\n\n장애물 코스에 들어갈 준비가 됐니?"
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_doublejump/message",
-        "value": "\n\n장애물 코스에 들어갈 준비가 됐니?"
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_morphball/message",
-        "value": "\n\n장애물 코스에 들어갈 준비가 됐니?"
-    },
-    {
-        "op": "replace",
-        "path": "/arena2/message",
-        "value": "\n\n몬스터 조련사인 볼로와 싸우기 위해 전장에 들어갈 준비가 됐니? 한번 들어가면 나갈 유일한 방법은 승리하는거야."
-    },
-    {
-        "op": "replace",
-        "path": "/penguinmission2/subtitle",
-        "value": "펭귄 병기 가동 실험실"
-    },
-    {
-        "op": "replace",
-        "path": "/arena1/subtitle",
-        "value": "아레나 배틀 : 검투사들"
+        "path": "/techscientist_dash/title",
+        "value": "텔레포트 확인"
     },
     {
         "op": "replace",
@@ -71,53 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/penguinmission1/subtitle",
-        "value": "펭귄 드레드윙"
-    },
-    {
-        "op": "replace",
-        "path": "/arena2/subtitle",
-        "value": "아레나 배틀: 몬스터 조련사 볼로"
-    },
-    {
-        "op": "replace",
-        "path": "/arena3/title",
-        "value": "텔레포트 확인"
-    },
-    {
-        "op": "replace",
-        "path": "/penguinmission2/title",
-        "value": "텔레포트 확인"
-    },
-    {
-        "op": "replace",
-        "path": "/arena1/title",
-        "value": "텔레포트 확인"
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_dash/title",
-        "value": "텔레포트 확인"
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_doublejump/title",
-        "value": "텔레포트 확인"
-    },
-    {
-        "op": "replace",
-        "path": "/penguinmission1/title",
-        "value": "텔레포트 확인"
-    },
-    {
-        "op": "replace",
-        "path": "/techscientist_morphball/title",
-        "value": "텔레포트 확인"
-    },
-    {
-        "op": "replace",
-        "path": "/arena2/title",
-        "value": "텔레포트 확인"
+        "path": "/techscientist_dash/message",
+        "value": "\n\n장애물 코스에 들어갈 준비가 됐니?"
     },
     {
         "op": "replace",
@@ -136,6 +31,21 @@
     },
     {
         "op": "replace",
+        "path": "/techscientist_doublejump/title",
+        "value": "텔레포트 확인"
+    },
+    {
+        "op": "replace",
+        "path": "/techscientist_doublejump/subtitle",
+        "value": "공중 도약 실험"
+    },
+    {
+        "op": "replace",
+        "path": "/techscientist_doublejump/message",
+        "value": "\n\n장애물 코스에 들어갈 준비가 됐니?"
+    },
+    {
+        "op": "replace",
         "path": "/techscientist_doublejump/okCaption",
         "value": "好了"
     },
@@ -148,6 +58,21 @@
         "op": "replace",
         "path": "/techscientist_doublejump/labels/name",
         "value": "艾略特"
+    },
+    {
+        "op": "replace",
+        "path": "/techscientist_morphball/title",
+        "value": "텔레포트 확인"
+    },
+    {
+        "op": "replace",
+        "path": "/techscientist_morphball/subtitle",
+        "value": "왜곡 구 실험"
+    },
+    {
+        "op": "replace",
+        "path": "/techscientist_morphball/message",
+        "value": "\n\n장애물 코스에 들어갈 준비가 됐니?"
     },
     {
         "op": "replace",
@@ -166,6 +91,21 @@
     },
     {
         "op": "replace",
+        "path": "/arena1/title",
+        "value": "텔레포트 확인"
+    },
+    {
+        "op": "replace",
+        "path": "/arena1/subtitle",
+        "value": "아레나 배틀 : 검투사들"
+    },
+    {
+        "op": "replace",
+        "path": "/arena1/message",
+        "value": "\n\n검투사 삼인조와 싸우기 위해 전장에 들어갈 준비가 됐니? 한번 들어가면 나갈 유일한 방법은 승리하는거야."
+    },
+    {
+        "op": "replace",
         "path": "/arena1/okCaption",
         "value": "好了"
     },
@@ -178,6 +118,21 @@
         "op": "replace",
         "path": "/arena1/labels/name",
         "value": "努鲁"
+    },
+    {
+        "op": "replace",
+        "path": "/arena2/title",
+        "value": "텔레포트 확인"
+    },
+    {
+        "op": "replace",
+        "path": "/arena2/subtitle",
+        "value": "아레나 배틀: 몬스터 조련사 볼로"
+    },
+    {
+        "op": "replace",
+        "path": "/arena2/message",
+        "value": "\n\n몬스터 조련사인 볼로와 싸우기 위해 전장에 들어갈 준비가 됐니? 한번 들어가면 나갈 유일한 방법은 승리하는거야."
     },
     {
         "op": "replace",
@@ -196,6 +151,21 @@
     },
     {
         "op": "replace",
+        "path": "/arena3/title",
+        "value": "텔레포트 확인"
+    },
+    {
+        "op": "replace",
+        "path": "/arena3/subtitle",
+        "value": "아레나 챔피언: 지옥의 템플러"
+    },
+    {
+        "op": "replace",
+        "path": "/arena3/message",
+        "value": "\n\n화염 기사인 지옥의 템플러와 싸우기 위해 전장에 들어갈 준비가 됐니? 한번 들어가면 나갈 유일한 방법은 승리하는거야."
+    },
+    {
+        "op": "replace",
         "path": "/arena3/okCaption",
         "value": "好了"
     },
@@ -211,6 +181,21 @@
     },
     {
         "op": "replace",
+        "path": "/penguinmission1/title",
+        "value": "텔레포트 확인"
+    },
+    {
+        "op": "replace",
+        "path": "/penguinmission1/subtitle",
+        "value": "펭귄 드레드윙"
+    },
+    {
+        "op": "replace",
+        "path": "/penguinmission1/message",
+        "value": "\n\n드레드윙과 싸울준비가 됬니?\n^red;이 놈과 싸우려면 매우 좋은 장비가 필요할거야."
+    },
+    {
+        "op": "replace",
         "path": "/penguinmission1/cancelCaption",
         "value": "之后再说"
     },
@@ -218,6 +203,21 @@
         "op": "replace",
         "path": "/penguinmission1/labels/name",
         "value": "调酒师"
+    },
+    {
+        "op": "replace",
+        "path": "/penguinmission2/title",
+        "value": "텔레포트 확인"
+    },
+    {
+        "op": "replace",
+        "path": "/penguinmission2/subtitle",
+        "value": "펭귄 병기 가동 실험실"
+    },
+    {
+        "op": "replace",
+        "path": "/penguinmission2/message",
+        "value": "\n\n펭귄 병기 가동 실험실로 가서 쇼크후퍼 MK I과 싸울준비가 됬니?\n^red;이 놈과 싸우려면 매우 좋은 장비가 필요할거야."
     },
     {
         "op": "replace",

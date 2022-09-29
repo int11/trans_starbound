@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "무장 광신도 촉수"
+        "path": "/description",
+        "value": "고대의 촉수가 부착된 허리띠이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고대의 촉수가 부착된 허리띠이다."
+        "path": "/shortdescription",
+        "value": "무장 광신도 촉수"
     }
 ]

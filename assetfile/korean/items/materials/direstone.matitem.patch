@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스산한 돌"
+        "path": "/description",
+        "value": "이 유리같은 돌의 표면 아래에서 작은 벌레 형태가 꿈틀대고 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 유리같은 돌의 표면 아래에서 작은 벌레 형태가 꿈틀대고 있다."
+        "path": "/shortdescription",
+        "value": "스산한 돌"
     },
     {
         "op": "replace",

@@ -1,458 +1,148 @@
 [
     {
         "op": "replace",
-        "path": "/alert/glitch/default/0",
-        "value": "격분. 경비, 이 죄인을 포박하여야 하오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/glitch/default/1",
-        "value": "충격. 경비, 경비! 도둑이오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/glitch/default/2",
-        "value": "분개. 어찌 이런 일이!? 경비, 도와주시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/glitch/default/3",
-        "value": "격분. 이런 도둑놈을 보았나! 경비!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/glitch/default/4",
-        "value": "분노. 도둑질을 멈추시오! 경비, 도움이 필요하오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/floran/default/0",
-        "value": "슈위! 플로란 도둑 찾았다!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/floran/default/1",
-        "value": "이제 슈위가 널 샤냥할거야아!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/floran/default/2",
-        "value": "범죄자다! 슈위!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/floran/default/3",
-        "value": "플로란 너 도망가게 안 둘 거다! 슈위!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/floran/default/4",
-        "value": "이제 그만! 플로란 슈위한테 이를 거다!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/default/default/0",
-        "value": "경비! 여기 범죄자에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/human/default/0",
-        "value": "도둑이야! 경비, 도와줘요!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/human/default/1",
-        "value": "경비! 이 끔찍한 도둑놈을 잡아넣어요!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/human/default/2",
-        "value": "아악! 경비, 도둑을 잡아요!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/human/default/3",
-        "value": "안 돼, 안 돼! 도둑이야! 경비!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/human/default/4",
-        "value": "경비, 이 범죄자를 잡아줘요!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/avian/default/0",
-        "value": "경비! 이 범죄자를 저지하십시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/avian/default/1",
-        "value": "도둑놈이다! 경비, 서둘러라!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/avian/default/2",
-        "value": "경비가 당신의 도둑질을 멈추러 올 겁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/avian/default/3",
-        "value": "경비! 이 도둑을 잡아라!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/avian/default/4",
-        "value": "당장 도둑질을 멈춰! 경비, 도와주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/hylotl/default/0",
-        "value": "경비! 여기 범죄자가 있습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/hylotl/default/1",
-        "value": "소매치기! 도적! 도둑! 경비원, 여깁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/hylotl/default/2",
-        "value": "절도다! 경비, 도와주십시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/hylotl/default/3",
-        "value": "참을 수 없습니다! 경비, 이 도둑을 잡아주십시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/hylotl/default/4",
-        "value": "경비, 이 악한을 체포하십시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/apex/default/0",
-        "value": "경비! 여기 범죄자에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/apex/default/1",
-        "value": "도둑이다! 경비!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/apex/default/2",
-        "value": "도둑질은 용납 못 해! 경비!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/apex/default/3",
-        "value": "물건을 훔치고 있어요! 경비, 빨리!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/apex/default/4",
-        "value": "당장 도둑질을 멈춰! 경비!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/glitch/default/0",
-        "value": "경악. 훔치고 있었군!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/glitch/default/1",
-        "value": "분노. 그대는 그대의 것이 아닌 물건을 가져가고 있소!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/glitch/default/2",
-        "value": "실망. 나는 그대가 도둑이 아니라 선인이라 생각했소."
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/glitch/default/3",
-        "value": "당황. 그건 당신 것이 아니오. 왜 가져가는 거요?"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/glitch/default/4",
-        "value": "식겁. 도둑이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/floran/default/0",
-        "value": "플로란 쇼품 그만 훔쳐라!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/floran/default/1",
-        "value": "그거 니 꺼 아냐!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/floran/default/2",
-        "value": "플로란 도둑질 용셔 안 한다!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/floran/default/3",
-        "value": "플로란 놀랍지도 않다! 그만 훔쳐라!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/floran/default/4",
-        "value": "나쁜 낯션 샤람! 도둑질 벌 받을 거다!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/0",
-        "value": "어이, 그거 당신 것 아니잖아!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/human/default/0",
-        "value": "어이! 그 물건들 당신 거 아냐!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/human/default/1",
-        "value": "무슨 짓이야? 훔치는 건 좀 아니지!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/human/default/2",
-        "value": "뭐야? 뭐 하는 거야!? 그건 절도야!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/human/default/3",
-        "value": "워 워 워,  누가 그거 가져가도 된다고 했나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/human/default/4",
-        "value": "좋지 않습니다! 도둑질을 멈추세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/avian/default/0",
-        "value": "거기, 그건 당신 물건이 아니에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/avian/default/1",
-        "value": "정말로 도둑질로 얻은 걸 즐길 수 있을 거라 생각해요? "
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/avian/default/2",
-        "value": "물건을 가져가지 말아주세요."
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/avian/default/3",
-        "value": "그거 당신 거 아니에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/avian/default/4",
-        "value": "도둑질은 피해자 없는 범죄가 아니에요."
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/hylotl/default/0",
-        "value": "이 도둑질을 당장 멈추세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/hylotl/default/1",
-        "value": "당신 물건이 아닌 것을 가져가는 것은 옳지 않습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/hylotl/default/2",
-        "value": "부끄러운 줄 아세요. 이 물건들 당신 가져가라고 있는 거 아닙니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/hylotl/default/3",
-        "value": "이 도둑질은 당신의 명성에 남을 끔찍한 발자취입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/hylotl/default/4",
-        "value": "제발 우리 것을 훔쳐가지 마라!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/apex/default/1",
-        "value": "이 도둑질을 어떻게 정당화할 건가?"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/apex/default/2",
-        "value": "왜 네 것이 아닌 물건들을 가져가지?"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/apex/default/3",
-        "value": "멈춰라! 왜 이것들을 훔쳐가려 하나?"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/apex/default/4",
-        "value": "이것들은 네 물건이 아니라고!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/apex/default/0",
-        "value": "도둑질의 댓가는 꽤 가혹할 거다."
-    },
-    {
-        "op": "replace",
         "path": "/accuse/default/default",
         "value": [
-            "嗨，那可不是你的东西！"
+            "어이, 그거 당신 것 아니잖아!"
         ]
     },
     {
         "op": "replace",
         "path": "/accuse/apex/default",
         "value": [
-            "你知道，偷窃的后果是很严重的。",
-            "你要怎么解释你的盗窃行为？",
-            "为什么你要拿走不属于你的东西？",
-            "停下！为什么要偷这些东西！？",
-            "这些都不是你的东西！"
+            "도둑질의 댓가는 꽤 가혹할 거다.",
+            "이 도둑질을 어떻게 정당화할 건가?",
+            "왜 네 것이 아닌 물건들을 가져가지?",
+            "멈춰라! 왜 이것들을 훔쳐가려 하나?",
+            "이것들은 네 물건이 아니라고!"
         ]
     },
     {
         "op": "replace",
         "path": "/accuse/avian/default",
         "value": [
-            "嗨，那可不是你的东西！",
-            "你真的能够享用你偷来的东西吗？",
-            "请不要带走我们的东西。",
-            "那不是你的！",
-            "你要知道盗窃可不是一种无受害人犯罪。"
+            "거기, 그건 당신 물건이 아니에요!",
+            "정말로 도둑질로 얻은 걸 즐길 수 있을 거라 생각해요? ",
+            "물건을 가져가지 말아주세요.",
+            "그거 당신 거 아니에요!",
+            "도둑질은 피해자 없는 범죄가 아니에요."
         ]
     },
     {
         "op": "replace",
         "path": "/accuse/floran/default",
         "value": [
-            "停停停止偷叶族人的东西！",
-            "那可不是你你你的！",
-            "叶族人不能容忍偷偷偷窃！",
-            "叶族人不不不高兴！停止盗窃！",
-            "坏陌生生生人！偷窃将被惩罚！"
+            "플로란 쇼품 그만 훔쳐라!",
+            "그거 니 꺼 아냐!",
+            "플로란 도둑질 용셔 안 한다!",
+            "플로란 놀랍지도 않다! 그만 훔쳐라!",
+            "나쁜 낯션 샤람! 도둑질 벌 받을 거다!"
         ]
     },
     {
         "op": "replace",
         "path": "/accuse/human/default",
         "value": [
-            "嗨！那可不是你的东西！",
-            "你在玩什么东西？你可不能偷东西！",
-            "什么！？你在干什么！？那是盗窃行为！",
-            "哇噢哇噢哇噢，谁告诉你可以带走这个的？",
-            "这可不行！停止偷窃！！"
+            "어이! 그 물건들 당신 거 아냐!",
+            "무슨 짓이야? 훔치는 건 좀 아니지!",
+            "뭐야? 뭐 하는 거야!? 그건 절도야!",
+            "워 워 워,  누가 그거 가져가도 된다고 했나요?",
+            "좋지 않습니다! 도둑질을 멈추세요!"
         ]
     },
     {
         "op": "replace",
         "path": "/accuse/hylotl/default",
         "value": [
-            "请立即中止这种盗窃行为！",
-            "拿不属于你的东西是不对的！",
-            "真为你感到羞耻，这些东西可不是你能拿走的！",
-            "这种盗窃行为足够起诉你了。",
-            "我恳求你停下，请不要偷我们的东西！"
+            "이 도둑질을 당장 멈추세요!",
+            "당신 물건이 아닌 것을 가져가는 것은 옳지 않습니다!",
+            "부끄러운 줄 아세요. 이 물건들 당신 가져가라고 있는 거 아닙니다!",
+            "이 도둑질은 당신의 명성에 남을 끔찍한 발자취입니다.",
+            "제발 우리 것을 훔쳐가지 마라!"
         ]
     },
     {
         "op": "replace",
         "path": "/accuse/glitch/default",
         "value": [
-            "惊呆。你在偷窃！",
-            "愤怒。你在拿走不属于你的东西！",
-            "失望。我一度以为你是个好人，而不是个小偷。",
-            "困惑。那都不是你的东西，为何你要拿走？",
-            "惊骇。小偷！"
+            "경악. 훔치고 있었군!",
+            "분노. 그대는 그대의 것이 아닌 물건을 가져가고 있소!",
+            "실망. 나는 그대가 도둑이 아니라 선인이라 생각했소.",
+            "당황. 그건 당신 것이 아니오. 왜 가져가는 거요?",
+            "식겁. 도둑이다!"
         ]
     },
     {
         "op": "replace",
         "path": "/alert/default/default",
         "value": [
-            "警卫！这儿有个罪犯！"
+            "경비! 여기 범죄자에요!"
         ]
     },
     {
         "op": "replace",
         "path": "/alert/avian/default",
         "value": [
-            "守卫！阻止这个犯人！",
-            "你是个小偷！守卫，快来！",
-            "守卫会阻止你的盗窃行为的！",
-            "守卫！抓住这小偷！",
-            "停止盗窃！守卫，快来帮忙！"
+            "경비! 이 범죄자를 저지하십시오!",
+            "도둑놈이다! 경비, 서둘러라!",
+            "경비가 당신의 도둑질을 멈추러 올 겁니다!",
+            "경비! 이 도둑을 잡아라!",
+            "당장 도둑질을 멈춰! 경비, 도와주세요!"
         ]
     },
     {
         "op": "replace",
         "path": "/alert/apex/default",
         "value": [
-            "警卫，这儿有个罪犯！",
-            "小偷！警卫！",
-            "我不会让坏人得逞！警卫！",
-            "有东西被偷了！警卫，快来！",
-            "你必须停止拿走东西！警卫！"
+            "경비! 여기 범죄자에요!",
+            "도둑이다! 경비!",
+            "도둑질은 용납 못 해! 경비!",
+            "물건을 훔치고 있어요! 경비, 빨리!",
+            "당장 도둑질을 멈춰! 경비!"
         ]
     },
     {
         "op": "replace",
         "path": "/alert/human/default",
         "value": [
-            "停止偷窃！警卫，来帮忙！",
-            "保安！抓住这个坏透了的强盗！",
-            "啊！警卫，抓住那小偷！",
-            "噢不，噢不！一个强盗！警卫！",
-            "警卫，抓住这罪犯！"
+            "도둑이야! 경비, 도와줘요!",
+            "경비! 이 끔찍한 도둑놈을 잡아넣어요!",
+            "아악! 경비, 도둑을 잡아요!",
+            "안 돼, 안 돼! 도둑이야! 경비!",
+            "경비, 이 범죄자를 잡아줘요!"
         ]
     },
     {
         "op": "replace",
         "path": "/alert/hylotl/default",
         "value": [
-            "警卫！这儿有个罪犯！",
-            "夜贼！坏蛋！小偷！警卫，我需要你！",
-            "失窃！警卫，来帮忙！",
-            "这是无法容忍的！警卫，抓小偷！",
-            "警卫，抓住这个恶棍！"
+            "경비! 여기 범죄자가 있습니다!",
+            "소매치기! 도적! 도둑! 경비원, 여깁니다!",
+            "절도다! 경비, 도와주십시오!",
+            "참을 수 없습니다! 경비, 이 도둑을 잡아주십시오!",
+            "경비, 이 악한을 체포하십시오!"
         ]
     },
     {
         "op": "replace",
         "path": "/alert/floran/default",
         "value": [
-            "守卫卫卫！叶族人发现了小偷！",
-            "守卫会为此击倒你！",
-            "你是个罪犯！守卫卫卫！",
-            "叶族人不会让你带着这些逃跑的！守卫卫卫！",
-            "那么就这这这样吧，叶族人要向守卫告发你！"
+            "슈위! 플로란 도둑 찾았다!",
+            "이제 슈위가 널 샤냥할거야아!",
+            "범죄자다! 슈위!",
+            "플로란 너 도망가게 안 둘 거다! 슈위!",
+            "이제 그만! 플로란 슈위한테 이를 거다!"
         ]
     },
     {
         "op": "replace",
         "path": "/alert/glitch/default",
         "value": [
-            "激怒。守卫，擒住这窃贼！",
-            "恐慌。守卫，守卫！有小偷！",
-            "愤怒。你怎么能这样！？守卫，来帮忙！",
-            "盛怒。你这个偷东西的恶棍！守卫！",
-            "暴怒。停止偷窃！守卫，帮我！"
+            "격분. 경비, 이 죄인을 포박하여야 하오!",
+            "충격. 경비, 경비! 도둑이오!",
+            "분개. 어찌 이런 일이!? 경비, 도와주시오!",
+            "격분. 이런 도둑놈을 보았나! 경비!",
+            "분노. 도둑질을 멈추시오! 경비, 도움이 필요하오!"
         ]
     }
 ]

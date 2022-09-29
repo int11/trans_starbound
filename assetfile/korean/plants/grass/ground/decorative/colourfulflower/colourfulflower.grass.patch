@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정의. 형형색색의 나선형 꽃이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "예쁜 꽃."
+        "path": "/description",
+        "value": "형형색색의 나선형 꽃."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "형형색색의 나선형 꽃."
+        "path": "/floranDescription",
+        "value": "예쁜 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정의. 형형색색의 나선형 꽃이다."
     }
 ]

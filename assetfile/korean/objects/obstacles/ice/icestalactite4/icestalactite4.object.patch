@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날카로운 가시"
+        "path": "/description",
+        "value": "조심해!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조심해!"
+        "path": "/shortdescription",
+        "value": "날카로운 가시"
     },
     {
         "op": "replace",

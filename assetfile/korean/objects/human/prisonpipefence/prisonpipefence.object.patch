@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "파이프 펜스."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "괜찮은 파이프 펜스."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 일련의 파이프로 이루어진 울타리다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 플로란이 이 울타리 뛰어넘을 수 있다고 확신한다! 하지만 플로란 안 할거다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "파이프로 만든 펜스. 재밌네."
+        "path": "/description",
+        "value": "무거운 금속 파이프로 된 펜스."
     },
     {
         "op": "replace",
@@ -31,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무거운 금속 파이프로 된 펜스."
+        "path": "/apexDescription",
+        "value": "파이프로 만든 펜스. 재밌네."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 플로란이 이 울타리 뛰어넘을 수 있다고 확신한다! 하지만 플로란 안 할거다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 일련의 파이프로 이루어진 울타리다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "괜찮은 파이프 펜스."
+    },
+    {
+        "op": "replace",
         "path": "/hylotlDescription",
         "value": "如果这道栅栏在海底，我只要游过去就可以了。不过话说回来，在陆地上又该怎么办呢？"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "파이프 펜스."
     }
 ]

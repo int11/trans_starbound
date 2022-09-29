@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이런건 수십개는 사용할 수 있다고 보는데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 작은 탁자는 덜 만들어진거 같아. 도색 작업이 필요하겠는 걸."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "상당히 괜찮은 작은 탁자야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "작은 나무 탁자라, 책이랑 램프가 좀 필요하겠는데"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이런건 금속으로 만들어야 튼튼한데"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "기쁨. 이 작은 탁자는 무언갈 올리기에 유용하겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이거 얼마나 멀리 던질 슈 있는지 궁금해."
+        "path": "/description",
+        "value": "나무로 만든 작은 삼발이 탁자이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나무로 만든 작은 삼발이 탁자이다."
+        "path": "/apexDescription",
+        "value": "이런건 금속으로 만들어야 튼튼한데"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "상당히 괜찮은 작은 탁자야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 얼마나 멀리 던질 슈 있는지 궁금해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 작은 탁자는 무언갈 올리기에 유용하겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작은 나무 탁자라, 책이랑 램프가 좀 필요하겠는데"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 작은 탁자는 덜 만들어진거 같아. 도색 작업이 필요하겠는 걸."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이런건 수십개는 사용할 수 있다고 보는데."
     }
 ]

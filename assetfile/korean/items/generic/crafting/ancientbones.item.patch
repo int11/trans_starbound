@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오래된 뼈"
+        "path": "/description",
+        "value": "이 큰 뼈는 오래되었다. 아주 오랫동안"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 큰 뼈는 오래되었다. 아주 오랫동안"
+        "path": "/shortdescription",
+        "value": "오래된 뼈"
     }
 ]

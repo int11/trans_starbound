@@ -1,31 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하이로틀 머리 모양의 네온 사인."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "하이로틀 머리 모양 간판. 딱히 도움이 되는 것 같진 않네."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "노바키드는 네온 사인이 필요 없어. 우린 이미 빛나고 있는걸!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "네온 하이로틀 머리 간판. 무슨 의미지?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "의문. 하이로틀 머리 모양의 간판이다. 왜?"
-    },
-    {
-        "op": "replace",
         "path": "/shortdescription",
         "value": "네온 하이로틀 간판"
     },
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "네온 하이로틀 머리 간판. 무슨 의미지?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "하이로틀 머리 모양 간판. 딱히 도움이 되는 것 같진 않네."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "鱼人现在把他们自己放在亮闪闪的标志上了？"
     },
     {
         "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의문. 하이로틀 머리 모양의 간판이다. 왜?"
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "我想知道鲛人是否喜欢自拍。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀 머리 모양의 네온 사인."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "노바키드는 네온 사인이 필요 없어. 우린 이미 빛나고 있는걸!"
     }
 ]

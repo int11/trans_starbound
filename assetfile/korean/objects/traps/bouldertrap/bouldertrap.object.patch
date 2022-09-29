@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "아부지 돌굴러가유!"
+        "path": "/description",
+        "value": "생각치도 못 한 침입자들에게 바위를 떨어트리는 함정이다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "바위 함정은 타이밍만 잘 맞추면 피하기 쉽다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "작은 구멍에서 바위가 굴러나온다."
+        "path": "/shortdescription",
+        "value": "사원 바위 함정"
     },
     {
         "op": "replace",
@@ -26,22 +21,27 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "실망. 누가 이토록 규칙적으로 바위를 떨어트리는 함정을 만들었담?"
-    },
-    {
-        "op": "replace",
         "path": "/floranDescription",
         "value": "구멍에셔 무거운 돌덩이 떨어진다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사원 바위 함정"
+        "path": "/glitchDescription",
+        "value": "실망. 누가 이토록 규칙적으로 바위를 떨어트리는 함정을 만들었담?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "생각치도 못 한 침입자들에게 바위를 떨어트리는 함정이다."
+        "path": "/humanDescription",
+        "value": "작은 구멍에서 바위가 굴러나온다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바위 함정은 타이밍만 잘 맞추면 피하기 쉽다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아부지 돌굴러가유!"
     }
 ]

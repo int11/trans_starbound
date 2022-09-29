@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바다 리조또"
+        "path": "/description",
+        "value": "짜고 향기로운 쌀 요리이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "짜고 향기로운 쌀 요리이다."
+        "path": "/shortdescription",
+        "value": "바다 리조또"
     }
 ]

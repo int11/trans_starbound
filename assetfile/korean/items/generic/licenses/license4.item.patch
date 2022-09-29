@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "이글 면허"
+        "path": "/description",
+        "value": "이글 급 함선의 비행 자격증"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이글 급 함선의 비행 자격증"
+        "path": "/shortdescription",
+        "value": "이글 면허"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조사 모드"
+        "path": "/description",
+        "value": "당신 주변의 세상을 조사한다. ^green;[N] 키로 빠르게 선택 할수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "당신 주변의 세상을 조사한다. ^green;[N] 키로 빠르게 선택 할수 있다."
+        "path": "/shortdescription",
+        "value": "조사 모드"
     },
     {
         "op": "replace",

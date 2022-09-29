@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "황금 항아리"
+        "path": "/description",
+        "value": "이것 처럼 아비안 별관측자의 재가 자주 담기는 항아리."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이것 처럼 아비안 별관측자의 재가 자주 담기는 항아리."
+        "path": "/shortdescription",
+        "value": "황금 항아리"
     },
     {
         "op": "replace",

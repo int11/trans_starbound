@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "부드러워 보이는 벽돌이고, 흙으로 만들어졌어."
+        "path": "/shortdescription",
+        "value": "다져진 흙"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "다진 흙으로 된 작은 벽돌이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다진 흙으로 된 작은 벽돌이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "다져진 흙"
+        "path": "/novakidDescription",
+        "value": "부드러워 보이는 벽돌이고, 흙으로 만들어졌어."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기동력 확장 부품"
+        "path": "/description",
+        "value": "이동속도와 점프 거리를 늘려주는 EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이동속도와 점프 거리를 늘려주는 EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "기동력 확장 부품"
     },
     {
         "op": "replace",

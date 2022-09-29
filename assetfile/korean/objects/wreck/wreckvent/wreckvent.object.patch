@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 통풍구도 전성기가 있었을 텐데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오래된 통풍구다. 죄다 녹슬어있다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무관심. 통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "바샥거리는 통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "퀴퀴하고 오랜 통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "녹슬고 오랜 통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "먼지 쌓이고 오랜 통풍구다."
+        "path": "/description",
+        "value": "퀴퀴한 바람이 이 오랜 통풍구를 지나며 휘파람을 분다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "퀴퀴한 바람이 이 오랜 통풍구를 지나며 휘파람을 분다."
+        "path": "/apexDescription",
+        "value": "먼지 쌓이고 오랜 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "녹슬고 오랜 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바샥거리는 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래된 통풍구다. 죄다 녹슬어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "퀴퀴하고 오랜 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 통풍구도 전성기가 있었을 텐데."
     }
 ]

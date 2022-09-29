@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "따뜻한 회색 바지"
+        "path": "/description",
+        "value": "핏이 살아있는 바지로 착용자의 온기가 빠지지 않게 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "핏이 살아있는 바지로 착용자의 온기가 빠지지 않게 한다."
+        "path": "/shortdescription",
+        "value": "따뜻한 회색 바지"
     }
 ]

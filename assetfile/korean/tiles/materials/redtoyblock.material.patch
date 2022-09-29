@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 알록달록한 블록들은 갖고 놀라고 있는거지."
+        "path": "/shortdescription",
+        "value": "빨간 장난감 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "크게 쌓을 수 있는 장난감 블록이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "크게 쌓을 수 있는 장난감 블록이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "빨간 장난감 블록"
+        "path": "/novakidDescription",
+        "value": "이 알록달록한 블록들은 갖고 놀라고 있는거지."
     }
 ]

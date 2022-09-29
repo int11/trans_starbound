@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주조소 장치팩"
+        "path": "/description",
+        "value": "뾰죡한 배낭."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뾰죡한 배낭."
+        "path": "/shortdescription",
+        "value": "주조소 장치팩"
     }
 ]

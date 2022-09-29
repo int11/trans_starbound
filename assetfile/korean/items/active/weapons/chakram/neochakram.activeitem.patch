@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "네오 차크람"
+        "path": "/description",
+        "value": "파괴적인 에너지가 타오르는 소리가 난다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "파괴적인 에너지가 타오르는 소리가 난다."
+        "path": "/shortdescription",
+        "value": "네오 차크람"
     },
     {
         "op": "replace",

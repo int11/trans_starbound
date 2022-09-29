@@ -1,6 +1,16 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "침대 보다 더 나은거? 침대 두개!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오두막 2단 침대"
+    },
+    {
+        "op": "replace",
         "path": "/apexDescription",
         "value": "접근하는 적을 찾기 위한 최고의 침대? 뭔 소릴 하는건지."
     },
@@ -16,13 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나, 나야말로 별이랑 좀더 가까이 자고 싶다고"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 독창적인 침대는 아-주 깔끔한 침구 덕분에 망했군."
+        "path": "/glitchDescription",
+        "value": "걱정. 내가 자는동안 무너지지나 않았으면 하네"
     },
     {
         "op": "replace",
@@ -31,17 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "걱정. 내가 자는동안 무너지지나 않았으면 하네"
+        "path": "/hylotlDescription",
+        "value": "이 독창적인 침대는 아-주 깔끔한 침구 덕분에 망했군."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오두막 2단 침대"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "침대 보다 더 나은거? 침대 두개!"
+        "path": "/novakidDescription",
+        "value": "나, 나야말로 별이랑 좀더 가까이 자고 싶다고"
     }
 ]

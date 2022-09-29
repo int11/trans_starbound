@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 이 함션이 깨어날 슈 있게 고친다!"
+        "path": "/description",
+        "value": "함선-기반 인공 지능 비서,혹은 짧게 S.A.I.L."
     },
     {
         "op": "replace",
@@ -16,8 +16,23 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "함선을 재가동 시키는 것은  SAIL과 소통할 수 있게 해줄것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이 함션이 깨어날 슈 있게 고친다!"
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "괴로움. SAIL과 소통하기 위해서는 함선을 재가동 시켜야 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "함선을 재가동 시킬 수 있다면 SAIL도 돌아올 거야!"
     },
     {
         "op": "replace",
@@ -28,20 +43,5 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "함선을 재가동해야 SAIL과 소통할 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "함선을 재가동 시키는 것은  SAIL과 소통할 수 있게 해줄것이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "함선을 재가동 시킬 수 있다면 SAIL도 돌아올 거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "함선-기반 인공 지능 비서,혹은 짧게 S.A.I.L."
     }
 ]

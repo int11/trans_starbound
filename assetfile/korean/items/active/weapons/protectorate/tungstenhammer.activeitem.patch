@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 망치"
+        "path": "/description",
+        "value": "무겁지만, 제대로 꽂는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무겁지만, 제대로 꽂는다."
+        "path": "/shortdescription",
+        "value": "텅스텐 망치"
     }
 ]

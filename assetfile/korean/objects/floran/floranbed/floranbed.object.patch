@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 침대에서 썩은 내가 나."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "얼마나 무례한가, 살아있는 생명을 가구로 격하시키다니."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "역겨움. 만약 이 침대가 글리치의 유해로 만들어졌으면 어떻게 생겼었을까."
+        "path": "/description",
+        "value": "이 뼈 뼈대는 어느 정도 배기지만, 저 모피 담요는 굉장히 편안해 보인다."
     },
     {
         "op": "replace",
@@ -21,18 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "다른 거 필요 없이 침대가 따듯하기만 하면 좋겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "피 냄새가 침대 시트에 눌어붙어있어."
-    },
-    {
-        "op": "replace",
         "path": "/apexDescription",
         "value": "뼈와 모피로 만든 침대야. 내 것과 비슷한 털로 만든 이런 침대는 많이 불편한데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "다른 거 필요 없이 침대가 따듯하기만 하면 좋겠어."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 뼈 뼈대는 어느 정도 배기지만, 저 모피 담요는 굉장히 편안해 보인다."
+        "path": "/glitchDescription",
+        "value": "역겨움. 만약 이 침대가 글리치의 유해로 만들어졌으면 어떻게 생겼었을까."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "피 냄새가 침대 시트에 눌어붙어있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "얼마나 무례한가, 살아있는 생명을 가구로 격하시키다니."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 침대에서 썩은 내가 나."
     }
 ]

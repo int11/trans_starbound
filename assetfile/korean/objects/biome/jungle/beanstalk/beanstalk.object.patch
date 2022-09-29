@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "콩나무 줄기 크게 자라셔 플로란 하늘에 닿는다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "콩나무 줄기다. 하늘까지 닿아있다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "꼭대기에서 보면 경치가 장난아니겠는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "동화속에나 나오던 콩나무 줄기."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "콩나무줄기를 보고 있자니 옛날 얘기가 생각나네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "진짜 콩나무잖아!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "수상. 이 콩나무 꼭대기엔 뭐가 있을까?"
+        "path": "/description",
+        "value": "하늘까지 뻗은 콩나무 줄기다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "하늘까지 뻗은 콩나무 줄기다."
+        "path": "/apexDescription",
+        "value": "진짜 콩나무잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "동화속에나 나오던 콩나무 줄기."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "콩나무 줄기 크게 자라셔 플로란 하늘에 닿는다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "수상. 이 콩나무 꼭대기엔 뭐가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "콩나무줄기를 보고 있자니 옛날 얘기가 생각나네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "꼭대기에서 보면 경치가 장난아니겠는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "콩나무 줄기다. 하늘까지 닿아있다."
     }
 ]

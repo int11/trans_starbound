@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "병 안에 정신을 가둘 수 있다고 생각하다니, 어리석군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "즙이 많은 절인 뇌야."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "항아리 속에 뇌? 나는 저것 때문에 편안하지 않군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 뇌는 정말 큰데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "저거... 뇌야?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이건 에이펙스의 뇌야..."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "질투. 진짜 두뇌로군."
+        "path": "/description",
+        "value": "공상에 잠긴 병 안의 뇌."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "공상에 잠긴 병 안의 뇌."
+        "path": "/apexDescription",
+        "value": "이건 에이펙스의 뇌야..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 뇌는 정말 큰데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "즙이 많은 절인 뇌야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "질투. 진짜 두뇌로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저거... 뇌야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "병 안에 정신을 가둘 수 있다고 생각하다니, 어리석군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "항아리 속에 뇌? 나는 저것 때문에 편안하지 않군."
     }
 ]

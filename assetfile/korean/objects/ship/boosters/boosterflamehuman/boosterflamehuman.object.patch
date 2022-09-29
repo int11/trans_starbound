@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "추진력있게."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "우주선 발진기, 우주선의 날개지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "연료를 먹는 것들이로군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "우주선 발진기. 오작동하고 폭팔하는걸로 알고 있는데"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "분석. 무언가를 측정하기엔 온도가 너무 높군!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "불 무셔워."
+        "path": "/description",
+        "value": "햄버거 패티를 보다 빨리 굽고 싶을때 써보자."
     },
     {
         "op": "replace",
@@ -36,7 +11,32 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "햄버거 패티를 보다 빨리 굽고 싶을때 써보자."
+        "path": "/apexDescription",
+        "value": "우주선 발진기. 오작동하고 폭팔하는걸로 알고 있는데"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "우주선 발진기, 우주선의 날개지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불 무셔워."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분석. 무언가를 측정하기엔 온도가 너무 높군!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "연료를 먹는 것들이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "추진력있게."
     }
 ]

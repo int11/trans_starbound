@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "큰 금속 탱크"
+        "path": "/description",
+        "value": "무얼 보관하고 어디에 쓰이는지는 아무도 모른다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무얼 보관하고 어디에 쓰이는지는 아무도 모른다."
+        "path": "/shortdescription",
+        "value": "큰 금속 탱크"
     },
     {
         "op": "replace",

@@ -11,13 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;철 제작 탁자^white; "
+        "path": "/description",
+        "value": "아주 정교한 장비들로 이뤄진 탁자이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아주 정교한 장비들로 이뤄진 탁자이다."
+        "path": "/shortdescription",
+        "value": "^orange;철 제작 탁자^white; "
     },
     {
         "op": "replace",

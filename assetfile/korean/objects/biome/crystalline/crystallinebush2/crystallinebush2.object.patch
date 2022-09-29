@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "삐까뻔쩍 수정."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "얼어붙은 산호를 떠오르게 하는 수정이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "반짝이는 수정 무더기다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오오. 예쁘다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "수정이 꽤 예쁘다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "조급. 수정을 밟을 때 기분이 더럽다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝, 뾰족한 돌멩이."
+        "path": "/description",
+        "value": "수정질 퇴적물이다. 반짝인다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수정질 퇴적물이다. 반짝인다."
+        "path": "/apexDescription",
+        "value": "수정이 꽤 예쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "반짝이는 수정 무더기다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝, 뾰족한 돌멩이."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조급. 수정을 밟을 때 기분이 더럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오오. 예쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "얼어붙은 산호를 떠오르게 하는 수정이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "삐까뻔쩍 수정."
     }
 ]

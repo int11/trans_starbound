@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "힘세고 강해보이는 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "환영인사를 하는 것 같진 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "튼튼한 문이다. 침입자들을 쫓아내는 데 탁월하다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "내리닫이 관문이라, 과거로 돌아간 기분이다! 진짜 제대로 만들었는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "철창과 쇠사슬이라면 질린다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "동경. 이 내리닫이 쇠창살 문은 내가 조립된 장소를 생각나게 하는군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "힘셴 금속 문."
+        "path": "/description",
+        "value": "거대한 내리닫이 쇠창살 문이 쿵 소리와 함께 닫힌다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대한 내리닫이 쇠창살 문이 쿵 소리와 함께 닫힌다."
+        "path": "/apexDescription",
+        "value": "철창과 쇠사슬이라면 질린다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "튼튼한 문이다. 침입자들을 쫓아내는 데 탁월하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "힘셴 금속 문."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "동경. 이 내리닫이 쇠창살 문은 내가 조립된 장소를 생각나게 하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "내리닫이 관문이라, 과거로 돌아간 기분이다! 진짜 제대로 만들었는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "환영인사를 하는 것 같진 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "힘세고 강해보이는 문이다."
     }
 ]

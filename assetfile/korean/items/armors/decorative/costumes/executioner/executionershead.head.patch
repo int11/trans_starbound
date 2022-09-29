@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "처형자의 마스크"
+        "path": "/description",
+        "value": "전통적인 처형자의 마스크."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전통적인 처형자의 마스크."
+        "path": "/shortdescription",
+        "value": "처형자의 마스크"
     }
 ]

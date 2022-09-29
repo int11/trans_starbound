@@ -6,8 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "어두워 보이는 검은 블록."
+        "path": "/description",
+        "value": "어둡고,  매끄러운 돌 블록이다."
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "어둡고,  매끄러운 돌 블록이다."
+        "path": "/novakidDescription",
+        "value": "어두워 보이는 검은 블록."
     }
 ]

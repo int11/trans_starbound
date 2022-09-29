@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "판지 상자 갑옷"
+        "path": "/description",
+        "value": "상상력은 진정한 힘의 열쇠이다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "상상력은 진정한 힘의 열쇠이다!"
+        "path": "/shortdescription",
+        "value": "판지 상자 갑옷"
     }
 ]

@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "아름다운 풍경을 그렸어. 난 저런데 가기 좋아하는데!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 그림은 풍경을 상당히 생생하게 그렸군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "영감. 이 아름다운 푼경은 무엇인가"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 보기엔 셰상 작아. 플로란 작은데로 안가. 플로란 실망이야."
+        "path": "/description",
+        "value": "아름다운 풍경을 자세하게 그렸다."
     },
     {
         "op": "replace",
@@ -26,8 +11,23 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아름다운 풍경을 자세하게 그렸다."
+        "path": "/apexDescription",
+        "value": "이 그림은 풍경을 상당히 생생하게 그렸군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아름다운 풍경을 그렸어. 난 저런데 가기 좋아하는데!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 보기엔 셰상 작아. 플로란 작은데로 안가. 플로란 실망이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 이 아름다운 푼경은 무엇인가"
     },
     {
         "op": "replace",

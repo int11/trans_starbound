@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오래된 방열기"
+        "path": "/description",
+        "value": "空间散热器发着低沉、不愉快的哼鸣。"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "空间散热器发着低沉、不愉快的哼鸣。"
+        "path": "/shortdescription",
+        "value": "오래된 방열기"
     },
     {
         "op": "replace",

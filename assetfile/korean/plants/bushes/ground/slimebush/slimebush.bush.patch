@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 끈적이는 수풀이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "끈적이는 슈풀."
+        "path": "/description",
+        "value": "끈적이는 수풀."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "끈적이는 수풀."
+        "path": "/floranDescription",
+        "value": "끈적이는 슈풀."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 끈적이는 수풀이군."
     }
 ]

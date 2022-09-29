@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 오래되 보이는 벽돌은 굉장히 매끄러운데."
+        "path": "/shortdescription",
+        "value": "매끄러운 무덤 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래된 벽돌,  완벽하게 연마 됬다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오래된 벽돌,  완벽하게 연마 됬다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "매끄러운 무덤 벽돌"
+        "path": "/novakidDescription",
+        "value": "이 오래되 보이는 벽돌은 굉장히 매끄러운데."
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "고장난 콘솔.  동작한 적이 있을까 궁금하네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 콘솔은 손도 못 쓸 정도로 망가졌어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "콘솔. 작동하지 않아."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 콘솔은 동작 안해. 버튼 절반은 사라졌고."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "쓸모없는 망가진 콘솔."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "격분. 이 콘솔은 고장나고 쓸모 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 조작기 고장났어."
+        "path": "/description",
+        "value": "여기에 시동을 걸어도 변화가 없다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여기에 시동을 걸어도 변화가 없다."
+        "path": "/apexDescription",
+        "value": "쓸모없는 망가진 콘솔."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "콘솔. 작동하지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 조작기 고장났어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "격분. 이 콘솔은 고장나고 쓸모 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 콘솔은 동작 안해. 버튼 절반은 사라졌고."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 콘솔은 손도 못 쓸 정도로 망가졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "고장난 콘솔.  동작한 적이 있을까 궁금하네."
     }
 ]

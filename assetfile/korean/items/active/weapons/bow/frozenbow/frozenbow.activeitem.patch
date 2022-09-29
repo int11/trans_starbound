@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼어붙은 활"
+        "path": "/description",
+        "value": "극한의 화살을 발사하는 활이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "극한의 화살을 발사하는 활이다."
+        "path": "/shortdescription",
+        "value": "얼어붙은 활"
     }
 ]

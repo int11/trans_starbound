@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 바다 수풀."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "끈적이는 잡초."
+        "path": "/description",
+        "value": "바다풀."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바다풀."
+        "path": "/floranDescription",
+        "value": "끈적이는 잡초."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 바다 수풀."
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 작은 전기 조명이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "그냥 평범한 전등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "간단한 빛을 내려고 전기를 연결해놨다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "기본 조명이 장착되어있다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "승인. 이 기본 조명은 대부분의 표면에 장착할 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "작은 전기 조명."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "작은 등불 불 없다."
+        "path": "/description",
+        "value": "싼 전기 조명."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "싼 전기 조명."
+        "path": "/apexDescription",
+        "value": "작은 전기 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "간단한 빛을 내려고 전기를 연결해놨다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "작은 등불 불 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "승인. 이 기본 조명은 대부분의 표면에 장착할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "기본 조명이 장착되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "그냥 평범한 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 작은 전기 조명이다."
     }
 ]

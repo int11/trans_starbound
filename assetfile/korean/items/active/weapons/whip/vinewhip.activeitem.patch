@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "덩쿨 채찍"
+        "path": "/description",
+        "value": "가시투성이 덩쿨로 만들어진 채찍이다. 철썩!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가시투성이 덩쿨로 만들어진 채찍이다. 철썩!"
+        "path": "/shortdescription",
+        "value": "덩쿨 채찍"
     },
     {
         "op": "replace",

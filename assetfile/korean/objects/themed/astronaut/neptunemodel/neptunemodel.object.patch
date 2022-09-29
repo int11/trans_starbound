@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "해왕성은 태양계에서 지구랑 가장 멀리 떨어져있어."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "해왕성 태양계에서 두번째로 큰 얼음이야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "해왕성은 커다란 검은 반점과 작고 검은 반점이 있어.  세번째 반점이 있었다면 딱이였을텐데"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "해왕성은 지구의 고대 바다신에서 본뜬 이름을 쓰지. 그 위성들도 바다의 준신들의 이름을 써."
+        "path": "/description",
+        "value": "가장 먼 태양계의 해왕성을 본뜬 천장걸이 모형이다."
     },
     {
         "op": "replace",
@@ -26,18 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가장 먼 태양계의 해왕성을 본뜬 천장걸이 모형이다."
-    },
-    {
-        "op": "replace",
         "path": "/apexDescription",
         "value": "海王星。它表面大黑点好似木星著名的大红斑。"
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "해왕성은 지구의 고대 바다신에서 본뜬 이름을 쓰지. 그 위성들도 바다의 준신들의 이름을 써."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "해왕성 태양계에서 두번째로 큰 얼음이야."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "悲伤。由于几年前一个系统故障运输机迫降在海王星爆炸。一切都消失了。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "해왕성은 태양계에서 지구랑 가장 멀리 떨어져있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "해왕성은 커다란 검은 반점과 작고 검은 반점이 있어.  세번째 반점이 있었다면 딱이였을텐데"
     },
     {
         "op": "replace",

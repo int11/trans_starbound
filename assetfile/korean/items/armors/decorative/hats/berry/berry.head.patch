@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "배리 모자"
+        "path": "/description",
+        "value": "쓰고 다닐수있는 거대한 배리, 배랫과 햇갈리지 말자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "쓰고 다닐수있는 거대한 배리, 배랫과 햇갈리지 말자."
+        "path": "/shortdescription",
+        "value": "배리 모자"
     }
 ]

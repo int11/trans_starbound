@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에이프 화면"
+        "path": "/description",
+        "value": "这个屏幕显示了大猿的各种宣传信息。"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "这个屏幕显示了大猿的各种宣传信息。"
+        "path": "/shortdescription",
+        "value": "에이프 화면"
     },
     {
         "op": "replace",

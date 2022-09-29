@@ -1,26 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뭐, 유기농 탁자라도 상관은 없긴 한데... 이 가시들은 좀 아닌거 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아름다운 연잎이 생각나는구나."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 탁자 옆에 있으면 불편할거 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 탁자 요리 무게를 못견뎌서 무너질거 같은데."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "一张都是刺的桌子。请注意自己的站位。"
     },
@@ -36,6 +16,11 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 탁자 옆에 있으면 불편할거 같군."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "尖刺桌子捅捅捅了叶族人。叶族人要捅捅捅回去！"
     },
@@ -43,5 +28,20 @@
         "op": "replace",
         "path": "/glitchDescription",
         "value": "注意。这些尖刺格外的锋利。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 탁자 요리 무게를 못견뎌서 무너질거 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아름다운 연잎이 생각나는구나."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭐, 유기농 탁자라도 상관은 없긴 한데... 이 가시들은 좀 아닌거 같아."
     }
 ]

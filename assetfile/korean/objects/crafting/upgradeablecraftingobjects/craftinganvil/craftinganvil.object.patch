@@ -1,88 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/upgradeStages/2/addonConfig/usesAddons/0/addonData/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "가속장치 복제기"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/description",
-        "value": "직물이나 금속등으로 갑옷과 무기 등을 만들어낼 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;갑옷, 무기, EPP"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;갑옷, 무기, EPP"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;갑옷, 무기, EPP"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/addonConfig/usesAddons/2/addonData/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "조종장치 복제기"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/addonConfig/usesAddons/1/addonData/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "분리장치 복제기"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "복제기"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "노"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "모루"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;모루^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-        "value": "^orange;복제기^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-        "value": "^orange;노^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-        "value": "^orange;모루^white; "
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "직물이나 금속등으로 갑옷과 무기 등을 만들어낼 수 있다."
     },
     {
         "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/description",
-        "value": "직물이나 금속등으로 갑옷과 무기 등을 만들어낼 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/description",
-        "value": "직물이나 금속등으로 갑옷과 무기 등을 만들어낼 수 있다."
+        "path": "/shortdescription",
+        "value": "^orange;모루^white; "
     },
     {
         "op": "replace",
@@ -121,6 +46,16 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/description",
+        "value": "직물이나 금속등으로 갑옷과 무기 등을 만들어낼 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;모루^white; "
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
         "value": "一个铁砧。猿人已经有很长、很长的时间没有用过这些来加工金属了。"
     },
@@ -151,8 +86,28 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "모루"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;갑옷, 무기, EPP"
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
         "value": "一个铁砧。我对这些可不陌生。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "직물이나 금속등으로 갑옷과 무기 등을 만들어낼 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+        "value": "^orange;노^white; "
     },
     {
         "op": "replace",
@@ -186,8 +141,28 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "노"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;갑옷, 무기, EPP"
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
         "value": "这个锻造工作台在创造金属装备时将会派上用场。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/description",
+        "value": "직물이나 금속등으로 갑옷과 무기 등을 만들어낼 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+        "value": "^orange;복제기^white; "
     },
     {
         "op": "replace",
@@ -216,6 +191,16 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "복제기"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;갑옷, 무기, EPP"
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
         "value": "这个复制机使我能够用高质量材料创造出高质量的装备。"
     },
@@ -223,5 +208,20 @@
         "op": "replace",
         "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
         "value": "我能用这个复制机为自己做一些很好的装备。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/addonConfig/usesAddons/0/addonData/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "가속장치 복제기"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/addonConfig/usesAddons/1/addonData/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "분리장치 복제기"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/addonConfig/usesAddons/2/addonData/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "조종장치 복제기"
     }
 ]

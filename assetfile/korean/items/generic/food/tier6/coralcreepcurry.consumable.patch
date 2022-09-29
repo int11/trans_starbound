@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "산호크리프 카레"
+        "path": "/description",
+        "value": "산호크리프 열매를 넣은 약간 매운 카레이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "산호크리프 열매를 넣은 약간 매운 카레이다."
+        "path": "/shortdescription",
+        "value": "산호크리프 카레"
     }
 ]

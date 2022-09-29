@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 버려진 쓰레기에는 다양한 기술이 담겨있어."
+        "path": "/shortdescription",
+        "value": "쓰레기 기술"
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "벽돌 속에 오래된 기술 뭉텅이가 부서진채 혼합되어있다."
+        "path": "/glitchDescription",
+        "value": "흥미. 이 버려진 쓰레기에는 다양한 기술이 담겨있어."
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "쓰레기 기술"
+        "path": "/novakidDescription",
+        "value": "벽돌 속에 오래된 기술 뭉텅이가 부서진채 혼합되어있다."
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "젖은 손을 말리는 장비다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "손 건조기다. 수북한 에이펙스 털에도 잘 먹힐 까 궁금하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "기쁨. 손 건조기다. 녹을 방지하는 데 유용하다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하이로틀은 손을 말릴 필요가 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "깃털 헝클어트리기 딱 좋다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "기본적인 거잖아."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 숀 말린다."
+        "path": "/description",
+        "value": "손을 건조시키는 작은 기기이다. 손 내밀자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "손을 건조시키는 작은 기기이다. 손 내밀자."
+        "path": "/apexDescription",
+        "value": "손 건조기다. 수북한 에이펙스 털에도 잘 먹힐 까 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "깃털 헝클어트리기 딱 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 숀 말린다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 손 건조기다. 녹을 방지하는 데 유용하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "기본적인 거잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀은 손을 말릴 필요가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "젖은 손을 말리는 장비다."
     }
 ]

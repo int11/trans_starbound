@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고리버들을 촘촘하게 엮어 만든 지지대이다."
+        "path": "/shortdescription",
+        "value": "고리버들 지지 블럭"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고리버들 지지 블럭"
+        "path": "/description",
+        "value": "고리버들을 촘촘하게 엮어 만든 지지대이다."
     },
     {
         "op": "replace",

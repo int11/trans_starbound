@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 산탄총"
+        "path": "/description",
+        "value": "근거리에서 치명적인 산탄을 발사한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "근거리에서 치명적인 산탄을 발사한다."
+        "path": "/shortdescription",
+        "value": "텅스텐 산탄총"
     }
 ]

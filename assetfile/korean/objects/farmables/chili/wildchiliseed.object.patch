@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고추 씨"
+        "path": "/description",
+        "value": "뜨거운 정렬의 매운맛! 인간이 아니라면 더 맵게 느껴진다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뜨거운 정렬의 매운맛! 인간이 아니라면 더 맵게 느껴진다."
+        "path": "/shortdescription",
+        "value": "고추 씨"
     },
     {
         "op": "replace",

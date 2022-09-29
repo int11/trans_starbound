@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날카로운 문"
+        "path": "/description",
+        "value": "칼날이 교차된 문이다. 뺄 수 있을 것 같아 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "칼날이 교차된 문이다. 뺄 수 있을 것 같아 보인다."
+        "path": "/shortdescription",
+        "value": "날카로운 문"
     },
     {
         "op": "replace",

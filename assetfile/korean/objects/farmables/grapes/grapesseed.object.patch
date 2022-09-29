@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "포도는 간식으로 딱이지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "고급진 과일이다. 슬프게도 이를 맛볼 수 있는 에이펙스는 많지 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "건방. 포도는 좋은 투사체를 만들기도 하거니와 간식용으로도 좋다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "포도 톡톡 터지면셔 즙도 많다. 보라색 눈알같다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "바다 포도가 훨씬 낫다. 이건 너무 달아."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "작고, 간편하고, 쪼아댈 수 있는 포도."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "포도다. 의료실에 있는 환자들을 위한 전통 선물이다."
+        "path": "/description",
+        "value": "포도, 자연이 내린 간식."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "포도, 자연이 내린 간식."
+        "path": "/apexDescription",
+        "value": "고급진 과일이다. 슬프게도 이를 맛볼 수 있는 에이펙스는 많지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "작고, 간편하고, 쪼아댈 수 있는 포도."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "포도 톡톡 터지면셔 즙도 많다. 보라색 눈알같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "건방. 포도는 좋은 투사체를 만들기도 하거니와 간식용으로도 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "포도다. 의료실에 있는 환자들을 위한 전통 선물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바다 포도가 훨씬 낫다. 이건 너무 달아."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "포도는 간식으로 딱이지."
     }
 ]

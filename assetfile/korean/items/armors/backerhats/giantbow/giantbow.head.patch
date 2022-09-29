@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거대한 나비 모양 리본"
+        "path": "/description",
+        "value": "거대한 나비 모양 리본이다! 너무 예쁘다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대한 나비 모양 리본이다! 너무 예쁘다."
+        "path": "/shortdescription",
+        "value": "거대한 나비 모양 리본"
     }
 ]

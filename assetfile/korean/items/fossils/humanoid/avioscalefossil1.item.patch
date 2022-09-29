@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아비오스케일 머리뼈 화석 (Avioscale Skull)"
+        "path": "/description",
+        "value": "화석이 된 아비오스케일의 머리뼈이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화석이 된 아비오스케일의 머리뼈이다."
+        "path": "/shortdescription",
+        "value": "아비오스케일 머리뼈 화석 (Avioscale Skull)"
     },
     {
         "op": "replace",

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기의 구름은 무거운 솜털물질로 만들어졌다."
+        "path": "/description",
+        "value": "걷기에 구름 밀도가 충분하다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "구름"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구름"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "걷기에 구름 밀도가 충분하다."
+        "path": "/novakidDescription",
+        "value": "여기의 구름은 무거운 솜털물질로 만들어졌다."
     }
 ]

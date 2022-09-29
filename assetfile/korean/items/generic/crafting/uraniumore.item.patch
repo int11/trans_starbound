@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "우라늄 광석"
+        "path": "/description",
+        "value": "우라늄 이다. 좋은 연료지."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우라늄 이다. 좋은 연료지."
+        "path": "/shortdescription",
+        "value": "우라늄 광석"
     }
 ]

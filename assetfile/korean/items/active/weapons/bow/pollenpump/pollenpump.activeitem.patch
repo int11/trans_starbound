@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화분 펌프"
+        "path": "/description",
+        "value": "완벽한 해충 방지안."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "완벽한 해충 방지안."
+        "path": "/shortdescription",
+        "value": "화분 펌프"
     },
     {
         "op": "replace",

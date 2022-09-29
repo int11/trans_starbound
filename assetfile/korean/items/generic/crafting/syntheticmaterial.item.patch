@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "합성 직물"
+        "path": "/description",
+        "value": "정사각의 합성 직물이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "정사각의 합성 직물이다."
+        "path": "/shortdescription",
+        "value": "합성 직물"
     }
 ]

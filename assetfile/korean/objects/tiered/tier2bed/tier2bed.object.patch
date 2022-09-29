@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "훌륭하진 않지만 충분해."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "지친 몸을 쉬게 해줄 심플한 침대."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "괜찮은 침대. 여기서 약간 쉴 수 있을거야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "기본적인 침대. 충분히 안락해."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 심플하지만 튼튼한 침대."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 심플 침대에서 쉰다."
+        "path": "/description",
+        "value": "흔한 텅스텐 침대."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "흔한 텅스텐 침대."
+        "path": "/apexDescription",
+        "value": "기본적인 침대. 충분히 안락해."
     },
     {
         "op": "replace",
         "path": "/avianDescription",
         "value": "내 날개를 쉬게 하기엔 충분히 편안해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 심플 침대에서 쉰다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 심플하지만 튼튼한 침대."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "괜찮은 침대. 여기서 약간 쉴 수 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "훌륭하진 않지만 충분해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "지친 몸을 쉬게 해줄 심플한 침대."
     }
 ]

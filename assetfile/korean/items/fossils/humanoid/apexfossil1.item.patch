@@ -1,22 +1,22 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에이펙스 머리뼈 화석 (Apex Skull)"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "화석이 된 에이펙스의 머리뼈다."
     },
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "화석이 된 에이펙스의 유골. 강력한 이빨과 두드러진 이마 굴곡이 눈에 띈다."
+        "path": "/shortdescription",
+        "value": "에이펙스 머리뼈 화석 (Apex Skull)"
     },
     {
         "op": "replace",
         "path": "/completeSetDescriptions/shortdescription",
         "value": "에이펙스 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "화석이 된 에이펙스의 유골. 강력한 이빨과 두드러진 이마 굴곡이 눈에 띈다."
     }
 ]

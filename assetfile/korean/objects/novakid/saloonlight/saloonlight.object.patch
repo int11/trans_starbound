@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 조명"
+        "path": "/description",
+        "value": "전기를 쓰는 벽장형 조명기구다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전기를 쓰는 벽장형 조명기구다."
+        "path": "/shortdescription",
+        "value": "술집 조명"
     },
     {
         "op": "replace",

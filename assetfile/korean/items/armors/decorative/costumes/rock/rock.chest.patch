@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바위 상의"
+        "path": "/description",
+        "value": "바위로 만들어진 상의이다. 왜이리 불편해!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바위로 만들어진 상의이다. 왜이리 불편해!"
+        "path": "/shortdescription",
+        "value": "바위 상의"
     }
 ]

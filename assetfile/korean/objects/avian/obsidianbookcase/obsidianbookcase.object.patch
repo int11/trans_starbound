@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "큰 흑요석 책장"
+        "path": "/description",
+        "value": "화려하게 장식된 흑요석 책장이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화려하게 장식된 흑요석 책장이다."
+        "path": "/shortdescription",
+        "value": "큰 흑요석 책장"
     },
     {
         "op": "replace",

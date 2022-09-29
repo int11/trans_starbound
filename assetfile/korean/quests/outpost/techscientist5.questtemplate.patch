@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "^orange;구성 요소를 모으기"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "이번에 새로 만드는 ^orange;기술^white;은 정말이지 환상적이야! 이건 사용자를 작게 압축해서, 구체의 모양으로 좁은 공간을 지나갈 수 있도록 하는거야. 이걸 완성하기 위해서는 마지막 구성 요소가 필요해. ^orange;10개의 금 주괴^green;를 가져다 줄 수 있겠니^white;?"
     },
@@ -18,11 +23,6 @@
         "op": "replace",
         "path": "/scriptConfig/portraits/questComplete/title",
         "value": "엘리엇"
-    },
-    {
-        "op": "replace",
-        "path": "/title",
-        "value": "^orange;구성 요소를 모으기"
     },
     {
         "op": "replace",

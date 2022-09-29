@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "노동의 열정이 이 물건엔 없군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "의자 다리가 흔들거린다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "불편하고 흔들거리는 의자다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "강박. 의자 다리 하나가 나머지보다 3밀리미터 길다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 더 좋은 의자 만든다. 슈공예 장인이다."
+        "path": "/description",
+        "value": "표준 규격의 목제 식탁 의자다."
     },
     {
         "op": "replace",
@@ -31,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "표준 규격의 목제 식탁 의자다."
+        "path": "/apexDescription",
+        "value": "이런 간단한 의자들은 대량생산된다. 한 번은 의자에 '살려줘요'가 새겨진 것도 봤다."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "이런 간단한 의자들은 대량생산된다. 한 번은 의자에 '살려줘요'가 새겨진 것도 봤다."
+        "path": "/avianDescription",
+        "value": "의자 다리가 흔들거린다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 더 좋은 의자 만든다. 슈공예 장인이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "강박. 의자 다리 하나가 나머지보다 3밀리미터 길다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "불편하고 흔들거리는 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "노동의 열정이 이 물건엔 없군."
     },
     {
         "op": "replace",

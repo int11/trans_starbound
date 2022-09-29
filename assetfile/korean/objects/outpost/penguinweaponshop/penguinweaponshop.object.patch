@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "무기 암시장의 한 종류."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여긴 큰 피해를 입힐 만한 것들이 많아 보이네. 쓸모 있을지도 모르겠는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;매일 새로운 무기 업그레이드를 제공해드려요!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "칼이 엄청 많아. 대부분 점장보다 커다란데!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 어떻게 이 작은 점장이 물건들을 들어 올릴까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 많은 무기 보인다. 플로란 기대 넘친다."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "비기의 소문자자한 무기점"
+        "path": "/description",
+        "value": "레어 무기 업그레이드 제공."
     },
     {
         "op": "replace",
@@ -41,8 +11,23 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "레어 무기 업그레이드 제공."
+        "path": "/apexDescription",
+        "value": "무기 암시장의 한 종류."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "칼이 엄청 많아. 대부분 점장보다 커다란데!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 많은 무기 보인다. 플로란 기대 넘친다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 어떻게 이 작은 점장이 물건들을 들어 올릴까?"
     },
     {
         "op": "replace",
@@ -53,5 +38,20 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "这个后巷小店的店主对头饰的品味很古怪啊。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여긴 큰 피해를 입힐 만한 것들이 많아 보이네. 쓸모 있을지도 모르겠는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "비기의 소문자자한 무기점"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;매일 새로운 무기 업그레이드를 제공해드려요!"
     }
 ]

@@ -1,31 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이따금 온수로 목욕하면 좋지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "인간들이 씻는 그릇이다. 우리 하이로틀은 그냥 수영하면 그만이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "샤워기가 달린 욕조다. 아비안 등에 물 붓기다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "멋진 욕조다. 의사양반이 말한 대로다. 몇 가지 빠진 게 있다면 비누거품이랑 양초가 없네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "커다란 슈영양동이."
-    },
-    {
-        "op": "replace",
         "path": "/shortdescription",
         "value": "기본적인 욕조"
     },
@@ -36,7 +11,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "샤워기가 달린 욕조다. 아비안 등에 물 붓기다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "커다란 슈영양동이."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "자만. 글리치는 목욕따윈 안 한다네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "멋진 욕조다. 의사양반이 말한 대로다. 몇 가지 빠진 게 있다면 비누거품이랑 양초가 없네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "인간들이 씻는 그릇이다. 우리 하이로틀은 그냥 수영하면 그만이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이따금 온수로 목욕하면 좋지."
     }
 ]

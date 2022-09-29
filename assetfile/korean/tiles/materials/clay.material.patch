@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "말리면 더 단단해질 거 같은데."
+        "path": "/description",
+        "value": "무겁고 끈적끈적한 점토."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "점토"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무겁고 끈적끈적한 점토."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "점토"
+        "path": "/novakidDescription",
+        "value": "말리면 더 단단해질 거 같은데."
     }
 ]

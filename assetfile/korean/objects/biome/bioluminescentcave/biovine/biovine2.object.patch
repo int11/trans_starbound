@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이런 덩굴로는 여러가지 유용한 물건들을 만들 수 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 덩굴엔 뭔가 아름다운 게 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "징그러운 빛나는 덩굴."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "발광 덩굴손."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "만족. 이런 덩굴이 아무 동굴에서나 다 자라나면 좋을 텐데."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "빛나는 녹섁 덩굴."
+        "path": "/description",
+        "value": "빛나는 덩굴이다!"
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "발광 덩굴손."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 덩굴엔 뭔가 아름다운 게 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 녹섁 덩굴."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이런 덩굴이 아무 동굴에서나 다 자라나면 좋을 텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "징그러운 빛나는 덩굴."
+    },
+    {
+        "op": "replace",
         "path": "/hylotlDescription",
         "value": "마치 심해에서 흐늘거리는 해초같다. 희미한 빛이 기운을 북돋워준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빛나는 덩굴이다!"
+        "path": "/novakidDescription",
+        "value": "이런 덩굴로는 여러가지 유용한 물건들을 만들 수 있지."
     }
 ]

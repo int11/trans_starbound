@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "그들의 억센 보호 껍질은 거북을 매우 흥미로운 유기체로 만들지. 이건 그냥 인형이고."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이건 진짜 거북이 아니라 가짜야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 나는 한 번도 진짜 거북을 본 적이 없소."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "장난감 초록섁이다. 이 섕물 식물인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "거북이다! 난 거북이 좋아."
+        "path": "/description",
+        "value": "작고 귀여운 거북 인형이다."
     },
     {
         "op": "replace",
@@ -31,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작고 귀여운 거북 인형이다."
+        "path": "/apexDescription",
+        "value": "그들의 억센 보호 껍질은 거북을 매우 흥미로운 유기체로 만들지. 이건 그냥 인형이고."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "장난감 초록섁이다. 이 섕물 식물인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 나는 한 번도 진짜 거북을 본 적이 없소."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "거북이다! 난 거북이 좋아."
+    },
+    {
+        "op": "replace",
         "path": "/hylotlDescription",
         "value": "海龟是一种真正能给人以启发的生物，以玩具的形式被巧妙地展示在这。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이건 진짜 거북이 아니라 가짜야."
     }
 ]

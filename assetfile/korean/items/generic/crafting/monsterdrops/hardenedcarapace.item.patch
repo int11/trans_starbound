@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "강화된 등딱지"
+        "path": "/description",
+        "value": "강인한 유기질 껍질 조각이다. 재료로 사용이 가능하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강인한 유기질 껍질 조각이다. 재료로 사용이 가능하다."
+        "path": "/shortdescription",
+        "value": "강화된 등딱지"
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "등불 하나 달린 가로등, 안전엔 문제없어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "금속 가로등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "만족. 이 긴 가로등은 단단한 금속으로 이뤄져 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "길고 반짝이는 등불이야."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "전기 가로등."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하늘을 밝게 비추는 빛같아."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "어둠으로 부터 이끌어주지."
+        "path": "/description",
+        "value": "집 밖에 설치하는 가로등이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "집 밖에 설치하는 가로등이다."
+        "path": "/apexDescription",
+        "value": "금속 가로등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "어둠으로 부터 이끌어주지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "길고 반짝이는 등불이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 이 긴 가로등은 단단한 금속으로 이뤄져 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "등불 하나 달린 가로등, 안전엔 문제없어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하늘을 밝게 비추는 빛같아."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "전기 가로등."
     }
 ]

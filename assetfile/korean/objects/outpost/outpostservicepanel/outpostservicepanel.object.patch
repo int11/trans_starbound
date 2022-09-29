@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "서비스 패널"
+        "path": "/description",
+        "value": "서비스 패널이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "서비스 패널이다."
+        "path": "/shortdescription",
+        "value": "서비스 패널"
     },
     {
         "op": "replace",

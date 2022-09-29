@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "함선이 만들어질 때 같이 만들어졌다."
+        "path": "/description",
+        "value": "이 벽은 함선 건설할때 사용했음."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "함선 지지용"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "함선 지지용"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "이 벽은 함선 건설할때 사용했음."
+        "path": "/novakidDescription",
+        "value": "함선이 만들어질 때 같이 만들어졌다."
     }
 ]

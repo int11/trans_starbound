@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 금속 패널은 굉장히 매끄러운 느낌이야."
+        "path": "/description",
+        "value": "매끄러운 금속, 만지면 차갑다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매끄러운 금속"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "매끄러운 금속"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "매끄러운 금속, 만지면 차갑다."
+        "path": "/novakidDescription",
+        "value": "이 금속 패널은 굉장히 매끄러운 느낌이야."
     }
 ]

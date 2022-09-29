@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "승리를 쟁취하고 성도 내 차지로 만들겠다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "어렸을 때 이것과 비스무리한 게임을 했던 기억이 난다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "보드게임용 미니 성이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "풍악을 더 크게 울려라!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이런 창의적인 보드게임들은 빅 에이프 정권 하에서는 밀수품으로 규정된다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 이 보드게임은 40면체 주사위를 사용한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란도 가끔씩 재미난 게임 하는 거 좋다."
+        "path": "/description",
+        "value": "보드게임이다. 마분지 성채와 게임 말이 포함되어있다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "보드게임이다. 마분지 성채와 게임 말이 포함되어있다."
+        "path": "/apexDescription",
+        "value": "이런 창의적인 보드게임들은 빅 에이프 정권 하에서는 밀수품으로 규정된다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "보드게임용 미니 성이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란도 가끔씩 재미난 게임 하는 거 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 보드게임은 40면체 주사위를 사용한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "풍악을 더 크게 울려라!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "어렸을 때 이것과 비스무리한 게임을 했던 기억이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "승리를 쟁취하고 성도 내 차지로 만들겠다!"
     }
 ]

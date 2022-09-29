@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고름자두 잼"
+        "path": "/description",
+        "value": "고름자두로 만든 잼. 엄청나게 덩어리졌다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고름자두로 만든 잼. 엄청나게 덩어리졌다."
+        "path": "/shortdescription",
+        "value": "고름자두 잼"
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사물함이군. 이 안에 뭐가 들어있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "안에 뭔가 유용한 게 있을 지도."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "값어치 나가는 게 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "연구실 사물함이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "안에 뭔가 비밀스러운 게 있으려나..."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥분. 재밌는 물건이 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "탐섁."
+        "path": "/description",
+        "value": "지정부 사물함이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "지정부 사물함이다."
+        "path": "/apexDescription",
+        "value": "안에 뭔가 비밀스러운 게 있으려나..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "값어치 나가는 게 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "탐섁."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥분. 재밌는 물건이 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "연구실 사물함이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안에 뭔가 유용한 게 있을 지도."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사물함이군. 이 안에 뭐가 들어있을까?"
     }
 ]

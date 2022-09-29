@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기사 핼맷"
+        "path": "/description",
+        "value": "이건 살짝 긁힌것일뿐!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이건 살짝 긁힌것일뿐!"
+        "path": "/shortdescription",
+        "value": "기사 핼맷"
     }
 ]

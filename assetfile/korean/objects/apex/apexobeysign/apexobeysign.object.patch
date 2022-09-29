@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "난 그림따위한테 명령 안 받아."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "공포로 통치하는 자에게만 저런 포스터가 필요하지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "복종? 빅 에이프가 에이펙스의 신인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "에이펙스의 프로파간다다. 위에다 웃긴 콧수염을 그려야겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "복종이라... 그랬었지... 오랫동안."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "용기. 안 해!!!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "쉬이이익 플로란 저녁거리 말 안 듣는다."
+        "path": "/description",
+        "value": "시키는 대로 해야지... 풉!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "시키는 대로 해야지... 풉!"
+        "path": "/apexDescription",
+        "value": "복종이라... 그랬었지... 오랫동안."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "복종? 빅 에이프가 에이펙스의 신인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쉬이이익 플로란 저녁거리 말 안 듣는다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "용기. 안 해!!!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "에이펙스의 프로파간다다. 위에다 웃긴 콧수염을 그려야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "공포로 통치하는 자에게만 저런 포스터가 필요하지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "난 그림따위한테 명령 안 받아."
     }
 ]

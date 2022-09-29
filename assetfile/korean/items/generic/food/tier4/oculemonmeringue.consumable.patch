@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈깔레몬 머랭"
+        "path": "/description",
+        "value": "단 머랭 토핑이 올라간, 눈깔레몬 가득한 신맛의 파이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단 머랭 토핑이 올라간, 눈깔레몬 가득한 신맛의 파이다."
+        "path": "/shortdescription",
+        "value": "눈깔레몬 머랭"
     }
 ]

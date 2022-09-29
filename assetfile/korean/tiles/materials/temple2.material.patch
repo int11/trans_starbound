@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 벽돌들은 고대의 것으로 보인다. 복잡한 단어가 표면에 새겨저있지만 난 그것들을 만들 수 없다."
+        "path": "/shortdescription",
+        "value": "사원 벽돌"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 벽돌들은 오랫동안 이곳에 있었던 것으로 예상되는군."
+        "path": "/description",
+        "value": "이 벽돌들은 고대의 것으로 보인다. 복잡한 단어가 표면에 새겨저있지만 난 그것들을 만들 수 없다."
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사원 벽돌"
+        "path": "/novakidDescription",
+        "value": "이 벽돌들은 오랫동안 이곳에 있었던 것으로 예상되는군."
     }
 ]

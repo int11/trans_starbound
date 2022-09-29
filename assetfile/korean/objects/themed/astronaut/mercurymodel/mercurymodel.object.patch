@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "인간 태양계의 작은 행셩. 태양에셔 가장 가까운 행셩. 못샬겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "우리 태양계에서 가장 작은 행성이고 태양이랑 가장 가까워."
+        "path": "/description",
+        "value": "가장 작은 인류 태양계의 수성을 본뜬 천장걸이 모형이다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "수성 모형"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "가장 작은 인류 태양계의 수성을 본뜬 천장걸이 모형이다."
     },
     {
         "op": "replace",
@@ -31,8 +21,18 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "인간 태양계의 작은 행셩. 태양에셔 가장 가까운 행셩. 못샬겠다."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "惊奇。水星一天的时间几乎是59个地球日，它的时间长度约为88个地球日。。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우리 태양계에서 가장 작은 행성이고 태양이랑 가장 가까워."
     },
     {
         "op": "replace",

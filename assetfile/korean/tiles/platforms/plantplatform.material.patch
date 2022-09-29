@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "플랫폼이 이끼로 만들어서 엄청 미끌거려."
+        "path": "/shortdescription",
+        "value": "이끼낀 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "플랫폼은 이끼와 잎으로 물컹거린다. 미끄러지지 않게 더욱이 조심해야지."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "플랫폼은 이끼와 잎으로 물컹거린다. 미끄러지지 않게 더욱이 조심해야지."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "이끼낀 플랫폼"
+        "path": "/novakidDescription",
+        "value": "플랫폼이 이끼로 만들어서 엄청 미끌거려."
     }
 ]

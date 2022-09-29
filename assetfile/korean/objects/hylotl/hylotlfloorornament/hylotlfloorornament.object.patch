@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "우와, 이 어항 속에 올챙이들이 헤엄치고 있잖아. 박살내면 좋아서 못 견디겠는걸."
+        "path": "/description",
+        "value": "바닥에 놓는 장식품이다. 안에서 올챙이들이 헤엄치고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "바닥 장식품"
     },
     {
         "op": "replace",
@@ -11,23 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "안에 저것들 설마 올챙이?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "안에서 올챙이들이 헤엄치고 있다. 하이로틀의 삶에 대한 축복이다."
-    },
-    {
-        "op": "replace",
         "path": "/avianDescription",
         "value": "안에서 올챙이들이 떠다니고 있다. 이런 걸 장식용으로 쓰는 사람은 대체 누구야?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 살아있는 올챙이가 들어있는 구체다."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바닥에 놓는 장식품이다. 안에서 올챙이들이 헤엄치고 있다."
+        "path": "/glitchDescription",
+        "value": "호기심. 살아있는 올챙이가 들어있는 구체다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바닥 장식품"
+        "path": "/humanDescription",
+        "value": "우와, 이 어항 속에 올챙이들이 헤엄치고 있잖아. 박살내면 좋아서 못 견디겠는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안에서 올챙이들이 헤엄치고 있다. 하이로틀의 삶에 대한 축복이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "안에 저것들 설마 올챙이?"
     }
 ]

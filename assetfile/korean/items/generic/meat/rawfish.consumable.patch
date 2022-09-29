@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날 생선"
+        "path": "/description",
+        "value": "날 생선... 불쾌하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "날 생선... 불쾌하다."
+        "path": "/shortdescription",
+        "value": "날 생선"
     }
 ]

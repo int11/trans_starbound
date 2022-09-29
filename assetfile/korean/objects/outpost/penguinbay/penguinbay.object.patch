@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "상스럽기 짝이 없는 범죄자 새."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "펭귄 때문에 영 뒤숭숭하네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "나 갱스터 영화 속에 있는 거 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "수상한 새들과 암시장 물품들."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "유쾌. 저 자그마한 펭귄들이 다 밀수범이야."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "펭귄 베이"
+        "path": "/description",
+        "value": "위조 함선 허가증을 판매하는 불법 판매점이다."
     },
     {
         "op": "replace",
@@ -36,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "위조 함선 허가증을 판매하는 불법 판매점이다."
+        "path": "/apexDescription",
+        "value": "수상한 새들과 암시장 물품들."
     },
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "100% 합법 함선 허가증"
+        "path": "/avianDescription",
+        "value": "펭귄 때문에 영 뒤숭숭하네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "松松松软酥脆的企鹅和他们要出出出售的货物！"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "유쾌. 저 자그마한 펭귄들이 다 밀수범이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "나 갱스터 영화 속에 있는 거 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "상스럽기 짝이 없는 범죄자 새."
     },
     {
         "op": "replace",
@@ -51,7 +46,12 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "松松松软酥脆的企鹅和他们要出出出售的货物！"
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "펭귄 베이"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "100% 합법 함선 허가증"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "달먼지 같은데."
+        "path": "/description",
+        "value": "달먼지,  꿈이 만들어지는 재료."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달먼지"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달먼지"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "달먼지,  꿈이 만들어지는 재료."
+        "path": "/novakidDescription",
+        "value": "달먼지 같은데."
     }
 ]

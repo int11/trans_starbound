@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "문닫은 프로그 가구점"
+        "path": "/description",
+        "value": "깔끔한 느낌을 주는 상점이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "깔끔한 느낌을 주는 상점이다."
+        "path": "/shortdescription",
+        "value": "문닫은 프로그 가구점"
     },
     {
         "op": "replace",

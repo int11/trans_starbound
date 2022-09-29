@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에르키우스의 공포 모형"
+        "path": "/description",
+        "value": "\"기생적 수차로 에르키우스 수정 내에서 성장한다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"기생적 수차로 에르키우스 수정 내에서 성장한다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "에르키우스의 공포 모형"
     }
 ]

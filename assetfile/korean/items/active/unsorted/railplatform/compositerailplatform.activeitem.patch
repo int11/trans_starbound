@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "복합 레일 플렛폼"
+        "path": "/description",
+        "value": "레일을 따라 자동으로 운행하는 플렛폼"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "레일을 따라 자동으로 운행하는 플렛폼"
+        "path": "/shortdescription",
+        "value": "복합 레일 플렛폼"
     }
 ]

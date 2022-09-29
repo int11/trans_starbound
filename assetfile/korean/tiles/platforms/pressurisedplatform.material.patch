@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "긍정. 이 튼튼한 플랫폼은 압력 변화에 견디도록 보강되어 있어."
+        "path": "/shortdescription",
+        "value": "가압 플랫폼"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "다소 반짝여 보이는 플랫폼이군."
+        "path": "/description",
+        "value": "잠재적인 압력 환경을 위한 견고한 가압 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "긍정. 이 튼튼한 플랫폼은 압력 변화에 견디도록 보강되어 있어."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가압 플랫폼"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "잠재적인 압력 환경을 위한 견고한 가압 플랫폼"
+        "path": "/novakidDescription",
+        "value": "다소 반짝여 보이는 플랫폼이군."
     }
 ]

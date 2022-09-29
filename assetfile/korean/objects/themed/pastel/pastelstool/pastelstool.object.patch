@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "상당히 기분좋게 해주는 의자네."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "기발한 작은 의자야. 하트로 장식을 하다니!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "상당히 매력적인 작은 의자야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "작은 의자, 하트 장식으로 꾸며져있다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 이 작은 의자, 하트로 장식되어있군."
+        "path": "/description",
+        "value": "파스텔 풍 색상의 작은 의자이다."
     },
     {
         "op": "replace",
@@ -31,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "파스텔 풍 색상의 작은 의자이다."
+        "path": "/apexDescription",
+        "value": "작은 의자, 하트 장식으로 꾸며져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "기발한 작은 의자야. 하트로 장식을 하다니!"
     },
     {
         "op": "replace",
         "path": "/floranDescription",
         "value": "叶族人想想想知道凳凳凳子是不是用真的心心心脏做的。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 작은 의자, 하트로 장식되어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "상당히 매력적인 작은 의자야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "상당히 기분좋게 해주는 의자네."
     },
     {
         "op": "replace",

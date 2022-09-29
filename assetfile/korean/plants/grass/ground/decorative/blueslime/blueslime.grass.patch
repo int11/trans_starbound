@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "설명. 슬라임뿌리"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "스을라임 뿌리."
+        "path": "/description",
+        "value": "슬라임 뿌리"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "슬라임 뿌리"
+        "path": "/floranDescription",
+        "value": "스을라임 뿌리."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 슬라임뿌리"
     }
 ]

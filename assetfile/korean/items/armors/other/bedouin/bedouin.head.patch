@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사막 머리띠"
+        "path": "/description",
+        "value": "두려움 없이 세계에 발을 떼려는 자를 위한 머리띠."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "두려움 없이 세계에 발을 떼려는 자를 위한 머리띠."
+        "path": "/shortdescription",
+        "value": "사막 머리띠"
     }
 ]

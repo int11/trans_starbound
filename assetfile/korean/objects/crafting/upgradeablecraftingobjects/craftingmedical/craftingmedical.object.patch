@@ -1,53 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;회복, 강화, 방지"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "응급 진료소"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-        "value": "^orange;약제소^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/description",
-        "value": "회복 아이템에서 부터 각종 상태이상의 방지와 같은 특수 약품들을 만들 수 있게 된다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/description",
-        "value": "회복 아이템에서 부터 각종 상태이상의 방지와 같은 특수 약품들을 만들 수 있게 된다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;회복, 강화, 방지"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "약제소"
+        "path": "/description",
+        "value": "药剂工作台是用来生产一些医疗物品与药物的。"
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "^orange;약제소^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-        "value": "^orange;응급 진료소^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "药剂工作台是用来生产一些医疗物品与药物的。"
     },
     {
         "op": "replace",
@@ -86,6 +46,16 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/description",
+        "value": "회복 아이템에서 부터 각종 상태이상의 방지와 같은 특수 약품들을 만들 수 있게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;약제소^white; "
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
         "value": "一张上面有一堆医疗工具的工作台。"
     },
@@ -121,6 +91,26 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "약제소"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;회복, 강화, 방지"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "회복 아이템에서 부터 각종 상태이상의 방지와 같은 특수 약품들을 만들 수 있게 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+        "value": "^orange;응급 진료소^white; "
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
         "value": "一张上面有一堆医疗工具的工作台。"
     },
@@ -148,6 +138,16 @@
         "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
         "value": "这个给予了我在受到伤害后治疗与康复的能力。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "응급 진료소"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;회복, 강화, 방지"
     },
     {
         "op": "replace",

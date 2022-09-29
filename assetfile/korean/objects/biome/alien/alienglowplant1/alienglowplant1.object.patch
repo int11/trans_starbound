@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "발광 외계 식물"
+        "path": "/description",
+        "value": "빛나는 외계 식물이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빛나는 외계 식물이다."
+        "path": "/shortdescription",
+        "value": "발광 외계 식물"
     }
 ]

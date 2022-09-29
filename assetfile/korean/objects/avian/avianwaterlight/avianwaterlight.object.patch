@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝거리는 예쁜돌에서 빛이 나온다."
+        "path": "/description",
+        "value": "창백한 빛을 내는 수정이 고정틀에 박혀있다."
     },
     {
         "op": "replace",
@@ -11,13 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 빛은 돌에서 나오고 있는거 같은데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "보석으로 장식된 흥미로운 램프다."
+        "path": "/apexDescription",
+        "value": "비추기 위한 빛인데,  자그만한 이쁜게 박혀있을거야.."
     },
     {
         "op": "replace",
@@ -26,13 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 보석 램프 완전 보석같아."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "비추기 위한 빛인데,  자그만한 이쁜게 박혀있을거야.."
+        "path": "/floranDescription",
+        "value": "반짝거리는 예쁜돌에서 빛이 나온다."
     },
     {
         "op": "replace",
@@ -41,7 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "창백한 빛을 내는 수정이 고정틀에 박혀있다."
+        "path": "/humanDescription",
+        "value": "이 보석 램프 완전 보석같아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "보석으로 장식된 흥미로운 램프다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 빛은 돌에서 나오고 있는거 같은데."
     }
 ]

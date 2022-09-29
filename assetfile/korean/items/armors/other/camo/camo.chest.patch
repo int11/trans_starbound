@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "카모 자켓"
+        "path": "/description",
+        "value": "정글숲 환경에서 숨을때 필요한 아주 훌륭한 물건이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "정글숲 환경에서 숨을때 필요한 아주 훌륭한 물건이다."
+        "path": "/shortdescription",
+        "value": "카모 자켓"
     }
 ]

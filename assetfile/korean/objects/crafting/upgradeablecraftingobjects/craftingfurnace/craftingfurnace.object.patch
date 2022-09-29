@@ -1,183 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-        "value": "감명. 이 용광로면 원석을 녹일 수 있을 만큼의 온도를 낼 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-        "value": "용광로 불 뿜으면셔 쇼리낸다. 플로란 용감무썅하다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/description",
-        "value": "광석과 기타 재료들을 조합용 재료로 만들 수 있는 산업용 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-        "value": "^orange;원시 용광로^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-        "value": "엄청 뜨겁고 인상적인 산업용 용광로다. 이거면 더 강한 재료를 만들 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-        "value": "제련 용광로. 뜨거워 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
-        "value": "이 원자력 용광로면 힘세고 강한 합금을 뽑아낼 수 있겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-        "value": "뿜어져나오는 열이 대단하다. 나한테서 땀이 났으면 진작에 흘리고 있었겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-        "value": "광물 제련할 때 쓰는 기본적인 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "광물 제련할 때 쓰는 기본적인 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;주괴, 재료, 전자부품"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;주괴, 재료, 전자부품"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;주괴, 재료, 전자부품"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-        "value": "원자력 용광로다. 광석을 정제하고 합금을 만들 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-        "value": "뜨겁고 인상적인 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "뜨겁고 인상적인 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "광석 녹이기에 딱인 기초 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
-        "value": "원자력 용광로다. 더욱 강한 합금을 만드는 데 딱이다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-        "value": "티타늄 및 다른 합금을 만드는 데 안성맞춤인 산업용 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-        "value": "광석 녹이기에 딱인 기초 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "제련 용광로다. 뜨거워 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
-        "value": "원자력 용광로다. 정제된 광석과 합금을 만들 수 있을 정도로 강력하다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-        "value": "티타늄과 다른 물질들을 제련할 정도로 충분히 뜨거운 산업용 용광로다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
-        "value": "원자력 용광로다. 이걸로 엄청나게 강한 합금을 만들 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-        "value": "산업용 용광로다. 여기서 티타늄과 다른 물질들을 제련할 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-        "value": "원시 용광로다. 여기서 여러가질 제련할 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "원시 용광로다. 여기서 여러가질 제련할 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-        "value": "감탄. 이 원자력 용광로는 광석들을 합금으로 조합하기 충분할 만큼 발전됐다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-        "value": "만족. 이 용광로는 티타늄과 더욱 강한 합금을 제작하기 딱 맞는 온도다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 이 용광로는  기초 광석들을 제련하기 딱 맞는 온도다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-        "value": "반짝이 물건 돌고 돌고 돈다. 더 힘 셰고 강한 반짝이 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-        "value": "용광로 불 뿜으면셔 쇼리낸다. 더 강한 주괴 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "용광로 불 뿜으면서 소리낸다. 플로란 용감무썅하다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "원자력 용광로"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "산업용 용광로"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "원시 용광로"
+        "path": "/description",
+        "value": "광석을 녹여 주괴로, 여러 재료로 고급 재료들을 만들 수 있다."
     },
     {
         "op": "replace",
@@ -186,8 +11,98 @@
     },
     {
         "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-        "value": "^orange;원자력 용광로^white; "
+        "path": "/apexDescription",
+        "value": "원시 용광로다. 여기서 여러가질 제련할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "광석 녹이기에 딱인 기초 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "용광로 불 뿜으면서 소리낸다. 플로란 용감무썅하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 용광로는  기초 광석들을 제련하기 딱 맞는 온도다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "제련 용광로다. 뜨거워 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "뜨겁고 인상적인 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "광물 제련할 때 쓰는 기본적인 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/description",
+        "value": "광석을 녹여 주괴로, 여러 재료로 고급 재료들을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;원시 용광로^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+        "value": "원시 용광로다. 여기서 여러가질 제련할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+        "value": "광석 녹이기에 딱인 기초 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "value": "용광로 불 뿜으면셔 쇼리낸다. 플로란 용감무썅하다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "value": "감명. 이 용광로면 원석을 녹일 수 있을 만큼의 온도를 낼 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "value": "제련 용광로. 뜨거워 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "value": "뜨겁고 인상적인 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "value": "광물 제련할 때 쓰는 기본적인 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "원시 용광로"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;주괴, 재료, 전자부품"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "광석과 기타 재료들을 조합용 재료로 만들 수 있는 산업용 용광로다."
     },
     {
         "op": "replace",
@@ -196,8 +111,48 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "광석을 녹여 주괴로, 여러 재료로 고급 재료들을 만들 수 있다."
+        "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+        "value": "산업용 용광로다. 여기서 티타늄과 다른 물질들을 제련할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+        "value": "티타늄 및 다른 합금을 만드는 데 안성맞춤인 산업용 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+        "value": "용광로 불 뿜으면셔 쇼리낸다. 더 강한 주괴 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+        "value": "만족. 이 용광로는 티타늄과 더욱 강한 합금을 제작하기 딱 맞는 온도다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+        "value": "티타늄과 다른 물질들을 제련할 정도로 충분히 뜨거운 산업용 용광로다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "value": "엄청 뜨겁고 인상적인 산업용 용광로다. 이거면 더 강한 재료를 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "산업용 용광로"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;주괴, 재료, 전자부품"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+        "value": "뿜어져나오는 열이 대단하다. 나한테서 땀이 났으면 진작에 흘리고 있었겠다."
     },
     {
         "op": "replace",
@@ -206,7 +161,52 @@
     },
     {
         "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/description",
-        "value": "광석을 녹여 주괴로, 여러 재료로 고급 재료들을 만들 수 있다."
+        "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+        "value": "^orange;원자력 용광로^white; "
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+        "value": "원자력 용광로다. 이걸로 엄청나게 강한 합금을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+        "value": "원자력 용광로다. 더욱 강한 합금을 만드는 데 딱이다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+        "value": "반짝이 물건 돌고 돌고 돈다. 더 힘 셰고 강한 반짝이 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+        "value": "감탄. 이 원자력 용광로는 광석들을 합금으로 조합하기 충분할 만큼 발전됐다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+        "value": "원자력 용광로다. 정제된 광석과 합금을 만들 수 있을 정도로 강력하다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+        "value": "원자력 용광로다. 광석을 정제하고 합금을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "원자력 용광로"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;주괴, 재료, 전자부품"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+        "value": "이 원자력 용광로면 힘세고 강한 합금을 뽑아낼 수 있겠다."
     }
 ]

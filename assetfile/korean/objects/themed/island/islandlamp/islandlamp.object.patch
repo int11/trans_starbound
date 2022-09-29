@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "섬 램프"
+        "path": "/description",
+        "value": "이 유리 램프는 따뜻한 빛을 낸다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 유리 램프는 따뜻한 빛을 낸다."
+        "path": "/shortdescription",
+        "value": "섬 램프"
     },
     {
         "op": "replace",

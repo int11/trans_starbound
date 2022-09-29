@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계 줄무늬 나무의 한 조각이다. 줄줄이!"
+        "path": "/shortdescription",
+        "value": "줄무늬 나무"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "줄무늬 나무"
+        "path": "/description",
+        "value": "외계 줄무늬 나무의 한 조각이다. 줄줄이!"
     },
     {
         "op": "replace",

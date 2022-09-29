@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 외계 식물."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "외계 식무울."
+        "path": "/description",
+        "value": "외계 수풀 하나."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계 수풀 하나."
+        "path": "/floranDescription",
+        "value": "외계 식무울."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 외계 식물."
     }
 ]

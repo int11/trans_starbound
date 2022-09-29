@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파멸의 의자"
+        "path": "/description",
+        "value": "편안한 파멸의 의자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "편안한 파멸의 의자다."
+        "path": "/shortdescription",
+        "value": "파멸의 의자"
     },
     {
         "op": "replace",

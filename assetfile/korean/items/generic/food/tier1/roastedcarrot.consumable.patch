@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구운 당근"
+        "path": "/description",
+        "value": "완벽하게 구웠다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "완벽하게 구웠다."
+        "path": "/shortdescription",
+        "value": "구운 당근"
     }
 ]

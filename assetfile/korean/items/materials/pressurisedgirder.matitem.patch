@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가압 도리"
+        "path": "/description",
+        "value": "압력의 변동을 견딜수있도록 디자인된 도리."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "압력의 변동을 견딜수있도록 디자인된 도리."
+        "path": "/shortdescription",
+        "value": "가압 도리"
     },
     {
         "op": "replace",

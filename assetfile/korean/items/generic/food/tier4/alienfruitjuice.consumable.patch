@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "외계 과일 주스"
+        "path": "/description",
+        "value": "기분 좋은 달콤함을 선사하는 외계 과일 주스이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기분 좋은 달콤함을 선사하는 외계 과일 주스이다."
+        "path": "/shortdescription",
+        "value": "외계 과일 주스"
     }
 ]

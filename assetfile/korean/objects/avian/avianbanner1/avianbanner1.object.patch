@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 배너에 뭔가 있네. 마음에 들어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이러한 맥동성은 바다 위에서만 찾아볼 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "배교자들은 이런 배너로 자기네 마을을 장식한다. 그렇게 삶에 색채를 더한다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "환하고 힘나는 빛깔!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "놀라울 만큼 역동적인 배너다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "매혹. 조잡하게 만들어졌지만, 그럼에도 무척이나 아름답군!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이쁜 섁깔. 플로란 꽃 섕각난다."
+        "path": "/description",
+        "value": "비싼 비단으로 짠 아비안 배너다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "비싼 비단으로 짠 아비안 배너다."
+        "path": "/apexDescription",
+        "value": "놀라울 만큼 역동적인 배너다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "배교자들은 이런 배너로 자기네 마을을 장식한다. 그렇게 삶에 색채를 더한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이쁜 섁깔. 플로란 꽃 섕각난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매혹. 조잡하게 만들어졌지만, 그럼에도 무척이나 아름답군!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "환하고 힘나는 빛깔!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이러한 맥동성은 바다 위에서만 찾아볼 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 배너에 뭔가 있네. 마음에 들어."
     }
 ]

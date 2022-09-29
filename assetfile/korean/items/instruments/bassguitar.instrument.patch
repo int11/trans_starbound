@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "베이스 기타"
+        "path": "/description",
+        "value": "베이스 기타. 리듬을 깔자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "베이스 기타. 리듬을 깔자."
+        "path": "/shortdescription",
+        "value": "베이스 기타"
     }
 ]

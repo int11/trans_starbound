@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "밀만 보면 신선한 빵이 당긴다니까."
+        "path": "/description",
+        "value": "밀, 용도가 매우 다양한 주요 소비작물이다."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "밀은 자체로도 맛있고 빵가루로 만들어도 맛있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "밀. 신선한 빵을 굽는 완벽한 재료."
+        "path": "/shortdescription",
+        "value": "밀 씨앗"
     },
     {
         "op": "replace",
@@ -21,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "사려. 과연 밀의 모든 용도가 발견되었을 지 궁금하다."
+        "path": "/avianDescription",
+        "value": "밀은 자체로도 맛있고 빵가루로 만들어도 맛있다."
     },
     {
         "op": "replace",
@@ -31,8 +26,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "밀, 용도가 매우 다양한 주요 소비작물이다."
+        "path": "/glitchDescription",
+        "value": "사려. 과연 밀의 모든 용도가 발견되었을 지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "밀. 신선한 빵을 굽는 완벽한 재료."
     },
     {
         "op": "replace",
@@ -41,7 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "밀 씨앗"
+        "path": "/novakidDescription",
+        "value": "밀만 보면 신선한 빵이 당긴다니까."
     }
 ]

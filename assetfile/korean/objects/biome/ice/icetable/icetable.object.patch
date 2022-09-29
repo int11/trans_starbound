@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 탁자"
+        "path": "/description",
+        "value": "조각된 얼음으로 만든 탁자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조각된 얼음으로 만든 탁자다."
+        "path": "/shortdescription",
+        "value": "얼음 탁자"
     },
     {
         "op": "replace",

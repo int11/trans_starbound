@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "신축성 목줄"
+        "path": "/description",
+        "value": "내 애완동물을 불필요할 정도로 통통 튀게 만들어주는 목줄이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "내 애완동물을 불필요할 정도로 통통 튀게 만들어주는 목줄이다."
+        "path": "/shortdescription",
+        "value": "신축성 목줄"
     },
     {
         "op": "replace",

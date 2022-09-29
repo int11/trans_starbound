@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "우유"
+        "path": "/description",
+        "value": "음, 우유다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "음, 우유다."
+        "path": "/shortdescription",
+        "value": "우유"
     }
 ]

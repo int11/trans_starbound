@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 캐비넷 안에 뭐가 있을까?"
+        "path": "/description",
+        "value": "谁知道装了什么东西的柜子。"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "기본 캐비넷. 안에 아무것도 없나?"
+        "path": "/shortdescription",
+        "value": "금속 정리함"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "정리함이군."
     },
     {
         "op": "replace",
@@ -21,13 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금속 정리함"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "막 생긴 캐비넷."
+        "path": "/glitchDescription",
+        "value": "흥미. 이 캐비넷 안에 뭐가 있을까?"
     },
     {
         "op": "replace",
@@ -36,12 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "정리함이군."
+        "path": "/hylotlDescription",
+        "value": "막 생긴 캐비넷."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "谁知道装了什么东西的柜子。"
+        "path": "/novakidDescription",
+        "value": "기본 캐비넷. 안에 아무것도 없나?"
     }
 ]

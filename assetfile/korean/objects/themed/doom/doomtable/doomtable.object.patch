@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파멸의 탁자"
+        "path": "/description",
+        "value": "무서운 파멸의 탁자다. 먹는 모습을 바라본다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무서운 파멸의 탁자다. 먹는 모습을 바라본다."
+        "path": "/shortdescription",
+        "value": "파멸의 탁자"
     },
     {
         "op": "replace",

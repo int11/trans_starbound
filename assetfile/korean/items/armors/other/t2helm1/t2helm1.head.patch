@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "휴대용 우주 헬멧"
+        "path": "/description",
+        "value": "이게 있는 이상 절때로 망할 일은 없을거야."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이게 있는 이상 절때로 망할 일은 없을거야."
+        "path": "/shortdescription",
+        "value": "휴대용 우주 헬멧"
     }
 ]

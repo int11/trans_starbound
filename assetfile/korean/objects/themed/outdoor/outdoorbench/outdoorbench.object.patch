@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "야외 벤치"
+        "path": "/description",
+        "value": "벤치다, 야외에 적합하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "벤치다, 야외에 적합하다."
+        "path": "/shortdescription",
+        "value": "야외 벤치"
     },
     {
         "op": "replace",

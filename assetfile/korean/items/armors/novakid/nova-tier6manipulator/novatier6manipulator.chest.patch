@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "시계장치 상의"
+        "path": "/description",
+        "value": "이 기다린 깃이 네가 벌인 범죄행위에서 얼굴을 숨겨준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 기다린 깃이 네가 벌인 범죄행위에서 얼굴을 숨겨준다."
+        "path": "/shortdescription",
+        "value": "시계장치 상의"
     }
 ]

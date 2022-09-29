@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "홀림. 이 눈은 내린지 얼마 안되어 보이는군!"
+        "path": "/shortdescription",
+        "value": "눈"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "신선한 눈 뭉치네."
+        "path": "/description",
+        "value": "부드럽고 솜털같은 눈이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "홀림. 이 눈은 내린지 얼마 안되어 보이는군!"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "부드럽고 솜털같은 눈이다."
+        "path": "/novakidDescription",
+        "value": "신선한 눈 뭉치네."
     }
 ]

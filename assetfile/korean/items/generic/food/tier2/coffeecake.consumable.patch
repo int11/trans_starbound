@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "커피 케이크"
+        "path": "/description",
+        "value": "촉촉한 케이크에 커피를 추가했다. 맛있구만!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "촉촉한 케이크에 커피를 추가했다. 맛있구만!"
+        "path": "/shortdescription",
+        "value": "커피 케이크"
     }
 ]

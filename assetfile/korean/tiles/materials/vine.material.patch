@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "매료.  이 억센 덩쿨들은 같이 얽혀 자란 것 같다."
+        "path": "/shortdescription",
+        "value": "덩쿨"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 덩쿨은 무성해 보인다."
+        "path": "/description",
+        "value": "덩쿨의 두꺼운 고리. 튼튼해 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료.  이 억센 덩쿨들은 같이 얽혀 자란 것 같다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "덩쿨"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "덩쿨의 두꺼운 고리. 튼튼해 보인다."
+        "path": "/novakidDescription",
+        "value": "이 덩쿨은 무성해 보인다."
     }
 ]

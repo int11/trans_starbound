@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "튼튼한 나무 울타리만 한 것도 없지."
+        "path": "/description",
+        "value": "튼튼한 나무 울타리다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "나무 울타리"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 울타리"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "튼튼한 나무 울타리다."
+        "path": "/novakidDescription",
+        "value": "튼튼한 나무 울타리만 한 것도 없지."
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "담황빛도는 석회암이네."
+        "path": "/description",
+        "value": "거친 정제되지 않은 석회암."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "석회암"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "석회암"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "거친 정제되지 않은 석회암."
+        "path": "/novakidDescription",
+        "value": "담황빛도는 석회암이네."
     }
 ]

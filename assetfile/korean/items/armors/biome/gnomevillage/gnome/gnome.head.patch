@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "노움 모자"
+        "path": "/description",
+        "value": "그는 하루 종일 거기 앉아있다. 얼마나 게으른 사람인지!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "그는 하루 종일 거기 앉아있다. 얼마나 게으른 사람인지!"
+        "path": "/shortdescription",
+        "value": "노움 모자"
     }
 ]

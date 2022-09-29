@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "숲과 초원에서 뛰노는것을 매우 좋아한다."
+        "path": "/shortdescription",
+        "value": "히프네어"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "히프네어"
+        "path": "/description",
+        "value": "숲과 초원에서 뛰노는것을 매우 좋아한다."
     }
 ]

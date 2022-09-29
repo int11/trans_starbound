@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파랑색 꽃잎"
+        "path": "/description",
+        "value": "염색약의 재료로 쓰이는 파랑색 꽃잎이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "염색약의 재료로 쓰이는 파랑색 꽃잎이다."
+        "path": "/shortdescription",
+        "value": "파랑색 꽃잎"
     }
 ]

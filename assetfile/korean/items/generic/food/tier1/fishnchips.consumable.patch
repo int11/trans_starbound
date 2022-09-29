@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "피쉬 앤 칩스"
+        "path": "/description",
+        "value": "몽땅 튀겨버려! 인류가 예로부터 좋아하던 음식이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "몽땅 튀겨버려! 인류가 예로부터 좋아하던 음식이다."
+        "path": "/shortdescription",
+        "value": "피쉬 앤 칩스"
     }
 ]

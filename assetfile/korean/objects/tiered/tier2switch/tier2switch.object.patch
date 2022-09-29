@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 레버"
+        "path": "/description",
+        "value": "견고한 텅스텐 레버다. 당기기를 요구한다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "견고한 텅스텐 레버다. 당기기를 요구한다"
+        "path": "/shortdescription",
+        "value": "텅스텐 레버"
     },
     {
         "op": "replace",

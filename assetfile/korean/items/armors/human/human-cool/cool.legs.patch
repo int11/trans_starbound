@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스타일리쉬한 하의"
+        "path": "/description",
+        "value": "이 멋진 하의를 입는순간 무엇이든 할수 있다는 자신감이 생긴다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 멋진 하의를 입는순간 무엇이든 할수 있다는 자신감이 생긴다."
+        "path": "/shortdescription",
+        "value": "스타일리쉬한 하의"
     }
 ]

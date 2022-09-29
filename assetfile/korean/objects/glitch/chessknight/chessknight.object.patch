@@ -1,6 +1,26 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "거대한 체스 세트의 백 나이트이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "백색 나이트"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "체스 말이다. 지정부는 체스같은 게임을 금지하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "장식용 석상인가?"
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "낯션 셕샹이다. 이거 뭐냐?"
     },
@@ -11,8 +31,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뭔 게임인지 몰라도 재미없겠다."
+        "path": "/humanDescription",
+        "value": "거대한 체스 말이다."
     },
     {
         "op": "replace",
@@ -21,27 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "거대한 체스 말이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "백색 나이트"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "거대한 체스 세트의 백 나이트이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "장식용 석상인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "체스 말이다. 지정부는 체스같은 게임을 금지하고 있다."
+        "path": "/novakidDescription",
+        "value": "뭔 게임인지 몰라도 재미없겠다."
     }
 ]

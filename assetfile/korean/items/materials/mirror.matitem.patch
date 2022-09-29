@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 거울처럼 보인다만 비치는게 없군."
+        "path": "/description",
+        "value": "바라보는 대상을 투영하지 않는 비 반사 거울이다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 거울 뭔가 이상한데. 비치는게 아무것도 없잖아."
+        "path": "/shortdescription",
+        "value": "거울 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 거울처럼 보인다만 비치는게 없군."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바라보는 대상을 투영하지 않는 비 반사 거울이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "거울 블럭"
+        "path": "/novakidDescription",
+        "value": "이 거울 뭔가 이상한데. 비치는게 아무것도 없잖아."
     }
 ]

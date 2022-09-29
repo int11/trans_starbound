@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "불안정한 통"
+        "path": "/description",
+        "value": "위험한 통. 장롱 문제가 일어나지 않도록 피해가자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "위험한 통. 장롱 문제가 일어나지 않도록 피해가자."
+        "path": "/shortdescription",
+        "value": "불안정한 통"
     }
 ]

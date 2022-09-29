@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "분명히 뜨거운 뭔가가 저 시계를 녹인 거겠지"
+        "path": "/description",
+        "value": "글리치 초현실주의의 일부다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "화소의 지속"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "글리치 초현실주의의 일부다."
     },
     {
         "op": "replace",
@@ -43,5 +38,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "超现实主义艺术。要是能问问艺术家本人就好了。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "분명히 뜨거운 뭔가가 저 시계를 녹인 거겠지"
     }
 ]

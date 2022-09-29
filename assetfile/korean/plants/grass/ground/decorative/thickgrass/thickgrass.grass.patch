@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 이 풀은 두껍군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "풀이 많아."
+        "path": "/description",
+        "value": "두꺼운 풀."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "두꺼운 풀."
+        "path": "/floranDescription",
+        "value": "풀이 많아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 이 풀은 두껍군."
     }
 ]

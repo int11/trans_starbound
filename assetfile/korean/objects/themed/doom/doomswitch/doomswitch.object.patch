@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파멸의 조작기"
+        "path": "/description",
+        "value": "파멸의 조작기다. 니가 어떻게 조작하는지 주의해 - 그게 보고있어."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "파멸의 조작기다. 니가 어떻게 조작하는지 주의해 - 그게 보고있어."
+        "path": "/shortdescription",
+        "value": "파멸의 조작기"
     },
     {
         "op": "replace",

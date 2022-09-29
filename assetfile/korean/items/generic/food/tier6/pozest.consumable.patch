@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "포제스트"
+        "path": "/description",
+        "value": "글리치들에게 인기있는 에너지 음료다. 아님 소화젠가?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "글리치들에게 인기있는 에너지 음료다. 아님 소화젠가?"
+        "path": "/shortdescription",
+        "value": "포제스트"
     }
 ]

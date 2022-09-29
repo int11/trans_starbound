@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뭔 게임인지 몰라도 재미없겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "거대한 게임 말 같다. 하이로틀은 보드게임을 참 좋아한다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "거대한 체스 말이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감성. 글리치 귀족들은 어릴 때부터 체스 두는 법을 배운다. 그리고 야외에서 엄청 큰 판에다 체스를 둔다."
+        "path": "/description",
+        "value": "거대한 체스 세트의 백 비숍이다."
     },
     {
         "op": "replace",
@@ -26,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대한 체스 세트의 백 비숍이다."
+        "path": "/apexDescription",
+        "value": "체스 말이다. 지정부는 체스같은 게임을 금지하고 있다."
     },
     {
         "op": "replace",
@@ -36,12 +21,27 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "체스 말이다. 지정부는 체스같은 게임을 금지하고 있다."
+        "path": "/floranDescription",
+        "value": "낯션 셕샹이다. 이거 뭐냐?"
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "낯션 셕샹이다. 이거 뭐냐?"
+        "path": "/glitchDescription",
+        "value": "감성. 글리치 귀족들은 어릴 때부터 체스 두는 법을 배운다. 그리고 야외에서 엄청 큰 판에다 체스를 둔다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "거대한 체스 말이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "거대한 게임 말 같다. 하이로틀은 보드게임을 참 좋아한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔 게임인지 몰라도 재미없겠다."
     }
 ]

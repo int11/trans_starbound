@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기다 뭐 올리고 싶진 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "무언가의 받침대라 하기엔 제 기능을 못 하고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이게 뭘 받치는 물건이 아니었으면 좋겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "아무리 봐도 큰 무게를 버티기 힘들게 생겼다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "과연 이게 얼마나 지지해줄런지 의문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "긴장. 이 지지대는 구조적으로 들어맞지 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "강철 지금은 별로 안 셰다."
+        "path": "/description",
+        "value": "녹슨 금속 지지대다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "녹슨 금속 지지대다."
+        "path": "/apexDescription",
+        "value": "과연 이게 얼마나 지지해줄런지 의문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이게 뭘 받치는 물건이 아니었으면 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "강철 지금은 별로 안 셰다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "긴장. 이 지지대는 구조적으로 들어맞지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아무리 봐도 큰 무게를 버티기 힘들게 생겼다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "무언가의 받침대라 하기엔 제 기능을 못 하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기다 뭐 올리고 싶진 않다."
     }
 ]

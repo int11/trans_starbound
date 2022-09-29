@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "클루엑스의 화신 모형"
+        "path": "/description",
+        "value": "\"아비안의 신 클루엑스의 형상으로 건설된 강력한 날개 수호자\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"아비안의 신 클루엑스의 형상으로 건설된 강력한 날개 수호자\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "클루엑스의 화신 모형"
     }
 ]

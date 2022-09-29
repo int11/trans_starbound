@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "해골이 창에 걸려있어. 이건 정상이 아냐."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "두개골이 플로란 사냥창에 앉아있군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "플로란과 달리 아비안 문화는 망자를 예우해."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 해골은 풍화된 것 같은데, 창에 걸린지 좀 됐나봐."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "인간의 두개골이 걸린 창."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 창에 걸린 뼈는 인간으로 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 전리품을 창에 걸어서 장식한다."
+        "path": "/description",
+        "value": "창에 꿰인 두개골. 플로란이 좋아한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "창에 꿰인 두개골. 플로란이 좋아한다."
+        "path": "/apexDescription",
+        "value": "인간의 두개골이 걸린 창."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "플로란과 달리 아비안 문화는 망자를 예우해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 전리품을 창에 걸어서 장식한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 창에 걸린 뼈는 인간으로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 해골은 풍화된 것 같은데, 창에 걸린지 좀 됐나봐."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "두개골이 플로란 사냥창에 앉아있군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "해골이 창에 걸려있어. 이건 정상이 아냐."
     }
 ]

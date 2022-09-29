@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/message",
-        "value": "<questGiver> 가 <questGiver.pronoun.possessiveDet> <tradedMonster> 를 당신의 <monster> 와 거래하길 원합니다. 이 거래는 영구적입니다.\n\n거래를 하시겠습니까?"
+        "path": "/title",
+        "value": "몬스터 거래"
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "몬스터 거래"
+        "path": "/message",
+        "value": "<questGiver> 가 <questGiver.pronoun.possessiveDet> <tradedMonster> 를 당신의 <monster> 와 거래하길 원합니다. 이 거래는 영구적입니다.\n\n거래를 하시겠습니까?"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "독무"
+        "path": "/description",
+        "value": "유독해보이는 과일이다. 하지만 보이는것 만이 전부일까?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유독해보이는 과일이다. 하지만 보이는것 만이 전부일까?"
+        "path": "/shortdescription",
+        "value": "독무"
     }
 ]

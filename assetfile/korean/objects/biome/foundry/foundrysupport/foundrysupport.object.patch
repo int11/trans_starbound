@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주조 공장 지지대"
+        "path": "/description",
+        "value": "일반적으로 천장을 지지하는데 쓰이는 금속 대들보다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "일반적으로 천장을 지지하는데 쓰이는 금속 대들보다."
+        "path": "/shortdescription",
+        "value": "주조 공장 지지대"
     },
     {
         "op": "replace",

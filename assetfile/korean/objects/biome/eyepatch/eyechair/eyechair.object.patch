@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈알 의자"
+        "path": "/description",
+        "value": "눈알 의자다. 유아용 의자와 혼동할게 아니다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈알 의자다. 유아용 의자와 혼동할게 아니다."
+        "path": "/shortdescription",
+        "value": "눈알 의자"
     },
     {
         "op": "replace",

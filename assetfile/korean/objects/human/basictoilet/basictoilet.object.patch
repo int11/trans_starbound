@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 평범한 변기통이네. 매력은 없지만 꼭 필요한 물건이지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무관심.변기통임."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝거리는 볼일보는 물건이야."
+        "path": "/description",
+        "value": "평범한 양변기로 보인다! 신이여 감사합니다!"
     },
     {
         "op": "replace",
@@ -21,13 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "평범한 양변기로 보인다! 신이여 감사합니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "상스러운 화장실이군."
+        "path": "/apexDescription",
+        "value": "작은 변기군. 그다지 깨끗해보이지는 않아."
     },
     {
         "op": "replace",
@@ -36,12 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝거리는 볼일보는 물건이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심.변기통임."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "변기로군. 언제나 반가운 물건이지."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "작은 변기군. 그다지 깨끗해보이지는 않아."
+        "path": "/hylotlDescription",
+        "value": "상스러운 화장실이군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 평범한 변기통이네. 매력은 없지만 꼭 필요한 물건이지."
     }
 ]

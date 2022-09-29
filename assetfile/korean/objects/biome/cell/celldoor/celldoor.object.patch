@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 문짝을 보고있자니 뱀이 한가득인 통을 쳐다보는 기분이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "쓸모도 없고 감동도 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "좀 엉성한데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "문이 아주 난장판이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "안전한 문은 아니군. 내가 좀 더 날씬했으면 문틈으로 비벼서 들어갈 수도 있겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "격분. 기능보다 형상을 중시한 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "앙샹하고 배배 꼬인 무식한 문."
+        "path": "/description",
+        "value": "배배 꼬인 막대 두 개로 이루어진 장벽이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "배배 꼬인 막대 두 개로 이루어진 장벽이다."
+        "path": "/apexDescription",
+        "value": "안전한 문은 아니군. 내가 좀 더 날씬했으면 문틈으로 비벼서 들어갈 수도 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "좀 엉성한데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "앙샹하고 배배 꼬인 무식한 문."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "격분. 기능보다 형상을 중시한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "문이 아주 난장판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "쓸모도 없고 감동도 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 문짝을 보고있자니 뱀이 한가득인 통을 쳐다보는 기분이다."
     }
 ]

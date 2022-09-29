@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텔레포터"
+        "path": "/description",
+        "value": "믿음직한 텔레포터, 너 없이 뭘 하겠어?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "믿음직한 텔레포터, 너 없이 뭘 하겠어?"
+        "path": "/shortdescription",
+        "value": "텔레포터"
     },
     {
         "op": "replace",

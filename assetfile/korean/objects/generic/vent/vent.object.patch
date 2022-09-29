@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "환기."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "작은 공기 통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "공기 통풍구다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정의. 통풍구."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "통풍구."
+        "path": "/description",
+        "value": "이 통풍구는 공기가 지나가는듯 덜컹거린다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 통풍구는 공기가 지나가는듯 덜컹거린다."
+        "path": "/apexDescription",
+        "value": "공기 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "통풍구."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정의. 통풍구."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작은 공기 통풍구다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "환기."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "통풍구다."
     }
 ]

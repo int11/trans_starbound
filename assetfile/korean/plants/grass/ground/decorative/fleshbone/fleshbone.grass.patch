@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 죽은지 오래된 뼈."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이거 잡았을 거다."
+        "path": "/description",
+        "value": "어떤 미확인 생물의 뼈다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "어떤 미확인 생물의 뼈다."
+        "path": "/floranDescription",
+        "value": "플로란 이거 잡았을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 죽은지 오래된 뼈."
     }
 ]

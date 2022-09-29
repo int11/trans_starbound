@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 돌더미군요."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "도오올."
+        "path": "/description",
+        "value": "돌더미."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "돌더미."
+        "path": "/floranDescription",
+        "value": "도오올."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 돌더미군요."
     }
 ]

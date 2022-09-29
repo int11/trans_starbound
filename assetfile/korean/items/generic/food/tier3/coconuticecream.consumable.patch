@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "코코넛 아이스크림"
+        "path": "/description",
+        "value": "열대의 섬에서 쓰러지기 직전에 좋다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "열대의 섬에서 쓰러지기 직전에 좋다!"
+        "path": "/shortdescription",
+        "value": "코코넛 아이스크림"
     }
 ]

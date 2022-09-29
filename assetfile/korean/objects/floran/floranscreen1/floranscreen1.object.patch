@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "수상한 일을 할 때 숨을 수 있는 칸막이야."
+        "path": "/description",
+        "value": "뒤에서 옷을 입기에 딱 좋은 목제 칸막이이다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "그냥 칸막이야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "뒤에서 옷을 갈아입을 용도의 칸막이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "옷을 입을 때 쓸 칸막이야... 아니면 벗기거나."
+        "path": "/shortdescription",
+        "value": "목제 칸막이"
     },
     {
         "op": "replace",
@@ -26,13 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 평범한 칸막이로군."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "뒤에서 옷을 입기에 딱 좋은 목제 칸막이이다."
+        "path": "/avianDescription",
+        "value": "뒤에서 옷을 갈아입을 용도의 칸막이야."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "목제 칸막이"
+        "path": "/glitchDescription",
+        "value": "중립. 평범한 칸막이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "옷을 입을 때 쓸 칸막이야... 아니면 벗기거나."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "그냥 칸막이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "수상한 일을 할 때 숨을 수 있는 칸막이야."
     }
 ]

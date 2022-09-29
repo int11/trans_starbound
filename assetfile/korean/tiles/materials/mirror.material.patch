@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "표면 반짝인다."
+        "path": "/description",
+        "value": "비 반사 거울."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "비 반사 거울."
+        "path": "/shortdescription",
+        "value": "거울 블록"
     },
     {
         "op": "replace",
@@ -16,12 +16,12 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 거울 뭔가 잘못됐어. 난 반사된 게 아무것도 안 보이는데."
+        "path": "/floranDescription",
+        "value": "표면 반짝인다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거울 블록"
+        "path": "/novakidDescription",
+        "value": "이 거울 뭔가 잘못됐어. 난 반사된 게 아무것도 안 보이는데."
     }
 ]

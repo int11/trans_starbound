@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "길다란 철 가로등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "가로등이 거리의 밤을 밝게 지켜줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 매우 긴 등불이로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 원해 이 긴 등불이 불뿜는 창으로 쓰는거!"
+        "path": "/description",
+        "value": "이 철 등불 가로등이 가스로 불꽃을 만든다."
     },
     {
         "op": "replace",
@@ -26,13 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 철 등불 가로등이 가스로 불꽃을 만든다."
+        "path": "/apexDescription",
+        "value": "一个坚固的钢铁锻造的灯柱。"
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "一个坚固的钢铁锻造的灯柱。"
+        "path": "/avianDescription",
+        "value": "길다란 철 가로등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 원해 이 긴 등불이 불뿜는 창으로 쓰는거!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 매우 긴 등불이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "가로등이 거리의 밤을 밝게 지켜줘!"
     },
     {
         "op": "replace",

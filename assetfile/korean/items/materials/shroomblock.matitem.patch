@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "버섯 블럭"
+        "path": "/description",
+        "value": "버섯 포자로 만든 블럭이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "버섯 포자로 만든 블럭이다."
+        "path": "/shortdescription",
+        "value": "버섯 블럭"
     },
     {
         "op": "replace",

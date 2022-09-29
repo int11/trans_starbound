@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "섬 해먹"
+        "path": "/description",
+        "value": "对一些人而言，一张吊床是才是真正奢侈的景色。"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "对一些人而言，一张吊床是才是真正奢侈的景色。"
+        "path": "/shortdescription",
+        "value": "섬 해먹"
     },
     {
         "op": "replace",

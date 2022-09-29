@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고대의 조작기"
+        "path": "/description",
+        "value": "이건 문의 제어 판 처럼 보인다. 아직 작동하는 것 같다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이건 문의 제어 판 처럼 보인다. 아직 작동하는 것 같다."
+        "path": "/shortdescription",
+        "value": "고대의 조작기"
     },
     {
         "op": "replace",

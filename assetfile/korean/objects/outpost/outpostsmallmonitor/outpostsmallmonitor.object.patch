@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 조정 모니터"
+        "path": "/description",
+        "value": "뭔갈 표시하고 있는거 같긴하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뭔갈 표시하고 있는거 같긴하다."
+        "path": "/shortdescription",
+        "value": "작은 조정 모니터"
     },
     {
         "op": "replace",

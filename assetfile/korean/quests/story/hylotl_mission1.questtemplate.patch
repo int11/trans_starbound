@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/findClues",
-        "value": "^green;물체를 조사^reset;하여 ^orange;하이로틀 단서^reset;를 찾으세요."
+        "path": "/title",
+        "value": "하이로틀 유물의 단서 찾기"
     },
     {
         "op": "replace",
@@ -11,8 +11,98 @@
     },
     {
         "op": "replace",
+        "path": "/completionText",
+        "value": "그게 하이로틀 유물을 찾을 마지막 단서였단다. 훌륭하게 해냈구나, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findClues",
+        "value": "^green;물체를 조사^reset;하여 ^orange;하이로틀 단서^reset;를 찾으세요."
+    },
+    {
+        "op": "replace",
         "path": "/scriptConfig/descriptions/turnIn",
         "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text",
+        "value": "이 그림은 손으로 그린 것으로 분명 건축물 문화의 중요성을 묘사한 것 일거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text",
+        "value": "하이로틀은 그들의 지식을 가장 소중한 보물처럼 보존하는구나... 책은 그들이 가장 소중하게 여기는 물건이고, 그들의 유물은 책을 보관하는 곳에 있을 수도?"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text",
+        "value": "이 도서관은 섬세하게 만들어진 모형이로구나. 지식의 궁전이라! 분명 그들의 유물은 이런 곳에 보관되어 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text",
+        "value": "이 수족관 위에는 모형 섬이 있어! 꽤나 기묘하구나."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text",
+        "value": "이 음악 상자는 고대의 음을 연주하는구나... 이건 기념품의 일종인데, 이 것의 기원이 무엇인지 연구해봐야겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+        "value": "흐음, 기묘하군... 이 정보와 다른 정보를 같이 봐야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+        "value": "흥미롭구나. 분명 이걸로 내 연구에 진전이 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+        "value": "내가 직접 도와줄 수는 없지만, 나는 하이로틀의 전통적인 문화를 존중하고 잘 알고있단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+        "value": "흠, 내 생각엔..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+        "value": "훌륭하네, 네가 찾는 것들은 모두 이론의 형성에 기여를 하고 있단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+        "value": "이 단서는 숨어있는 정보의 힌트로군."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+        "value": "이 단서는 내가 추측하고 있었던 게 맞다는걸 증명해주는군!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+        "value": "상당히 독특하구나! 하지만 더 놀라운 사실은 우리가 알아낸 정보보다 더욱 가치있는 물건 일 수도 있어..."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+        "value": "아무리 작은 증거라도 우주의 거대한 비밀을 푸는 데 도움이 된단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+        "value": "이 모든건 쓸모 있단다. 얘야. 계속 찾아보렴!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/startWithProgress/text",
+        "value": "아무래도 네가 유물의 행방을 찾을 단서가 포함된 물건을 미리 찾은 모양이구나, 네가 찾아다니는 동안 내가 분석하도록하마!"
     },
     {
         "op": "replace",
@@ -23,95 +113,5 @@
         "op": "replace",
         "path": "/scriptConfig/radioMessages/complete/text",
         "value": "흥미롭군. 대 사찰 도서관이라는 곳은 들어본적이 없어. 더 이상의 정보는 필요없단다 - ^#71f2f6;준비가 되면 방주로 오거라^white;, 얘야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/9/text",
-        "value": "이 모든건 쓸모 있단다. 얘야. 계속 찾아보렴!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/8/text",
-        "value": "아무리 작은 증거라도 우주의 거대한 비밀을 푸는 데 도움이 된단다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/7/text",
-        "value": "상당히 독특하구나! 하지만 더 놀라운 사실은 우리가 알아낸 정보보다 더욱 가치있는 물건 일 수도 있어..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/6/text",
-        "value": "이 단서는 내가 추측하고 있었던 게 맞다는걸 증명해주는군!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/5/text",
-        "value": "이 단서는 숨어있는 정보의 힌트로군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/4/text",
-        "value": "훌륭하네, 네가 찾는 것들은 모두 이론의 형성에 기여를 하고 있단다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/3/text",
-        "value": "흠, 내 생각엔..."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/2/text",
-        "value": "내가 직접 도와줄 수는 없지만, 나는 하이로틀의 전통적인 문화를 존중하고 잘 알고있단다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/1/text",
-        "value": "흥미롭구나. 분명 이걸로 내 연구에 진전이 있을거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
-        "value": "흐음, 기묘하군... 이 정보와 다른 정보를 같이 봐야겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text",
-        "value": "이 수족관 위에는 모형 섬이 있어! 꽤나 기묘하구나."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text",
-        "value": "이 그림은 손으로 그린 것으로 분명 건축물 문화의 중요성을 묘사한 것 일거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text",
-        "value": "이 도서관은 섬세하게 만들어진 모형이로구나. 지식의 궁전이라! 분명 그들의 유물은 이런 곳에 보관되어 있을거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text",
-        "value": "하이로틀은 그들의 지식을 가장 소중한 보물처럼 보존하는구나... 책은 그들이 가장 소중하게 여기는 물건이고, 그들의 유물은 책을 보관하는 곳에 있을 수도?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text",
-        "value": "이 음악 상자는 고대의 음을 연주하는구나... 이건 기념품의 일종인데, 이 것의 기원이 무엇인지 연구해봐야겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/startWithProgress/text",
-        "value": "아무래도 네가 유물의 행방을 찾을 단서가 포함된 물건을 미리 찾은 모양이구나, 네가 찾아다니는 동안 내가 분석하도록하마!"
-    },
-    {
-        "op": "replace",
-        "path": "/completionText",
-        "value": "그게 하이로틀 유물을 찾을 마지막 단서였단다. 훌륭하게 해냈구나, 얘야."
-    },
-    {
-        "op": "replace",
-        "path": "/title",
-        "value": "하이로틀 유물의 단서 찾기"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거미 비단 블럭"
+        "path": "/description",
+        "value": "거미줄를 압축하여 만든 블럭이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거미줄를 압축하여 만든 블럭이다."
+        "path": "/shortdescription",
+        "value": "거미 비단 블럭"
     },
     {
         "op": "replace",

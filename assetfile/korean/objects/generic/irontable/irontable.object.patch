@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날카로운 탁자"
+        "path": "/description",
+        "value": "다리를 위한 칼이 달린 탁자다. 발 장난 하기 적합하지 않다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다리를 위한 칼이 달린 탁자다. 발 장난 하기 적합하지 않다."
+        "path": "/shortdescription",
+        "value": "날카로운 탁자"
     },
     {
         "op": "replace",

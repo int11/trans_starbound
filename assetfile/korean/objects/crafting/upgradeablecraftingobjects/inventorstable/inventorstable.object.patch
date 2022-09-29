@@ -1,148 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/description",
-        "value": "기술의 시작은 발명이다. 여러 작업대를 만들어 혁신을 이룩하자."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
-        "value": "새로운 걸 만들어 내는 데에 자재들을 쓸 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
-        "value": "새로운 걸 만들어 내는 데에 자재들을 쓸 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "새로운 걸 만들어 내는 데에 자재들을 쓸 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;혁신적인 작업대"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;혁신적인 작업대"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;혁신적인 작업대"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
-        "value": "창조의 기회."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-        "value": "창조의 기회."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-        "value": "창조의 기회."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "창조의 기회."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
-        "value": "영감받음. 창작 모듈 활성화."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-        "value": "영감받음. 창작 모듈 활성화."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-        "value": "영감받음. 창작 모듈 활성화."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "영감받음. 창작 모듈 활성화."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "설계자의 탁자"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "기술자의 탁자"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "발명가의 탁자"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;발명가의 탁자^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-        "value": "^orange;설계자의 탁자^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-        "value": "^orange;기술자의 탁자^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-        "value": "^orange;발명가의 탁자^white; "
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "기술의 시작은 발명이다. 여러 작업대를 만들어 혁신을 이룩하자."
     },
     {
         "op": "replace",
-        "path": "/upgradeStages/2/itemSpawnParameters/description",
-        "value": "기술의 시작은 발명이다. 여러 작업대를 만들어 혁신을 이룩하자."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/description",
-        "value": "기술의 시작은 발명이다. 여러 작업대를 만들어 혁신을 이룩하자."
+        "path": "/shortdescription",
+        "value": "^orange;발명가의 탁자^white; "
     },
     {
         "op": "replace",
@@ -156,8 +21,38 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감받음. 창작 모듈 활성화."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "我能用一些我在这里找到的材料创造一些新的东西。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "창조의 기회."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "새로운 걸 만들어 내는 데에 자재들을 쓸 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/description",
+        "value": "기술의 시작은 발명이다. 여러 작업대를 만들어 혁신을 이룩하자."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;발명가의 탁자^white; "
     },
     {
         "op": "replace",
@@ -171,8 +66,48 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "value": "영감받음. 창작 모듈 활성화."
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
         "value": "我能用一些我在这里找到的材料创造一些新的东西。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "value": "창조의 기회."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "value": "새로운 걸 만들어 내는 데에 자재들을 쓸 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "발명가의 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;혁신적인 작업대"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "기술의 시작은 발명이다. 여러 작업대를 만들어 혁신을 이룩하자."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+        "value": "^orange;기술자의 탁자^white; "
     },
     {
         "op": "replace",
@@ -186,8 +121,48 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+        "value": "영감받음. 창작 모듈 활성화."
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
         "value": "我能用一些我在这里找到的材料创造一些新的东西。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "value": "창조의 기회."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+        "value": "새로운 걸 만들어 내는 데에 자재들을 쓸 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "기술자의 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;혁신적인 작업대"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/description",
+        "value": "기술의 시작은 발명이다. 여러 작업대를 만들어 혁신을 이룩하자."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+        "value": "^orange;설계자의 탁자^white; "
     },
     {
         "op": "replace",
@@ -201,12 +176,37 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+        "value": "플로란 책샹 쓴다. 좋은 거 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+        "value": "영감받음. 창작 모듈 활성화."
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
         "value": "我能用一些我在这里找到的材料创造一些新的东西。"
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+        "value": "창조의 기회."
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
         "value": "我能用一些我在这里找到的材料创造一些新的玩意。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "설계자의 탁자"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;혁신적인 작업대"
     }
 ]

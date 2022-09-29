@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "야만자 가슴 장식"
+        "path": "/description",
+        "value": "이 사냥꾼의 가슴 장식은 착용자를 따듯하고 건조하게 유지시켜준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 사냥꾼의 가슴 장식은 착용자를 따듯하고 건조하게 유지시켜준다."
+        "path": "/shortdescription",
+        "value": "야만자 가슴 장식"
     }
 ]

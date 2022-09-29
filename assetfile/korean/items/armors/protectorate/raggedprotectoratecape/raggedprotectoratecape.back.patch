@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "찢어진 보호국 망토"
+        "path": "/description",
+        "value": "보호국의 깃발로 급히 만든 망토다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "보호국의 깃발로 급히 만든 망토다."
+        "path": "/shortdescription",
+        "value": "찢어진 보호국 망토"
     }
 ]

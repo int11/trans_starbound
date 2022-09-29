@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기술 카드"
+        "path": "/description",
+        "value": "여러 기술을 입력해 놓을 수 있는 전자 카드이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여러 기술을 입력해 놓을 수 있는 전자 카드이다."
+        "path": "/shortdescription",
+        "value": "기술 카드"
     }
 ]

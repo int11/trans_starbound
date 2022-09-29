@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화석 포드"
+        "path": "/description",
+        "value": "그 화석이 무엇인지 알아보자! 내려 놓고 깨서 열어보자!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "그 화석이 무엇인지 알아보자! 내려 놓고 깨서 열어보자!"
+        "path": "/shortdescription",
+        "value": "화석 포드"
     }
 ]

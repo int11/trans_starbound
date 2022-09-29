@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조종사의 배낭"
+        "path": "/description",
+        "value": "작동하는 낙하산이 있을까 없을까? 실험 해보고 싶진 않다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작동하는 낙하산이 있을까 없을까? 실험 해보고 싶진 않다."
+        "path": "/shortdescription",
+        "value": "조종사의 배낭"
     }
 ]

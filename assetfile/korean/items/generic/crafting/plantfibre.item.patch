@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "식물 섬유 (Plant Fibre)"
+        "path": "/description",
+        "value": "한 움큼의 식물 섬유다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "한 움큼의 식물 섬유다."
+        "path": "/shortdescription",
+        "value": "식물 섬유 (Plant Fibre)"
     }
 ]

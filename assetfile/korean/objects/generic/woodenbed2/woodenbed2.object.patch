@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "눈을 감기에 적절한 곳이야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "나무로 만들어진 프레임에 편안한 매트리스. 뭐가 더 필요하겠어?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "나른. 내 동력 레벨이 낮다. 이 침대가 손짓하는 것 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "편안하고 멋진 심플한 목제 침대."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "눈을 닫기에 좋은 곳이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "기본적이고 편한 침대."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 드물지만 멋진 침대에서 잔다."
+        "path": "/description",
+        "value": "침대 머리판이 있는 편안한 나무 침대."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "침대 머리판이 있는 편안한 나무 침대."
+        "path": "/apexDescription",
+        "value": "편안하고 멋진 심플한 목제 침대."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나무로 만들어진 프레임에 편안한 매트리스. 뭐가 더 필요하겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 드물지만 멋진 침대에서 잔다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "나른. 내 동력 레벨이 낮다. 이 침대가 손짓하는 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "기본적이고 편한 침대."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "눈을 닫기에 좋은 곳이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "눈을 감기에 적절한 곳이야."
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "화석화된 팽귄의 유골이다."
+        "path": "/shortdescription",
+        "value": "팽귄 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 팽귄 해골이다."
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "팽귄 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석화된 팽귄 해골이다."
+        "path": "/completeSetDescriptions/description",
+        "value": "화석화된 팽귄의 유골이다."
     }
 ]

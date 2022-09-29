@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바위 바지"
+        "path": "/description",
+        "value": "광부가 할 수 있는 완벽한 위장이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "광부가 할 수 있는 완벽한 위장이다."
+        "path": "/shortdescription",
+        "value": "바위 바지"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 백금 바위"
+        "path": "/description",
+        "value": "백금으로 가득 찬 쪼개진 바위다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "백금으로 가득 찬 쪼개진 바위다."
+        "path": "/shortdescription",
+        "value": "작은 백금 바위"
     },
     {
         "op": "replace",

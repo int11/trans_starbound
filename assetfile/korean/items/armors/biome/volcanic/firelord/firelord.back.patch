@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "염제의 망토"
+        "path": "/description",
+        "value": "강력한 염제가 사용했던 망토. 그 실은 뜨거운 불꽃으로 꿰어져서 단단히 붙어있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강력한 염제가 사용했던 망토. 그 실은 뜨거운 불꽃으로 꿰어져서 단단히 붙어있다."
+        "path": "/shortdescription",
+        "value": "염제의 망토"
     }
 ]

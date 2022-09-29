@@ -1,7 +1,7 @@
 [
     {
         "op": "replace",
-        "path": "/effects/wooden/hit/particles/0/text",
+        "path": "/effects/organic/hit/particles/0/text",
         "value": "^shadow;막음"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "op": "replace",
-        "path": "/effects/organic/hit/particles/0/text",
+        "path": "/effects/wooden/hit/particles/0/text",
         "value": "^shadow;막음"
     },
     {

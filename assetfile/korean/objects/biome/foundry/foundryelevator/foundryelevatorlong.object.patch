@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "긴 산업용 승강기"
+        "path": "/description",
+        "value": "이 승강기는 주조 공장에서 일반적으로 보이도록 설계됬다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 승강기는 주조 공장에서 일반적으로 보이도록 설계됬다."
+        "path": "/shortdescription",
+        "value": "긴 산업용 승강기"
     },
     {
         "op": "replace",

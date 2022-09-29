@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "엘레베이터 버튼"
+        "path": "/description",
+        "value": "층간 이동을 위한 탑승물에 타기 위해 쓰이는 버튼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "층간 이동을 위한 탑승물에 타기 위해 쓰이는 버튼이다."
+        "path": "/shortdescription",
+        "value": "엘레베이터 버튼"
     },
     {
         "op": "replace",

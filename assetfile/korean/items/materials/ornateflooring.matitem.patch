@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화려한 바닥재"
+        "path": "/description",
+        "value": "보기 좋은 고급 바닥재."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "보기 좋은 고급 바닥재."
+        "path": "/shortdescription",
+        "value": "화려한 바닥재"
     },
     {
         "op": "replace",

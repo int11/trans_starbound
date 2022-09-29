@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "옛날 방식의 제련"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 오래된 용광로는 에너지 효율이 나빠. 이걸 개선할 수 있는 생각을 해봤는데..."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 오래된 금속 용광로는 만지면 정말 뜨거워."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "꽤 낡은 구리 용광로네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이거 뜨거워. 플로란 조금 걱정돼."
-    },
-    {
-        "op": "replace",
         "path": "/interactData/paneLayoutOverride/windowtitle/title",
         "value": "국경지대 용광로"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "국경지대 용광로"
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "옛날 방식의 제련"
     },
     {
         "op": "replace",
@@ -41,13 +16,38 @@
     },
     {
         "op": "replace",
+        "path": "/shortdescription",
+        "value": "국경지대 용광로"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "꽤 낡은 구리 용광로네."
+    },
+    {
+        "op": "replace",
         "path": "/avianDescription",
         "value": "我感觉如果我太靠近这个的话，它会烧焦我的羽毛。"
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "이거 뜨거워. 플로란 조금 걱정돼."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "着迷。我想知道所有这些管道有什么用处？"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 오래된 금속 용광로는 만지면 정말 뜨거워."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 오래된 용광로는 에너지 효율이 나빠. 이걸 개선할 수 있는 생각을 해봤는데..."
     },
     {
         "op": "replace",

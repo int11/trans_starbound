@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 옷장 내의 보관하기에 딱이겠는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "어쩌면 흥미로운 게 숨어있을 지도 모른다. 겉모습은 허상일 수도 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "표시도 없고, 장식도 없고."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "꼭 누가 이 옷장 완전 지루하다는 걸 확신시켜주려고 했던 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "반군이 한 때 이런 옷장에 변장용품을 숨겨두곤 했었지..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "옷장? 이런 물건 플로란 시시하다."
+        "path": "/description",
+        "value": "아주 기본적인 대량생산 옷장이다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "반군이 한 때 이런 옷장에 변장용품을 숨겨두곤 했었지..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "표시도 없고, 장식도 없고."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "옷장? 이런 물건 플로란 시시하다."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "무영감. 이런 가구는 정신에 불러일으키는 게 없다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아주 기본적인 대량생산 옷장이다."
+        "path": "/humanDescription",
+        "value": "꼭 누가 이 옷장 완전 지루하다는 걸 확신시켜주려고 했던 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "어쩌면 흥미로운 게 숨어있을 지도 모른다. 겉모습은 허상일 수도 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 옷장 내의 보관하기에 딱이겠는걸."
     }
 ]

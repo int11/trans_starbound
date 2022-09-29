@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;픽셀 압축기^white; "
+        "path": "/description",
+        "value": "픽셀을 압축해 보관할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "픽셀을 압축해 보관할 수 있다."
+        "path": "/shortdescription",
+        "value": "^orange;픽셀 압축기^white; "
     },
     {
         "op": "replace",

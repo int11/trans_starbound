@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "코메디 대본"
+        "path": "/description",
+        "value": "끔찍한 농담이 적혀있는 얼룩지고 구겨진 종이."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "끔찍한 농담이 적혀있는 얼룩지고 구겨진 종이."
+        "path": "/shortdescription",
+        "value": "코메디 대본"
     }
 ]

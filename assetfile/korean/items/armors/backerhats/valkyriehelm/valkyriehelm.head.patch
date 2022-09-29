@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "발키리 투구"
+        "path": "/description",
+        "value": "투구에 새겨진 모양의 의미는 \"망자를 고르는 자\"라고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "투구에 새겨진 모양의 의미는 \"망자를 고르는 자\"라고 한다."
+        "path": "/shortdescription",
+        "value": "발키리 투구"
     }
 ]

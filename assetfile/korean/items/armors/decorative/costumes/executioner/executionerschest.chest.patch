@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "처형자의 장갑"
+        "path": "/description",
+        "value": "튼튼한 장갑, 정의를 전달하는데 적합하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "튼튼한 장갑, 정의를 전달하는데 적합하다."
+        "path": "/shortdescription",
+        "value": "처형자의 장갑"
     }
 ]

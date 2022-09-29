@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고양이 눈 안경"
+        "path": "/description",
+        "value": "한때 매우 격식있는 여성이 소지하고 있었다고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "한때 매우 격식있는 여성이 소지하고 있었다고 한다."
+        "path": "/shortdescription",
+        "value": "고양이 눈 안경"
     }
 ]

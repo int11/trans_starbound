@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "해적의 통바지"
+        "path": "/description",
+        "value": "해적의 통바지,다리에 구멍이 나있다 (못이 있을수도 있다)"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "해적의 통바지,다리에 구멍이 나있다 (못이 있을수도 있다)"
+        "path": "/shortdescription",
+        "value": "해적의 통바지"
     }
 ]

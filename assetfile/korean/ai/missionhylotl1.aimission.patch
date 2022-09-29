@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/speciesText/default/selectSpeech/text",
-        "value": "이 고대의 복합적인 섬이 하이로틀 유물이 있는 위치로 계산되었습니다."
+        "path": "/speciesText/default/buttonText",
+        "value": "웅장한 서고 탑"
     },
     {
         "op": "replace",
@@ -11,7 +11,7 @@
     },
     {
         "op": "replace",
-        "path": "/speciesText/default/buttonText",
-        "value": "웅장한 서고 탑"
+        "path": "/speciesText/default/selectSpeech/text",
+        "value": "이 고대의 복합적인 섬이 하이로틀 유물이 있는 위치로 계산되었습니다."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 문"
+        "path": "/description",
+        "value": "얼음문이다. 너무 오래 손잡이를 잡을 수 없다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼음문이다. 너무 오래 손잡이를 잡을 수 없다."
+        "path": "/shortdescription",
+        "value": "얼음 문"
     },
     {
         "op": "replace",

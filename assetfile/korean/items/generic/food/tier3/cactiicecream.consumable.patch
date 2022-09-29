@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선인장 아이스크림"
+        "path": "/description",
+        "value": "맛있다. 까끌까끌한 느낌도 드는군."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "맛있다. 까끌까끌한 느낌도 드는군."
+        "path": "/shortdescription",
+        "value": "선인장 아이스크림"
     }
 ]

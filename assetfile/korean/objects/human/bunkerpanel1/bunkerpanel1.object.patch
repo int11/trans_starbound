@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "누군가 이 자료에 관심을 보일 사람이 저 어딘가에 꼭 있을 거다. 나는 아니다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "주변 환경에 대한 자료다. 하이로틀과 마찬가지로 인간들 또한 자신들이 방문하는 곳에 주의를 기울인다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "그리 과학적으로 보이진 않는다. 환경에 관한 평가가 *뭐 꽤 괜찮네* 라고 쓰여있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "바깥 환경이 인간들에게 안전하다. 퍽이나 유용하다. 이미 바깥에서 잔뜩 뒹굴다 왔는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 자료에 따르면 바깥의 환경은 거주에 적합해 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무시. 이 자료가 뭐라든간에 바깥환경은 글리치에게 딱 맞다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이 자료 재미없다."
+        "path": "/description",
+        "value": "이 방공호 바깥의 환경을 분석한 것으로 보인다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 방공호 바깥의 환경을 분석한 것으로 보인다."
+        "path": "/apexDescription",
+        "value": "이 자료에 따르면 바깥의 환경은 거주에 적합해 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "그리 과학적으로 보이진 않는다. 환경에 관한 평가가 *뭐 꽤 괜찮네* 라고 쓰여있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 자료 재미없다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무시. 이 자료가 뭐라든간에 바깥환경은 글리치에게 딱 맞다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "바깥 환경이 인간들에게 안전하다. 퍽이나 유용하다. 이미 바깥에서 잔뜩 뒹굴다 왔는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "주변 환경에 대한 자료다. 하이로틀과 마찬가지로 인간들 또한 자신들이 방문하는 곳에 주의를 기울인다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "누군가 이 자료에 관심을 보일 사람이 저 어딘가에 꼭 있을 거다. 나는 아니다."
     }
 ]

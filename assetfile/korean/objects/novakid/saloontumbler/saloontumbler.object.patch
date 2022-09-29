@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 술잔"
+        "path": "/description",
+        "value": "더러워 보이는 유리 술잔이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "더러워 보이는 유리 술잔이다."
+        "path": "/shortdescription",
+        "value": "술집 술잔"
     },
     {
         "op": "replace",

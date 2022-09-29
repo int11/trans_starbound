@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이런 소리는 들어본 적이 없다. 내 취향인지는 모르겠네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 음악 플로란 엉덩이 씰룩인다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "굉장히 유명한 클럽 노래다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 끔찍한 소음은 대체 뭐람?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "전형적인 클럽 음악이다. 지구의 클럽에서 들었던 음악과는 전혀 다르다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "춤을 추고 싶게 만드는 음악이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "부정. 좋지 않은 음악이다."
+        "path": "/description",
+        "value": "클럽용 대형 스피커다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "클럽용 대형 스피커다."
+        "path": "/apexDescription",
+        "value": "춤을 추고 싶게 만드는 음악이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 끔찍한 소음은 대체 뭐람?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 음악 플로란 엉덩이 씰룩인다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "부정. 좋지 않은 음악이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "전형적인 클럽 음악이다. 지구의 클럽에서 들었던 음악과는 전혀 다르다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "굉장히 유명한 클럽 노래다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이런 소리는 들어본 적이 없다. 내 취향인지는 모르겠네."
     }
 ]

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "서술. 가공되지 않은 무지개 나무다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "샹처없는 무지개 나무다."
+        "path": "/description",
+        "value": "거칠고 가공되지 않았다, 이 나무는 다채로운 중추를 가지고 있다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거칠고 가공되지 않았다, 이 나무는 다채로운 중추를 가지고 있다."
+        "path": "/glitchDescription",
+        "value": "서술. 가공되지 않은 무지개 나무다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샹처없는 무지개 나무다."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구리 울타리"
+        "path": "/description",
+        "value": "구리로 만든 튼튼한 울타리"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "구리로 만든 튼튼한 울타리"
+        "path": "/shortdescription",
+        "value": "구리 울타리"
     },
     {
         "op": "replace",

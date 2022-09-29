@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타르 침대"
+        "path": "/description",
+        "value": "간단한 타르 침대다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단한 타르 침대다."
+        "path": "/shortdescription",
+        "value": "타르 침대"
     },
     {
         "op": "replace",

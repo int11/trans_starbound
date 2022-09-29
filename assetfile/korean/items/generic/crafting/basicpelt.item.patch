@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "생가죽"
+        "path": "/description",
+        "value": "한 동물의 생가죽이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "한 동물의 생가죽이다."
+        "path": "/shortdescription",
+        "value": "생가죽"
     }
 ]

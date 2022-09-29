@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이걸 보면 뒤숭숭해진단 말야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "플로란들은 트로피 삼아 뼈들을 걸어놓지. 끔찍하기 짝이 없는 풍습이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이게 원래 누구였든간에, 이 꼬라지가 나선 안됐던건데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "꼬챙이에 꿰인 뼈의 일부다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "끔찍. 플로란들은 이렇게 폭력적으로 죽은 해골들을 장식한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "해골들은 좋은 장식이 되지."
+        "path": "/description",
+        "value": "창에 꿰인 해골. 완전 병적이야."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "창에 꿰인 해골. 완전 병적이야."
+        "path": "/apexDescription",
+        "value": "꼬챙이에 꿰인 뼈의 일부다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "플로란들은 트로피 삼아 뼈들을 걸어놓지. 끔찍하기 짝이 없는 풍습이야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "해골들은 좋은 장식이 되지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "끔찍. 플로란들은 이렇게 폭력적으로 죽은 해골들을 장식한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이게 원래 누구였든간에, 이 꼬라지가 나선 안됐던건데."
     },
     {
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "这些骨头是被组装起来作为一个警示么？"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이걸 보면 뒤숭숭해진단 말야."
     }
 ]

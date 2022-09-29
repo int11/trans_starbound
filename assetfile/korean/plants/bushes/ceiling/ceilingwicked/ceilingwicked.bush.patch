@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상태. 매달린 뿌리."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "뿌리!"
+        "path": "/description",
+        "value": "매달린 뿌리."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매달린 뿌리."
+        "path": "/floranDescription",
+        "value": "뿌리!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 매달린 뿌리."
     }
 ]

@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "값싼 나무 문이다."
+        "path": "/description",
+        "value": "판자를 붙여 제작된 문이다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "판자를 붙인 문"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "판자를 붙여 제작된 문이다."
     },
     {
         "op": "replace",
@@ -43,5 +38,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "这扇门缺少手工的痕迹。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "값싼 나무 문이다."
     }
 ]

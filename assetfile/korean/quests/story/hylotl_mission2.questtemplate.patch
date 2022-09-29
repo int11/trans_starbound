@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/turnIn",
-        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/artifact",
-        "value": "^green;웅장한 서고 탑^reset;에 있는 ^orange;유물^reset;을 찾으세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/missionRadioMessage/text",
-        "value": "방금 ^orange;웅장한 서고 탑^reset;의 좌표를 전송받았습니다. 만약 함선으로 돌아오시면 ^green;제 콘솔을 이용해서^reset; 그곳으로 갈 수 있습니다."
+        "path": "/title",
+        "value": "하이로틀 유물을 가져오기"
     },
     {
         "op": "replace",
@@ -26,7 +16,17 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "하이로틀 유물을 가져오기"
+        "path": "/scriptConfig/missionRadioMessage/text",
+        "value": "방금 ^orange;웅장한 서고 탑^reset;의 좌표를 전송받았습니다. 만약 함선으로 돌아오시면 ^green;제 콘솔을 이용해서^reset; 그곳으로 갈 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/artifact",
+        "value": "^green;웅장한 서고 탑^reset;에 있는 ^orange;유물^reset;을 찾으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
     }
 ]

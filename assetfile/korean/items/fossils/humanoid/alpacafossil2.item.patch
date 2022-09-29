@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "알파카 상반신 화석 (Alpaca Torso)"
+        "path": "/description",
+        "value": "화석이 된 알파카의 상반신이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화석이 된 알파카의 상반신이다."
+        "path": "/shortdescription",
+        "value": "알파카 상반신 화석 (Alpaca Torso)"
     }
 ]

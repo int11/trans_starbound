@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "^orange;과학적으로 가자"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "나는 지금 사용자가 한 지점에서 다른 지점으로 빠르게 이동하는 기술을 제작하는 중이야. 그런데 내 ^orange;프로토타입^white;에 몇가지 주요 요소가 빠져있어. 혹시 날 위해 ^orange;10개의 구리 주괴^green;를 가져다 줄 수 있겠니^white;?"
     },
@@ -18,11 +23,6 @@
         "op": "replace",
         "path": "/scriptConfig/portraits/questComplete/title",
         "value": "엘리엇"
-    },
-    {
-        "op": "replace",
-        "path": "/title",
-        "value": "^orange;과학적으로 가자"
     },
     {
         "op": "replace",

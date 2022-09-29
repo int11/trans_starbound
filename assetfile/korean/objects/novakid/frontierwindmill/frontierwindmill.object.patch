@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 풍차는 바람의 세기와 각을 보는데 도움을 주지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "회전하는 날개는 바람이 부는 길을 알려주지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 풍차의 날개는 바람이 어디로 부는지 말해줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 오래된 건 바람 부는 쪽으로 돌아가는 프로펠러를 갖고 싶어. 멋져!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 심플한 풍차는 바람이 부는 쪽으로 회전할거야. 유용한 계기판이지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 날개는 바람이 부는 방향을 나타내기위한 것일세."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이거 돌리면 무기로 효과적일 거 같아..."
+        "path": "/description",
+        "value": "놋쇠, 나무, 그리고 구리로 만든 풍차다. 바람에 의해 돌아간다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "놋쇠, 나무, 그리고 구리로 만든 풍차다. 바람에 의해 돌아간다."
+        "path": "/apexDescription",
+        "value": "이 심플한 풍차는 바람이 부는 쪽으로 회전할거야. 유용한 계기판이지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 풍차의 날개는 바람이 어디로 부는지 말해줘!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 돌리면 무기로 효과적일 거 같아..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 날개는 바람이 부는 방향을 나타내기위한 것일세."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 오래된 건 바람 부는 쪽으로 돌아가는 프로펠러를 갖고 싶어. 멋져!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "회전하는 날개는 바람이 부는 길을 알려주지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 풍차는 바람의 세기와 각을 보는데 도움을 주지."
     }
 ]

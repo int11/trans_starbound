@@ -1,866 +1,421 @@
 [
     {
         "op": "replace",
-        "path": "/converse/glitch/glitch/0",
-        "value": "친근. 반갑네 친구."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/glitch/floran/0",
-        "value": "친근. 반갑소 식물사람."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/glitch/default/0",
-        "value": "혼란. 그대는 어느 존재인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/glitch/human/0",
-        "value": "우월. 허약한 인간이로다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/glitch/avian/0",
-        "value": "의문. 그 깃털은 스스로 만들어진 것이오, 아니면 다른 예술가들이 꾸며준 것이오?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/glitch/hylotl/0",
-        "value": "회의적. 물 속에 사는 종족 치고는 그리 깔끔한 냄새는 나지 않는구려."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/floran/glitch/0",
-        "value": "플로란 철 샤람 반긴다!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/floran/floran/0",
-        "value": "플로란!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/floran/default/0",
-        "value": "낯션 물건."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/floran/human/0",
-        "value": "고기샤람!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/floran/avian/0",
-        "value": "섀 샤람!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/floran/hylotl/0",
-        "value": "쉬이이이익!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/floran/apex/0",
-        "value": "플로란 원슝이 샤람 껴안고 싶다!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/0",
-        "value": "난 너에게 할말이 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/glitch/0",
-        "value": "우와, 멋지다. 로봇이네."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/floran/0",
-        "value": "괴식물이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/default/0",
-        "value": "멋진 하루 보내!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/human/0",
-        "value": "요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/human/1",
-        "value": "이봐, 만나서 반가워."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/avian/0",
-        "value": "이야, 꽤 큰 새잖아!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/hylotl/0",
-        "value": "으아, 엄청 큰 물고기다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/human/apex/0",
-        "value": "말하는 원숭이. 쩐다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/0",
-        "value": "안녕하세요. 글리치여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/0",
-        "value": "오.. 플로란이군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/default/0",
-        "value": "축복받은 하루가 되길, 여행자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/0",
-        "value": "반가워요. 인간이여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/0",
-        "value": "반가워요. 아비안 동지여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/0",
-        "value": "오, 하이로틀이군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/0",
-        "value": "반가워요. 영장류여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/hylotl/glitch/0",
-        "value": "오, 로봇입니까."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/hylotl/floran/0",
-        "value": "그허억!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/hylotl/default/0",
-        "value": "그대가 뭐하는 사람인지 알고 싶지 않습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/hylotl/human/0",
-        "value": "안녕하십니까, 매끈하신 분."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/hylotl/avian/0",
-        "value": "반갑습니다. 아비안."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/hylotl/hylotl/0",
-        "value": "아, 드디어 누군가 나의 진가를 알아봐 주는군."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/hylotl/apex/0",
-        "value": "너무 가까이 붙지 마십시오, 영장류 님. 그대 냄새가 심합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/apex/glitch/0",
-        "value": "거기 안녕, 글리치."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/apex/floran/0",
-        "value": "플로란이군. 아아."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/apex/default/0",
-        "value": "지정부 소속처럼 보이진 않는군..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/apex/human/0",
-        "value": "아, 우리 사이에서 인간을 보게 되다니 참 다행이로군."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/apex/avian/0",
-        "value": "반갑다, 아비안."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/apex/hylotl/0",
-        "value": "거기 안녕, 하이로틀."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/apex/apex/0",
-        "value": "여기까지 오면서 큰 위험을 맞이하였겠군. 부랑자."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/glitch/default/0",
-        "value": "안심. 휴. 제대로 도망친 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/glitch/default/1",
-        "value": "감사. 내 목숨을 부지하였소!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/glitch/default/2",
-        "value": "소원. 요새를 마련할 수만 있었더라면."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/glitch/default/3",
-        "value": "희망. 안전해진 거요?"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/glitch/default/4",
-        "value": "당혹. 기름을 조금 지린 모양이오."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/floran/default/0",
-        "value": "플로란 무샤하다."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/floran/default/1",
-        "value": "플로란 안 쓔셔졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/floran/default/2",
-        "value": "플로란 무기 없어셔 운 좋은 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/floran/default/3",
-        "value": "구셰했다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/default/default/0",
-        "value": "휴, 도망쳤나보다."
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/default/default/1",
-        "value": "목숨 부지했다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/safe/default/default/2",
-        "value": "여기가 안전지대인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/glitch/default/0",
-        "value": "기합. 칼맛을 보여주게!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/glitch/default/1",
-        "value": "흥분. 내 복수를 해주오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/glitch/default/2",
-        "value": "공격. 쓰러트려라!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/glitch/default/3",
-        "value": "복수. 도망치게 두지 마라!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/floran/default/0",
-        "value": "침입자 쓔신다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/floran/default/1",
-        "value": "플로란 복슈한다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/floran/default/2",
-        "value": "쎨어라!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/default/default/0",
-        "value": "잡아라!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/default/default/1",
-        "value": "복수해다오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/default/default/2",
-        "value": "날 위해서라도 잡아!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/encourage/default/default/3",
-        "value": "도망치게 두지 마라!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/glitch/default/0",
-        "value": "공포. 누가 좀 도와주시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/glitch/default/1",
-        "value": "위축. 날 해하지 마시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/glitch/default/2",
-        "value": "두려움. 날 좀 내버려두시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/glitch/default/3",
-        "value": "공포. 살려줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/glitch/default/4",
-        "value": "충격. 무슨 짓을 한 거요?!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/floran/default/0",
-        "value": "쓔실 시간이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/floran/default/1",
-        "value": "플로란 아프다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/floran/default/2",
-        "value": "플로란 샤냥 준비 안 됐다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/default/default/0",
-        "value": "무슨 짓을 한 거야!?"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/glitch/default/0",
-        "value": "공포. 도와 주게나!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/glitch/default/1",
-        "value": "위축. 날 해하지 마시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/glitch/default/2",
-        "value": "위협. 누가 날 위협하고 있소!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/glitch/default/3",
-        "value": "두려움. 저리 가시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/glitch/default/4",
-        "value": "공포. 살려줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/glitch/default/5",
-        "value": "충격. 안 돼! 저리 떨어지시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/floran/default/0",
-        "value": "쓔실 시간이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/floran/default/1",
-        "value": "플로란 아프다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/floran/default/2",
-        "value": "플로란 샤냥 준비 안 됐다!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/default/default/0",
-        "value": "도와주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/default/default/1",
-        "value": "도와줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpme/default/default/2",
-        "value": "누가 날 위협하고있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/flee/helpthem/glitch/default/5",
-        "value": "정당. 전자 편지로 항의하겠소!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/glitch/apex/0",
-        "value": "충격. 이리도 털 투성이인 생물이 있다니!"
-    },
-    {
-        "op": "replace",
         "path": "/converse/default/default",
         "value": [
-            "我和你没什么好说的。"
+            "난 너에게 할말이 없어."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/apex/default",
         "value": [
-            "你看上去不像科技发展部的人…"
+            "지정부 소속처럼 보이진 않는군..."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/apex/human",
         "value": [
-            "啊，看到我们当中有人类真是再好不过了。"
+            "아, 우리 사이에서 인간을 보게 되다니 참 다행이로군."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/apex/apex",
         "value": [
-            "你冒险回到这里，贱民。"
+            "여기까지 오면서 큰 위험을 맞이하였겠군. 부랑자."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/apex/avian",
         "value": [
-            "你好，翼族人。"
+            "반갑다, 아비안."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/apex/floran",
         "value": [
-            "一个叶族人。哦。"
+            "플로란이군. 아아."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/apex/glitch",
         "value": [
-            "你好啊，电子人。"
+            "거기 안녕, 글리치."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/apex/hylotl",
         "value": [
-            "你好啊，鲛人。"
+            "거기 안녕, 하이로틀."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/hylotl/default",
         "value": [
-            "我不确定我是否想知道你到底是谁。"
+            "그대가 뭐하는 사람인지 알고 싶지 않습니다."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/hylotl/human",
         "value": [
-            "哦，你好啊，光皮肤的。"
+            "안녕하십니까, 매끈하신 분."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/hylotl/apex",
         "value": [
-            "不要靠得太近，猿人。你身上有味道。"
+            "너무 가까이 붙지 마십시오, 영장류 님. 그대 냄새가 심합니다."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/hylotl/avian",
         "value": [
-            "你好，翼族人。"
+            "반갑습니다. 아비안."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/hylotl/floran",
         "value": [
-            "滚！"
+            "그허억!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/hylotl/glitch",
         "value": [
-            "哦，一个机器人。"
+            "오, 로봇입니까."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/hylotl/hylotl",
         "value": [
-            "啊，终于有个会欣赏我的人来了。"
+            "아, 드디어 누군가 나의 진가를 알아봐 주는군."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/default",
         "value": [
-            "愿你有幸福的一天，陌生人。"
+            "축복받은 하루가 되길, 여행자여."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/human",
         "value": [
-            "你好，人类。"
+            "반가워요. 인간이여."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/apex",
         "value": [
-            "你好，猿人。"
+            "반가워요. 영장류여."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/avian",
         "value": [
-            "你好，翼族同胞。"
+            "반가워요. 아비안 동지여."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/floran",
         "value": [
-            "噢…一个叶族人。"
+            "오.. 플로란이군요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/glitch",
         "value": [
-            "你好啊，电子人。"
+            "안녕하세요. 글리치여."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/hylotl",
         "value": [
-            "噢，一个鲛人。"
+            "오, 하이로틀이군요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/human/default",
         "value": [
-            "祝你有美好的一天。"
+            "멋진 하루 보내!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/human/human",
         "value": [
-            "哟！",
-            "嘿，很高兴见到你。"
+            "요!",
+            "이봐, 만나서 반가워."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/human/apex",
         "value": [
-            "一只会说话的猴子。太酷了。"
+            "말하는 원숭이. 쩐다."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/human/avian",
         "value": [
-            "嘿，是只大鸟！"
+            "이야, 꽤 큰 새잖아!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/human/floran",
         "value": [
-            "一个三裂行走植物！"
+            "괴식물이다!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/human/glitch",
         "value": [
-            "喔，赞，一个机器人。"
+            "우와, 멋지다. 로봇이네."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/human/hylotl",
         "value": [
-            "哦嘿，一条大鱼。"
+            "으아, 엄청 큰 물고기다."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/floran/default",
         "value": [
-            "奇奇奇怪的东西。"
+            "낯션 물건."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/floran/human",
         "value": [
-            "肉人！"
+            "고기샤람!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/floran/apex",
         "value": [
-            "叶族人想要猴子人的拥抱！"
+            "플로란 원슝이 샤람 껴안고 싶다!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/floran/avian",
         "value": [
-            "鸟人！"
+            "섀 샤람!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/floran/floran",
         "value": [
-            "叶族人！"
+            "플로란!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/floran/glitch",
         "value": [
-            "叶族人欢迎金属人！"
+            "플로란 철 샤람 반긴다!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/floran/hylotl",
         "value": [
-            "咝咝~~"
+            "쉬이이이익!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/glitch/default",
         "value": [
-            "疑惑。你是什么物种？"
+            "혼란. 그대는 어느 존재인가?"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/glitch/human",
         "value": [
-            "优越。弱小的人类。"
+            "우월. 허약한 인간이로다."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/glitch/apex",
         "value": [
-            "震惊。长满毛的生物！"
+            "충격. 이리도 털 투성이인 생물이 있다니!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/glitch/avian",
         "value": [
-            "查询。请问你的羽毛是自己组装的，还是由工匠安装的？"
+            "의문. 그 깃털은 스스로 만들어진 것이오, 아니면 다른 예술가들이 꾸며준 것이오?"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/glitch/floran",
         "value": [
-            "友好。你好，植物人。"
+            "친근. 반갑소 식물사람."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/glitch/glitch",
         "value": [
-            "友好。你好，朋友。"
+            "친근. 반갑네 친구."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/glitch/hylotl",
         "value": [
-            "怀疑。对于一个生活在水下的物种，你闻起来不怎么干净。"
+            "회의적. 물 속에 사는 종족 치고는 그리 깔끔한 냄새는 나지 않는구려."
         ]
     },
     {
         "op": "replace",
         "path": "/flee/helpme/default/default",
         "value": [
-            "帮帮我！",
-            "救命！",
-            "我被骚扰了！"
+            "도와주세요!",
+            "도와줘!",
+            "누가 날 위협하고있어!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/helpme/glitch/default",
         "value": [
-            "恐惧。帮帮我！",
-            "惊吓。请不要伤害我。",
-            "咒骂。我被骚扰了。",
-            "害怕。离我远点儿！",
-            "惊悚。救命！",
-            "震惊。不！离我远点儿！"
+            "공포. 도와 주게나!",
+            "위축. 날 해하지 마시오!",
+            "위협. 누가 날 위협하고 있소!",
+            "두려움. 저리 가시오!",
+            "공포. 살려줘!",
+            "충격. 안 돼! 저리 떨어지시오!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/helpme/floran/default",
         "value": [
-            "到了刺刺刺的时间了！",
-            "叶族人受伤了！",
-            "叶族人还没准备好打猎！"
+            "쓔실 시간이다!",
+            "플로란 아프다!",
+            "플로란 샤냥 준비 안 됐다!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/helpthem/default/default",
         "value": [
-            "你都干了些什么？！"
+            "무슨 짓을 한 거야!?"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/helpthem/glitch/default",
         "value": [
-            "恐惧。谁来救我！",
-            "惊吓。请不要伤害我！",
-            "害怕。请离开我！",
-            "惊悚。救命！",
-            "震惊。你干了什么？！",
-            "正义。我会写邮件抗议！"
+            "공포. 누가 좀 도와주시오!",
+            "위축. 날 해하지 마시오!",
+            "두려움. 날 좀 내버려두시오!",
+            "공포. 살려줘!",
+            "충격. 무슨 짓을 한 거요?!",
+            "정당. 전자 편지로 항의하겠소!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/helpthem/floran/default",
         "value": [
-            "到了刺刺刺的时间了！",
-            "叶族人受伤了！",
-            "叶族人还没准备好打猎！"
+            "쓔실 시간이다!",
+            "플로란 아프다!",
+            "플로란 샤냥 준비 안 됐다!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/encourage/default/default",
         "value": [
-            "抓住他们！",
-            "我要报仇！",
-            "替我抓住他们！",
-            "别让他们跑了！"
+            "잡아라!",
+            "복수해다오!",
+            "날 위해서라도 잡아!",
+            "도망치게 두지 마라!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/encourage/glitch/default",
         "value": [
-            "激励。把他们全砍死！",
-            "激动。我要报仇！",
-            "侵略。把他打倒！",
-            "复仇。别让他们跑了！"
+            "기합. 칼맛을 보여주게!",
+            "흥분. 내 복수를 해주오!",
+            "공격. 쓰러트려라!",
+            "복수. 도망치게 두지 마라!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/encourage/floran/default",
         "value": [
-            "刺刺刺死入侵者！",
-            "叶族人开始报复了！",
-            "碾碎他们！"
+            "침입자 쓔신다!",
+            "플로란 복슈한다!",
+            "쎨어라!"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/safe/default/default",
         "value": [
-            "呼，我觉得我跑掉了。",
-            "我拼了命逃跑！",
-            "这里安全么？"
+            "휴, 도망쳤나보다.",
+            "목숨 부지했다!",
+            "여기가 안전지대인가?"
         ]
     },
     {
         "op": "replace",
         "path": "/flee/safe/glitch/default",
         "value": [
-            "泄气。呼。我觉得我跑掉了。",
-            "感激。我拼了命逃跑！",
-            "如意。如果我能继续坚持的话。",
-            "希望。我安全了么？",
-            "尴尬。我觉得我漏了点油。"
+            "안심. 휴. 제대로 도망친 모양이다.",
+            "감사. 내 목숨을 부지하였소!",
+            "소원. 요새를 마련할 수만 있었더라면.",
+            "희망. 안전해진 거요?",
+            "당혹. 기름을 조금 지린 모양이오."
         ]
     },
     {
         "op": "replace",
         "path": "/flee/safe/floran/default",
         "value": [
-            "叶族人现在安安安全了。",
-            "叶族人总算是没有被刺刺刺到。",
-            "叶族人手上没有武器是他们的幸运。",
-            "得救了！"
+            "플로란 무샤하다.",
+            "플로란 안 쓔셔졌다.",
+            "플로란 무기 없어셔 운 좋은 거다.",
+            "구셰했다!"
         ]
     }
 ]

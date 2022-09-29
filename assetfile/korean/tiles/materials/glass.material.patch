@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "유리의 반대편을 선명하게 볼 수 있다."
+        "path": "/description",
+        "value": "내 반사광을 볼 수있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "유리 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "내 반사광을 볼 수있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "유리 블록"
+        "path": "/novakidDescription",
+        "value": "유리의 반대편을 선명하게 볼 수 있다."
     }
 ]

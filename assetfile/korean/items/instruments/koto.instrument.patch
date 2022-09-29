@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "코토"
+        "path": "/description",
+        "value": "코토, 동양의 소리를 들어보자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "코토, 동양의 소리를 들어보자."
+        "path": "/shortdescription",
+        "value": "코토"
     }
 ]

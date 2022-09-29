@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "빅 에이프의 1집 앨범 '정글의 사랑'의 맹렬한 음악이 흘러나온다."
+    },
+    {
+        "op": "replace",
         "path": "/shortdescription",
         "value": "제식 턴테이블"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "음악이 나오는 장치군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "억압의 소리."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "알아듣기도 힘든 고음이 흘러나오네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 동네에선 이런 게 음악이랍시고 나온단 말야?"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "집중. 이 음악에는 음악적 이론이 부족하군. 전언이 숨어 있다."
+        "path": "/avianDescription",
+        "value": "알아듣기도 힘든 고음이 흘러나오네."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빅 에이프의 1집 앨범 '정글의 사랑'의 맹렬한 음악이 흘러나온다."
+        "path": "/glitchDescription",
+        "value": "집중. 이 음악에는 음악적 이론이 부족하군. 전언이 숨어 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 동네에선 이런 게 음악이랍시고 나온단 말야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "억압의 소리."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "음악이 나오는 장치군."
     }
 ]

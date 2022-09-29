@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 의자"
+        "path": "/description",
+        "value": "얼어붙은 의자다. 잠시후 불편하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼어붙은 의자다. 잠시후 불편하다."
+        "path": "/shortdescription",
+        "value": "얼음 의자"
     },
     {
         "op": "replace",

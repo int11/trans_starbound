@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부매랑"
+        "path": "/description",
+        "value": "예술적인 기술로 만들어진 초소형 추진기가 이 부매랑이 반드시 돌아도록 만들어줍니다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "예술적인 기술로 만들어진 초소형 추진기가 이 부매랑이 반드시 돌아도록 만들어줍니다."
+        "path": "/shortdescription",
+        "value": "부매랑"
     },
     {
         "op": "replace",

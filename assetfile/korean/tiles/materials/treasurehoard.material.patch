@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "황금! 흥분을 감출 수 없다!"
+        "path": "/shortdescription",
+        "value": "보물 비축물"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "귀중한 보물의 반짝이는 비죽물."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보물 비축물"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "귀중한 보물의 반짝이는 비죽물."
+        "path": "/novakidDescription",
+        "value": "황금! 흥분을 감출 수 없다!"
     }
 ]

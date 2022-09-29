@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가죽 다리 장식"
+        "path": "/description",
+        "value": "이 가리개는 강력한 덩굴로 묶여있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 가리개는 강력한 덩굴로 묶여있다."
+        "path": "/shortdescription",
+        "value": "가죽 다리 장식"
     }
 ]

@@ -6,8 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상태. 방울."
+        "path": "/shortdescription",
+        "value": "방울."
     },
     {
         "op": "replace",
@@ -16,7 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "방울."
+        "path": "/glitchDescription",
+        "value": "상태. 방울."
     }
 ]

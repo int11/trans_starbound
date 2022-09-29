@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "정보를 품은 기계다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "서버 클러스터다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "평범한 서버 캐비닛이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "서버."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "서버 캐비닛이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 서버 캐비닛이다. 어떤 정보가 들었을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "삑삑대는 기계 플로란 관심 없다."
+        "path": "/description",
+        "value": "커다란 서버 캐비닛이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다란 서버 캐비닛이다."
+        "path": "/apexDescription",
+        "value": "서버 캐비닛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "평범한 서버 캐비닛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "삑삑대는 기계 플로란 관심 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 서버 캐비닛이다. 어떤 정보가 들었을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "서버."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "서버 클러스터다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "정보를 품은 기계다."
     }
 ]

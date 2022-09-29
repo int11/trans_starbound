@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "자연의 발광석을 이용한 램프야."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "빛나는 돌로 전등을 만들었어."
+        "path": "/description",
+        "value": "빛나는 정동석을 이용하여 만든 천장걸이 전등이다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "정동석 전등"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "빛나는 정동석을 이용하여 만든 천장걸이 전등이다."
     },
     {
         "op": "replace",
@@ -31,8 +21,18 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛나는 돌로 전등을 만들었어."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "诧异。这个装置以某种电子控制方式将晶洞的自然光引发出来。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "자연의 발광석을 이용한 램프야."
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "트레이딩 카드 #01"
+        "path": "/description",
+        "value": "은하계 제빵사가 감사의 의미로 만든 토큰"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "은하계 제빵사가 감사의 의미로 만든 토큰"
+        "path": "/shortdescription",
+        "value": "트레이딩 카드 #01"
     }
 ]

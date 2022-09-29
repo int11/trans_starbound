@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "램프 귀엽네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "예쁜 램프."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "작고 좋은 램프."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "작은 나무 램프."
+        "path": "/description",
+        "value": "귀여운 나무 램프."
     },
     {
         "op": "replace",
@@ -26,13 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "귀여운 나무 램프."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "예쁜 램프 은은히 빛난다."
+        "path": "/apexDescription",
+        "value": "작은 나무 램프."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "예쁜 램프 은은히 빛난다."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "기쁨. 심플한 테이블 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작고 좋은 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "예쁜 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "램프 귀엽네."
     }
 ]

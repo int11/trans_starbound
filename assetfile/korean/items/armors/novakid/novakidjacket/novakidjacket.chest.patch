@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "소도둑 상의"
+        "path": "/description",
+        "value": " 간단한 면셔츠가 있는 상의이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": " 간단한 면셔츠가 있는 상의이다."
+        "path": "/shortdescription",
+        "value": "소도둑 상의"
     }
 ]

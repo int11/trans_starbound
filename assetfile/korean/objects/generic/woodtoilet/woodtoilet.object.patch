@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 덤불을 이용하는걸 션호해."
+        "path": "/description",
+        "value": "나무로 된 양변기다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "어디에 쓰는걸까..."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "나무로 된 변기잖아... 우웩."
+        "path": "/shortdescription",
+        "value": "나무 양변기"
     },
     {
         "op": "replace",
@@ -21,13 +16,23 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "배설물을 담는 장치로군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 덤불을 이용하는걸 션호해."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "불쾌. 세균으로 가득 찼다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나무로 된 양변기다."
+        "path": "/humanDescription",
+        "value": "나무로 된 변기잖아... 우웩."
     },
     {
         "op": "replace",
@@ -36,12 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "배설물을 담는 장치로군."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 양변기"
+        "path": "/novakidDescription",
+        "value": "어디에 쓰는걸까..."
     }
 ]

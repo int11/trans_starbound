@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "낙석있다. 조심해야지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "위에서 뭔가 떨어진다는 표시가 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "낙석이다. 왜 항상 동굴엔 낙석이 그득한 걸까?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 이 표지를 보아하니 이 구역이 안전하지 않다는 뜻인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "불안정한 천장 표시다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "오래된 낙석주의 표시다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이거 그린 사람이 다른 이들에게 경고를 하려던 모양이다."
+        "path": "/shortdescription",
+        "value": "오래된 낙석 표지판"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오래된 낙석 표지판"
+        "path": "/avianDescription",
+        "value": "위에서 뭔가 떨어진다는 표시가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불안정한 천장 표시다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 표지를 보아하니 이 구역이 안전하지 않다는 뜻인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "낙석이다. 왜 항상 동굴엔 낙석이 그득한 걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이거 그린 사람이 다른 이들에게 경고를 하려던 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "낙석있다. 조심해야지."
     }
 ]

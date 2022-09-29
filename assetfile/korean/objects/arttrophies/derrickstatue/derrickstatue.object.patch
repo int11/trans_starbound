@@ -6,23 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "데릭이라는 특정 생물을 자세히 묘사하고 있다. 이렇게 생긴 건 전혀 본 적이 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "데릭이라는 괴물의 동상이다. 거의 타고 놀 수 있을 만큼 크다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "괴물 동상이다. 이름이 데릭이라고 쓰여있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "데릭이라는 잃어버린 애완동물 동상이다. 주인이 찾긴 했을런지 궁금하다."
+        "path": "/shortdescription",
+        "value": "데릭 상"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관심. 잃어버린 애완동물에게 바치는 동상이다."
+        "path": "/avianDescription",
+        "value": "괴물 동상이다. 이름이 데릭이라고 쓰여있다."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "데릭 상"
+        "path": "/glitchDescription",
+        "value": "관심. 잃어버린 애완동물에게 바치는 동상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "데릭이라는 잃어버린 애완동물 동상이다. 주인이 찾긴 했을런지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "데릭이라는 특정 생물을 자세히 묘사하고 있다. 이렇게 생긴 건 전혀 본 적이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "데릭이라는 괴물의 동상이다. 거의 타고 놀 수 있을 만큼 크다."
     }
 ]

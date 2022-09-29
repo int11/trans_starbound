@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "토마토 주스"
+        "path": "/description",
+        "value": "푸짐한 토마토 주스이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "푸짐한 토마토 주스이다."
+        "path": "/shortdescription",
+        "value": "토마토 주스"
     }
 ]

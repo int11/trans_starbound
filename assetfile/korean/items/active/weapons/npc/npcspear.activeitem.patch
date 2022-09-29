@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "NPC 창"
+        "path": "/description",
+        "value": "사정권 밖의 적에게 효과적이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사정권 밖의 적에게 효과적이다."
+        "path": "/shortdescription",
+        "value": "NPC 창"
     }
 ]

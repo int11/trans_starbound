@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "프로그 머리뼈"
+        "path": "/description",
+        "value": "화석이 된 프로그의 머리뼈다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화석이 된 프로그의 머리뼈다."
+        "path": "/shortdescription",
+        "value": "프로그 머리뼈"
     },
     {
         "op": "replace",

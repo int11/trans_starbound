@@ -11,16 +11,6 @@
     },
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "和平卫士家具"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "像和平卫士一样装饰！"
-    },
-    {
-        "op": "replace",
         "path": "/apexDescription",
         "value": "这只青蛙似乎在卖和平卫士家具。"
     },
@@ -53,5 +43,15 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "这看起来是一个很好的装饰机会！"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "和平卫士家具"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "像和平卫士一样装饰！"
     }
 ]

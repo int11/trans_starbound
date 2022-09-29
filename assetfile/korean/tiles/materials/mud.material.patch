@@ -1,23 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "진흙"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "찐득거리는 진흙."
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 진흙 투셩이 엉망 좋아한다."
+        "path": "/shortdescription",
+        "value": "진흙"
     },
     {
         "op": "replace",
         "path": "/glitchDescription",
         "value": "혐오. 이 진흙은 찐득거리는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 진흙 투셩이 엉망 좋아한다."
     },
     {
         "op": "replace",

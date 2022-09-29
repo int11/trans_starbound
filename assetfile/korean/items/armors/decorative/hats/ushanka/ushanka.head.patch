@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "우샨카"
+        "path": "/description",
+        "value": "어머니 러시아에서 직송된 모자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "어머니 러시아에서 직송된 모자다."
+        "path": "/shortdescription",
+        "value": "우샨카"
     }
 ]

@@ -51,16 +51,6 @@
     },
     {
         "op": "replace",
-        "path": "/paneLayout/resLabel/value",
-        "value": "全屏分辨率"
-    },
-    {
-        "op": "replace",
-        "path": "/paneLayout/zoomLabel/value",
-        "value": "缩放等级"
-    },
-    {
-        "op": "replace",
         "path": "/zoomList",
         "value": [
             1,
@@ -69,5 +59,15 @@
             4,
             5
         ]
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/resLabel/value",
+        "value": "全屏分辨率"
+    },
+    {
+        "op": "replace",
+        "path": "/paneLayout/zoomLabel/value",
+        "value": "缩放等级"
     }
 ]

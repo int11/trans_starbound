@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금속 함정 문"
+        "path": "/description",
+        "value": "금속 플랫폼으로 위장한 함정 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "금속 플랫폼으로 위장한 함정 문이다."
+        "path": "/shortdescription",
+        "value": "금속 함정 문"
     },
     {
         "op": "replace",

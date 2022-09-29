@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "석탄"
+        "path": "/description",
+        "value": "석탄이다. 괜찮은 연료이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "석탄이다. 괜찮은 연료이다."
+        "path": "/shortdescription",
+        "value": "석탄"
     }
 ]

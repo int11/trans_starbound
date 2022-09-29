@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/enterInstance",
-        "value": "^orange;누루^reset;에게 말을 걸어 ^orange;투기장^reset;로 이동하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/turnIn",
-        "value": "^orange;아웃포스트^reset;에 있는 ^orange;누루^reset;에게 돌아가세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/findGoal",
-        "value": "투기장 대전에서 승리하세요."
+        "path": "/title",
+        "value": "^green;내부의 영광"
     },
     {
         "op": "replace",
@@ -26,7 +16,17 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "^green;내부의 영광"
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;누루^reset;에게 말을 걸어 ^orange;투기장^reset;로 이동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "투기장 대전에서 승리하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;아웃포스트^reset;에 있는 ^orange;누루^reset;에게 돌아가세요."
     }
 ]

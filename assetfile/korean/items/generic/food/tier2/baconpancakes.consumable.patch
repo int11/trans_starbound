@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "베이컨 팬케이크"
+        "path": "/description",
+        "value": "팬케이크. 베이컨. 팬케이크. 베이컨. 팬케이크. 버터. 먹는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "팬케이크. 베이컨. 팬케이크. 베이컨. 팬케이크. 버터. 먹는다."
+        "path": "/shortdescription",
+        "value": "베이컨 팬케이크"
     }
 ]

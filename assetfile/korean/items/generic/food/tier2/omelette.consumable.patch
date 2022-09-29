@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오믈렛"
+        "path": "/description",
+        "value": "준비하기도 쉽고 맛있어서, 못 만드는 게 더 어렵다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "준비하기도 쉽고 맛있어서, 못 만드는 게 더 어렵다!"
+        "path": "/shortdescription",
+        "value": "오믈렛"
     }
 ]

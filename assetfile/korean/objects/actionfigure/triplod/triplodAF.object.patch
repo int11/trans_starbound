@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "트리플로드"
+        "path": "/description",
+        "value": "\"커다란 렌즈를 통해 바라본다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"커다란 렌즈를 통해 바라본다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "트리플로드"
     }
 ]

@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/enterInstance",
-        "value": "^orange;비기^reset;에게 말을 걸어 ^orange;병기 실험실^reset;로 이동하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/turnIn",
-        "value": "^orange;전초기지^reset;에 있는 ^orange;비기^reset;에게 돌아가세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/findGoal",
-        "value": "^orange;번쩍 펄쩍이 1호^reset;를 격파하세요."
+        "path": "/title",
+        "value": "^green;펭귄 병기 가동 실험실"
     },
     {
         "op": "replace",
@@ -36,7 +26,17 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "^green;펭귄 병기 가동 실험실"
+        "path": "/scriptConfig/descriptions/enterInstance",
+        "value": "^orange;비기^reset;에게 말을 걸어 ^orange;병기 실험실^reset;로 이동하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findGoal",
+        "value": "^orange;번쩍 펄쩍이 1호^reset;를 격파하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;전초기지^reset;에 있는 ^orange;비기^reset;에게 돌아가세요."
     }
 ]

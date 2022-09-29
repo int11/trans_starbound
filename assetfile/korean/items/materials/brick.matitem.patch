@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "점토로 만든 작지만 완벽한 벽돌들로 만들어져있다."
+        "path": "/shortdescription",
+        "value": "벽돌"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "벽돌"
+        "path": "/description",
+        "value": "점토로 만든 작지만 완벽한 벽돌들로 만들어져있다."
     },
     {
         "op": "replace",

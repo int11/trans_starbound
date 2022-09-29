@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "추구자의 바지"
+        "path": "/description",
+        "value": "이 바지들은 복잡한 회로를 사용해 내가 걸은 횟수를 저장한다. 왜냐고? 안할 이유는 없으니까."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 바지들은 복잡한 회로를 사용해 내가 걸은 횟수를 저장한다. 왜냐고? 안할 이유는 없으니까."
+        "path": "/shortdescription",
+        "value": "추구자의 바지"
     }
 ]

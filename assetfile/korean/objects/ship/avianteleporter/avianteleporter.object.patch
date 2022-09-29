@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "함선의 텔레포터야. 한번 작동해볼까!"
+        "path": "/description",
+        "value": "믿음직한 텔레포터, 이게 없이 뭘 할 수 있겠는가."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "텔레포터. 텔레포트하는 것은 산 정상에서 바다로 다이빙 하는 것과 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "텔레포터! 텔레포트하는 것은 나는 것 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "텔레포터! 진짜 빨리 이동한다."
+        "path": "/shortdescription",
+        "value": "텔레포터"
     },
     {
         "op": "replace",
@@ -26,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "의기양양. 텔레포터군. 나는 순간이동중에 수면 모드로 들어갈 수 있지."
+        "path": "/avianDescription",
+        "value": "텔레포터! 텔레포트하는 것은 나는 것 같아."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "믿음직한 텔레포터, 이게 없이 뭘 할 수 있겠는가."
+        "path": "/glitchDescription",
+        "value": "의기양양. 텔레포터군. 나는 순간이동중에 수면 모드로 들어갈 수 있지."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텔레포터"
+        "path": "/humanDescription",
+        "value": "텔레포터! 진짜 빨리 이동한다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "텔레포터. 텔레포트하는 것은 산 정상에서 바다로 다이빙 하는 것과 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "함선의 텔레포터야. 한번 작동해볼까!"
     }
 ]

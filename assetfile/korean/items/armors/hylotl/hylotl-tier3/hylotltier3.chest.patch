@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "강가 흉갑"
+        "path": "/description",
+        "value": "실크와 티타늄으로 만든 하이로틀 전사들을 위해 우아함과 강인함을 혼합했다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "실크와 티타늄으로 만든 하이로틀 전사들을 위해 우아함과 강인함을 혼합했다."
+        "path": "/shortdescription",
+        "value": "강가 흉갑"
     }
 ]

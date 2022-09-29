@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "수정 블럭"
+        "path": "/description",
+        "value": "수정으로 만들어진 반짝이는 블럭."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 수정 블럭들 진짜 예쁜데."
+        "path": "/shortdescription",
+        "value": "수정 블럭"
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수정으로 만들어진 반짝이는 블럭."
+        "path": "/novakidDescription",
+        "value": "이 수정 블럭들 진짜 예쁜데."
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "모래투성이인 바위네."
+        "path": "/description",
+        "value": "거친 자연 사암."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사암"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거친 자연 사암."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "사암"
+        "path": "/novakidDescription",
+        "value": "모래투성이인 바위네."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "색소폰"
+        "path": "/description",
+        "value": "색소폰이다. 우주 우울증에 걸렸을때 쓰면 좋다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "색소폰이다. 우주 우울증에 걸렸을때 쓰면 좋다."
+        "path": "/shortdescription",
+        "value": "색소폰"
     }
 ]

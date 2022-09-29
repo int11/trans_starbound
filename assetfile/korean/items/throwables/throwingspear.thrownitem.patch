@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 투창을 맞추면 가죽과 고기를 몬스터에게서 얻을 수 있다."
+        "path": "/shortdescription",
+        "value": "철 사냥 투창"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "철 사냥 투창"
+        "path": "/description",
+        "value": "이 투창을 맞추면 가죽과 고기를 몬스터에게서 얻을 수 있다."
     }
 ]

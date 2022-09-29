@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "초콜릿 케이크"
+        "path": "/description",
+        "value": "초콜릿으로 만들어진 케이크로 다른 케이크의 재료로 쓰인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "초콜릿으로 만들어진 케이크로 다른 케이크의 재료로 쓰인다."
+        "path": "/shortdescription",
+        "value": "초콜릿 케이크"
     }
 ]

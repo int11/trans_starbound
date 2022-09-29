@@ -1,11 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이것은 무엇을 위해 쓰였던 걸까?"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "一个木电线杆。"
     },
@@ -43,5 +38,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "某些木杆，似乎曾有一用。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이것은 무엇을 위해 쓰였던 걸까?"
     }
 ]

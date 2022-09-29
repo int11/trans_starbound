@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "한번도 플로란을 독서가로 생각한 적이 없는데, 책장이 필요하다는 것에 놀랐어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "심지어 책장을 포함해 플로란의 모든 물건에는 죽음이 함께하는군."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "플로란이 독서가로 보이진 않는데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 책장은 손을 댄지 오랜 시간이 지났군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 책 안읽어. 원예가들만 책장 써."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "사냥감의 유해로 만든 책장이다."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "플로란이 책을 쓰는 모습이라니, 상상이 안가는데,"
+        "path": "/shortdescription",
+        "value": "원시 책장"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "원시 책장"
+        "path": "/avianDescription",
+        "value": "플로란이 책을 쓰는 모습이라니, 상상이 안가는데,"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 책 안읽어. 원예가들만 책장 써."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 책장은 손을 댄지 오랜 시간이 지났군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "플로란이 독서가로 보이진 않는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "심지어 책장을 포함해 플로란의 모든 물건에는 죽음이 함께하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "한번도 플로란을 독서가로 생각한 적이 없는데, 책장이 필요하다는 것에 놀랐어."
     }
 ]

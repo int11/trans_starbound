@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "코코아 씨앗"
+        "path": "/description",
+        "value": "코코아 열매는 잘 다려서 멋진 음료를 만들수있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "코코아 열매는 잘 다려서 멋진 음료를 만들수있다."
+        "path": "/shortdescription",
+        "value": "코코아 씨앗"
     },
     {
         "op": "replace",

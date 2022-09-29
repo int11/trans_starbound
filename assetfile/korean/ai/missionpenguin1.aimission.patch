@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/speciesText/default/repeatButtonText",
-        "value": "공포날개 펭귄단 재도전"
+        "path": "/speciesText/default/buttonText",
+        "value": "공포날개 펭귄단"
     },
     {
         "op": "replace",
-        "path": "/speciesText/default/buttonText",
-        "value": "공포날개 펭귄단"
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "공포날개 펭귄단 재도전"
     },
     {
         "op": "replace",

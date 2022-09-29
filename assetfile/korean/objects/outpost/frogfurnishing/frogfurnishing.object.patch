@@ -1,16 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "여러가지 테마의 가구들을 매일 바꾸면서 판다."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "프로그 가구점"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "전 우주를 돌아다니며 가구를 수집한다고 한다."
     },
@@ -53,5 +43,15 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "这地方青蛙商人并不常见！"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "프로그 가구점"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "여러가지 테마의 가구들을 매일 바꾸면서 판다."
     }
 ]

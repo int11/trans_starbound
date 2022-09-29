@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "옥수수"
+        "path": "/description",
+        "value": "달콤하고 촌스러움, 소화에 좋다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달콤하고 촌스러움, 소화에 좋다."
+        "path": "/shortdescription",
+        "value": "옥수수"
     }
 ]

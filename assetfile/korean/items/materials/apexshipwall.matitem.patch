@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "벽 금속판"
+        "path": "/description",
+        "value": "윤이 나는 금속제 벽판이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "윤이 나는 금속제 벽판이다."
+        "path": "/shortdescription",
+        "value": "벽 금속판"
     },
     {
         "op": "replace",

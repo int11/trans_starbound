@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "종유석이다. 꽉 붙어있어야 할 텐데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아름답고 광도 나는 종유석이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "창처럼 생긴 돌이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이게 종유석이었나 석순이었나 기억이 안 나네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "바위로 된 날카로운 쐐기다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주의. 종유석이 떨어지면 글리치 외장을 뚫고 들어올 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "종유셕."
+        "path": "/description",
+        "value": "오래 된 종유석이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오래 된 종유석이다."
+        "path": "/apexDescription",
+        "value": "바위로 된 날카로운 쐐기다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "창처럼 생긴 돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "종유셕."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 종유석이 떨어지면 글리치 외장을 뚫고 들어올 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이게 종유석이었나 석순이었나 기억이 안 나네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아름답고 광도 나는 종유석이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "종유석이다. 꽉 붙어있어야 할 텐데."
     }
 ]

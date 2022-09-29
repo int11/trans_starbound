@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 벽보엔 빅 에이프의 거처에 대한 정보가 쓰여있다. 엄청 화난 친구들에게 적힌 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 지도엔 휘갈겨 쓴 낙서와 빅 에이프의 위치에 대한 정보가 적혀있다. 누군가 빅 에이프를 찾고 싶어서 안달이 난 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "빅 에이프가 어디 있는지에 관한 정보와 메모가 잔뜩 붙어있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 지도엔 빅 에이프의 거처에 대한 글이 잔뜩 적혀있다. 쓴 사람이 독재자에게 반기를 드는 사람인가보다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 지도엔 휘갈겨 쓴 메모와 빅 에이프가 있을 법한 곳의 좌표가 붙어있다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 이 지도는 에이펙스 인구의 사실상 지도자인 빅 에이프를 추적하는 정보를 담고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이 지도 어디 쓰는지 잘 모르겠다."
+        "path": "/description",
+        "value": "빅 에이프를 추적하는 데 쓰인 난잡한 지도다. 그린 사람이 엄청 화난 모양이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빅 에이프를 추적하는 데 쓰인 난잡한 지도다. 그린 사람이 엄청 화난 모양이다."
+        "path": "/apexDescription",
+        "value": "이 지도엔 휘갈겨 쓴 메모와 빅 에이프가 있을 법한 곳의 좌표가 붙어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "빅 에이프가 어디 있는지에 관한 정보와 메모가 잔뜩 붙어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 지도 어디 쓰는지 잘 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 지도는 에이펙스 인구의 사실상 지도자인 빅 에이프를 추적하는 정보를 담고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 지도엔 빅 에이프의 거처에 대한 글이 잔뜩 적혀있다. 쓴 사람이 독재자에게 반기를 드는 사람인가보다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 지도엔 휘갈겨 쓴 낙서와 빅 에이프의 위치에 대한 정보가 적혀있다. 누군가 빅 에이프를 찾고 싶어서 안달이 난 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 벽보엔 빅 에이프의 거처에 대한 정보가 쓰여있다. 엄청 화난 친구들에게 적힌 것 같다."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "목재"
+        "path": "/description",
+        "value": "건축과 제작을 위해 가공된 나무."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "건축과 제작을 위해 가공된 나무."
+        "path": "/shortdescription",
+        "value": "목재"
     },
     {
         "op": "replace",

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "빈 선반."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "실망. 여긴 텅 비어있군."
+        "path": "/description",
+        "value": "선반 위에는 흥미롭게 하는 어떤 것도 없다."
     },
     {
         "op": "replace",
@@ -16,13 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "선반 위에는 흥미롭게 하는 어떤 것도 없다."
+        "path": "/apexDescription",
+        "value": "빈 선반."
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "빈 금속 선반."
+        "path": "/avianDescription",
+        "value": "물건들을 쌓아놓을 장소야."
     },
     {
         "op": "replace",
@@ -31,8 +26,13 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "구경할게 하나도 없어."
+        "path": "/glitchDescription",
+        "value": "실망. 여긴 텅 비어있군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "빈 금속 선반."
     },
     {
         "op": "replace",
@@ -41,7 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "물건들을 쌓아놓을 장소야."
+        "path": "/novakidDescription",
+        "value": "구경할게 하나도 없어."
     }
 ]

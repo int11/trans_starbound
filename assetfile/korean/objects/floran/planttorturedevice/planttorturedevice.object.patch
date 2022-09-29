@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고문 장치"
+        "path": "/description",
+        "value": "난해한 고문 장치다. 최고는 사용하는 방법을 묻지 않습니다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "난해한 고문 장치다. 최고는 사용하는 방법을 묻지 않습니다."
+        "path": "/shortdescription",
+        "value": "고문 장치"
     },
     {
         "op": "replace",

@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "스타바운드라는 우주 탐험 게임이다. 우주 탐험은 이미 실제로 하고 있는데!"
+        "path": "/description",
+        "value": "'스타바운드'라는 게임을 가동하는 게임 기기다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 스타바운드라는 게임이 나한테 영적으로 말을 걸어오네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "스타바운드? 이런 게임 들어본 적 없는데. 구식인가보지."
+        "path": "/shortdescription",
+        "value": "오락실 스타바운드 게임기"
     },
     {
         "op": "replace",
@@ -21,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "의지. 이 스타바운드라는 신작 게임에 최고점을 달성하고 말겠어."
+        "path": "/avianDescription",
+        "value": "이 스타바운드 게임 들어본 적이 없다. 아직은..."
     },
     {
         "op": "replace",
@@ -31,17 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "'스타바운드'라는 게임을 가동하는 게임 기기다."
+        "path": "/glitchDescription",
+        "value": "의지. 이 스타바운드라는 신작 게임에 최고점을 달성하고 말겠어."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 스타바운드 게임 들어본 적이 없다. 아직은..."
+        "path": "/humanDescription",
+        "value": "스타바운드? 이런 게임 들어본 적 없는데. 구식인가보지."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오락실 스타바운드 게임기"
+        "path": "/hylotlDescription",
+        "value": "이 스타바운드라는 게임이 나한테 영적으로 말을 걸어오네."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "스타바운드라는 우주 탐험 게임이다. 우주 탐험은 이미 실제로 하고 있는데!"
     }
 ]

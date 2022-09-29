@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "달처럼 생겼는데, 추운 겨울 밤 날 노려보는 달."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "차디찬 빛으로 빛나는 구체다. 오금이 저리게 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "여기 묘사된 구체는 천체처럼 생겼지만 인공물이라는 표시가 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "우와, 이게 달인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "홀로그램 구체다. 중요해보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "공황. 탐자 결과 이건... 안 돼... 그럴 수가..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "재미없는 홀로그램 공."
+        "path": "/description",
+        "value": "달이 아니야..."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달이 아니야..."
+        "path": "/apexDescription",
+        "value": "홀로그램 구체다. 중요해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기 묘사된 구체는 천체처럼 생겼지만 인공물이라는 표시가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "재미없는 홀로그램 공."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "공황. 탐자 결과 이건... 안 돼... 그럴 수가..."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우와, 이게 달인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "차디찬 빛으로 빛나는 구체다. 오금이 저리게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "달처럼 생겼는데, 추운 겨울 밤 날 노려보는 달."
     }
 ]

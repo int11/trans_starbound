@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "놈 총"
+        "path": "/description",
+        "value": "내 작은 친구한테 인사 하라고!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "내 작은 친구한테 인사 하라고!"
+        "path": "/shortdescription",
+        "value": "놈 총"
     },
     {
         "op": "replace",

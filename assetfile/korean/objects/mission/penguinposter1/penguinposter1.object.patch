@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "멈춰보시지, 꼬맹이 친구."
+        "path": "/description",
+        "value": "환영받지 못하는 기분이다..."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "펭귄 전용 표시판"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "환영받지 못하는 기분이다..."
     },
     {
         "op": "replace",
@@ -43,5 +38,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "我觉得我在这儿不受欢迎…"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "멈춰보시지, 꼬맹이 친구."
     }
 ]

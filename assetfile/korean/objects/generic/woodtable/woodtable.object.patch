@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 테이블이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "테이블이다. 어디든 무난하게 어울린다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "지루함. 매우 심플한 테이블."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "가장 심플한 테이블."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 테이블에 대해선 딱히 말할게 없는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "매우 심플한 나무 테이블."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "씸플한 나무 테이블."
+        "path": "/description",
+        "value": "기초적인 나무 탁자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기초적인 나무 탁자다."
+        "path": "/apexDescription",
+        "value": "매우 심플한 나무 테이블."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "가장 심플한 테이블."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "씸플한 나무 테이블."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "지루함. 매우 심플한 테이블."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 테이블에 대해선 딱히 말할게 없는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "테이블이다. 어디든 무난하게 어울린다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 테이블이다."
     }
 ]

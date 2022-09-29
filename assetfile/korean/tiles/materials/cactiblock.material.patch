@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "선인장으로 만들어졌다. 여기에 기대지 않는게 좋겠군."
+        "path": "/description",
+        "value": "블럭구조로 된 선인장이다. 아직 가시로 뒤덮여 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선인장 블럭."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "블럭구조로 된 선인장이다. 아직 가시로 뒤덮여 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "선인장 블럭."
+        "path": "/novakidDescription",
+        "value": "선인장으로 만들어졌다. 여기에 기대지 않는게 좋겠군."
     }
 ]

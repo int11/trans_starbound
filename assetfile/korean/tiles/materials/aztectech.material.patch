@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "단단해보이는 벽돌에 죄다 문양이 새겨져있다."
+        "path": "/shortdescription",
+        "value": "아비안 테크 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "상급 합성 아비안 물질로 새겨진 문양이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "상급 합성 아비안 물질로 새겨진 문양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "아비안 테크 블록"
+        "path": "/novakidDescription",
+        "value": "단단해보이는 벽돌에 죄다 문양이 새겨져있다."
     }
 ]

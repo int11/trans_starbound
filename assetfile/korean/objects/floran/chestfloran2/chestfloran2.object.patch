@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "보안보단 보관을 중시한 것 같은 상자. 실제로 그냥 뜯어버릴 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "진짜 잠금장치같은 것도 없잖아. 보안은 개뿔."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "마른 덩굴과 잔가지로 짜인 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무심. 여는 것보다 당겨서 분해하는 게 훨씬 빠르겠다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "막대기로 만들어진 긴 상자. 보안은 영 의심쩍다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "시간이 지나면 썩어서 내용물이 다 보이겠어."
+        "path": "/shortdescription",
+        "value": "큰 원시 상자"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "보안보단 보관을 중시한 것 같은 상자. 실제로 그냥 뜯어버릴 수 있어."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "플로란 샹자에 재밌는 물건 잔뜩 썋아둔다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "큰 원시 상자"
+        "path": "/glitchDescription",
+        "value": "무심. 여는 것보다 당겨서 분해하는 게 훨씬 빠르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "마른 덩굴과 잔가지로 짜인 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "시간이 지나면 썩어서 내용물이 다 보이겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진짜 잠금장치같은 것도 없잖아. 보안은 개뿔."
     }
 ]

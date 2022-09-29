@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/panels/33/text",
-        "value": "거기, 졸업생! 거기 있는 조작기를 들고 뛰어! 안전한 곳으로 가!"
-    },
-    {
-        "op": "replace",
-        "path": "/panels/30/text",
-        "value": "도- 도데체 이건..."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/28/text",
-        "value": "음? 방금 무슨 소리가?"
-    },
-    {
-        "op": "replace",
-        "path": "/panels/27/text",
-        "value": "^orange;물질 조작기^white;를 지급하는 것을..."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/26/text",
-        "value": "그리고 오늘. 평화의 이름으로, 우리는 우리의 새로운 동료들을 맞이하고, 우리의 가장 위대한 도구인..."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/25/text",
-        "value": "우리의 목표는 모두들을 지키기 위해 물자, 거주지 그리고 우리의 도움이 필요한 사람들을 위해 교육을 지원하고, 이것으로 모두의 관계가 더욱 좋아져 평화를 유지하는 것입니다."
+        "path": "/panels/23/text",
+        "value": "친애하는 수호자 동료 여러분... 오늘 우리는 행성 보호국이 성장하는 모습을 직접 보게 될 것 입니다."
     },
     {
         "op": "replace",
@@ -36,8 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/panels/23/text",
-        "value": "친애하는 수호자 동료 여러분... 오늘 우리는 행성 보호국이 성장하는 모습을 직접 보게 될 것 입니다."
+        "path": "/panels/25/text",
+        "value": "우리의 목표는 모두들을 지키기 위해 물자, 거주지 그리고 우리의 도움이 필요한 사람들을 위해 교육을 지원하고, 이것으로 모두의 관계가 더욱 좋아져 평화를 유지하는 것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/26/text",
+        "value": "그리고 오늘. 평화의 이름으로, 우리는 우리의 새로운 동료들을 맞이하고, 우리의 가장 위대한 도구인..."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/27/text",
+        "value": "^orange;물질 조작기^white;를 지급하는 것을..."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/28/text",
+        "value": "음? 방금 무슨 소리가?"
+    },
+    {
+        "op": "replace",
+        "path": "/panels/30/text",
+        "value": "도- 도데체 이건..."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/33/text",
+        "value": "거기, 졸업생! 거기 있는 조작기를 들고 뛰어! 안전한 곳으로 가!"
     },
     {
         "op": "add",

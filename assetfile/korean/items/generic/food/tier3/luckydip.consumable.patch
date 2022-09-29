@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "럭키 딥"
+        "path": "/description",
+        "value": "에이펙스가 좋아하는 간식으로,  바나나와 당근을 갈아 넣었다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "에이펙스가 좋아하는 간식으로,  바나나와 당근을 갈아 넣었다."
+        "path": "/shortdescription",
+        "value": "럭키 딥"
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "곡물 가루를 잘 구운 덩어리다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "갓 구운 빵을 이길 게 있나."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "옛 지구에서는 이런 걸 '바게트'라 불렀던 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이런 빵들은 완전 수제다. 고향의 '빵'이랑은 전혀 다르다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "갓 구운 빵은 물 속에서는 그닥 즐길 게 못 된다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "민감. 이런 소박한 빵은 내게 더 간단한 삶을 상기시킨다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "곡물 맛 없어."
+        "path": "/description",
+        "value": "신선하고, 바삭바삭한 빵 한 상자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신선하고, 바삭바삭한 빵 한 상자다."
+        "path": "/apexDescription",
+        "value": "이런 빵들은 완전 수제다. 고향의 '빵'이랑은 전혀 다르다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "곡물 가루를 잘 구운 덩어리다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "곡물 맛 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "민감. 이런 소박한 빵은 내게 더 간단한 삶을 상기시킨다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "옛 지구에서는 이런 걸 '바게트'라 불렀던 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "갓 구운 빵은 물 속에서는 그닥 즐길 게 못 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "갓 구운 빵을 이길 게 있나."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나핀 모형"
+        "path": "/description",
+        "value": "\"뿔을 이용해 이성을 유혹한다. 짝짓기 철이 되면 화려한 불빛을 볼 수 있다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"뿔을 이용해 이성을 유혹한다. 짝짓기 철이 되면 화려한 불빛을 볼 수 있다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "나핀 모형"
     }
 ]

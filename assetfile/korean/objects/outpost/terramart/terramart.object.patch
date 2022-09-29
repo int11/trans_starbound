@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;음식, 농사, 애완동물 용품"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "테라마트"
+        "path": "/description",
+        "value": "농장과 테라포밍에 필요한 모든것!"
     },
     {
         "op": "replace",
@@ -16,8 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "농장과 테라포밍에 필요한 모든것!"
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "테라마트"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;음식, 농사, 애완동물 용품"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "공포날개 피규어"
+        "path": "/description",
+        "value": "\"그의 실수 불가한 UFO안의, 악명 높은 펭귄 해적 공포날개\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"그의 실수 불가한 UFO안의, 악명 높은 펭귄 해적 공포날개\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "공포날개 피규어"
     }
 ]

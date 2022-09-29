@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금속 샐러드"
+        "path": "/description",
+        "value": "유명한 글리치 요리사가 감자 샐러드를 모방하여 만들었다. 성공하긴 했구만"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유명한 글리치 요리사가 감자 샐러드를 모방하여 만들었다. 성공하긴 했구만"
+        "path": "/shortdescription",
+        "value": "금속 샐러드"
     }
 ]

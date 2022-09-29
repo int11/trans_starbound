@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 맛있다고 들었는데, 직접 보고 나니까 영 아닌걸."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "크림같고 짜릿하다. 고름자두는 하이로틀 입맛엔 안 맞는다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이거 맛있다고 하던데... 어째서인지 당장 알아보고 싶어졌어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "경고. 실질적으로 누군가한테 맛만 좋으면 뭐든지 별미가 될 수 있다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "이 열매의 이름은 크림같은 속살로부터 유래했다고 한다."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "작고 즙 많고 소화 잘 되는 별미. 씨앗에 굴려서 내기도 한다."
+        "path": "/shortdescription",
+        "value": "고름자두 씨앗"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "작고 즙 많고 소화 잘 되는 별미. 씨앗에 굴려서 내기도 한다."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "즙투셩이, 피투셩이, 맛투셩이."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고름자두 씨앗"
+        "path": "/glitchDescription",
+        "value": "경고. 실질적으로 누군가한테 맛만 좋으면 뭐든지 별미가 될 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이거 맛있다고 하던데... 어째서인지 당장 알아보고 싶어졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "크림같고 짜릿하다. 고름자두는 하이로틀 입맛엔 안 맞는다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 맛있다고 들었는데, 직접 보고 나니까 영 아닌걸."
     }
 ]

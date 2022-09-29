@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "쌀 씨앗"
+        "path": "/description",
+        "value": "삶거나, 볶거나, 누구에게 던지던가, 어디에서든 유용한 쌀!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "삶거나, 볶거나, 누구에게 던지던가, 어디에서든 유용한 쌀!"
+        "path": "/shortdescription",
+        "value": "쌀 씨앗"
     },
     {
         "op": "replace",

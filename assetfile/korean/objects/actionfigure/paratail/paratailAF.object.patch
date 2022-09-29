@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파라테일 피규어"
+        "path": "/description",
+        "value": "\"폭풍이 몰아치는 동안, 날아가지 않기 위해 나무에 달라붙는다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"폭풍이 몰아치는 동안, 날아가지 않기 위해 나무에 달라붙는다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "파라테일 피규어"
     }
 ]

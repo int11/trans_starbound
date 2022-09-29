@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "크고 오래된 가스 행성. 그리고 여전히 건재하지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "목셩 구름이 예뻐."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "목성이 지구보다 더 크구나."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀람. 목성은 요즘의 기준으로 보면 작은편에 속하는데."
+        "path": "/description",
+        "value": "가장 큰 인류 태양계의 목성을 본뜬 천장걸이 모형이다."
     },
     {
         "op": "replace",
@@ -26,13 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가장 큰 인류 태양계의 목성을 본뜬 천장걸이 모형이다."
+        "path": "/apexDescription",
+        "value": "人类曾经认为木星是一个最大的行星，这真滑稽。"
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "人类曾经认为木星是一个最大的行星，这真滑稽。"
+        "path": "/avianDescription",
+        "value": "목성이 지구보다 더 크구나."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "목셩 구름이 예뻐."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 목성은 요즘의 기준으로 보면 작은편에 속하는데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "크고 오래된 가스 행성. 그리고 여전히 건재하지."
     },
     {
         "op": "replace",

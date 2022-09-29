@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안 두개골엔 이가 없다만, 이 표지는 좀 낯선걸."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "위협적인 두개골이다. 퍽 좋은 징조구만."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "더도 말고 덜도 말고 위험표지판만 같아라."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "분석. 위험을 나타내고 있으니 곤경을 맞닥뜨리고 싶거든 앞으로 전진하라는 뜻이다."
+        "path": "/description",
+        "value": "위험한 게 있다고 알려주는 표지다."
     },
     {
         "op": "replace",
@@ -26,13 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "해골이다. 유기체 머리통 속에서 찾을 수 있다."
+        "path": "/apexDescription",
+        "value": "더도 말고 덜도 말고 위험표지판만 같아라."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "남들에게 경고를 하려고 그린 표지다. 정말 못 그렸다."
+        "path": "/avianDescription",
+        "value": "아비안 두개골엔 이가 없다만, 이 표지는 좀 낯선걸."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "위험한 게 있다고 알려주는 표지다."
+        "path": "/glitchDescription",
+        "value": "분석. 위험을 나타내고 있으니 곤경을 맞닥뜨리고 싶거든 앞으로 전진하라는 뜻이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "위협적인 두개골이다. 퍽 좋은 징조구만."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "남들에게 경고를 하려고 그린 표지다. 정말 못 그렸다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "해골이다. 유기체 머리통 속에서 찾을 수 있다."
     }
 ]

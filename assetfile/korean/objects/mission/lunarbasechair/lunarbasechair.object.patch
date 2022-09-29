@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달 기지 의자"
+        "path": "/description",
+        "value": "놀랄정도로 편안한 의자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "놀랄정도로 편안한 의자다."
+        "path": "/shortdescription",
+        "value": "달 기지 의자"
     },
     {
         "op": "replace",

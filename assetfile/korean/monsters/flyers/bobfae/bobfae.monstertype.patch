@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가장 효과적인 비행자는 가 아닌데, 어떻게 밥페이가 종으로서 살아남았는지는 의문이다."
+        "path": "/shortdescription",
+        "value": "밥페이"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "밥페이"
+        "path": "/description",
+        "value": "가장 효과적인 비행자는 가 아닌데, 어떻게 밥페이가 종으로서 살아남았는지는 의문이다."
     }
 ]

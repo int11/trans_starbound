@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화산게 모형"
+        "path": "/description",
+        "value": "\"항상 가장자리에 있다. 옆으로 걸으며 사소한 대립에도 폭발한다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"항상 가장자리에 있다. 옆으로 걸으며 사소한 대립에도 폭발한다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "화산게 모형"
     }
 ]

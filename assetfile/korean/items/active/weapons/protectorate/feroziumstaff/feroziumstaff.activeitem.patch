@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "페로지움 지팡이"
+        "path": "/description",
+        "value": "이 강화된 패로지움 지팡이는 굉장한 거리에서 에너지를 집중시킬수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 강화된 패로지움 지팡이는 굉장한 거리에서 에너지를 집중시킬수 있다."
+        "path": "/shortdescription",
+        "value": "페로지움 지팡이"
     }
 ]

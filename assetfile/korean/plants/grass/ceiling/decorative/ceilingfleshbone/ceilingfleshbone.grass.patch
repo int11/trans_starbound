@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정의. 걸이용 뼈"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "뼈다귀!"
+        "path": "/description",
+        "value": "기괴한 뼈"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기괴한 뼈"
+        "path": "/floranDescription",
+        "value": "뼈다귀!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정의. 걸이용 뼈"
     }
 ]

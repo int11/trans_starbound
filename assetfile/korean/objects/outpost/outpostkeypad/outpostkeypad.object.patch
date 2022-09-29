@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "카드 비밀번호 입력기"
+        "path": "/description",
+        "value": "카드나 비밀번호를 입력하게 되어있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "카드나 비밀번호를 입력하게 되어있다."
+        "path": "/shortdescription",
+        "value": "카드 비밀번호 입력기"
     },
     {
         "op": "replace",

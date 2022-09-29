@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 파란 바위 약간 빛나고 있어."
+        "path": "/description",
+        "value": "이 푸른 바위는 생물발광을 통해 희미하게 빛나고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "푸르스름한 바위."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "푸르스름한 바위."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "이 푸른 바위는 생물발광을 통해 희미하게 빛나고 있다."
+        "path": "/novakidDescription",
+        "value": "이 파란 바위 약간 빛나고 있어."
     }
 ]

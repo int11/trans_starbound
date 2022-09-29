@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파인애플 피자 조각"
+        "path": "/description",
+        "value": "토핑 추가!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "토핑 추가!"
+        "path": "/shortdescription",
+        "value": "파인애플 피자 조각"
     }
 ]

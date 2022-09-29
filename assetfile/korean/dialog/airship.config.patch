@@ -1,296 +1,61 @@
 [
     {
         "op": "replace",
-        "path": "/hail/default/default/5",
-        "value": "우리 보급품을 갖고 싶으면 병참 장교에게 물어보쇼."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/16",
-        "value": "안대 하는 거 생각 해 봤어?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/default/default/6",
-        "value": "이 배에 있는 동안은 조심하쇼."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/default/default/4",
-        "value": "슬쩍하는 걸 잡게 되지 않으면 좋겠구만."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/default/default/3",
-        "value": "널 감시하고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/default/default/2",
-        "value": "이상한 짓 할 생각 마쇼."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/default/default/1",
-        "value": "당신 딱 봐 뒀어."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/default/default/0",
-        "value": "두 손 보이게 다니시지!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/39",
-        "value": "당신 꼴이 꼭 거지판에 있다 온 것 같수다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/38",
-        "value": "이거 교역선이라고 만만하게 생각하다간 코 잘릴 거요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/37",
-        "value": "낌새 보이기만 해봐. 끝장을 내줄 테니까!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/36",
-        "value": "보급품이 필요하면 병참장교를 찾아가쇼."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/35",
-        "value": "손 보이게 둬라..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/34",
-        "value": "뭐 훔쳐가려다 안 걸리는 게 좋을걸!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/33",
-        "value": "우린 작업하면서 놀라운 것도 많이 봐요. 하지만 위험하기도 하죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/32",
-        "value": "누구는 이걸 돈을 위해 하죠. 하지만 저는 모험을 위해 하는겁니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/31",
-        "value": "최근 정박지에서 꽤 괜찮은 물건들이 들어왔습죠!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/30",
-        "value": "길 잃었나?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/29",
-        "value": "이 배가 지금보다 나았던 시절도 있었는데, 그래도 내 집이니까."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/28",
-        "value": "배는 멋있고 다 좋은데, 밥은 최악이야! 요리 할 줄 알아?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/27",
-        "value": "매일매일이 항상 똑같지 뭐."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/26",
-        "value": "비공정에서 사는 게 상상하는 것처럼 멋지진 않더라."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/25",
-        "value": "꽤 능력 있는 것 같은데, 하늘에서의 삶 생각해본 적 있나?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/24",
-        "value": "전 여기 신입이에요. 그래도 하늘에서의 삶에 점점 익숙해지고 있답니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/23",
-        "value": "가족이 잘 지내는지 궁금하구만."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/22",
-        "value": "이 프로펠러들이 유지비를 너무 먹는다니까!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/21",
-        "value": "내가 배에서 생활한다고 하니까 사람들이 다들 나 괴혈병 있는 줄 알더라."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/20",
-        "value": "이 배 어떻게 생각해요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/19",
-        "value": "보급품 필요하셔? 병참장교에게 가봐."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/18",
-        "value": "뭐 이상한 짓 하나 하면 바로 감방행이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/17",
-        "value": "갑판에서 바라보는 풍경은 끝내준다니까!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/15",
-        "value": "우리 물건 눈독들이지 않는 게 좋을 거요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/14",
-        "value": "탁 트인 창공, 여기가 바로 내 자리지!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/13",
-        "value": "으윽, 오늘은 내가 청소당번이군."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/12",
-        "value": "손 딱 붙이시지!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/11",
-        "value": "아무 문제 일으키지 않으면 아무 해도 없을 거요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/10",
-        "value": "싸움을 걸 생각이라면 한 번 더 생각해보는 걸 추천하지."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/9",
-        "value": "어려운 일도 많긴 하지만 비공정 승무원으로 사는 건 끝내준다니까!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/8",
-        "value": "거래하러 왔나?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/7",
-        "value": "행동거지 조심하라고."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/6",
-        "value": "갑판에선 발 조심해. 바람이 심하게 불면 위험하거든."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/5",
-        "value": "새로운 선원인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/4",
-        "value": "여기서 당신 본 적 없었는데."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/3",
-        "value": "보급품이 필요하시면 병참장교에게 가보시죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/2",
-        "value": "물건에 손만 안 대시면 문제 없을 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/1",
-        "value": "어쩌다 이런 데까지 오셨을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/0",
-        "value": "어서오시게!"
-    },
-    {
-        "op": "replace",
         "path": "/converse/default/default",
         "value": [
-            "欢迎上船！",
-            "你是怎么上来的？",
-            "不要碰我们的货物这样我们之间也不会有任何问题。",
-            "如果供应品里有你想要的，去找军需官吧。",
-            "以前没见过你呀。",
-            "你是新的船员吗？",
-            "小心你的脚下，刮风的时候会不太好走。",
-            "管好你自己。",
-            "你是来交易东西的吗？",
-            "虽然有挑战，但是飞船船员的生活很棒！",
-            "如果你是来打架的话，我建议你三思。",
-            "别自找麻烦，这样就没人会伤害你。",
-            "不要到处乱摸！",
-            "呃，我今天负责做清洁。",
-            "就在这的广阔的天空中，我是属于这里的！",
-            "你最好不要盯着我们的货物看！",
-            "你有没有想过去弄一个眼罩？",
-            "主甲板上的风景真的很不错！",
-            "你要敢惹事就把你关起来！",
-            "在找物资吗？去见军需官吧。",
-            "你觉得我们的船怎么样？",
-            "当我告诉别人我住在船上时，他们总是觉得我有坏血病。",
-            "这些螺旋桨需要不停地保养！",
-            "我在想我的家人现在怎么样了。",
-            "我是新来的，但是我也在寻找我远航的目标！",
-            "你看上去很能干，想过在天空中的生活吗？",
-            "飞船上的生活并没有想像中好。",
-            "每天都重复着相同的工作。",
-            "这个船很大很漂亮，但是食物很难吃，你们知道怎么做菜吗？",
-            "这艘船有些年纪了，但是这里是我的家。",
-            "你迷路了？",
-            "我们在上一站弄到了很棒的物资！",
-            "对有些人来说是为了钱，对我来说，是为了冒险！",
-            "在我们的工作中可以看到很多新奇的东西，但是同时也很危险！",
-            "最好不要让我抓到你偷东西！",
-            "把手放在我能看见的地方…",
-            "如果你需要物资，你应该去找军需官。",
-            "如果你有一丁点无礼，我就干死你！",
-            "我们是做贸易的商船，但是不要以为我们好对付！",
-            "看起来你打过一两次架。"
+            "어서오시게!",
+            "어쩌다 이런 데까지 오셨을까?",
+            "물건에 손만 안 대시면 문제 없을 겁니다.",
+            "보급품이 필요하시면 병참장교에게 가보시죠.",
+            "여기서 당신 본 적 없었는데.",
+            "새로운 선원인가?",
+            "갑판에선 발 조심해. 바람이 심하게 불면 위험하거든.",
+            "행동거지 조심하라고.",
+            "거래하러 왔나?",
+            "어려운 일도 많긴 하지만 비공정 승무원으로 사는 건 끝내준다니까!",
+            "싸움을 걸 생각이라면 한 번 더 생각해보는 걸 추천하지.",
+            "아무 문제 일으키지 않으면 아무 해도 없을 거요.",
+            "손 딱 붙이시지!",
+            "으윽, 오늘은 내가 청소당번이군.",
+            "탁 트인 창공, 여기가 바로 내 자리지!",
+            "우리 물건 눈독들이지 않는 게 좋을 거요!",
+            "안대 하는 거 생각 해 봤어?",
+            "갑판에서 바라보는 풍경은 끝내준다니까!",
+            "뭐 이상한 짓 하나 하면 바로 감방행이야!",
+            "보급품 필요하셔? 병참장교에게 가봐.",
+            "이 배 어떻게 생각해요?",
+            "내가 배에서 생활한다고 하니까 사람들이 다들 나 괴혈병 있는 줄 알더라.",
+            "이 프로펠러들이 유지비를 너무 먹는다니까!",
+            "가족이 잘 지내는지 궁금하구만.",
+            "전 여기 신입이에요. 그래도 하늘에서의 삶에 점점 익숙해지고 있답니다!",
+            "꽤 능력 있는 것 같은데, 하늘에서의 삶 생각해본 적 있나?",
+            "비공정에서 사는 게 상상하는 것처럼 멋지진 않더라.",
+            "매일매일이 항상 똑같지 뭐.",
+            "배는 멋있고 다 좋은데, 밥은 최악이야! 요리 할 줄 알아?",
+            "이 배가 지금보다 나았던 시절도 있었는데, 그래도 내 집이니까.",
+            "길 잃었나?",
+            "최근 정박지에서 꽤 괜찮은 물건들이 들어왔습죠!",
+            "누구는 이걸 돈을 위해 하죠. 하지만 저는 모험을 위해 하는겁니다!",
+            "우린 작업하면서 놀라운 것도 많이 봐요. 하지만 위험하기도 하죠!",
+            "뭐 훔쳐가려다 안 걸리는 게 좋을걸!",
+            "손 보이게 둬라...",
+            "보급품이 필요하면 병참장교를 찾아가쇼.",
+            "낌새 보이기만 해봐. 끝장을 내줄 테니까!",
+            "이거 교역선이라고 만만하게 생각하다간 코 잘릴 거요.",
+            "당신 꼴이 꼭 거지판에 있다 온 것 같수다."
         ]
     },
     {
         "op": "replace",
         "path": "/hail/default/default",
         "value": [
-            "把手放在我能看见的地方！",
-            "我注意着你呢。",
-            "现在开始不要有任何不良的想法。",
-            "我盯着你呢。",
-            "最好不要让我抓到你偷东西。",
-            "如果供应品里有你想要的，去找军需官吧。",
-            "在这艘船上，你最好管好你自己。"
+            "두 손 보이게 다니시지!",
+            "당신 딱 봐 뒀어.",
+            "이상한 짓 할 생각 마쇼.",
+            "널 감시하고 있다.",
+            "슬쩍하는 걸 잡게 되지 않으면 좋겠구만.",
+            "우리 보급품을 갖고 싶으면 병참 장교에게 물어보쇼.",
+            "이 배에 있는 동안은 조심하쇼."
         ]
     }
 ]

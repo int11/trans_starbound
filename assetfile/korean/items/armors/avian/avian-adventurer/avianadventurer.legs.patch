@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가죽 가리개"
+        "path": "/description",
+        "value": "식별력이 있는 모험가를 위해 천연 섬유와 멋진 가죽으로 만들어졌다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "식별력이 있는 모험가를 위해 천연 섬유와 멋진 가죽으로 만들어졌다."
+        "path": "/shortdescription",
+        "value": "가죽 가리개"
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "주점 의자라. 이런 건 익숙하지. 아주 익숙해."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무감명. 저 의자 위에 얹힌 철판은 광을 좀 내줘야겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "둥근 의자! 플로란 위에셔 빙빙 돈다! 어지러워셔 재밌다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "현대 주점에서 쉽게 찾을 수 있는 좌석이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "주점 의자. 앉을 만하겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "고향의 고전적 주점 의자랑 똑같네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이건 그저 주점 높은 의자다."
+        "path": "/description",
+        "value": "흔들리는 주점 의자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "흔들리는 주점 의자."
+        "path": "/apexDescription",
+        "value": "이건 그저 주점 높은 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "주점 의자. 앉을 만하겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "둥근 의자! 플로란 위에셔 빙빙 돈다! 어지러워셔 재밌다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무감명. 저 의자 위에 얹힌 철판은 광을 좀 내줘야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "고향의 고전적 주점 의자랑 똑같네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "현대 주점에서 쉽게 찾을 수 있는 좌석이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "주점 의자라. 이런 건 익숙하지. 아주 익숙해."
     }
 ]

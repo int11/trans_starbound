@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "아비안 유물의 단서 찾기"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "다음은 ^orange;아비안^reset;으로 하는게 좋을 것 같단다! 아마도 ^orange;정글^green;이 풍부한 행성^white;으로 가는게 좋을거야 - 아비안들은 그런 장소를 좋아한단다. 그 행성들은 ^orange;방사성 항성^white;에서 찾을 수 있단다. 나중에 보자, 얘야. 조심하고, 즐거운 탐험이 되거라!"
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/radioMessages/complete/text",
-        "value": "위대한 군주의 신전이라... 그곳에 있을거야! 이제 우리가 필요한 정보는 모두 모였단다. ^#71f2f6;준비가 되면 방주로 오거라^white;, 얘야."
+        "path": "/completionText",
+        "value": "마지막으로 찾은 단서까지 합해서, 아비안 유물을 찾기 위한 단서가 모두 모였단다! 고된 작업을 해줘서 고맙구나."
     },
     {
         "op": "replace",
@@ -21,73 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text",
-        "value": "이상한 동상이구나. 그리고 밑에 적혀있는 글은 동상보다도 더 호기심을 유발하는 군. 사소한 부분에 정보가 숨어있는 법이란다, 얘야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
-        "value": "너는 아비안 고대 유물들의 수집가로구나! 보아하니 네가 이미 유물의 위치를 찾을 만한 충분한 단서들을 모았단다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/9/text",
-        "value": "이 단서는 숨어있는 정보의 힌트로군."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/8/text",
-        "value": "아무리 작은 증거라도 우주의 거대한 비밀을 푸는 데 도움이 된단다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/7/text",
-        "value": "아비안 사람들이 먼 과거의 중요한 물건을 어디에 보관해뒀을까? 미안하네, 얘야. 그저 생각중이었단다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/6/text",
-        "value": "제 아무리 작은 것도 얼마나 도움이 되는지 알게된다면 깜짝 놀랄거란다!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/5/text",
-        "value": "비밀을 밝혀낼 수록 과거가 밝혀지는 법이지. 좋은 발견이란다, 얘야!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/4/text",
-        "value": "훌륭하구나, 네가 찾는 것들은 모두 이론의 형성에 기여를 하고 있단다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/3/text",
-        "value": "작은 단서지만, 그래도 의미 있는 단서지!"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/2/text",
-        "value": "아비안 사람들은 그들의 신과 매우 흥미로운 관계를 맺고 있군. 이 작은 단서들이 더 거대한 진실을 찾는 힌트가 될거야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/1/text",
-        "value": "흥미롭구나. 이걸로 분명 내 연구에 진전이 있을거란다."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
-        "value": "흐음, 기묘하군... 이 정보와 다른 정보를 같이 봐야겠어."
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text",
         "value": "이건 마치 고대의 행성 지도 같구나. 혹시 중요한 곳의 위치를 알려주는 것이 아닐지?"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text",
-        "value": "클루엑스 의 흔치 않은 기록이구나. 그리고 그 안에 들어있는 내용은 생소하고 수많을 가능성을 내재하고 있어!"
     },
     {
         "op": "replace",
@@ -101,17 +41,77 @@
     },
     {
         "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text",
+        "value": "이상한 동상이구나. 그리고 밑에 적혀있는 글은 동상보다도 더 호기심을 유발하는 군. 사소한 부분에 정보가 숨어있는 법이란다, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text",
+        "value": "클루엑스 의 흔치 않은 기록이구나. 그리고 그 안에 들어있는 내용은 생소하고 수많을 가능성을 내재하고 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+        "value": "흐음, 기묘하군... 이 정보와 다른 정보를 같이 봐야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+        "value": "흥미롭구나. 이걸로 분명 내 연구에 진전이 있을거란다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+        "value": "아비안 사람들은 그들의 신과 매우 흥미로운 관계를 맺고 있군. 이 작은 단서들이 더 거대한 진실을 찾는 힌트가 될거야."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+        "value": "작은 단서지만, 그래도 의미 있는 단서지!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+        "value": "훌륭하구나, 네가 찾는 것들은 모두 이론의 형성에 기여를 하고 있단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+        "value": "비밀을 밝혀낼 수록 과거가 밝혀지는 법이지. 좋은 발견이란다, 얘야!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+        "value": "제 아무리 작은 것도 얼마나 도움이 되는지 알게된다면 깜짝 놀랄거란다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+        "value": "아비안 사람들이 먼 과거의 중요한 물건을 어디에 보관해뒀을까? 미안하네, 얘야. 그저 생각중이었단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+        "value": "아무리 작은 증거라도 우주의 거대한 비밀을 푸는 데 도움이 된단다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+        "value": "이 단서는 숨어있는 정보의 힌트로군."
+    },
+    {
+        "op": "replace",
         "path": "/scriptConfig/radioMessages/startWithProgress/text",
         "value": "아무래도 네가 유물의 행방을 찾을 단서가 포함된 물건을 미리 찾은 모양이구나, 네가 찾아다니는 동안 내가 분석하도록하마!"
     },
     {
         "op": "replace",
-        "path": "/completionText",
-        "value": "마지막으로 찾은 단서까지 합해서, 아비안 유물을 찾기 위한 단서가 모두 모였단다! 고된 작업을 해줘서 고맙구나."
+        "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+        "value": "너는 아비안 고대 유물들의 수집가로구나! 보아하니 네가 이미 유물의 위치를 찾을 만한 충분한 단서들을 모았단다!"
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "아비안 유물의 단서 찾기"
+        "path": "/scriptConfig/radioMessages/complete/text",
+        "value": "위대한 군주의 신전이라... 그곳에 있을거야! 이제 우리가 필요한 정보는 모두 모였단다. ^#71f2f6;준비가 되면 방주로 오거라^white;, 얘야."
     }
 ]

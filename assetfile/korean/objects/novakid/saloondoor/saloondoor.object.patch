@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 문"
+        "path": "/description",
+        "value": "밖을 성가신 회전초만 굴러다니게 하는 활기찬 술집 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "밖을 성가신 회전초만 굴러다니게 하는 활기찬 술집 문이다."
+        "path": "/shortdescription",
+        "value": "술집 문"
     },
     {
         "op": "replace",

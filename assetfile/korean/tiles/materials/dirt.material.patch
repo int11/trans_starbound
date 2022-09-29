@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "지저분해 보이는 흙이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무관심. 이건 평범한 흙이다."
+        "path": "/description",
+        "value": "흙처럼 보이는 흙이다."
     },
     {
         "op": "replace",
@@ -16,12 +11,17 @@
     },
     {
         "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 이건 평범한 흙이다."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "더러운 흙!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "흙처럼 보이는 흙이다."
+        "path": "/novakidDescription",
+        "value": "지저분해 보이는 흙이다."
     }
 ]

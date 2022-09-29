@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "그림자 벽돌"
+        "path": "/description",
+        "value": "그림자 돌을 새공해 만들어진 벽돌."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "그림자 돌을 새공해 만들어진 벽돌."
+        "path": "/shortdescription",
+        "value": "그림자 벽돌"
     },
     {
         "op": "replace",

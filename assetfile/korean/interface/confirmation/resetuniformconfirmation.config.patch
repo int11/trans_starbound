@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/message",
-        "value": "\n\n당신의 선원 유니폼을 수호자 연합 유니폼으로 되돌릴 준비가 됐습니까?"
+        "path": "/title",
+        "value": "당신의 선원 유니폼을 초기화시키겠습니까?"
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "당신의 선원 유니폼을 초기화시키겠습니까?"
+        "path": "/message",
+        "value": "\n\n당신의 선원 유니폼을 수호자 연합 유니폼으로 되돌릴 준비가 됐습니까?"
     },
     {
         "op": "replace",

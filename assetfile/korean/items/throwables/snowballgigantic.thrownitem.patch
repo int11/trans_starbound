@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이건 너무 많이 뭉쳤잖아! 그래도 던진다고?"
+        "path": "/shortdescription",
+        "value": "거대 눈뭉치"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거대 눈뭉치"
+        "path": "/description",
+        "value": "이건 너무 많이 뭉쳤잖아! 그래도 던진다고?"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "관람 의자"
+        "path": "/description",
+        "value": "모두가 앉을 수 있다. 더럽진 않겠지?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "모두가 앉을 수 있다. 더럽진 않겠지?"
+        "path": "/shortdescription",
+        "value": "관람 의자"
     },
     {
         "op": "replace",

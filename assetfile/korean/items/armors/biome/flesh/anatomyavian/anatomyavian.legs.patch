@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아비안 해부도 바지"
+        "path": "/description",
+        "value": "교육적이군! 이 바지는 아비안의 다리 근육 구조를 보여주고 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "교육적이군! 이 바지는 아비안의 다리 근육 구조를 보여주고 있다."
+        "path": "/shortdescription",
+        "value": "아비안 해부도 바지"
     }
 ]

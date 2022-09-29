@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "어둠의 변장 바지"
+        "path": "/description",
+        "value": "이 바지는 어두운 에너지를 가득 내뿜는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 바지는 어두운 에너지를 가득 내뿜는다."
+        "path": "/shortdescription",
+        "value": "어둠의 변장 바지"
     }
 ]

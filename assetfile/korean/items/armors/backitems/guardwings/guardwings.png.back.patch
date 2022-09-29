@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "별 성직자 날개"
+        "path": "/description",
+        "value": "이런 날개는 클루엑스의 복언을 퍼트리는 별관측자에게 주어진다고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이런 날개는 클루엑스의 복언을 퍼트리는 별관측자에게 주어진다고 한다."
+        "path": "/shortdescription",
+        "value": "별 성직자 날개"
     }
 ]

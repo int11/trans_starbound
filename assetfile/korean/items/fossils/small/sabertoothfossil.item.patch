@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "검치호는 널리 알려진 화석이다, 긴 송곳니로 쉽게 식별할 수 있다."
+        "path": "/shortdescription",
+        "value": "검치호 머리뼈 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 검치호의 머리뼈이다."
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "검치호 머리뼈 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석화된 검치호의 머리뼈이다."
+        "path": "/completeSetDescriptions/description",
+        "value": "검치호는 널리 알려진 화석이다, 긴 송곳니로 쉽게 식별할 수 있다."
     }
 ]

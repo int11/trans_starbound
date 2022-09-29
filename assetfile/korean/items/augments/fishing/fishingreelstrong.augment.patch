@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고탄성 릴"
+        "path": "/description",
+        "value": "이 실패 겸 미끼통에 감긴 실은 까다로운 절차를 거쳐 골라내어졌기에 잘 끊어지지 않는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 실패 겸 미끼통에 감긴 실은 까다로운 절차를 거쳐 골라내어졌기에 잘 끊어지지 않는다."
+        "path": "/shortdescription",
+        "value": "고탄성 릴"
     },
     {
         "op": "replace",

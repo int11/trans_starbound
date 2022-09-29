@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "고대 아비안 예술이 가미된 상자다."
+    },
+    {
+        "op": "replace",
         "path": "/shortdescription",
         "value": "장식용 상자"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 상자 진짜 멋있다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "완전 작품인데. 안에 뭐가 들었을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이런 장식용 아비안 상자에는 대개 큰 보물이 들어있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "상자다! 안을 봐야겠어."
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥분. 이런 상자라면 분명 값진 게 있을 거다."
+        "path": "/avianDescription",
+        "value": "이런 장식용 아비안 상자에는 대개 큰 보물이 들어있다."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고대 아비안 예술이 가미된 상자다."
+        "path": "/glitchDescription",
+        "value": "흥분. 이런 상자라면 분명 값진 게 있을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "상자다! 안을 봐야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "완전 작품인데. 안에 뭐가 들었을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 상자 진짜 멋있다."
     }
 ]

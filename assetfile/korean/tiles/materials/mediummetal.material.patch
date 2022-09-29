@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "부드러워 보이는 텅스텐으로만든 블록이네."
+        "path": "/shortdescription",
+        "value": "텅스텐 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 텅스텐 블록이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 블록"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "단단한 텅스텐 블록이다."
+        "path": "/novakidDescription",
+        "value": "부드러워 보이는 텅스텐으로만든 블록이네."
     }
 ]

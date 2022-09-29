@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 얼어붙은 흙은 굉장히 차갑다."
+        "path": "/glitchDescription",
+        "value": "관찰. 이 흙은 꽁꽁얼었군."
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 흙은 꽁꽁얼었군."
+        "path": "/novakidDescription",
+        "value": "이 얼어붙은 흙은 굉장히 차갑다."
     }
 ]

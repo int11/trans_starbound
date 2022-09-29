@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "내 생각보다 훨씬 고풍적인 사람들이 있는 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란이 봐도 플로란 클라스를 알 슈 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 마음에 든다. 주점에 걸려있으면 딱이겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "여러 개의 전등들이 매력적이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "전자 샹들리에다. 정말 예쁘다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "아름다운 고전적 샹들리에다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흠모. 글리치 샹들리에랑 비슷한 모양새지만 훨씬 발달되어있다."
+        "path": "/description",
+        "value": "단철로 만든 샹들리에다. 비싸보인다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단철로 만든 샹들리에다. 비싸보인다."
+        "path": "/apexDescription",
+        "value": "아름다운 고전적 샹들리에다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여러 개의 전등들이 매력적이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란이 봐도 플로란 클라스를 알 슈 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흠모. 글리치 샹들리에랑 비슷한 모양새지만 훨씬 발달되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "전자 샹들리에다. 정말 예쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "내 생각보다 훨씬 고풍적인 사람들이 있는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 마음에 든다. 주점에 걸려있으면 딱이겠어."
     }
 ]

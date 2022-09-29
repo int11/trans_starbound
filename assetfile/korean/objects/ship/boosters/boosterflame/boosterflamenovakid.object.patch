@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "추진기군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "우주선 추진기, 우주선의 날개지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "연료를 소모하는 것."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "우주선 추진기. 오작동과 폭발로 유명하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "분석. 재기엔 너무 높은 온도."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "불 무셔워."
+        "path": "/description",
+        "value": "햄버거 패티를 보다 빨리 굽고 싶을때 써보자."
     },
     {
         "op": "replace",
@@ -36,7 +11,32 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "햄버거 패티를 보다 빨리 굽고 싶을때 써보자."
+        "path": "/apexDescription",
+        "value": "우주선 추진기. 오작동과 폭발로 유명하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "우주선 추진기, 우주선의 날개지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불 무셔워."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분석. 재기엔 너무 높은 온도."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "연료를 소모하는 것."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "추진기군."
     }
 ]

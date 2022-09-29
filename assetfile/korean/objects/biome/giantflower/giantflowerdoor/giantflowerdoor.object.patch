@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거대 꽃 문"
+        "path": "/description",
+        "value": "명량한 화환이 문에 걸려있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "명량한 화환이 문에 걸려있다."
+        "path": "/shortdescription",
+        "value": "거대 꽃 문"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날카로운 손톱"
+        "path": "/description",
+        "value": "칼같이 날카로운 몬스터 손톱. 제작시 사용된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "칼같이 날카로운 몬스터 손톱. 제작시 사용된다."
+        "path": "/shortdescription",
+        "value": "날카로운 손톱"
     }
 ]

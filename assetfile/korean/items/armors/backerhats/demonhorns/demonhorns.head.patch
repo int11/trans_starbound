@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "악마 뿔 가발"
+        "path": "/description",
+        "value": "악마의 가발이다! 뿔을 가지고 있다... 도깨비!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "악마의 가발이다! 뿔을 가지고 있다... 도깨비!"
+        "path": "/shortdescription",
+        "value": "악마 뿔 가발"
     }
 ]

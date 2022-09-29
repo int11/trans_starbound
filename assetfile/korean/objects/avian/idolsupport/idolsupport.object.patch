@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조각된 지지대"
+        "path": "/description",
+        "value": "무시무신한 새를 닮은 조각이 된 보강 기둥이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무시무신한 새를 닮은 조각이 된 보강 기둥이다."
+        "path": "/shortdescription",
+        "value": "조각된 지지대"
     },
     {
         "op": "replace",

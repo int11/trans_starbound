@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "금이잖아! 금으로 만든 플랫폼이네!."
+        "path": "/shortdescription",
+        "value": "금 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "진정으로 부유를 위한, 금으로 만든 플랫폼."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금 플랫폼"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "진정으로 부유를 위한, 금으로 만든 플랫폼."
+        "path": "/novakidDescription",
+        "value": "금이잖아! 금으로 만든 플랫폼이네!."
     }
 ]

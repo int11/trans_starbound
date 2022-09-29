@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "돌연변이 등관"
+        "path": "/description",
+        "value": "이 착용 가능한 철관을 장비하면 톡성 액채를 주입하는것 처럼 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 착용 가능한 철관을 장비하면 톡성 액채를 주입하는것 처럼 보인다."
+        "path": "/shortdescription",
+        "value": "돌연변이 등관"
     }
 ]

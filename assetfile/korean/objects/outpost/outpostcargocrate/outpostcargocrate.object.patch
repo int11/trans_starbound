@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "기이한 화물 상자."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "기본적인 상자. 중요한 화물을 넣어둘 수 있겠어..."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "현대적인 디자인의 화물상자로군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 뭐든 있을 수 있는 화물상자로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란, 상자에서 플로란 들어가서 열면, 짜잔! 하고 놀래킨다."
+        "path": "/description",
+        "value": "상자 속에 화물이 들어있다. 무슨 화물? 알게 뭐야."
     },
     {
         "op": "replace",
@@ -31,8 +11,23 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "기이한 화물 상자."
+    },
+    {
+        "op": "replace",
         "path": "/avianDescription",
         "value": "이 안에 뭐가 있을지 궁금해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란, 상자에서 플로란 들어가서 열면, 짜잔! 하고 놀래킨다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 뭐든 있을 수 있는 화물상자로군."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "상자 속에 화물이 들어있다. 무슨 화물? 알게 뭐야."
+        "path": "/hylotlDescription",
+        "value": "현대적인 디자인의 화물상자로군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "기본적인 상자. 중요한 화물을 넣어둘 수 있겠어..."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나뭇잎 다리 장식"
+        "path": "/description",
+        "value": "착한 어린이는 봐선 안되는걸 가려주는 나뭇잎이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "착한 어린이는 봐선 안되는걸 가려주는 나뭇잎이다."
+        "path": "/shortdescription",
+        "value": "나뭇잎 다리 장식"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "건전미"
+        "path": "/description",
+        "value": "산성으로 가득한 건전미를 키우자. 유기생물체에겐 좋지 않겠지만."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "산성으로 가득한 건전미를 키우자. 유기생물체에겐 좋지 않겠지만."
+        "path": "/shortdescription",
+        "value": "건전미"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고강도 낚싯대"
+        "path": "/description",
+        "value": "극한의 환경에서 낚시를 하기위한 고강도강 낚싯대이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "극한의 환경에서 낚시를 하기위한 고강도강 낚싯대이다."
+        "path": "/shortdescription",
+        "value": "고강도 낚싯대"
     },
     {
         "op": "replace",

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 정도로 포장이 잘 된 선물이라면 분명 안에 멋진 게 있을 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "흠 잡을 데 없이 포장된 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "예쁜 분홍색 선물 상자."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "선물 상자다. 꽤 큰데!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "큰 선물 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 이 안에는 뭐가 들어있는 거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "샹자!"
+        "path": "/description",
+        "value": "위에 리본이 달린 축제 분위기의 분홍색 상자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "위에 리본이 달린 축제 분위기의 분홍색 상자다."
+        "path": "/apexDescription",
+        "value": "큰 선물 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "예쁜 분홍색 선물 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샹자!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 안에는 뭐가 들어있는 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "선물 상자다. 꽤 큰데!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "흠 잡을 데 없이 포장된 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 정도로 포장이 잘 된 선물이라면 분명 안에 멋진 게 있을 거다."
     }
 ]

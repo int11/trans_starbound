@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "토성 모형"
+        "path": "/description",
+        "value": "고리가 있는 인류 태양계의 토성을 본든 천장걸이 모형이다."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "토성은 지구의 고대 농업 신의 이름을 사용해. 아비안 종교의 신이랑도 아주 비슷한거 같아."
+        "path": "/shortdescription",
+        "value": "토성 모형"
     },
     {
         "op": "replace",
@@ -16,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "매력. 이 거대한 고리는 작은 우주먼지에서 부터 수 미터 가량의 큰 바위등으로 이뤄져있어."
+        "path": "/avianDescription",
+        "value": "토성은 지구의 고대 농업 신의 이름을 사용해. 아비안 종교의 신이랑도 아주 비슷한거 같아."
     },
     {
         "op": "replace",
@@ -26,8 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고리가 있는 인류 태양계의 토성을 본든 천장걸이 모형이다."
+        "path": "/glitchDescription",
+        "value": "매력. 이 거대한 고리는 작은 우주먼지에서 부터 수 미터 가량의 큰 바위등으로 이뤄져있어."
     },
     {
         "op": "replace",

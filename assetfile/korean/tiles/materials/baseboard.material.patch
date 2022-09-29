@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "약간의 멋진 벽 조형물이야."
+        "path": "/description",
+        "value": "이 베이스보드는 고전적인 집에 어울려 보입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고전적인 베이스보드."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 베이스보드는 고전적인 집에 어울려 보입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "고전적인 베이스보드."
+        "path": "/novakidDescription",
+        "value": "약간의 멋진 벽 조형물이야."
     }
 ]

@@ -6,23 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "난 위험이랑 친구 먹은 사이라."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "주의해서 나아가야겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "왜 에이펙스가 이리도 명확하게 위험요소를 표시해두는 거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "작은 위험요소는 아무도 해치지 못 한다."
+        "path": "/shortdescription",
+        "value": "붉은 위험 표시"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "긍정. 걱정할 게 없다는 뜻이로군."
+        "path": "/avianDescription",
+        "value": "왜 에이펙스가 이리도 명확하게 위험요소를 표시해두는 거지?"
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "붉은 위험 표시"
+        "path": "/glitchDescription",
+        "value": "긍정. 걱정할 게 없다는 뜻이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "작은 위험요소는 아무도 해치지 못 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "주의해서 나아가야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "난 위험이랑 친구 먹은 사이라."
     }
 ]

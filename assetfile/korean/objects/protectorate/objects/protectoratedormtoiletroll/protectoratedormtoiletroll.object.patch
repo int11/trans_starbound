@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보호국 화장실 롤휴지 홀더."
+        "path": "/description",
+        "value": "화장실 롤휴지 홀더다. 제발 남아 있기를!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화장실 롤휴지 홀더다. 제발 남아 있기를!"
+        "path": "/shortdescription",
+        "value": "보호국 화장실 롤휴지 홀더."
     },
     {
         "op": "replace",

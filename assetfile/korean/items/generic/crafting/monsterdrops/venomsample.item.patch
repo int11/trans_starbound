@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "맹독 표본"
+        "path": "/description",
+        "value": "휘발성 유독물질의 표본이다. 제작에 사용할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "휘발성 유독물질의 표본이다. 제작에 사용할 수 있다."
+        "path": "/shortdescription",
+        "value": "맹독 표본"
     }
 ]

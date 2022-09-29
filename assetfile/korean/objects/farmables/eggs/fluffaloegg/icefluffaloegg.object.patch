@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 플루팔로 알"
+        "path": "/description",
+        "value": "可以孵化出脆弱的冰系蓬蓬牛犊－发育完全后会成为低温提取物的不错来源。"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "可以孵化出脆弱的冰系蓬蓬牛犊－发育完全后会成为低温提取物的不错来源。"
+        "path": "/shortdescription",
+        "value": "얼음 플루팔로 알"
     },
     {
         "op": "replace",

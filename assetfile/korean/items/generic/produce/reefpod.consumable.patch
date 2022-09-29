@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "암초구슬"
+        "path": "/description",
+        "value": "바다 속에서 나는 과일의 일종이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바다 속에서 나는 과일의 일종이다."
+        "path": "/shortdescription",
+        "value": "암초구슬"
     }
 ]

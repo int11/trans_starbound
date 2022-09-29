@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무통"
+        "path": "/description",
+        "value": "입고 다닐수있는 나무통!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "입고 다닐수있는 나무통!"
+        "path": "/shortdescription",
+        "value": "나무통"
     }
 ]

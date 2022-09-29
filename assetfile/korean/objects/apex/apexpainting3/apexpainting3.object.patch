@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "원반에 홈이 파여있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이상한 원반이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이거... 비닐이야? 최신식이네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이건 에이펙스가 소유할 수 있는 유일한 전축이다. 누구는 여기서 잠재적 메시지가 재생된다고도 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 알려지지 않은 매체."
+        "path": "/description",
+        "value": "틀에 끼워둔 빅 에이프의 히트 앨범, '정글 사랑'이다."
     },
     {
         "op": "replace",
@@ -31,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "틀에 끼워둔 빅 에이프의 히트 앨범, '정글 사랑'이다."
+        "path": "/apexDescription",
+        "value": "이건 에이펙스가 소유할 수 있는 유일한 전축이다. 누구는 여기서 잠재적 메시지가 재생된다고도 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이상한 원반이다."
     },
     {
         "op": "replace",
         "path": "/floranDescription",
         "value": "까맣고 빛나는 원반."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 알려지지 않은 매체."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이거... 비닐이야? 최신식이네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "원반에 홈이 파여있다."
     },
     {
         "op": "replace",

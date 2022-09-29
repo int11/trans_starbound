@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "아비안 사물함이다."
+        "path": "/description",
+        "value": "사물함. 물건을 보관하자."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사물함이야, 물건 넣어두는거."
+        "path": "/shortdescription",
+        "value": "함선 사물함"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "아비안 사물함."
     },
     {
         "op": "replace",
@@ -21,8 +26,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사물함. 물건을 보관하자."
+        "path": "/glitchDescription",
+        "value": "무관심. 아비안 사물함이군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아비안 사물함이다."
     },
     {
         "op": "replace",
@@ -31,17 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "아비안 사물함."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무관심. 아비안 사물함이군."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "함선 사물함"
+        "path": "/novakidDescription",
+        "value": "사물함이야, 물건 넣어두는거."
     }
 ]

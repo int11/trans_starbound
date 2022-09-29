@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선인장 쿠키"
+        "path": "/description",
+        "value": "가시만 잔뜩있는걸 빼면... 평범한 쿠키다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가시만 잔뜩있는걸 빼면... 평범한 쿠키다."
+        "path": "/shortdescription",
+        "value": "선인장 쿠키"
     }
 ]

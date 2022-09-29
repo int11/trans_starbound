@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "아무것도 아닌 큰 통!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "굿즈 넣어두는 통."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "철로 고정된 둥근 나무 통."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "통이네. 재료나 먹을 거 넣어둘 때 좋지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "나무 통. 안에 뭐 없나?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 통, 잡템을 넣어두기에 좋은 곳이지. "
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 안에 넣고 굴릴 슈 있다."
+        "path": "/description",
+        "value": "통. 슬프게도 파티 모자로 들어차진 않았다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "통. 슬프게도 파티 모자로 들어차진 않았다."
+        "path": "/apexDescription",
+        "value": "나무 통. 안에 뭐 없나?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "철로 고정된 둥근 나무 통."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 안에 넣고 굴릴 슈 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 통, 잡템을 넣어두기에 좋은 곳이지. "
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "통이네. 재료나 먹을 거 넣어둘 때 좋지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "굿즈 넣어두는 통."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아무것도 아닌 큰 통!"
     }
 ]

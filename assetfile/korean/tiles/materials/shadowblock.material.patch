@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "굉장히 어두워 보이는 돌이야."
+        "path": "/description",
+        "value": "그림자처럼 새까만 검정색 바위다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "그림자 바위"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "그림자 바위"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "그림자처럼 새까만 검정색 바위다."
+        "path": "/novakidDescription",
+        "value": "굉장히 어두워 보이는 돌이야."
     }
 ]

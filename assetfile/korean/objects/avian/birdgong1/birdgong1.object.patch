@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 섀인간 시끄러워셔 싫다."
+        "path": "/description",
+        "value": "커다란 금속제 징이다. 한 번 세게 쳐보고 싶어 참을 수 없다!"
     },
     {
         "op": "replace",
@@ -11,13 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 한 방 때리면 소리 한 방 크게 나겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "물 속에서 징을 울리면 소리가 꽤나 다르게 들리겠지."
+        "path": "/apexDescription",
+        "value": "이 징을 치면 깊은 소리가 난다."
     },
     {
         "op": "replace",
@@ -26,13 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "사람이 징을 그냥 지나랴."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 징을 치면 깊은 소리가 난다."
+        "path": "/floranDescription",
+        "value": "플로란 섀인간 시끄러워셔 싫다."
     },
     {
         "op": "replace",
@@ -41,7 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다란 금속제 징이다. 한 번 세게 쳐보고 싶어 참을 수 없다!"
+        "path": "/humanDescription",
+        "value": "사람이 징을 그냥 지나랴."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "물 속에서 징을 울리면 소리가 꽤나 다르게 들리겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 한 방 때리면 소리 한 방 크게 나겠다."
     }
 ]

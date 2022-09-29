@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": " 상인 바지"
+        "path": "/description",
+        "value": "간단하고 저품질의 상인 바지다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단하고 저품질의 상인 바지다."
+        "path": "/shortdescription",
+        "value": " 상인 바지"
     }
 ]

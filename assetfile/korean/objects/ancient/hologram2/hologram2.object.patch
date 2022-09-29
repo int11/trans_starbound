@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 문어는 예뻐보이진 않네..."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "불길하게 생겼어!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "외눈의 행성파괴자를 묘사했어. 끔찍해."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "피폐함. 행성이 파괴되는 벽화가 무력감을 느끼게 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "인상적인 킬러 몬스터 그림이야!"
+        "path": "/description",
+        "value": "呈现了神话景象的全息投影。"
     },
     {
         "op": "replace",
@@ -31,17 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "수많은 다리가 행성들을 부수는 모습의 홀로그램."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "呈现了神话景象的全息投影。"
+        "path": "/apexDescription",
+        "value": "외눈의 행성파괴자를 묘사했어. 끔찍해."
     },
     {
         "op": "replace",
         "path": "/avianDescription",
         "value": "这是某个生物毁灭世界，与神权竞争的图片。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "인상적인 킬러 몬스터 그림이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "피폐함. 행성이 파괴되는 벽화가 무력감을 느끼게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "불길하게 생겼어!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "수많은 다리가 행성들을 부수는 모습의 홀로그램."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 문어는 예뻐보이진 않네..."
     }
 ]

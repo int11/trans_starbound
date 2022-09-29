@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "앵글루어 모형"
+        "path": "/description",
+        "value": "\"늦은 밤, 당신이 볼 수 있는 건 오직 앵글루어의 불빛 뿐이다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"늦은 밤, 당신이 볼 수 있는 건 오직 앵글루어의 불빛 뿐이다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "앵글루어 모형"
     }
 ]

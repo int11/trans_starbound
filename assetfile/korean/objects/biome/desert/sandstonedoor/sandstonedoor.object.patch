@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사암 문"
+        "path": "/description",
+        "value": "거친 사암 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거친 사암 문이다."
+        "path": "/shortdescription",
+        "value": "사암 문"
     },
     {
         "op": "replace",

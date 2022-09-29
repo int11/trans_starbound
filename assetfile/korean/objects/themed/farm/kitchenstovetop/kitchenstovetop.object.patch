@@ -1,16 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "厨房灶台"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "舒适的家庭式烹饪"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "一个有着炉顶的坚固橱柜。"
     },
@@ -18,6 +8,16 @@
         "op": "replace",
         "path": "/shortdescription",
         "value": "厨房灶台"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "厨房灶台"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "舒适的家庭式烹饪"
     },
     {
         "op": "replace",

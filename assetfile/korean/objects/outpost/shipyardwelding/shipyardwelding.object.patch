@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "용접하는 펭귄"
+        "path": "/description",
+        "value": "아주 바빠보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아주 바빠보인다."
+        "path": "/shortdescription",
+        "value": "용접하는 펭귄"
     },
     {
         "op": "replace",

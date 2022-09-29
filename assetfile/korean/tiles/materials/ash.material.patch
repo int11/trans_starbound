@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "무더기로 쌓인 재다."
+        "path": "/description",
+        "value": "튼튼히 다져진 잿더미다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "잿더미"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "잿더미"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "튼튼히 다져진 잿더미다."
+        "path": "/novakidDescription",
+        "value": "무더기로 쌓인 재다."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "케이크"
+        "path": "/description",
+        "value": "맛있는 케이크! 거짓말은 아닌듯하군."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "맛있는 케이크! 거짓말은 아닌듯하군."
+        "path": "/shortdescription",
+        "value": "케이크"
     }
 ]

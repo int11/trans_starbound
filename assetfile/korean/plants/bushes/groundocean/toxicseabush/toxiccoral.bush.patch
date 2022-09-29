@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 독성 산호인가."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "따끔한 샨호."
+        "path": "/description",
+        "value": "독성 산호다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독성 산호다."
+        "path": "/floranDescription",
+        "value": "따끔한 샨호."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 독성 산호인가."
     }
 ]

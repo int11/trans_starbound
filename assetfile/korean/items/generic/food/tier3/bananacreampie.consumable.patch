@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바나나 크림 파이"
+        "path": "/description",
+        "value": "먹는 게 더 좋을까, 사람 얼굴에 던지는 게 더 좋을까?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "먹는 게 더 좋을까, 사람 얼굴에 던지는 게 더 좋을까?"
+        "path": "/shortdescription",
+        "value": "바나나 크림 파이"
     }
 ]

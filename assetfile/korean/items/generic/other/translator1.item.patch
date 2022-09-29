@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고대 문자 석판 왼쪽 조각"
+        "path": "/description",
+        "value": "고대 문자를 해석하기 위한 석판의 조각이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고대 문자를 해석하기 위한 석판의 조각이다."
+        "path": "/shortdescription",
+        "value": "고대 문자 석판 왼쪽 조각"
     }
 ]

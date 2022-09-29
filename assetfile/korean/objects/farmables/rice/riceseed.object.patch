@@ -1,23 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "즐거움. 언젠가 글리치 하나가 생쌀을 먹었던 적이 있었는데 이후 타악기로서 성공적인 경력을 쌓았다고 한다."
+        "path": "/description",
+        "value": "삶거나, 볶거나, 신부에게 던지던가, 어디에서든 유용한 쌀!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "쌀 씨앗"
     },
     {
         "op": "replace",
         "path": "/apexDescription",
         "value": "쌀. 아무 식사에나 넣기 좋다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "쌀은 이따금 한 번씩 먹기 좋다. 고추랑 궁합이 완벽해!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "쌀. 맛은 없다시피 하지만, 먹을 만하다. 식사를 시작할 때 좋다."
     },
     {
         "op": "replace",
@@ -31,17 +26,22 @@
     },
     {
         "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 언젠가 글리치 하나가 생쌀을 먹었던 적이 있었는데 이후 타악기로서 성공적인 경력을 쌓았다고 한다."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "쌀. 배고플 때나 뭔가를 수천 개씩 먹고 싶을 때 딱이지."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "쌀 씨앗"
+        "path": "/hylotlDescription",
+        "value": "쌀. 맛은 없다시피 하지만, 먹을 만하다. 식사를 시작할 때 좋다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "삶거나, 볶거나, 신부에게 던지던가, 어디에서든 유용한 쌀!"
+        "path": "/novakidDescription",
+        "value": "쌀은 이따금 한 번씩 먹기 좋다. 고추랑 궁합이 완벽해!"
     }
 ]

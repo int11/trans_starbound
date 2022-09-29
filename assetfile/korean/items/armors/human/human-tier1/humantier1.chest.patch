@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정찰병의 흉갑"
+        "path": "/description",
+        "value": "믿음직한 방호력을 제공해주는 민소매의 철판 갑주다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "믿음직한 방호력을 제공해주는 민소매의 철판 갑주다."
+        "path": "/shortdescription",
+        "value": "정찰병의 흉갑"
     }
 ]

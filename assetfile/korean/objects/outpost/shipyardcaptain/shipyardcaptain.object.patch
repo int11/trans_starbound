@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "모든게 합법인 해적 사업"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "조선소 선장"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "수상해보이는 선장이다."
     },
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "펭귄 피트의 차량 판매점"
+        "path": "/shortdescription",
+        "value": "조선소 선장"
     },
     {
         "op": "replace",
@@ -53,5 +43,15 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "我想知道这人卖什么载具？"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "펭귄 피트의 차량 판매점"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "모든게 합법인 해적 사업"
     }
 ]

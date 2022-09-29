@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "총잡이 상의"
+        "path": "/description",
+        "value": "캐주얼한 초짜들의 옷이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "캐주얼한 초짜들의 옷이다."
+        "path": "/shortdescription",
+        "value": "총잡이 상의"
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "안쓰럽다. 이 커튼도 리즈시절이 있었을 텐데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 낡은 커튼에게도 전성기가 있었겠지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "누가 이 커튼을 다 망쳐놨을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "참 거칠게도 찢고 죽여놨다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "멋진 커튼인데 무슨 일이 있었던 거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "실망. 예전에는 분명 멋있는 커튼이었을 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "낡고 박샬난 커튼. 이젠 안 부드럽다."
+        "path": "/description",
+        "value": "예전엔 아주 고상한 커튼이었지만 이젠 낡아빠졌다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "예전엔 아주 고상한 커튼이었지만 이젠 낡아빠졌다."
+        "path": "/apexDescription",
+        "value": "멋진 커튼인데 무슨 일이 있었던 거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "누가 이 커튼을 다 망쳐놨을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낡고 박샬난 커튼. 이젠 안 부드럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 예전에는 분명 멋있는 커튼이었을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "참 거칠게도 찢고 죽여놨다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 낡은 커튼에게도 전성기가 있었겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "안쓰럽다. 이 커튼도 리즈시절이 있었을 텐데."
     }
 ]

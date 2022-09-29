@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사냥용으로 쓰기 좋은 투창이다."
+        "path": "/shortdescription",
+        "value": "투창"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "투창"
+        "path": "/description",
+        "value": "사냥용으로 쓰기 좋은 투창이다."
     }
 ]

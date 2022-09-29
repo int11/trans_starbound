@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "이 장치는 비어있다."
+    },
+    {
+        "op": "replace",
         "path": "/shortdescription",
         "value": "빈 생명 유지 장치"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "근처도 안 갈란다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 기계는 DNA 구조를 조금도 오래 갈 수 없는 방향으로 바꿔놓는다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "흑과학이다..."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이거 안 좋아뵈는데. 뭔가 뛰쳐나와 날 덮칠 것만 같아."
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주목. 에이펙스 DNA를 바꾸는 장치다."
+        "path": "/avianDescription",
+        "value": "흑과학이다..."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 장치는 비어있다."
+        "path": "/glitchDescription",
+        "value": "주목. 에이펙스 DNA를 바꾸는 장치다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이거 안 좋아뵈는데. 뭔가 뛰쳐나와 날 덮칠 것만 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 기계는 DNA 구조를 조금도 오래 갈 수 없는 방향으로 바꿔놓는다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "근처도 안 갈란다."
     }
 ]

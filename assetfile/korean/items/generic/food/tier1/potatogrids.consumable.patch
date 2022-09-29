@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "격자 감자 튀김"
+        "path": "/description",
+        "value": "바삭하고 황금빛 자태를 뽐내는 솜털같이 부드러운 감자요리에 가깝다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바삭하고 황금빛 자태를 뽐내는 솜털같이 부드러운 감자요리에 가깝다."
+        "path": "/shortdescription",
+        "value": "격자 감자 튀김"
     }
 ]

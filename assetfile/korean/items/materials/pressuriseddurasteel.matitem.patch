@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가압 고강도강"
+        "path": "/description",
+        "value": "가압적 환경을 담기위해 특별히 디자인된 고강도강 판이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가압적 환경을 담기위해 특별히 디자인된 고강도강 판이다."
+        "path": "/shortdescription",
+        "value": "가압 고강도강"
     },
     {
         "op": "replace",

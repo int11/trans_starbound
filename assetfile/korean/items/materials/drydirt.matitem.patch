@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "건조한 흙"
+        "path": "/description",
+        "value": "태양빛으로 딱딱하게 말린 흙."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "태양빛으로 딱딱하게 말린 흙."
+        "path": "/shortdescription",
+        "value": "건조한 흙"
     },
     {
         "op": "replace",

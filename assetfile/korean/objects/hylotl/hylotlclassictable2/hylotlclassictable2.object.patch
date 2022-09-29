@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 전통 탁자"
+        "path": "/description",
+        "value": "섬세하게 설계된 나무 탁자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "섬세하게 설계된 나무 탁자다."
+        "path": "/shortdescription",
+        "value": "작은 전통 탁자"
     },
     {
         "op": "replace",

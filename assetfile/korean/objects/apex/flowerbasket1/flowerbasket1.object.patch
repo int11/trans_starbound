@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "꽃바구니 장식이다. 이미 더 아름다운 다시마 장식도 보아온지라."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 바구니 매달려셔 흔들린다. 날아가셔 창문 박샬내고 나간다. 재밌다!"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "매달린 바구니다. 손님맞이에 이만한 게 없다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "감미로운 천장 바구니다. 매달리지 말 것!"
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "감미로운 꽃다발이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "언젠가 한 번 내 머리에 떨어졌던 적이 있었지. 참 좋았는데."
+        "path": "/shortdescription",
+        "value": "매달린 바구니"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "감미로운 꽃다발이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 바구니 매달려셔 흔들린다. 날아가셔 창문 박샬내고 나간다. 재밌다!"
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "음미. 아름답게 조경된 바구니다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "매달린 바구니"
+        "path": "/humanDescription",
+        "value": "언젠가 한 번 내 머리에 떨어졌던 적이 있었지. 참 좋았는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "꽃바구니 장식이다. 이미 더 아름다운 다시마 장식도 보아온지라."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "매달린 바구니다. 손님맞이에 이만한 게 없다."
     }
 ]

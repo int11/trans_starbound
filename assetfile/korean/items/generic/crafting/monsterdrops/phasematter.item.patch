@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "위상 물질"
+        "path": "/description",
+        "value": "만지기도 어려운 물질. 제작에 사용될 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "만지기도 어려운 물질. 제작에 사용될 수 있다."
+        "path": "/shortdescription",
+        "value": "위상 물질"
     }
 ]

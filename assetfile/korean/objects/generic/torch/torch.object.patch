@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "횃불. 얘네 없인 못 살아!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "조촐한 횃불이지만 야생에선 무쟈게 귀하거든."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감상. 횃불은 없어서는 안되지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "횃불은 필수품이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "횃불은 길을 비춰주지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "탁월한 생존도구."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 횃불이 무섭지만 반드시 횃불 다루는 걸 숙달해야 해."
+        "path": "/description",
+        "value": "부드럽게 반짝이는 횃불."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부드럽게 반짝이는 횃불."
+        "path": "/apexDescription",
+        "value": "탁월한 생존도구."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "횃불은 필수품이야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 횃불이 무섭지만 반드시 횃불 다루는 걸 숙달해야 해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감상. 횃불은 없어서는 안되지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "횃불은 길을 비춰주지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "조촐한 횃불이지만 야생에선 무쟈게 귀하거든."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "횃불. 얘네 없인 못 살아!"
     }
 ]

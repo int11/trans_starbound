@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "허기. 저 사탕지팡이가 박하맛이 난다는 데 손목을 건다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "대체 왜 사탕으로 장식을 하는 거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "사탕으로 장식을? 그런 얘기 한 번도 못 들어봤는데."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "먹어도 되겠는데!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "진짜 사탕지팡이같다. 하나 먹어볼까?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "입맛 당긴다. 진짜 사탕인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "너무 달아."
+        "path": "/description",
+        "value": "장식용 초록 사탕 지팡이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "장식용 초록 사탕 지팡이다."
+        "path": "/apexDescription",
+        "value": "입맛 당긴다. 진짜 사탕인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "먹어도 되겠는데!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "너무 달아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "허기. 저 사탕지팡이가 박하맛이 난다는 데 손목을 건다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "진짜 사탕지팡이같다. 하나 먹어볼까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "사탕으로 장식을? 그런 얘기 한 번도 못 들어봤는데."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "대체 왜 사탕으로 장식을 하는 거지?"
     }
 ]

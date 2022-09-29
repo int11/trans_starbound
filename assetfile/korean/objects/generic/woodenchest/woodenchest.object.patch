@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "열리지 않은 상자를 찾는건 언제나 짜릿한 일이지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아직 열리지 않은 상자만큼 기대되는 건 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "가끔 이런 상자들엔 귀한 것들이 들어있거든? 너무 기대돼!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "금고다! 한 번 열어 보자."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "금고다! 안에 무엇이 들었는지 보자."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "욕망. 안에 뭐가 들어 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "금고다! 플로란은 반드시 안을 뒤져봐야 돼!"
+        "path": "/description",
+        "value": "기본 나무 상자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기본 나무 상자."
+        "path": "/apexDescription",
+        "value": "금고다! 안에 무엇이 들었는지 보자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "가끔 이런 상자들엔 귀한 것들이 들어있거든? 너무 기대돼!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "금고다! 플로란은 반드시 안을 뒤져봐야 돼!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "욕망. 안에 뭐가 들어 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "금고다! 한 번 열어 보자."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아직 열리지 않은 상자만큼 기대되는 건 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "열리지 않은 상자를 찾는건 언제나 짜릿한 일이지."
     }
 ]

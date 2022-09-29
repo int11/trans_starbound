@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "암초 주스"
+        "path": "/description",
+        "value": "상큼한 단맛과 짠맛이 어우러진 주스다. 재충전된다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "상큼한 단맛과 짠맛이 어우러진 주스다. 재충전된다!"
+        "path": "/shortdescription",
+        "value": "암초 주스"
     }
 ]

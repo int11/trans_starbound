@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 이 식물은 방사능을 이용해서 자라나고있소."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "오쌱한 식물이다."
+        "path": "/description",
+        "value": "독성 크립이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독성 크립이다."
+        "path": "/floranDescription",
+        "value": "오쌱한 식물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 이 식물은 방사능을 이용해서 자라나고있소."
     }
 ]

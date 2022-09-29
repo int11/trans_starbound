@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "결혼식 스커트"
+        "path": "/description",
+        "value": "무도회복 하의, 전통적인 지구의 혼례 의상이라고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무도회복 하의, 전통적인 지구의 혼례 의상이라고 한다."
+        "path": "/shortdescription",
+        "value": "결혼식 스커트"
     }
 ]

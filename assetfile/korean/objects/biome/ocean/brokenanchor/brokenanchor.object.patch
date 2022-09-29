@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 낡은 건지 아니면 솜씨가 구린 건지 확답하기 어렵군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "닻은 지면에서 내려와 하이로틀 도시를 박살내는 것으로 알려져있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 닻은 부서진 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 닻은 어디서 온 거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
+        "path": "/description",
         "value": "부서진 닻이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "두려움. 이 닻은 글리치의 적, 녹에 뒤덮혀있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이거 부셔졌다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/apexDescription",
         "value": "부서진 닻이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 닻은 부서진 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이거 부셔졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "두려움. 이 닻은 글리치의 적, 녹에 뒤덮혀있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 닻은 어디서 온 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "닻은 지면에서 내려와 하이로틀 도시를 박살내는 것으로 알려져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 낡은 건지 아니면 솜씨가 구린 건지 확답하기 어렵군."
     }
 ]

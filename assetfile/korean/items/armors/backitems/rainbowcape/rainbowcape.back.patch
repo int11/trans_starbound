@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "득의의 숄"
+        "path": "/description",
+        "value": "연구결과에 따르면 이 망토를 입고 있을 때는 절대로 슬퍼질 수 없다고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "연구결과에 따르면 이 망토를 입고 있을 때는 절대로 슬퍼질 수 없다고 한다."
+        "path": "/shortdescription",
+        "value": "득의의 숄"
     }
 ]

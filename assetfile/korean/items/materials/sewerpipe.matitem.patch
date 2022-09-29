@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "폐물을 수송하기 위해 사용되는 하수도관."
+        "path": "/shortdescription",
+        "value": "하수도관"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하수도관"
+        "path": "/description",
+        "value": "폐물을 수송하기 위해 사용되는 하수도관."
     },
     {
         "op": "replace",

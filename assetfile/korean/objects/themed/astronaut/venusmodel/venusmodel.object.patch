@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "금성, 지구와 가깝지만 생명이 있기에는 너무 극단적인 환경이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "금성은 우리 태양계의 두번째 행성이야. 지구가 파괴되기 전에 테라포밍을 할 계획이 있었다고 해."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "인간 태양계의 금셩, 여덞번째 행셩이야."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "인류 태양계의 금성을 본뜬 천장걸이 모형이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "금성은 지구의 고대 여신의 이름을 사용해. 사랑과 아름다움을 관장했지."
     },
     {
         "op": "replace",
@@ -36,8 +16,28 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "금성은 지구의 고대 여신의 이름을 사용해. 사랑과 아름다움을 관장했지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "인간 태양계의 금셩, 여덞번째 행셩이야."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "魅力。金星有着天然的温室气体，这让它的地表温度变得非常高。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "금성은 우리 태양계의 두번째 행성이야. 지구가 파괴되기 전에 테라포밍을 할 계획이 있었다고 해."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "금성, 지구와 가깝지만 생명이 있기에는 너무 극단적인 환경이야."
     },
     {
         "op": "replace",

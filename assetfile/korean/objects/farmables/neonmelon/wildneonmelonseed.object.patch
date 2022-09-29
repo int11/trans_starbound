@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "네온멜론"
+        "path": "/description",
+        "value": "이 화려한 네온멜론의 과육은 풍선껌 맛이 난다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 화려한 네온멜론의 과육은 풍선껌 맛이 난다."
+        "path": "/shortdescription",
+        "value": "네온멜론"
     },
     {
         "op": "replace",

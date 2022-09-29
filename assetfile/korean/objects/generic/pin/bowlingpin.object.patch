@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "볼링핀이 나더러 좀 쓰러트려달란다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "수없이 넘어졌지만 그래도 꼿꼿이 서있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "경쟁용 게임을 위한 물건이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "볼링핀이다. 쓰러트리고 싶어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "균형잡힌 볼링핀이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 다시 쓰러트리라고 줄을 지어 세워놓았다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이거 쓰러트리고 싶다."
+        "path": "/description",
+        "value": "쓰러트리자!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "쓰러트리자!"
+        "path": "/apexDescription",
+        "value": "균형잡힌 볼링핀이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "경쟁용 게임을 위한 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 쓰러트리고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 다시 쓰러트리라고 줄을 지어 세워놓았다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "볼링핀이다. 쓰러트리고 싶어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "수없이 넘어졌지만 그래도 꼿꼿이 서있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "볼링핀이 나더러 좀 쓰러트려달란다."
     }
 ]

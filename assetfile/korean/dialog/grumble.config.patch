@@ -1,902 +1,352 @@
 [
     {
         "op": "replace",
-        "path": "/tagCriteria/apex/default/1",
-        "value": "물건 가져가지 마라... 네가 집 다시 고쳐놔라."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/apex/default/2",
-        "value": "가져간 물건 원래 자리에 놔라 제발."
-    },
-    {
-        "op": "replace",
-        "path": "/final/default/default/0",
-        "value": "할 만큼 했어!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/human/default/0",
-        "value": "할 만큼 했어!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/human/default/1",
-        "value": "됐어, 나 안 해. 갈 거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/human/default/2",
-        "value": "나 안 해! 나간다!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/glitch/default/0",
-        "value": "격분. 견딜 수 없소. 난 떠나겠소. "
-    },
-    {
-        "op": "replace",
-        "path": "/final/glitch/default/1",
-        "value": "분노. 난 이보다 좋은 집에서 살 권리가 있소."
-    },
-    {
-        "op": "replace",
-        "path": "/final/glitch/default/2",
-        "value": "격화. 이러자고 여기 온 게 아니나, 여기서는 더는 못 살겠소."
-    },
-    {
-        "op": "replace",
-        "path": "/final/floran/default/0",
-        "value": "됐다. 플로란 갈 거다!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/floran/default/1",
-        "value": "플로란 여기서 안 샨다! 이렇게는 못 샨다!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/floran/default/2",
-        "value": "플로란 간다. 여기셔 더는 못 샬겠다!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/novakid/default/0",
-        "value": "여기 말고 크러터 둥지에서 사는 게 훨 낫겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/final/novakid/default/1",
-        "value": "여기서 하루 더 지내느니 선인장 위에서 자련다."
-    },
-    {
-        "op": "replace",
-        "path": "/final/novakid/default/2",
-        "value": "범죄야! 여긴 아주 개판이야! 난 째야겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/final/avian/default/1",
-        "value": "그만. 전 떠나겠어요. 여기선 더는 못 살겠어요."
-    },
-    {
-        "op": "replace",
-        "path": "/final/avian/default/2",
-        "value": "다른 이들을 존중하려고 해봤는데, 당신은 저처럼 해보시도 않으시네요."
-    },
-    {
-        "op": "replace",
-        "path": "/final/hylotl/default/0",
-        "value": "더는 용납하지 않습니다. 전 떠날 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/final/hylotl/default/1",
-        "value": "그대에 대한 신뢰가 바닥났습니다. 언젠가 그대의 방식에 오류가 있었다는 걸 깨닫길 바랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/final/hylotl/default/2",
-        "value": "이 주변환경이 저에게 있어 매우 해롭습니다. 떠날 수밖에 없겠습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/final/apex/default/0",
-        "value": "난 더 나은 삶을 찾아 나선다. 실망이다."
-    },
-    {
-        "op": "replace",
-        "path": "/final/apex/default/1",
-        "value": "난 이보다 더 나은 곳에서 살 거다!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/apex/default/2",
-        "value": "됐다. 난 떠날 거다. 넌 끔찍한 지주다."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/glitch/default/0",
-        "value": "충격. 모르는 이를 내 집에 들이겠단 말이오?"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/glitch/default/1",
-        "value": "혼란. 여긴 내 집이오. 나눠쓸 수 없소..."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/glitch/default/2",
-        "value": "슬픔. 난 여기가 나만을 위한 집인 줄 알았소, 허나 그대는 나눠쓰길 바라는구려."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/floran/default/0",
-        "value": "플로란 여기 다 쓸 거다. 알지도 못 하는 낯션 샤람이랑 안 쓴다."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/floran/default/1",
-        "value": "누가 여기 이샤하면 플로란이 먹어치울 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/floran/default/2",
-        "value": "플로란 집 안 나눈다! 다른 증셔 치워라."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/novakid/default/0",
-        "value": "여긴 내 땅이야. 다른 사람이 빌붙는다니 말도 안 돼."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/novakid/default/1",
-        "value": "이 집 나눠쓰는 거 아냐. 당장 증서 떼."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/novakid/default/2",
-        "value": "여긴 우리집이라고 젠장맞을, 절대 같이 안 써."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/default/default/0",
-        "value": "여기 내 집인 줄 알았는데!"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/human/default/0",
-        "value": "여기 개인 공간 아니었어!? 우리 집을 나눠쓸 순 없다고!"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/human/default/1",
-        "value": "누구 이사시키려고?!"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/human/default/2",
-        "value": "왜 여기에 다른 사람 증서를 붙여놔?!"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/avian/default/0",
-        "value": "왜 다른 사람을 제 집에 들이겠다는 거죠?"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/avian/default/1",
-        "value": "제 집을 세놓으셨다고요? 뭔가 착오가 있었을 거에요..."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/avian/default/2",
-        "value": "제 집에 다른 증서가 붙어있잖아요. 고의는 아니시겠죠."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/hylotl/default/0",
-        "value": "모르는 사람과 집을 같이 쓰고 싶지는 않습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/hylotl/default/1",
-        "value": "다른 세입자를 제 집에 들이는 건 소극적이든 대범하게든 용납할 수 없습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/hylotl/default/2",
-        "value": "제 집에 다른 증서가 붙어있잖습니까? 실수하셨을 거라 생각합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/apex/default/0",
-        "value": "왜 여기 다른 증서가 붙어있나? 뭘 꾸미는 건가?"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/apex/default/1",
-        "value": "여긴 내 집이다. 그대에게서 빌렸단 말이다. 다른 사람을 들일 수 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/apex/default/2",
-        "value": "이러면 안 된다. 난 집 같이 안 쓴다."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/glitch/default/0",
-        "value": "짜증. 우리 집좀 고쳐주셨으면 하네."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/glitch/default/1",
-        "value": "불만. 내 부탁을 들었긴 하길 바라오."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/glitch/default/2",
-        "value": "불행. 집 수리가 아직도 안 됐소."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/floran/default/0",
-        "value": "플로란 이렇게는 못 샨다!"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/floran/default/1",
-        "value": "플로란 화났다. 플로란 집 고쳐라."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/floran/default/2",
-        "value": "너 계쇽 플로란 집 안 고친다!"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/novakid/default/0",
-        "value": "너 꼭 내가 나갔으면 하는 눈치다."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/novakid/default/1",
-        "value": "이 뭐 놀랍도록 실망스러운 집이네... 고칠 거야 말 거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/novakid/default/2",
-        "value": "여기 예전같지 않다. 제대로 해놔."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/default/default/0",
-        "value": "이 상태로는 도저히 못 살겠어!"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/human/default/0",
-        "value": "이 상태로는 도저히 못 살겠어!"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/human/default/1",
-        "value": "여기서 살기엔 영 끔찍하다..."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/human/default/2",
-        "value": "어떻게 이 지경으로 지내란 거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/avian/default/0",
-        "value": "이거 너무 하잖아요. 집좀 고쳐주세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/avian/default/1",
-        "value": "이렇게는 오래 못 살아요. 제 집 꼴좀 보시라구요."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/avian/default/2",
-        "value": "제 인내심이 바닥나기 시작했어요. 집좀 고쳐주세요."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/apex/default/0",
-        "value": "이 변천사 매우 불안하다. 원래대로 해놔라."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/hylotl/default/1",
-        "value": "이 상황은 통탄할 상황이며, 그대의 행위는 괘씸한 행위입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/hylotl/default/2",
-        "value": "이건 그저 수치일 뿐입니다. 집을 고치십시오."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/apex/default/0",
-        "value": "여기좀 봐라! 내 집 안 고치면 나갈 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/apex/default/1",
-        "value": "그대와의 차이를 받아들일 수가 없다..."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/apex/default/2",
-        "value": "화난 에이펙스를 무시하는 건 어리석은 일이다. 내 집 당장 고쳐내라."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/glitch/default/0",
-        "value": "낙심. 가엾은 우리 집... 벽이 박살났소. 고쳐주실 수 있겠나?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/glitch/default/1",
-        "value": "걱정. 수리가 필요하오."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/glitch/default/2",
-        "value": "희망. 우리 집 고쳐주실 수 있으시오? 아직 고칠 수 있을것 같소."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/floran/default/0",
-        "value": "플로란 벽 슈리해줘라."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/floran/default/1",
-        "value": "플로란 집 박샬났다. 고칠 슈 있냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/floran/default/2",
-        "value": "플로란 구멍 안 난 집 좋다. 고쳐줄 슈 있냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/novakid/default/0",
-        "value": "여기 바람 부는 것 같아. 나만 그래?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/novakid/default/1",
-        "value": "여기 총싸움 나간 보안관보다 구멍 많아."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/novakid/default/2",
-        "value": "미친 카프리콧 풀어놨냐! 벽 고칠 수 있지?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/default/default/0",
-        "value": "집을 좀 고쳐야겠어!"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/human/default/0",
-        "value": "집을 좀 고쳐야겠는데..."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/human/default/1",
-        "value": "여기 피해좀 메꿔줄 수 있어?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/human/default/2",
-        "value": "수리좀 해야겠어!"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/avian/default/0",
-        "value": "우리 집 벽좀 고쳐주시겠어요?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/avian/default/1",
-        "value": "부서진 곳좀 고쳐주시면 좋겠어요."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/avian/default/2",
-        "value": "흐으, 이거 부서지면 안 되는데. 고쳐주시겠어요?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/hylotl/default/0",
-        "value": "저희 집이 지금 바깥에 노출되어있습니다. 이 피해를 수습해주신다면 감사하겠습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/hylotl/default/1",
-        "value": "제 벽을 수습해주신다면 진정으로 감사하겠습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/hylotl/default/2",
-        "value": "여기 벽에 흠이 있습니다. 좀 도와주시지 않으시겠습니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/apex/default/0",
-        "value": "집에 구멍이 있다..."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/apex/default/1",
-        "value": "지붕이 내려앉기 전에 벽을 고쳐야 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/apex/default/2",
-        "value": "벽좀 고쳐줘라. 이래서야 나한테 좋을 리 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/glitch/default/0",
-        "value": "혼란. 내 집이 좀 다르오."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/glitch/default/1",
-        "value": "불만. 이 변화 마음에 안 드오. 다시 있던 대로 해놓으시구려."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/glitch/default/2",
-        "value": "애석. 우리 집이 예전같았으면 하오."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/floran/default/0",
-        "value": "내 쇼품 가져가지 마라."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/floran/default/1",
-        "value": "플로란 집 예전처럼 해놔라."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/floran/default/2",
-        "value": "플로란 집 예전같지 않다. 다시 제대로 해놔라!"
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/novakid/default/0",
-        "value": "여기 난장판인데..."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/novakid/default/1",
-        "value": "여기 옛날같지가 않아. 네가 깽판 쳤지."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/novakid/default/2",
-        "value": "훔치는 거 나쁜 거야. 자, 가져간 거 돌려놔."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/default/default/0",
-        "value": "우리 집 뭔가 바뀌었어. 마음에 안 들어!"
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/human/default/0",
-        "value": "뭔가 바뀌었어... 네가 망쳐놨거나, 내가 귀신이 들렸거나."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/human/default/1",
-        "value": "우리 집 가구 배치가 바뀌었는데, 이게 아닌데..."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/human/default/2",
-        "value": "여기서 뭐 움직였나? 기묘한데..."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/avian/default/0",
-        "value": "어, 우리 집은 이렇지 않았는데요..."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/avian/default/1",
-        "value": "이거 마음에 안 들어요. 원래대로 해주면 안 돼요?"
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/avian/default/2",
-        "value": "제발 원래 자리로 돌려놔줘요."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/hylotl/default/0",
-        "value": "제 집의 흐름이 균형잡혀있지 않습니다..."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/hylotl/default/1",
-        "value": "가져간 것 돌려주십시오."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/hylotl/default/2",
-        "value": "현 배치설계에서 동요가 발생하고 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/final/avian/default/0",
-        "value": "그만하면 됐어요. 제대로 된 집에서 살고 싶다고요."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/hylotl/default/0",
-        "value": "제 요청에 대한 답변이 아직 안 들어왔습니다. 귀머거리에게 간청하다니... 부끄럽습니다."
-    },
-    {
-        "op": "replace",
         "path": "/tagCriteria/default/default",
         "value": [
-            "我住处的一些东西被动过了，我不喜欢这样！"
+            "우리 집 뭔가 바뀌었어. 마음에 안 들어!"
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/human/default",
         "value": [
-            "东西被动过了… 要不是你在这儿捣过乱，要不就是我这儿闹了鬼。",
-            "我家屋子的布局变了，这可不好…",
-            "这里有什么东西变动了么？这感觉不妙…"
+            "뭔가 바뀌었어... 네가 망쳐놨거나, 내가 귀신이 들렸거나.",
+            "우리 집 가구 배치가 바뀌었는데, 이게 아닌데...",
+            "여기서 뭐 움직였나? 기묘한데..."
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/floran/default",
         "value": [
-            "别别别再来拿走我的漂亮家家家具了。",
-            "把叶族人的家变回原原原来的样子。",
-            "叶族人的屋子曾经是很棒的。还我棒棒的家！"
+            "내 쇼품 가져가지 마라.",
+            "플로란 집 예전처럼 해놔라.",
+            "플로란 집 예전같지 않다. 다시 제대로 해놔라!"
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/glitch/default",
         "value": [
-            "疑惑。我的家变得不一样了。",
-            "失望。我不喜欢这些改变，把东西放回原位吧。",
-            "期望。我希望我屋子还是原来那副样子。"
+            "혼란. 내 집이 좀 다르오.",
+            "불만. 이 변화 마음에 안 드오. 다시 있던 대로 해놓으시구려.",
+            "애석. 우리 집이 예전같았으면 하오."
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/avian/default",
         "value": [
-            "呃，这可不是我家之前的模样…",
-            "我不喜欢这样，你能把东西都放回原位么？",
-            "请把我的东西放回原本的位置。"
+            "어, 우리 집은 이렇지 않았는데요...",
+            "이거 마음에 안 들어요. 원래대로 해주면 안 돼요?",
+            "제발 원래 자리로 돌려놔줘요."
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/apex/default",
         "value": [
-            "这些变化令人不安，请把我的东西放回去吧。",
-            "不准把东西拿走…你现在需要把我家给修好。",
-            "我需要你把那些拿走的东西、从哪里拿的就放回哪里去，谢谢。"
+            "이 변천사 매우 불안하다. 원래대로 해놔라.",
+            "물건 가져가지 마라... 네가 집 다시 고쳐놔라.",
+            "가져간 물건 원래 자리에 놔라 제발."
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/hylotl/default",
         "value": [
-            "我家里有股不平稳的暗流…",
-            "请归还那些你拿走的东西。",
-            "我家现在的样子有些令人不安…"
+            "제 집의 흐름이 균형잡혀있지 않습니다...",
+            "가져간 것 돌려주십시오.",
+            "현 배치설계에서 동요가 발생하고 있습니다."
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/novakid/default",
         "value": [
-            "这里发生了不好的事…",
-            "这个老地方现在感觉很不对劲。你在这里捣乱过了。",
-            "偷别人的东西可不对。现在，把你拿走的那些东西都还回来吧。"
+            "여기 난장판인데...",
+            "여기 옛날같지가 않아. 네가 깽판 쳤지.",
+            "훔치는 거 나쁜 거야. 자, 가져간 거 돌려놔."
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/default/default",
         "value": [
-            "我家里需要修理一番!"
+            "집을 좀 고쳐야겠어!"
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/human/default",
         "value": [
-            "我家里需要修理一番…",
-            "你能清理掉这边的损伤吗？",
-            "我这儿需要尽快修复！"
+            "집을 좀 고쳐야겠는데...",
+            "여기 피해좀 메꿔줄 수 있어?",
+            "수리좀 해야겠어!"
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/floran/default",
         "value": [
-            "请把叶族人的墙墙墙壁给修好吧。",
-            "叶族人的屋子坏掉了。你能修好它吗？",
-            "叶族人喜喜喜欢没有洞洞的墙。你能修好叶族人的屋子么？"
+            "플로란 벽 슈리해줘라.",
+            "플로란 집 박샬났다. 고칠 슈 있냐?",
+            "플로란 구멍 안 난 집 좋다. 고쳐줄 슈 있냐?"
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/glitch/default",
         "value": [
-            "沮丧。我那可怜的屋子-墙都坏掉了。你能把这里都修好么？",
-            "关注。这儿需要维修。",
-            "乐观。你能修好我的屋子么？我很确定它还能挽救一下。"
+            "낙심. 가엾은 우리 집... 벽이 박살났소. 고쳐주실 수 있겠나?",
+            "걱정. 수리가 필요하오.",
+            "희망. 우리 집 고쳐주실 수 있으시오? 아직 고칠 수 있을것 같소."
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/avian/default",
         "value": [
-            "你介意帮我修一下我的墙壁么？",
-            "如果你能修好我家里的破损之处我会非常感激的。",
-            "嗯，这破口可不大妙。你能修好它么？"
+            "우리 집 벽좀 고쳐주시겠어요?",
+            "부서진 곳좀 고쳐주시면 좋겠어요.",
+            "흐으, 이거 부서지면 안 되는데. 고쳐주시겠어요?"
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/apex/default",
         "value": [
-            "我的屋子里有一个破洞…",
-            "我需要你在屋顶坍陷到我们头上之前把我的墙都修补完毕。",
-            "请把这些墙都修好，不然这种残破的屋子对我可没啥用处…"
+            "집에 구멍이 있다...",
+            "지붕이 내려앉기 전에 벽을 고쳐야 한다.",
+            "벽좀 고쳐줘라. 이래서야 나한테 좋을 리 없다."
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/hylotl/default",
         "value": [
-            "我家都变成露天的了，如果你能修补好这些破损的话我会很感激的。",
-            "如果你能修补好我的墙壁的话，我会超级超级感激的。",
-            "我发现这堵墙坏了，也许你能帮忙修好它？"
+            "저희 집이 지금 바깥에 노출되어있습니다. 이 피해를 수습해주신다면 감사하겠습니다.",
+            "제 벽을 수습해주신다면 진정으로 감사하겠습니다.",
+            "여기 벽에 흠이 있습니다. 좀 도와주시지 않으시겠습니까?"
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/novakid/default",
         "value": [
-            "我应该不是唯一一个感到这里透风了的人，对吧？",
-            "这地方的洞孔比一名经历了一场激烈枪战的警官身负的弹孔还要多。",
-            "看起来就像是你在这里放跑了一只疯狂的绒山羊！你打算要修好这些墙壁吗？"
+            "여기 바람 부는 것 같아. 나만 그래?",
+            "여기 총싸움 나간 보안관보다 구멍 많아.",
+            "미친 카프리콧 풀어놨냐! 벽 고칠 수 있지?"
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/default/default",
         "value": [
-            "我想这是我的地盘！"
+            "여기 내 집인 줄 알았는데!"
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/human/default",
         "value": [
-            "我还以为这是单人租凭！？我可无法与人分享我的家！",
-            "你是在试图让另一个人住到这里来？！",
-            "为什么你会放另一个契约在这？！"
+            "여기 개인 공간 아니었어!? 우리 집을 나눠쓸 순 없다고!",
+            "누구 이사시키려고?!",
+            "왜 여기에 다른 사람 증서를 붙여놔?!"
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/floran/default",
         "value": [
-            "叶族人需要这里的完整空间，而不是和某些不熟悉的陌陌陌生人同居。",
-            "如果你想让别别别人搬进来，叶族人将会吃掉他们。",
-            "叶族人拒绝同居！将第二二二个契约撤下。"
+            "플로란 여기 다 쓸 거다. 알지도 못 하는 낯션 샤람이랑 안 쓴다.",
+            "누가 여기 이샤하면 플로란이 먹어치울 거다.",
+            "플로란 집 안 나눈다! 다른 증셔 치워라."
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/glitch/default",
         "value": [
-            "震惊。你在试图让一个陌生人住到我家里来？",
-            "疑惑。这可是我的家，我无法与别人共享它…",
-            "伤心。我本以为这里是只属于我一个人的家，然而你却想要我和别人共享它。"
+            "충격. 모르는 이를 내 집에 들이겠단 말이오?",
+            "혼란. 여긴 내 집이오. 나눠쓸 수 없소...",
+            "슬픔. 난 여기가 나만을 위한 집인 줄 알았소, 허나 그대는 나눠쓰길 바라는구려."
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/avian/default",
         "value": [
-            "为什么会有另一个人试图住进到我的屋子？",
-            "你把我的屋子又租出去了？这绝对是个错误…",
-            "我的屋子里又有了另一个契约—当然这一定不是故意的。"
+            "왜 다른 사람을 제 집에 들이겠다는 거죠?",
+            "제 집을 세놓으셨다고요? 뭔가 착오가 있었을 거에요...",
+            "제 집에 다른 증서가 붙어있잖아요. 고의는 아니시겠죠."
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/apex/default",
         "value": [
-            "为什么这里还有另一个契约？你又在搞什么鬼？",
-            "这是我的家。我是从你这儿租的屋子。你不能把别人搬进来。",
-            "这样可无法令人接受。我是不会和他人共享我的家的。"
+            "왜 여기 다른 증서가 붙어있나? 뭘 꾸미는 건가?",
+            "여긴 내 집이다. 그대에게서 빌렸단 말이다. 다른 사람을 들일 수 없다.",
+            "이러면 안 된다. 난 집 같이 안 쓴다."
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/hylotl/default",
         "value": [
-            "我不想和一个陌生人分享我的家。",
-            "袖手旁观亦或是不再忍耐，对于你在我家里偷偷藏了第二个契约这件事我可无法做到无动于衷。",
-            "我家里还有另一个契约？这绝对是个失误吧？"
+            "모르는 사람과 집을 같이 쓰고 싶지는 않습니다.",
+            "다른 세입자를 제 집에 들이는 건 소극적이든 대범하게든 용납할 수 없습니다.",
+            "제 집에 다른 증서가 붙어있잖습니까? 실수하셨을 거라 생각합니다."
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/novakid/default",
         "value": [
-            "这里可是我的地盘，别无谓地想要将别的什么人搬进来。",
-            "这个地方可不是拿来分享的。你最好把第二个契约撤下来",
-            "见鬼，这可是我的屋子，我不会和任何人分享它的。"
+            "여긴 내 땅이야. 다른 사람이 빌붙는다니 말도 안 돼.",
+            "이 집 나눠쓰는 거 아냐. 당장 증서 떼.",
+            "여긴 우리집이라고 젠장맞을, 절대 같이 안 써."
         ]
     },
     {
         "op": "replace",
         "path": "/severe/default/default",
         "value": [
-            "这种环境我可住不下去！"
+            "이 상태로는 도저히 못 살겠어!"
         ]
     },
     {
         "op": "replace",
         "path": "/severe/human/default",
         "value": [
-            "这种环境我可住不下去！",
-            "现在住在这里简直是一种煎熬…",
-            "完全无法住在这种地方！"
+            "이 상태로는 도저히 못 살겠어!",
+            "여기서 살기엔 영 끔찍하다...",
+            "어떻게 이 지경으로 지내란 거야!"
         ]
     },
     {
         "op": "replace",
         "path": "/severe/floran/default",
         "value": [
-            "叶族人没办法住在这这这种地方！",
-            "叶族人很气愤，修好叶族人的屋子。",
-            "你依依依然没有修好叶族人屋子里的东西！"
+            "플로란 이렇게는 못 샨다!",
+            "플로란 화났다. 플로란 집 고쳐라.",
+            "너 계쇽 플로란 집 안 고친다!"
         ]
     },
     {
         "op": "replace",
         "path": "/severe/glitch/default",
         "value": [
-            "恼人。我需要你把我家给修好。",
-            "失望。我希望有人把我的请求听进去了。",
-            "不快。我家的修复工作还没完成。"
+            "짜증. 우리 집좀 고쳐주셨으면 하네.",
+            "불만. 내 부탁을 들었긴 하길 바라오.",
+            "불행. 집 수리가 아직도 안 됐소."
         ]
     },
     {
         "op": "replace",
         "path": "/severe/avian/default",
         "value": [
-            "这太过分了，我需要你把这里都修好！",
-            "我再也忍受不了了—看看我家的状况吧。",
-            "我的耐心都快被消磨干净了。修好我的家。"
+            "이거 너무 하잖아요. 집좀 고쳐주세요!",
+            "이렇게는 오래 못 살아요. 제 집 꼴좀 보시라구요.",
+            "제 인내심이 바닥나기 시작했어요. 집좀 고쳐주세요."
         ]
     },
     {
         "op": "replace",
         "path": "/severe/apex/default",
         "value": [
-            "看看这个地方！修好我的家，不然我走了。",
-            "我无法再忍受你的冷漠了…",
-            "无视一位愤怒的猿人是愚蠢的。我建议你把我家修好。"
+            "여기좀 봐라! 내 집 안 고치면 나갈 거다.",
+            "그대와의 차이를 받아들일 수가 없다...",
+            "화난 에이펙스를 무시하는 건 어리석은 일이다. 내 집 당장 고쳐내라."
         ]
     },
     {
         "op": "replace",
         "path": "/severe/hylotl/default",
         "value": [
-            "对我的诉求置之不理，对我的恳求充耳不闻…真是羞耻。",
-            "这里的环境真是糟糕，而你的行为应当受到谴责。",
-            "这纯粹是可耻的，我要求你修好我的屋子。"
+            "제 요청에 대한 답변이 아직 안 들어왔습니다. 귀머거리에게 간청하다니... 부끄럽습니다.",
+            "이 상황은 통탄할 상황이며, 그대의 행위는 괘씸한 행위입니다.",
+            "이건 그저 수치일 뿐입니다. 집을 고치십시오."
         ]
     },
     {
         "op": "replace",
         "path": "/severe/novakid/default",
         "value": [
-            "我看你也许想在我决定离开前将这个陋屋给修好。",
-            "不觉得这里蛮让人失望的么…你打算修好它，还是怎滴？",
-            "这个陋屋不再是原来的样子了。你最好把它修复还原。"
+            "너 꼭 내가 나갔으면 하는 눈치다.",
+            "이 뭐 놀랍도록 실망스러운 집이네... 고칠 거야 말 거야?",
+            "여기 예전같지 않다. 제대로 해놔."
         ]
     },
     {
         "op": "replace",
         "path": "/final/default/default",
         "value": [
-            "我受够了！"
+            "할 만큼 했어!"
         ]
     },
     {
         "op": "replace",
         "path": "/final/human/default",
         "value": [
-            "我受够了！",
-            "就这样吧，我放弃了。是时候离开了！",
-            "我放弃了，我会去别的地方！"
+            "할 만큼 했어!",
+            "됐어, 나 안 해. 갈 거야!",
+            "나 안 해! 나간다!"
         ]
     },
     {
         "op": "replace",
         "path": "/final/floran/default",
         "value": [
-            "就这样样样了，叶族人要离开了！",
-            "叶族人放放放弃了！叶族人无法住在这种地方！",
-            "叶族人要要要走了，不能在这多住一秒！"
+            "됐다. 플로란 갈 거다!",
+            "플로란 여기서 안 샨다! 이렇게는 못 샨다!",
+            "플로란 간다. 여기셔 더는 못 샬겠다!"
         ]
     },
     {
         "op": "replace",
         "path": "/final/glitch/default",
         "value": [
-            "不堪重负。这种事我完全无法理解。我要走了。",
-            "愤怒。我理应得到一个比这更好的家。",
-            "失望。我并不想事情发展成这样，但我真的是无法再在这儿待下去了。"
+            "격분. 견딜 수 없소. 난 떠나겠소. ",
+            "분노. 난 이보다 좋은 집에서 살 권리가 있소.",
+            "격화. 이러자고 여기 온 게 아니나, 여기서는 더는 못 살겠소."
         ]
     },
     {
         "op": "replace",
         "path": "/final/avian/default",
         "value": [
-            "真的是够了。我应当得到一个合适的家。",
-            "就这样了。我要离开了。我无法再在这儿住下去了。",
-            "我试图对他人都保持尊重，然而令人羞耻的是你并没有做出相同的努力。"
+            "그만하면 됐어요. 제대로 된 집에서 살고 싶다고요.",
+            "그만. 전 떠나겠어요. 여기선 더는 못 살겠어요.",
+            "다른 이들을 존중하려고 해봤는데, 당신은 저처럼 해보시도 않으시네요."
         ]
     },
     {
         "op": "replace",
         "path": "/final/apex/default",
         "value": [
-            "我搬到这里本是为了一个更好的生活…真是令人失望。",
-            "我理应获得比这更好的居住环境！",
-            "就这样吧。我必须离开了。你真是个烂到家的房东。"
+            "난 더 나은 삶을 찾아 나선다. 실망이다.",
+            "난 이보다 더 나은 곳에서 살 거다!",
+            "됐다. 난 떠날 거다. 넌 끔찍한 지주다."
         ]
     },
     {
         "op": "replace",
         "path": "/final/hylotl/default",
         "value": [
-            "我无法继续守候在这里了。我要走了。",
-            "我已经丧失了对你所有的敬重之情。我希望将来有一天你能意识到你做法上的错误。",
-            "周遭的环境都已经危害到了我的生存。我必须离开了。"
+            "더는 용납하지 않습니다. 전 떠날 겁니다.",
+            "그대에 대한 신뢰가 바닥났습니다. 언젠가 그대의 방식에 오류가 있었다는 걸 깨닫길 바랍니다.",
+            "이 주변환경이 저에게 있어 매우 해롭습니다. 떠날 수밖에 없겠습니다."
         ]
     },
     {
         "op": "replace",
         "path": "/final/novakid/default",
         "value": [
-            "我就算住到克路透的巢穴里都比继续待在这儿要好一些。",
-            "我宁愿睡在仙人掌上也不愿意再在这里多待一晚。",
-            "天哪！这地方简直一团糟！是时候逃离这里了。"
+            "여기 말고 크러터 둥지에서 사는 게 훨 낫겠다.",
+            "여기서 하루 더 지내느니 선인장 위에서 자련다.",
+            "범죄야! 여긴 아주 개판이야! 난 째야겠어."
         ]
     }
 ]

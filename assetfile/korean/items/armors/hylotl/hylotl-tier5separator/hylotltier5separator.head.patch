@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "대양 투구"
+        "path": "/description",
+        "value": "이 바이올리움 투구는 해구 탐서용으로 만들어졌다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 바이올리움 투구는 해구 탐서용으로 만들어졌다."
+        "path": "/shortdescription",
+        "value": "대양 투구"
     }
 ]

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 작은 둥지인 것으로 보이네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "섕물 집!"
+        "path": "/description",
+        "value": "작은 둥지인 것으로 보인다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 둥지인 것으로 보인다."
+        "path": "/floranDescription",
+        "value": "섕물 집!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 작은 둥지인 것으로 보이네."
     }
 ]

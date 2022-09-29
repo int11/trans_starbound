@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "두꺼운 녹 덮인 낡은 금속이군."
+        "path": "/description",
+        "value": "녹이 박힌 오래된 금속"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "녹슨 금속"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹슨 금속"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "녹이 박힌 오래된 금속"
+        "path": "/novakidDescription",
+        "value": "두꺼운 녹 덮인 낡은 금속이군."
     }
 ]

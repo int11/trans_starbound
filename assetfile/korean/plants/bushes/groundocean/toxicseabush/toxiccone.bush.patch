@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명, 유독한 해초."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "따가운 해초."
+        "path": "/description",
+        "value": "독성 뿔초다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독성 뿔초다."
+        "path": "/floranDescription",
+        "value": "따가운 해초."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명, 유독한 해초."
     }
 ]

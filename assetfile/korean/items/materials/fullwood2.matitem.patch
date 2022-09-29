@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가공되지 않은 목재"
+        "path": "/description",
+        "value": "거칠고 가공되지 않았으며, 막 잘린 것처럼 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거칠고 가공되지 않았으며, 막 잘린 것처럼 보인다."
+        "path": "/shortdescription",
+        "value": "가공되지 않은 목재"
     },
     {
         "op": "replace",

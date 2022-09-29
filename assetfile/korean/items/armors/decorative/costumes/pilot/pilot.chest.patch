@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조종사의 재킷"
+        "path": "/description",
+        "value": "겨드랑이 부분이 상당히 마모됬다, 퍼덕거릴 일이 있었나?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "겨드랑이 부분이 상당히 마모됬다, 퍼덕거릴 일이 있었나?"
+        "path": "/shortdescription",
+        "value": "조종사의 재킷"
     }
 ]

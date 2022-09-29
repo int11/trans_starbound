@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 때리면 꽤나 큰 소리가 나겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이런 소리는 물 밖으로 울려나간 적이 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "사제들이 이 징을 쳐서 기도의 시작과 끝을 알린다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이런 거 꼭 한 번 쳐보고 싶었어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "소리 하나 거창한데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "환상. 아비안 수정과 같은 주파수로 진동하고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "아비안 쇼리판 플로란 징 쇼리같다."
+        "path": "/description",
+        "value": "커다랗고 멋진 징이다. 조각들로 뒤덮여있다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다랗고 멋진 징이다. 조각들로 뒤덮여있다."
+        "path": "/apexDescription",
+        "value": "소리 하나 거창한데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "사제들이 이 징을 쳐서 기도의 시작과 끝을 알린다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "아비안 쇼리판 플로란 징 쇼리같다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "환상. 아비안 수정과 같은 주파수로 진동하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이런 거 꼭 한 번 쳐보고 싶었어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이런 소리는 물 밖으로 울려나간 적이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 때리면 꽤나 큰 소리가 나겠다."
     }
 ]

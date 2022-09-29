@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 표지판 나한텐 안 먹힌다. 달라진 걸 못 느끼겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "명상은 이런 습관을 떨쳐낼 수 있다고 한다. 생각이 존재하지 않으면 재교육할 수도 없는 법이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "생각이란 신성한 것이거늘, 어찌 감히!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 표지판 엄청 무섭다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "생각 재교육이라... 이거 때문에 악몽도 꿨었지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "동정. 생각 재교육은 글리치 사이에선 흔한 일이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이 표지판 싫다."
+        "path": "/description",
+        "value": "행복한 생각만 하세요!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "행복한 생각만 하세요!"
+        "path": "/apexDescription",
+        "value": "생각 재교육이라... 이거 때문에 악몽도 꿨었지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "생각이란 신성한 것이거늘, 어찌 감히!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 표지판 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "동정. 생각 재교육은 글리치 사이에선 흔한 일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 표지판 엄청 무섭다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "명상은 이런 습관을 떨쳐낼 수 있다고 한다. 생각이 존재하지 않으면 재교육할 수도 없는 법이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 표지판 나한텐 안 먹힌다. 달라진 걸 못 느끼겠다."
     }
 ]

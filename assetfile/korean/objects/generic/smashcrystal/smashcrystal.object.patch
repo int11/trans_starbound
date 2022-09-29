@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이미 수정을 부수고 있지만 더욱 격렬하게 수정을 부수고 싶다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥분. 이 수정을 부수면 꽤나 큰 재물을 얻을 수 있겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝이 박샬낸다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "파란 수정이다. 예쁜데. 안 부수지 못 해서 미안해!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 수정을 부수면 꽤 통쾌할 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "수정이야? 나도 부숴야지!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "나는 부순다 수정!"
+        "path": "/description",
+        "value": "부서지는 수정이다. 신나게 박살내보자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부서지는 수정이다. 신나게 박살내보자."
+        "path": "/apexDescription",
+        "value": "나는 부순다 수정!"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 수정을 부수면 꽤 통쾌할 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝이 박샬낸다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥분. 이 수정을 부수면 꽤나 큰 재물을 얻을 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "수정이야? 나도 부숴야지!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "파란 수정이다. 예쁜데. 안 부수지 못 해서 미안해!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이미 수정을 부수고 있지만 더욱 격렬하게 수정을 부수고 싶다."
     }
 ]

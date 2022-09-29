@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "많은 물품을 안전하게 보관해주는 장치다. 지금은 망가졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사물함. 고치기 전엔 별 쓸모 없겠네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "우아한 저장고 해결책. 지금은 동력이 들어오지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "저장고 사물함. 작동하는 것 같지 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "함선의 저장고 시스템이다. 지금은 작동하지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "난처. 함선의 저장고 시스템이 오작동중이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "저장쇼. 작동 안 한다."
+        "path": "/description",
+        "value": "사물함이다. 물건을 보관해야지, 왜 안하겠어?"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사물함이다. 물건을 보관해야지, 왜 안하겠어?"
+        "path": "/apexDescription",
+        "value": "함선의 저장고 시스템이다. 지금은 작동하지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "많은 물품을 안전하게 보관해주는 장치다. 지금은 망가졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "저장쇼. 작동 안 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "난처. 함선의 저장고 시스템이 오작동중이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저장고 사물함. 작동하는 것 같지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "우아한 저장고 해결책. 지금은 동력이 들어오지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사물함. 고치기 전엔 별 쓸모 없겠네."
     }
 ]

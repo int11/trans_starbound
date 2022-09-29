@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "점프 슈츠 재킷"
+        "path": "/description",
+        "value": "낙하산을 까먹지는 않았겠...지?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "낙하산을 까먹지는 않았겠...지?"
+        "path": "/shortdescription",
+        "value": "점프 슈츠 재킷"
     }
 ]

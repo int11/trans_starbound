@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "요 낡은 건 이젠 쓸모도 없구만."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 입력 패널은 수리도 안 되겠습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "입력 패널이다. 지금은 맛이 갔네요."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "박살나고 더러운 입력 패널이다. 작동은 할런지 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 입력 패널은 작동하지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "곤혹. 이 입력 패널은 아주 가버렸다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 패널 완전 박샬났다."
+        "path": "/description",
+        "value": "오래된 입력 패널이다. 아마도 경보용으로 쓰였을 것이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오래된 입력 패널이다. 아마도 경보용으로 쓰였을 것이다."
+        "path": "/apexDescription",
+        "value": "이 입력 패널은 작동하지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "입력 패널이다. 지금은 맛이 갔네요."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 패널 완전 박샬났다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "곤혹. 이 입력 패널은 아주 가버렸다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "박살나고 더러운 입력 패널이다. 작동은 할런지 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 입력 패널은 수리도 안 되겠습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "요 낡은 건 이젠 쓸모도 없구만."
     }
 ]

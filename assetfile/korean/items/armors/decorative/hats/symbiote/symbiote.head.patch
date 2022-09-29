@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "심바이오트"
+        "path": "/description",
+        "value": "자의식 제거기."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자의식 제거기."
+        "path": "/shortdescription",
+        "value": "심바이오트"
     }
 ]

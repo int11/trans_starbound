@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "비단 (Silk)"
+        "path": "/description",
+        "value": "부드럽고 윤기가 나는 네모난 비단이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부드럽고 윤기가 나는 네모난 비단이다."
+        "path": "/shortdescription",
+        "value": "비단 (Silk)"
     }
 ]

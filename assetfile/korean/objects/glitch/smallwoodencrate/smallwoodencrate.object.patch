@@ -1,37 +1,7 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "걍 작은 나무 상자."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀람. 나무 상자."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "나무 상자 작아."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "나무로 만든 상자."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "목재 저장 박스."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "그냥 상자네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
+        "path": "/description",
         "value": "나무 상자."
     },
     {
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/apexDescription",
         "value": "나무 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "목재 저장 박스."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "나무 상자 작아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 나무 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "그냥 상자네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "나무로 만든 상자."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "걍 작은 나무 상자."
     }
 ]

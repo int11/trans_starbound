@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "캐프리코트 모형"
+        "path": "/description",
+        "value": "\"외피는, 추훈 기후에서도 체온을 따뜻하게 해준다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"외피는, 추훈 기후에서도 체온을 따뜻하게 해준다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "캐프리코트 모형"
     }
 ]

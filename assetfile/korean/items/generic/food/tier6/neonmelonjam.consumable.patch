@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "네온멜론 잼"
+        "path": "/description",
+        "value": "네온멜론으로 만든 톡 쏘는 잼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "네온멜론으로 만든 톡 쏘는 잼이다."
+        "path": "/shortdescription",
+        "value": "네온멜론 잼"
     }
 ]

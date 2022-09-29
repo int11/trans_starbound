@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날카로운 등"
+        "path": "/description",
+        "value": "등 인가 군도인가? 아마 둘 다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "등 인가 군도인가? 아마 둘 다."
+        "path": "/shortdescription",
+        "value": "날카로운 등"
     },
     {
         "op": "replace",

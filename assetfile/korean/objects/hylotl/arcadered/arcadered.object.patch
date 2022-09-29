@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "근사한 마법사 섬은 젊은 하이로틀로서 내가 가장 좋아하는 게임 중 하나다. 섬의 장식이 마음에 든다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "근사한 마법사 섬에는 근사한 마법사들이 거주하는 섬을 다스리겠다는 내 꿈을 실제로 이룰 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "근사한 마법사 섬에서는 난 근사한 마법사로 가득찬 섬의 마법사 시장이다. 지구에서 되게 유명한 게임이었는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "근사한 마법사 섬이다. 근사한 마법사들이 거주하는 섬을 다스리는 게임이란 말이지. 재밌네..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "근사한 마법샤 셤의 마법샤들 숀으로 불 붙인다! 플로란 이런 거 어떻게 배우냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "근사한 마법사 섬에서 마법사 시장이 되는 건 완전 시간여행 수준이라니까. 난 그런 책임을 받아들이고 싶어서 안달이 났다고."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "즐거움. 조심하지 않으면 하루 종일 근사한 마법사 섬만 하다 시간 다 보내겠다. 10점 만점에 9점."
+        "path": "/description",
+        "value": "이 기계는 '근사한 마법사 섬'이라는 게임을 가동한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 기계는 '근사한 마법사 섬'이라는 게임을 가동한다."
+        "path": "/apexDescription",
+        "value": "근사한 마법사 섬이다. 근사한 마법사들이 거주하는 섬을 다스리는 게임이란 말이지. 재밌네..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "근사한 마법사 섬에는 근사한 마법사들이 거주하는 섬을 다스리겠다는 내 꿈을 실제로 이룰 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "근사한 마법샤 셤의 마법샤들 숀으로 불 붙인다! 플로란 이런 거 어떻게 배우냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 조심하지 않으면 하루 종일 근사한 마법사 섬만 하다 시간 다 보내겠다. 10점 만점에 9점."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "근사한 마법사 섬에서는 난 근사한 마법사로 가득찬 섬의 마법사 시장이다. 지구에서 되게 유명한 게임이었는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "근사한 마법사 섬은 젊은 하이로틀로서 내가 가장 좋아하는 게임 중 하나다. 섬의 장식이 마음에 든다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "근사한 마법사 섬에서 마법사 시장이 되는 건 완전 시간여행 수준이라니까. 난 그런 책임을 받아들이고 싶어서 안달이 났다고."
     }
 ]

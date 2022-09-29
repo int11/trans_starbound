@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "설명. 선인장"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "서언인장"
+        "path": "/description",
+        "value": "선인장"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "선인장"
+        "path": "/floranDescription",
+        "value": "서언인장"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 선인장"
     }
 ]

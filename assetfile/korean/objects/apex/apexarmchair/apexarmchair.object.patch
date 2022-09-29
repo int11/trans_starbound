@@ -1,6 +1,21 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "이 덮개는 바나나들이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표준 규격 안락 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "에이펙스의 유행은 이 의자가 만들어졌을 때부터 진화하고 있지. 슬프게도, 자유는 그렇지 않았고."
+    },
+    {
+        "op": "replace",
         "path": "/avianDescription",
         "value": "꽤 편해보이는 자리다. 이게 에이펙스 둥지인가?"
     },
@@ -11,18 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "별로 예쁘장하진 않지만, 편하다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "에이펙스의 유행은 이 의자가 만들어졌을 때부터 진화하고 있지. 슬프게도, 자유는 그렇지 않았고."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "어떤 영향을 이렇게 해야하지.. 안 좋은 방법은 마음 속에 있다?"
+        "path": "/glitchDescription",
+        "value": "블쾌. 이 의자는 내 시야에 거슬린다."
     },
     {
         "op": "replace",
@@ -31,17 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "블쾌. 이 의자는 내 시야에 거슬린다."
+        "path": "/hylotlDescription",
+        "value": "어떤 영향을 이렇게 해야하지.. 안 좋은 방법은 마음 속에 있다?"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "표준 규격 안락 의자."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "이 덮개는 바나나들이다."
+        "path": "/novakidDescription",
+        "value": "별로 예쁘장하진 않지만, 편하다."
     }
 ]

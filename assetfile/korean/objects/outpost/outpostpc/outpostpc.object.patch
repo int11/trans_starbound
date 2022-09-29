@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "테스크탑 PC"
+        "path": "/description",
+        "value": "꽤나 좋은듯한 컴퓨터인거 같다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "꽤나 좋은듯한 컴퓨터인거 같다."
+        "path": "/shortdescription",
+        "value": "테스크탑 PC"
     },
     {
         "op": "replace",

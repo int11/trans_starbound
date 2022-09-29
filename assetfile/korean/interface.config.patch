@@ -1,23 +1,58 @@
 [
     {
         "op": "replace",
+        "path": "/overflowMessageText",
+        "value": "^green;+<count>条^reset;"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/inventoryText",
+        "value": "인벤토리"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/craftingText",
+        "value": "기초 제작"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/codexText",
+        "value": "서적"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/beamUpText",
+        "value": "함선으로 가기"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/beamDownText",
+        "value": "행성으로 내려가기"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/deployText",
+        "value": "部署机甲"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/disabledText",
+        "value": "사용 불가"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/questsText",
+        "value": "퀘스트"
+    },
+    {
+        "op": "replace",
+        "path": "/cursorTooltip/mmUpgradeText",
+        "value": "M.M. 업그레이드"
+    },
+    {
+        "op": "replace",
         "path": "/cursorTooltip/collectionsText",
         "value": "수집품"
-    },
-    {
-        "op": "replace",
-        "path": "/modsWarningMessage",
-        "value": "모드를 설치하거나 삭제하는 것은 당신의 세이브 파일을 손상시킬 수 있습니다. 플레이하기 전에 'storage' 폴더를 백업해 두면 진행 상황을 보존할 수 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/escapeDialog/showOptions/caption",
-        "value": "옵션"
-    },
-    {
-        "op": "replace",
-        "path": "/escapeDialog/saveAndQuit/caption",
-        "value": "저장 및 종료"
     },
     {
         "op": "replace",
@@ -28,61 +63,6 @@
         "op": "replace",
         "path": "/largeCharPlate/noPlayerText",
         "value": "캐릭터 생성하기"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/beamUpText",
-        "value": "함선으로 가기"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/inventoryText",
-        "value": "인벤토리"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/codexText",
-        "value": "서적"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/disabledText",
-        "value": "사용 불가"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/beamDownText",
-        "value": "행성으로 내려가기"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/questsText",
-        "value": "퀘스트"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/craftingText",
-        "value": "기초 제작"
-    },
-    {
-        "op": "replace",
-        "path": "/escapeDialog/returnToGame/caption",
-        "value": "게임으로 돌아가기"
-    },
-    {
-        "op": "replace",
-        "path": "/overflowMessageText",
-        "value": "^green;+<count>条^reset;"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/deployText",
-        "value": "部署机甲"
-    },
-    {
-        "op": "replace",
-        "path": "/cursorTooltip/mmUpgradeText",
-        "value": "M.M. 업그레이드"
     },
     {
         "op": "replace",
@@ -101,7 +81,27 @@
     },
     {
         "op": "replace",
+        "path": "/escapeDialog/returnToGame/caption",
+        "value": "게임으로 돌아가기"
+    },
+    {
+        "op": "replace",
+        "path": "/escapeDialog/showOptions/caption",
+        "value": "옵션"
+    },
+    {
+        "op": "replace",
+        "path": "/escapeDialog/saveAndQuit/caption",
+        "value": "저장 및 종료"
+    },
+    {
+        "op": "replace",
         "path": "/escapeDialog/lblcopyright/value",
         "value": "Chucklefish Games 2016 - Made in London, UK"
+    },
+    {
+        "op": "replace",
+        "path": "/modsWarningMessage",
+        "value": "모드를 설치하거나 삭제하는 것은 당신의 세이브 파일을 손상시킬 수 있습니다. 플레이하기 전에 'storage' 폴더를 백업해 두면 진행 상황을 보존할 수 있습니다."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "벽돌에 숨겨진 문"
+        "path": "/description",
+        "value": "뭔가 벽돌과 완전히 맞지 않는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뭔가 벽돌과 완전히 맞지 않는다."
+        "path": "/shortdescription",
+        "value": "벽돌에 숨겨진 문"
     },
     {
         "op": "replace",

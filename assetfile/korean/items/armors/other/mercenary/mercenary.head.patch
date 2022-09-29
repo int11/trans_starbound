@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "용병의 투구"
+        "path": "/description",
+        "value": "신뢰할 수있는 갑옷은 용병의 가장 좋은 친구이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신뢰할 수있는 갑옷은 용병의 가장 좋은 친구이다."
+        "path": "/shortdescription",
+        "value": "용병의 투구"
     }
 ]

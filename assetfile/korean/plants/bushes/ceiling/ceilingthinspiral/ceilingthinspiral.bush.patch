@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상태. 얇은 나선 바위"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "돌아간 얇은 바위."
+        "path": "/description",
+        "value": "얇은 나선 바위."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얇은 나선 바위."
+        "path": "/floranDescription",
+        "value": "돌아간 얇은 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 얇은 나선 바위"
     }
 ]

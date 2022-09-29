@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "설탕조림 갈비"
+        "path": "/description",
+        "value": "달콤하고 끈적하다. 맛나구만!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달콤하고 끈적하다. 맛나구만!"
+        "path": "/shortdescription",
+        "value": "설탕조림 갈비"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "더러운 양변기"
+        "path": "/description",
+        "value": "누군가 거친 밤을 지낸것 같아 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "누군가 거친 밤을 지낸것 같아 보인다."
+        "path": "/shortdescription",
+        "value": "더러운 양변기"
     },
     {
         "op": "replace",

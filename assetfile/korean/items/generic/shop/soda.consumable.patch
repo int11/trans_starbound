@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "탄산음료"
+        "path": "/description",
+        "value": "상쾌한 탄산음료다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "상쾌한 탄산음료다."
+        "path": "/shortdescription",
+        "value": "탄산음료"
     }
 ]

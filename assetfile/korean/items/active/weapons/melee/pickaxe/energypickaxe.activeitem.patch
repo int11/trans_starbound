@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에너지 곡괭이"
+        "path": "/description",
+        "value": "다른 미디아에선 이런 도구를 본적이 없을것이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다른 미디아에선 이런 도구를 본적이 없을것이다."
+        "path": "/shortdescription",
+        "value": "에너지 곡괭이"
     }
 ]

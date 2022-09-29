@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "알이 든 새둥지다. 제대로 부화할 지 궁금하다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "저리 작은 둥지에 살 정도면 엄청 작은 새인가보다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "새 둥지이다. 저 안에 작은 새가 들어있을지 궁금하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정보. 새들은 이런 둥지에서 자손을 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "섀알 거의 고기다. 얌냠!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "새 둥지다. 자연스럽다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "작고 귀여운 새의 둥지이다. 정말 사랑스럽다!"
+        "path": "/description",
+        "value": "알이 들어있는 새의 둥지이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "알이 들어있는 새의 둥지이다."
+        "path": "/apexDescription",
+        "value": "알이 든 새둥지다. 제대로 부화할 지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "작고 귀여운 새의 둥지이다. 정말 사랑스럽다!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섀알 거의 고기다. 얌냠!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정보. 새들은 이런 둥지에서 자손을 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "새 둥지이다. 저 안에 작은 새가 들어있을지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "새 둥지다. 자연스럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저리 작은 둥지에 살 정도면 엄청 작은 새인가보다."
     }
 ]

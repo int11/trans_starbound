@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "물웅덩이 삿갓"
+        "path": "/description",
+        "value": "이 삿갓은 착용자의 머리를 공격과 뜨거운 햇살로 부터 지켜준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 삿갓은 착용자의 머리를 공격과 뜨거운 햇살로 부터 지켜준다."
+        "path": "/shortdescription",
+        "value": "물웅덩이 삿갓"
     }
 ]

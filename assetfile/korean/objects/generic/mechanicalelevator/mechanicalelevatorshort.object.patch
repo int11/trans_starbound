@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "짧은 기계적인 승강기"
+        "path": "/description",
+        "value": "이 승강기는 시계장치의 정교한 체제로 조작된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 승강기는 시계장치의 정교한 체제로 조작된다."
+        "path": "/shortdescription",
+        "value": "짧은 기계적인 승강기"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 금속 화물 상자"
+        "path": "/description",
+        "value": "작은 화물 상자다. 화물이 아니라는 의심은 접자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 화물 상자다. 화물이 아니라는 의심은 접자."
+        "path": "/shortdescription",
+        "value": "작은 금속 화물 상자"
     },
     {
         "op": "replace",

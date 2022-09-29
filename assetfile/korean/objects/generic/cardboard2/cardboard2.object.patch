@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "물건 짱박아두는 판지 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "판지 상자다. 가끔은 간단한 방법이 가장 좋을 수도 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "판지 상자다. 무엇이든지 넣을 수 있는 크기다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "판지 상자다. 정리하는데 유용하겠는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "판지 상자를 쌓으면 훌륭한 저장고가 된다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀라움. 이 판지 상자는 놀라울 만큼 내구력이 뛰어나, 안에 거의 모든 것을 넣을 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "슈납을 위한 판지샹자."
+        "path": "/description",
+        "value": "간단한 판지 상자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단한 판지 상자."
+        "path": "/apexDescription",
+        "value": "판지 상자를 쌓으면 훌륭한 저장고가 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "판지 상자다. 무엇이든지 넣을 수 있는 크기다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "슈납을 위한 판지샹자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀라움. 이 판지 상자는 놀라울 만큼 내구력이 뛰어나, 안에 거의 모든 것을 넣을 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "판지 상자다. 정리하는데 유용하겠는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "판지 상자다. 가끔은 간단한 방법이 가장 좋을 수도 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "물건 짱박아두는 판지 상자다."
     }
 ]

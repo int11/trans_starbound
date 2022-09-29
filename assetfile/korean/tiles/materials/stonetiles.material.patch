@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "돌을 깎아서 만들어진 뽀대넘치는 타일임"
+        "path": "/description",
+        "value": "매끄럽게 연마한 돌로 만든 타일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "돌 타일"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매끄럽게 연마한 돌로 만든 타일이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "돌 타일"
+        "path": "/novakidDescription",
+        "value": "돌을 깎아서 만들어진 뽀대넘치는 타일임"
     }
 ]

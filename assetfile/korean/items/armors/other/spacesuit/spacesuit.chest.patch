@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "우주복 상의"
+        "path": "/description",
+        "value": "오래된 형식의 우주복 상의다! 부피가 엄청나다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오래된 형식의 우주복 상의다! 부피가 엄청나다."
+        "path": "/shortdescription",
+        "value": "우주복 상의"
     }
 ]

@@ -1,12 +1,17 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
+        "path": "/description",
         "value": "XOR 스위치. 입력이 정확히 하나 켜져있을때 출력이 켜질것이다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
+        "path": "/shortdescription",
+        "value": "주조 공장 XOR 스위치"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
         "value": "XOR 스위치. 입력이 정확히 하나 켜져있을때 출력이 켜질것이다."
     },
     {
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "XOR 스위치. 입력이 정확히 하나 켜져있을때 출력이 켜질것이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
+        "path": "/floranDescription",
         "value": "XOR 스위치. 입력이 정확히 하나 켜져있을때 출력이 켜질것이다."
     },
     {
@@ -31,17 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
+        "path": "/humanDescription",
         "value": "XOR 스위치. 입력이 정확히 하나 켜져있을때 출력이 켜질것이다."
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/hylotlDescription",
         "value": "XOR 스위치. 입력이 정확히 하나 켜져있을때 출력이 켜질것이다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주조 공장 XOR 스위치"
+        "path": "/novakidDescription",
+        "value": "XOR 스위치. 입력이 정확히 하나 켜져있을때 출력이 켜질것이다."
     }
 ]

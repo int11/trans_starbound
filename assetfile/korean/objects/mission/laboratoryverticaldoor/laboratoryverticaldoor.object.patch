@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "실험실 해치"
+        "path": "/description",
+        "value": "비밀 실험실에 대해 완벽한, 매끄러운 수직 출입구."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "비밀 실험실에 대해 완벽한, 매끄러운 수직 출입구."
+        "path": "/shortdescription",
+        "value": "실험실 해치"
     },
     {
         "op": "replace",

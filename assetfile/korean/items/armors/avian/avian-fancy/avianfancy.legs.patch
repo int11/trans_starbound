@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화려한 가리개"
+        "path": "/description",
+        "value": "굉장히 화려한 가리개이다.  드라이 클린 전용."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "굉장히 화려한 가리개이다.  드라이 클린 전용."
+        "path": "/shortdescription",
+        "value": "화려한 가리개"
     }
 ]

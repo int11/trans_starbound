@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "관문기지 콘크리트"
+        "path": "/description",
+        "value": "기지들을 위해 설계된 특별 어두운 색의 콘크리트이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기지들을 위해 설계된 특별 어두운 색의 콘크리트이다."
+        "path": "/shortdescription",
+        "value": "관문기지 콘크리트"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가짜 캐스트랠 면허"
+        "path": "/description",
+        "value": "함선을 영구히 더 큰 캐스트랠급 코르벳함으로 업그레이드 하게 허용해준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "함선을 영구히 더 큰 캐스트랠급 코르벳함으로 업그레이드 하게 허용해준다."
+        "path": "/shortdescription",
+        "value": "가짜 캐스트랠 면허"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 플랫폼"
+        "path": "/description",
+        "value": "정채모를 나무 플랫폼."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "정채모를 나무 플랫폼."
+        "path": "/shortdescription",
+        "value": "나무 플랫폼"
     },
     {
         "op": "replace",

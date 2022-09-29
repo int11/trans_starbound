@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "방사선 EPP 업그레이드"
+        "path": "/description",
+        "value": "이 업그레이드는 내 EPP에 방사선 중화 기능을 추가한다. ^red;높은 방사성^reset; 행성을 갈 때 사용한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 업그레이드는 내 EPP에 방사선 중화 기능을 추가한다. ^red;높은 방사성^reset; 행성을 갈 때 사용한다."
+        "path": "/shortdescription",
+        "value": "방사선 EPP 업그레이드"
     },
     {
         "op": "add",

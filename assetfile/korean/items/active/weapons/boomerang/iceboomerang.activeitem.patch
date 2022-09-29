@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "냉동 무배랑"
+        "path": "/description",
+        "value": "얼어붙은 코어를 지니고있는 결빙의 부매랑."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼어붙은 코어를 지니고있는 결빙의 부매랑."
+        "path": "/shortdescription",
+        "value": "냉동 무배랑"
     },
     {
         "op": "replace",

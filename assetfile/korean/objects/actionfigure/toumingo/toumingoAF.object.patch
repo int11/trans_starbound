@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타우밍고 모형"
+        "path": "/description",
+        "value": "\"물고기를 사냥하기 위해, 긴 다리로 물 속에서 서있는다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"물고기를 사냥하기 위해, 긴 다리로 물 속에서 서있는다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "타우밍고 모형"
     }
 ]

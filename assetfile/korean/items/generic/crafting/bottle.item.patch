@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "빈 병"
+        "path": "/description",
+        "value": "액체를 담기에 완벽하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "액체를 담기에 완벽하다."
+        "path": "/shortdescription",
+        "value": "빈 병"
     }
 ]

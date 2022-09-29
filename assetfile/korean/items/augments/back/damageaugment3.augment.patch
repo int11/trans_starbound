@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "피해 III 확장 부품"
+        "path": "/description",
+        "value": "피해량을 많이 높여주는  EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "피해량을 많이 높여주는  EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "피해 III 확장 부품"
     },
     {
         "op": "replace",

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 건조한 풀."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "죽은 풀."
+        "path": "/description",
+        "value": "건조하고 잘 부스러지는 풀."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "건조하고 잘 부스러지는 풀."
+        "path": "/floranDescription",
+        "value": "죽은 풀."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 건조한 풀."
     }
 ]

@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "^green;잃어버린 인형"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "내 작은 애기가 그가 좋아하는 ^orange;곰 인형^white;을 잃어버렸네. 애기 없이는 상점을 개장할 수가 없네. 혹시 애기를 위해 ^green;새로운 곰 인형을 가져다 줄 수 있겠나^white;?"
     },
@@ -16,18 +21,13 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/portraits/questFailed/title",
-        "value": "버나드"
-    },
-    {
-        "op": "replace",
         "path": "/scriptConfig/portraits/questComplete/title",
         "value": "버나드"
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "^green;잃어버린 인형"
+        "path": "/scriptConfig/portraits/questFailed/title",
+        "value": "버나드"
     },
     {
         "op": "replace",

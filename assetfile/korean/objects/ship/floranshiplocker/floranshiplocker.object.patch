@@ -1,8 +1,38 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "락커. 물건들을 넣자."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "함선 락커"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "저장 시스템. 절대로 순 플로란 기술이 아냐."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "보관 락커. 플로란이 만들었다곤 절대 안 믿어."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "플로란 우주 여행할 때 쓸 많은 유용한 것들 저장한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의문. 플로란은 어떻게 이 기술을 얻었는가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 배에서 제일 좋은 기술이라는 건 플로란 오리지널이 아니란 뜻이지."
     },
     {
         "op": "replace",
@@ -13,35 +43,5 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "뭔갈 집어넣을 수 있는 락커."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "보관 락커. 플로란이 만들었다곤 절대 안 믿어."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "락커. 물건들을 넣자."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 배에서 제일 좋은 기술이라는 건 플로란 오리지널이 아니란 뜻이지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "저장 시스템. 절대로 순 플로란 기술이 아냐."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "의문. 플로란은 어떻게 이 기술을 얻었는가?"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "함선 락커"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하얗게 불태운 가죽띠 바지"
+        "path": "/description",
+        "value": "비바람에 노출된 질긴 바지."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "비바람에 노출된 질긴 바지."
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 가죽띠 바지"
     }
 ]

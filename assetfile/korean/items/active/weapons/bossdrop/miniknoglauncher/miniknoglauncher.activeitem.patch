@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "지정부 발사기"
+        "path": "/description",
+        "value": "지정부 과학자들이 설계한 소형 미사일 발사기."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "지정부 과학자들이 설계한 소형 미사일 발사기."
+        "path": "/shortdescription",
+        "value": "지정부 발사기"
     }
 ]

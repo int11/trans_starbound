@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "괜찮은 조명이야. 하지만 나만큼은 안 밝지!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "벽 전등. 실용적이지만 불쾌해."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "예쁘게 붙어있는 벽등."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 이 벽에 달린 전등은 효과적이야."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "밝은 빛!"
+        "path": "/description",
+        "value": "벽에 부착하는 전등이다."
     },
     {
         "op": "replace",
@@ -31,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "벽에 부착하는 전등이다."
+        "path": "/apexDescription",
+        "value": "실용적 벽등."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "실용적 벽등."
+        "path": "/floranDescription",
+        "value": "밝은 빛!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 벽에 달린 전등은 효과적이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "예쁘게 붙어있는 벽등."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "벽 전등. 실용적이지만 불쾌해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "괜찮은 조명이야. 하지만 나만큼은 안 밝지!"
     }
 ]

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "반감. 생살로 만들어진 꽃이라니."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "먓있는 꽃."
+        "path": "/description",
+        "value": "불쾌한 생살 꽃."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "불쾌한 생살 꽃."
+        "path": "/floranDescription",
+        "value": "먓있는 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "반감. 생살로 만들어진 꽃이라니."
     }
 ]

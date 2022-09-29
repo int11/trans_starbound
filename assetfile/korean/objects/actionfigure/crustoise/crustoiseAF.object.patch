@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "크러스트와즈 모형"
+        "path": "/description",
+        "value": "\"날카로운 가시는 우주 부츠를 관통 시킬 수 있습니다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"날카로운 가시는 우주 부츠를 관통 시킬 수 있습니다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "크러스트와즈 모형"
     }
 ]

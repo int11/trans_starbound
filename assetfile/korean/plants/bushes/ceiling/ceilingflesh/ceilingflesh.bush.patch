@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혐오. 고깃덩이가 걸려있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "샬점."
+        "path": "/description",
+        "value": "꿈틀거리는 살덩이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "꿈틀거리는 살덩이다."
+        "path": "/floranDescription",
+        "value": "샬점."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 고깃덩이가 걸려있다."
     }
 ]

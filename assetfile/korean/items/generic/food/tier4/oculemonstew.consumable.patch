@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈깔레몬 스튜"
+        "path": "/description",
+        "value": "눈깔레몬과 고기 조각을 넣어 만든 짜릿하고 걸죽한 스튜다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈깔레몬과 고기 조각을 넣어 만든 짜릿하고 걸죽한 스튜다."
+        "path": "/shortdescription",
+        "value": "눈깔레몬 스튜"
     }
 ]

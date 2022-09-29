@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주황색 자극제"
+        "path": "/description",
+        "value": "주황색 액체로 가득 찬 자극제로, 나를 분노로 가득하게 만들어 준다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "주황색 액체로 가득 찬 자극제로, 나를 분노로 가득하게 만들어 준다!"
+        "path": "/shortdescription",
+        "value": "주황색 자극제"
     }
 ]

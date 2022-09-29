@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "서술. 유리다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 유리에셔 이쁘게 보여."
+        "path": "/description",
+        "value": "내 반사광을 볼 수 있습니다... 흉측해!"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "내 반사광을 볼 수 있습니다... 흉측해!"
+        "path": "/glitchDescription",
+        "value": "서술. 유리다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 유리에셔 이쁘게 보여."
     }
 ]

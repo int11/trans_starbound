@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "물질 블럭"
+        "path": "/description",
+        "value": "물질 블럭이다. 중요한 블럭이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "물질 블럭이다. 중요한 블럭이다."
+        "path": "/shortdescription",
+        "value": "물질 블럭"
     },
     {
         "op": "replace",

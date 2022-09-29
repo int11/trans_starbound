@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "돌연변이 다리"
+        "path": "/description",
+        "value": "징그러운 돌연변이 다리다. 굳이 원한다면 입도록."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "징그러운 돌연변이 다리다. 굳이 원한다면 입도록."
+        "path": "/shortdescription",
+        "value": "돌연변이 다리"
     }
 ]

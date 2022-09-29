@@ -1,12 +1,7 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
+        "path": "/description",
         "value": "..."
     },
     {
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/glitchDescription",
+        "value": "..."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
         "value": "..."
     }
 ]

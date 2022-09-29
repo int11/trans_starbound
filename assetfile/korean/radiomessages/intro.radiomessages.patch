@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/protectorateCollapsedGalleryNoMM/text",
-        "value": "대수호자님이 떨어트린 물질 조작기를 집으세요. 생존의 필수품이 될 것입니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/protectorateRooftop/text",
-        "value": "이 사태의 피해 수치를 측정할 수 없습니다. 발생 중인 피해량이 측정 가능 수준을 초과하였습니다. 이 행성을 즉시 떠나야 합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/protectorateDuctPester/text",
-        "value": "시간이 얼마 없습니다. 이 플랫폼 밑으로 내려가려면 ^#71f2f6;S 키를 눌러 앉은 후, 스페이스 바를 누르세요^white;."
-    },
-    {
-        "op": "replace",
-        "path": "/protectorateLoungeTutorial/text",
-        "value": "당신의 제복은 개인 보관함에 보관되어 있습니다... 지각임에도 당신은 여전히 평화로우시군요. 참 잘 하고 계십니다."
-    },
-    {
-        "op": "replace",
         "path": "/protectorateExitBedPester/text",
         "value": "좋은 아침입니다! 졸업자님. 늦잠을 자셨습니다. ^#71f2f6; A 나 D 로 침대에서 일어나세요^white;."
-    },
-    {
-        "op": "replace",
-        "path": "/protectorateGetWeapon/text",
-        "value": "컨베이어 벨트 옆에 놓인 상자에 무기가 들어있을 것입니다. 무장하십시오!"
     },
     {
         "op": "replace",
@@ -36,33 +11,28 @@
     },
     {
         "op": "replace",
+        "path": "/protectorateDormRoomPester/text",
+        "value": "명심하세요. ^#71f2f6;문 위에 커서를 올린 후 E 키를 눌러 열 수 있습니다^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/protectorateLoungeTutorial/text",
+        "value": "당신의 제복은 개인 보관함에 보관되어 있습니다... 지각임에도 당신은 여전히 평화로우시군요. 참 잘 하고 계십니다."
+    },
+    {
+        "op": "replace",
         "path": "/protectorateStage5/text",
         "value": "이곳에 있는 것은 매우 위험합니다! ^#71f2f6;즉시 물질 조작기를 소지하고^white;. 착륙 패드로 가야 합니다!"
     },
     {
         "op": "replace",
-        "path": "/protectorateTentacleBarrier/text",
-        "value": "함선에 도달하려면 저 촉수를 파괴해야 됩니다. 방금 상자에서 얻은 무기를 사용하세요."
+        "path": "/protectorateCollapsedGalleryNoMM/text",
+        "value": "대수호자님이 떨어트린 물질 조작기를 집으세요. 생존의 필수품이 될 것입니다!"
     },
     {
         "op": "replace",
-        "path": "/protectorateWeaponPester/text",
-        "value": "무기를 쉽게 집으려면 ^#71f2f6;상단 단축창의 아무 곳에나 놓으세요^white;. 그 후 ^#71f2f6;무기가 놓여진 칸의 숫자 키를 눌러 장착하거나^white; 장착 해제하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/protectorateFloodedDoor/text",
-        "value": "이 문 뒤의 방을 스캔한 결과 방이 침수되어 있는 것 같습니다. 가능한 저 안으로 들어가지 않는게 좋겠습니다... 다른 길을 찾으십시오. ^#71f2f6;스페이스 바로 점프^white;하여 플랫폼 위로 올라갈 수 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/protectorateShipPlatform/text",
-        "value": "이륙 절차를 무시했습니다. 탑승하십시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/protectorateDormRoomPester/text",
-        "value": "명심하세요. ^#71f2f6;문 위에 커서를 올린 후 E 키를 눌러 열 수 있습니다^white;."
+        "path": "/protectorateCollapsedGallery/text",
+        "value": "천장이 무너져내린 것 같습니다. 물질 조작기로 이 잔해를 치울 수 있을 것입니다. ^#71f2f6;R 키를 눌러 장착하고^white;, 잔해들을 클릭하고 있으면 분해될 것입니다."
     },
     {
         "op": "replace",
@@ -71,12 +41,42 @@
     },
     {
         "op": "replace",
+        "path": "/protectorateFloodedDoor/text",
+        "value": "이 문 뒤의 방을 스캔한 결과 방이 침수되어 있는 것 같습니다. 가능한 저 안으로 들어가지 않는게 좋겠습니다... 다른 길을 찾으십시오. ^#71f2f6;스페이스 바로 점프^white;하여 플랫폼 위로 올라갈 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/protectorateRooftop/text",
+        "value": "이 사태의 피해 수치를 측정할 수 없습니다. 발생 중인 피해량이 측정 가능 수준을 초과하였습니다. 이 행성을 즉시 떠나야 합니다."
+    },
+    {
+        "op": "replace",
         "path": "/protectorateDuct/text",
         "value": "이 플랫폼 밑으로 내려가려면 ^#71f2f6;S 키를 눌러 앉은 후, 스페이스 바를 누르십시오^white;."
     },
     {
         "op": "replace",
-        "path": "/protectorateCollapsedGallery/text",
-        "value": "천장이 무너져내린 것 같습니다. 물질 조작기로 이 잔해를 치울 수 있을 것입니다. ^#71f2f6;R 키를 눌러 장착하고^white;, 잔해들을 클릭하고 있으면 분해될 것입니다."
+        "path": "/protectorateDuctPester/text",
+        "value": "시간이 얼마 없습니다. 이 플랫폼 밑으로 내려가려면 ^#71f2f6;S 키를 눌러 앉은 후, 스페이스 바를 누르세요^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/protectorateGetWeapon/text",
+        "value": "컨베이어 벨트 옆에 놓인 상자에 무기가 들어있을 것입니다. 무장하십시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/protectorateWeaponPester/text",
+        "value": "무기를 쉽게 집으려면 ^#71f2f6;상단 단축창의 아무 곳에나 놓으세요^white;. 그 후 ^#71f2f6;무기가 놓여진 칸의 숫자 키를 눌러 장착하거나^white; 장착 해제하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/protectorateTentacleBarrier/text",
+        "value": "함선에 도달하려면 저 촉수를 파괴해야 됩니다. 방금 상자에서 얻은 무기를 사용하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/protectorateShipPlatform/text",
+        "value": "이륙 절차를 무시했습니다. 탑승하십시오!"
     }
 ]

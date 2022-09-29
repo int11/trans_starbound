@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 말불버섯이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 푹신한 말불버셧이 좋아."
+        "path": "/description",
+        "value": "말불버섯."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "말불버섯."
+        "path": "/floranDescription",
+        "value": "플로란은 푹신한 말불버셧이 좋아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 말불버섯이군."
     }
 ]

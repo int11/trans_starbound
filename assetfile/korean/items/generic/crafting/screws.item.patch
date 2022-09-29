@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나사 더미"
+        "path": "/description",
+        "value": "강철 나사 한손뭉큼."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강철 나사 한손뭉큼."
+        "path": "/shortdescription",
+        "value": "나사 더미"
     }
 ]

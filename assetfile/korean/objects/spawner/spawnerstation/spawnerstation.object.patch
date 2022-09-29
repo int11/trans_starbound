@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "고용 장치로 도움을 요청하자"
-    },
-    {
-        "op": "replace",
         "path": "/interactData/paneLayoutOverride/windowtitle/title",
         "value": "고용 작업대"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "orange;고용 작업대^white; "
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "고용 장치로 도움을 요청하자"
     },
     {
         "op": "replace",
@@ -21,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "패스트 푸드?"
+        "path": "/shortdescription",
+        "value": "orange;고용 작업대^white; "
     },
     {
         "op": "replace",
@@ -33,6 +28,11 @@
         "op": "replace",
         "path": "/avianDescription",
         "value": "在阿沃斯上这种技术是有争议的。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "패스트 푸드?"
     },
     {
         "op": "replace",

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "물고기한테 무슨 일이 일어난걸까?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "에이펙스들은 3년마다 물고기를 교체하지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "누군가가 먼저 여기 있었어."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "물고기를 넣어두는 곳이지만 물고기가 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "고향 추억이 물밀려 오는군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "물고기가 보금자리를 뛰쳐나갔어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 빈 탱크일세."
+        "path": "/description",
+        "value": "비어있는 수족관이다. 얼마나 외로운지."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "비어있는 수족관이다. 얼마나 외로운지."
+        "path": "/apexDescription",
+        "value": "에이펙스들은 3년마다 물고기를 교체하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "물고기가 보금자리를 뛰쳐나갔어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "누군가가 먼저 여기 있었어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 빈 탱크일세."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "물고기한테 무슨 일이 일어난걸까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "고향 추억이 물밀려 오는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "물고기를 넣어두는 곳이지만 물고기가 없어."
     }
 ]

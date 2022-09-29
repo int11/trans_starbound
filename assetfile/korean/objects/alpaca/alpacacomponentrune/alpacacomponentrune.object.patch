@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "존경. 유기적 삶의 가장 기본되는 요소를 상징하는 룬이다."
+        "path": "/description",
+        "value": "삶의 기본 요소를 상징하는 고대의 룬이다."
     },
     {
         "op": "replace",
@@ -11,18 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "삶의 기본 요소를 상징하는 고대의 룬이다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "오래된 룬, 삶의 건축 자재를 보여주는군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 룬은 하이로틀이 별들에 퍼지기도 전의 종족에 의해 만들어진 건가?"
+        "path": "/apexDescription",
+        "value": "이것은 분명한 고대의 룬이다. 그러나 과학적 이해의 어떤 이해를 나타낸다."
     },
     {
         "op": "replace",
@@ -31,17 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "고대의 륜... 이건 생명의 입쟈들을 의미한댜."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "존경. 유기적 삶의 가장 기본되는 요소를 상징하는 룬이다."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "오래된 룬같은 상위의 상징이다. 이것은 원자처럼 보이는군."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "이것은 분명한 고대의 룬이다. 그러나 과학적 이해의 어떤 이해를 나타낸다."
+        "path": "/hylotlDescription",
+        "value": "이 룬은 하이로틀이 별들에 퍼지기도 전의 종족에 의해 만들어진 건가?"
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "고대의 륜... 이건 생명의 입쟈들을 의미한댜."
+        "path": "/novakidDescription",
+        "value": "오래된 룬, 삶의 건축 자재를 보여주는군."
     }
 ]

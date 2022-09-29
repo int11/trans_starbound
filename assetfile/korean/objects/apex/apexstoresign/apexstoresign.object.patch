@@ -1,12 +1,17 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "상점인가."
+        "path": "/description",
+        "value": "물건을 사라고 광고하는 표지판이다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
+        "path": "/shortdescription",
+        "value": "가게 표지판"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
         "value": "상점 표지판이다."
     },
     {
@@ -16,13 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "상점에서 쓰는 표지판같다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "상점 표지판이다."
+        "path": "/floranDescription",
+        "value": "샹점 간판이다."
     },
     {
         "op": "replace",
@@ -31,17 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "샹점 간판이다."
+        "path": "/humanDescription",
+        "value": "상점에서 쓰는 표지판같다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가게 표지판"
+        "path": "/hylotlDescription",
+        "value": "상점 표지판이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "물건을 사라고 광고하는 표지판이다."
+        "path": "/novakidDescription",
+        "value": "상점인가."
     }
 ]

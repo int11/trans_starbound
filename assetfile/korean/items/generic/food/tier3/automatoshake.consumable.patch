@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오토마토 쉐이크"
+        "path": "/description",
+        "value": "오토마토로 만든 밀크셰이크다. 음."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오토마토로 만든 밀크셰이크다. 음."
+        "path": "/shortdescription",
+        "value": "오토마토 쉐이크"
     }
 ]

@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "다이오디아가 가장 먹기 좋은 음식은 아니더라도 기르긴 쉽다."
+        "path": "/description",
+        "value": "다이오디아, 구리맛이 나는 부드러운 뿌리 채소."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "구리맛 나는 다이오디아는 글리치의 모든 분노 맛이다."
+        "path": "/shortdescription",
+        "value": "다이오디아 씨앗"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "다이오디아가 가장 먹기 좋은 음식은 아니더라도 기르긴 쉽다."
     },
     {
         "op": "replace",
@@ -16,23 +21,13 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "모욕. 다이오디아는 진정으로 과소평가된 작물이다."
-    },
-    {
-        "op": "replace",
         "path": "/floranDescription",
         "value": "피 맛이 난다. 플로란 대체재로 다이오디아 쓸 슈 있겠다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다이오디아, 구리맛이 나는 부드러운 뿌리 채소."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "쓴 뿌리채소다. 풍미를 더하기에 좋겠다."
+        "path": "/glitchDescription",
+        "value": "모욕. 다이오디아는 진정으로 과소평가된 작물이다."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다이오디아 씨앗"
+        "path": "/hylotlDescription",
+        "value": "쓴 뿌리채소다. 풍미를 더하기에 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "구리맛 나는 다이오디아는 글리치의 모든 분노 맛이다."
     }
 ]

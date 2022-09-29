@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파란 네온 블럭"
+        "path": "/description",
+        "value": "독특한 푸른 글리프가 중심에 새겨진 타일이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독특한 푸른 글리프가 중심에 새겨진 타일이다."
+        "path": "/shortdescription",
+        "value": "파란 네온 블럭"
     },
     {
         "op": "replace",

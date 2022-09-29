@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선인장"
+        "path": "/description",
+        "value": "가시로 뒤덮인, 수분 가득 선인장."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가시로 뒤덮인, 수분 가득 선인장."
+        "path": "/shortdescription",
+        "value": "선인장"
     }
 ]

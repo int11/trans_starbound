@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "독성 주스"
+        "path": "/description",
+        "value": "외계 과일의 독성 줄기를 갈면 뭘 얻을 수 있을거 같아? 맞아, 추측한대로야"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계 과일의 독성 줄기를 갈면 뭘 얻을 수 있을거 같아? 맞아, 추측한대로야"
+        "path": "/shortdescription",
+        "value": "독성 주스"
     }
 ]

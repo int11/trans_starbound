@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주의. 이 무늬는 발걸음에 주의해야 함을 나타낸다."
+        "path": "/description",
+        "value": "이 무늬는 주의 할 것을 명시합니다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 줄무늬는 내가 뭔가 유의해야 할것 같아."
+        "path": "/shortdescription",
+        "value": "위험 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 이 무늬는 발걸음에 주의해야 함을 나타낸다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 무늬는 주의 할 것을 명시합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "위험 블록"
+        "path": "/novakidDescription",
+        "value": "이 줄무늬는 내가 뭔가 유의해야 할것 같아."
     }
 ]

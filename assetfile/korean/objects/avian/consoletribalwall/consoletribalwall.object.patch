@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조각된 보안 판"
+        "path": "/description",
+        "value": "작은 보안 판이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 보안 판이다."
+        "path": "/shortdescription",
+        "value": "조각된 보안 판"
     },
     {
         "op": "replace",

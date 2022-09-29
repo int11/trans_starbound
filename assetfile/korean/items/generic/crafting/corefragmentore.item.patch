@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "행성 핵 파편 (Core Fragment)"
+        "path": "/description",
+        "value": "이 자연적으로 발생하는 결정체들은 에너지를 생산한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 자연적으로 발생하는 결정체들은 에너지를 생산한다."
+        "path": "/shortdescription",
+        "value": "행성 핵 파편 (Core Fragment)"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "과학자 안경"
+        "path": "/description",
+        "value": "이 안경과 함깨라면 더 똑똑해진다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 안경과 함깨라면 더 똑똑해진다."
+        "path": "/shortdescription",
+        "value": "과학자 안경"
     }
 ]

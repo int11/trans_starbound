@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "톱 햇"
+        "path": "/description",
+        "value": "신사답습니다. 이견 없으시죠?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신사답습니다. 이견 없으시죠?"
+        "path": "/shortdescription",
+        "value": "톱 햇"
     }
 ]

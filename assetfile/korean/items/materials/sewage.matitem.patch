@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "미포장 하수 오물"
+        "path": "/description",
+        "value": "지독하게 기분 나쁜 하수 오물 더미. 허허허."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "지독하게 기분 나쁜 하수 오물 더미. 허허허."
+        "path": "/shortdescription",
+        "value": "미포장 하수 오물"
     },
     {
         "op": "replace",

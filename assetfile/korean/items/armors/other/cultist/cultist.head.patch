@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "광신도 두건"
+        "path": "/description",
+        "value": "기괴한 두건, 수상한 광신도에게 딱 맞는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기괴한 두건, 수상한 광신도에게 딱 맞는다."
+        "path": "/shortdescription",
+        "value": "광신도 두건"
     }
 ]

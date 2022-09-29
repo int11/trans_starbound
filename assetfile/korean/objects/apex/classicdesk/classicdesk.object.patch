@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "써먹으라고 있는 책상이 아닌 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "가끔은 소박한 게 최선일 때도 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안은 다른 이들처럼 금을 높게 쳐주지는 않지만서도 여기 장인정신 하나는 정말 놀라울 따름이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "난 이런 탁자 앞에 앉을 만큼 중요한 인물이 못 된다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이런 책상에서 얼마나 끔찍하고 무시무시한 생각이 떠올랐을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감탄. 글리치는 금을 높게 쳐준다. 이런 책상 하나면 작은 성채 하나도 마련할 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "번쩍이는 책샹. 원슝이샤람들 뭐 결정할 때 눈 감고 하나보다."
+        "path": "/description",
+        "value": "아주 중요한 결정을 할 때만 특별히 쓰는 책상이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아주 중요한 결정을 할 때만 특별히 쓰는 책상이다."
+        "path": "/apexDescription",
+        "value": "이런 책상에서 얼마나 끔찍하고 무시무시한 생각이 떠올랐을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안은 다른 이들처럼 금을 높게 쳐주지는 않지만서도 여기 장인정신 하나는 정말 놀라울 따름이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "번쩍이는 책샹. 원슝이샤람들 뭐 결정할 때 눈 감고 하나보다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 글리치는 금을 높게 쳐준다. 이런 책상 하나면 작은 성채 하나도 마련할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "난 이런 탁자 앞에 앉을 만큼 중요한 인물이 못 된다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "가끔은 소박한 게 최선일 때도 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "써먹으라고 있는 책상이 아닌 것 같다."
     }
 ]

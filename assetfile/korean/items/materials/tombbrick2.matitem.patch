@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오랜 시간 동안 해진 벽돌이다."
+        "path": "/shortdescription",
+        "value": "새겨지지 않은 무덤 벽돌"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "새겨지지 않은 무덤 벽돌"
+        "path": "/description",
+        "value": "오랜 시간 동안 해진 벽돌이다."
     },
     {
         "op": "replace",

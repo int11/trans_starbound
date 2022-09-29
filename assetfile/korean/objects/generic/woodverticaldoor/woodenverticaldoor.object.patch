@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 해치"
+        "path": "/description",
+        "value": "조잡한 나무 해치다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조잡한 나무 해치다."
+        "path": "/shortdescription",
+        "value": "나무 해치"
     },
     {
         "op": "replace",

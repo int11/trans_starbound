@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈수프"
+        "path": "/description",
+        "value": "에그샷 반쪽에 오큘래몬을 담아 만든 플로란의 인기 있는 전채요리."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "에그샷 반쪽에 오큘래몬을 담아 만든 플로란의 인기 있는 전채요리."
+        "path": "/shortdescription",
+        "value": "눈수프"
     }
 ]

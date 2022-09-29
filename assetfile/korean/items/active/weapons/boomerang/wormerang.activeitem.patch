@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거대 지렁이 부메랑"
+        "path": "/description",
+        "value": "극도로 혐오스러운 거대 지렁이다. 다른 사람에게 던져버려!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "극도로 혐오스러운 거대 지렁이다. 다른 사람에게 던져버려!"
+        "path": "/shortdescription",
+        "value": "거대 지렁이 부메랑"
     },
     {
         "op": "replace",

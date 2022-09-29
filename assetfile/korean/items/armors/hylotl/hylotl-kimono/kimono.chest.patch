@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기모노 상의"
+        "path": "/description",
+        "value": "윤이 나는 전통 기모노 상의이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "윤이 나는 전통 기모노 상의이다."
+        "path": "/shortdescription",
+        "value": "기모노 상의"
     }
 ]

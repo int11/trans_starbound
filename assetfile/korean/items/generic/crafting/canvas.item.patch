@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "캔버스천 (Canvas)"
+        "path": "/description",
+        "value": "네모난 고품질 캔버스 천이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "네모난 고품질 캔버스 천이다."
+        "path": "/shortdescription",
+        "value": "캔버스천 (Canvas)"
     }
 ]

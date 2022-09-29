@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "총으로 쏘면 박살나겠지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아비안은 죽은 자들의 재를 우대한다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "유골함이다. 수많은 아비안들이 화장되고, 거기서 남은 재를 이런 단지에 보관한다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이거... 아비안 유골이야?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "아비안 단지다. 가루로 가득 찬 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "사색. 이 단지 안의 재는 아비안에게서 나온 것이다. 글리치는 이런 방식으로 배출될 수가 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "섀 샤람 단지 박샬낸다."
+        "path": "/description",
+        "value": "잿더미로 가득찬 새 모양 단지다. 부수고 싶다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "잿더미로 가득찬 새 모양 단지다. 부수고 싶다."
+        "path": "/apexDescription",
+        "value": "아비안 단지다. 가루로 가득 찬 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "유골함이다. 수많은 아비안들이 화장되고, 거기서 남은 재를 이런 단지에 보관한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섀 샤람 단지 박샬낸다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "사색. 이 단지 안의 재는 아비안에게서 나온 것이다. 글리치는 이런 방식으로 배출될 수가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이거... 아비안 유골이야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아비안은 죽은 자들의 재를 우대한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "총으로 쏘면 박살나겠지."
     }
 ]

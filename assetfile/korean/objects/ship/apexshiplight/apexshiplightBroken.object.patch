@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "전등에 동력이 제대로 가질 않는데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "동력이 안 들어오는 전등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "깜빡이는 전등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "전등이 깜빡거리네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "전등에 동력이 제대로 들어오질 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "걱정. 전등이 오작동중이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "박샬난 션등 플로란 어지럽힌다."
+        "path": "/description",
+        "value": "오작동하는 선등이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오작동하는 선등이다."
+        "path": "/apexDescription",
+        "value": "전등에 동력이 제대로 들어오질 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "깜빡이는 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "박샬난 션등 플로란 어지럽힌다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 전등이 오작동중이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "전등이 깜빡거리네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "동력이 안 들어오는 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "전등에 동력이 제대로 가질 않는데."
     }
 ]

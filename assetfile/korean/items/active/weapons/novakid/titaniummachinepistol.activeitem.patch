@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "티타늄 기관 권총"
+        "path": "/description",
+        "value": "커다란 권총으로 적을 날려버려라."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다란 권총으로 적을 날려버려라."
+        "path": "/shortdescription",
+        "value": "티타늄 기관 권총"
     }
 ]

@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "안뇽, 작은 반짝이 친구들!"
+        "path": "/description",
+        "value": "작은 발광 버섯들의 군집이다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "저 버섯에서 나오는 희미한 빛이 지하세계에 온 것을 환영하고있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 반짝이는 버섯들 귀여운데!"
+        "path": "/shortdescription",
+        "value": "발광 버섯"
     },
     {
         "op": "replace",
@@ -21,13 +16,13 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "이것들은 플로란이 어둠 쇽에서도 볼슈 있게 해줘."
+        "path": "/avianDescription",
+        "value": "이 반짝이는 버섯들 귀여운데!"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "발광 버섯"
+        "path": "/floranDescription",
+        "value": "이것들은 플로란이 어둠 쇽에서도 볼슈 있게 해줘."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 발광 버섯들의 군집이다."
+        "path": "/hylotlDescription",
+        "value": "저 버섯에서 나오는 희미한 빛이 지하세계에 온 것을 환영하고있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "안뇽, 작은 반짝이 친구들!"
     }
 ]

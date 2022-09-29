@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텔레포터 코어 (Teleporter Core)"
+        "path": "/description",
+        "value": "개인용 텔레포터의 희귀한 최첨단 핵심 구성 요소다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "개인용 텔레포터의 희귀한 최첨단 핵심 구성 요소다."
+        "path": "/shortdescription",
+        "value": "텔레포터 코어 (Teleporter Core)"
     }
 ]

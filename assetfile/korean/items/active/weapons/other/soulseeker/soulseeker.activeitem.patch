@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "영혼 추구자"
+        "path": "/description",
+        "value": "강력한 영혼을 매개로 비범한 어둠의 힘을 내뿜는 검이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강력한 영혼을 매개로 비범한 어둠의 힘을 내뿜는 검이다."
+        "path": "/shortdescription",
+        "value": "영혼 추구자"
     },
     {
         "op": "replace",

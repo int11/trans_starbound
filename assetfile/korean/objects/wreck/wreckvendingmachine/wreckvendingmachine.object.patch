@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "저서 나온 건 안 먹을란다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "다 상한 음식 냄새가 내부에서부터 올라온다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아무래도 이 자판기에서 간식을 뽑아 먹기란 큰 실수일 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오랜 자판기! 더 오랜 간식!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "낡은 자판기다. 이 안에 남아있는 음식은 분명 오래 전에 다 썩어문드러졌을 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "경악. 이 자판기 냄새 끔찍하군!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 자판기 쎡은 음식 냄섀 난다."
+        "path": "/description",
+        "value": "이 자판기는 비어있다. 누가 소다 맛을 좀 보고싶었던 모양이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 자판기는 비어있다. 누가 소다 맛을 좀 보고싶었던 모양이다."
+        "path": "/apexDescription",
+        "value": "낡은 자판기다. 이 안에 남아있는 음식은 분명 오래 전에 다 썩어문드러졌을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아무래도 이 자판기에서 간식을 뽑아 먹기란 큰 실수일 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 자판기 쎡은 음식 냄섀 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경악. 이 자판기 냄새 끔찍하군!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오랜 자판기! 더 오랜 간식!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "다 상한 음식 냄새가 내부에서부터 올라온다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저서 나온 건 안 먹을란다."
     }
 ]

@@ -1,16 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "방을 제대로 밝혀주는 파란 불이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "밝고 파란 불이다."
-    },
-    {
-        "op": "replace",
         "path": "/shortdescription",
         "value": "파란 클럽 전등"
     },
@@ -21,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "은은한 파란 클럽 전등이다."
+        "path": "/apexDescription",
+        "value": "안개 뿌리는 기계만 있으면 진짜 나이트클럽 분위기가 나겠다."
     },
     {
         "op": "replace",
@@ -31,17 +21,27 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "분위기를 내는 은은한 빛이다. 무슨 분위기일까? 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "안개 뿌리는 기계만 있으면 진짜 나이트클럽 분위기가 나겠다."
+        "path": "/floranDescription",
+        "value": "밝고 파란 불이다."
     },
     {
         "op": "replace",
         "path": "/glitchDescription",
         "value": "무관심. 파란 불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "분위기를 내는 은은한 빛이다. 무슨 분위기일까? 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "은은한 파란 클럽 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "방을 제대로 밝혀주는 파란 불이다."
     }
 ]

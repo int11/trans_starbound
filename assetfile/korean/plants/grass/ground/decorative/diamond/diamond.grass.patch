@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상태. 다이아몬드 꽃이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝이는 다이아몬드."
+        "path": "/description",
+        "value": "다이아몬드 꽃이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다이아몬드 꽃이다."
+        "path": "/floranDescription",
+        "value": "반짝이는 다이아몬드."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 다이아몬드 꽃이다."
     }
 ]

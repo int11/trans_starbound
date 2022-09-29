@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "시냅스"
+        "path": "/description",
+        "value": "촉수 신경 말단"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "촉수 신경 말단"
+        "path": "/shortdescription",
+        "value": "시냅스"
     }
 ]

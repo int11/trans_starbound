@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스윗 펀치"
+        "path": "/description",
+        "value": "달콤한 과일의 달콤함 만이 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달콤한 과일의 달콤함 만이 있다."
+        "path": "/shortdescription",
+        "value": "스윗 펀치"
     }
 ]

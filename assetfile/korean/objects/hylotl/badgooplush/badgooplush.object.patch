@@ -6,33 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 것의 요점이 뭔지 모르겠는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감탄. 귀엽고 깜찍한 끈적이 이로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "끈적 끈적 인형!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "꺄악! 이거 내 콜렉션에 추가 하고 싶어!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "귀엽고 작은 끈적 인형."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "멋지군,하나쯤 가지고 싶었어!"
+        "path": "/shortdescription",
+        "value": "불쾌하게 끈적한 솜인형"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "불쾌하게 끈적한 솜인형"
+        "path": "/avianDescription",
+        "value": "귀엽고 작은 끈적 인형."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "끈적 끈적 인형!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 귀엽고 깜찍한 끈적이 이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "멋지군,하나쯤 가지고 싶었어!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "꺄악! 이거 내 콜렉션에 추가 하고 싶어!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 것의 요점이 뭔지 모르겠는걸."
     }
 ]

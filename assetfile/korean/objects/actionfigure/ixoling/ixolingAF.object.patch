@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "익소링 모형"
+        "path": "/description",
+        "value": "\"만약 200년 동안 생존하면, 익소둠이 될 수 있다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"만약 200년 동안 생존하면, 익소둠이 될 수 있다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "익소링 모형"
     }
 ]

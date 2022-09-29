@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "첨단 기술 블럭"
+        "path": "/description",
+        "value": "첨단 기술같아 보이는군!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "첨단 기술같아 보이는군!"
+        "path": "/shortdescription",
+        "value": "첨단 기술 블럭"
     },
     {
         "op": "replace",

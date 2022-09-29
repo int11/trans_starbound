@@ -11,6 +11,16 @@
     },
     {
         "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "中世纪烹饪锅"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "嗯，嗯"
+    },
+    {
+        "op": "replace",
         "path": "/apexDescription",
         "value": "一个大型烹饪锅。飘出诱人的气味。"
     },
@@ -43,15 +53,5 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "一口大锅。里面在煮什么东西？"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "中世纪烹饪锅"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "嗯，嗯"
     }
 ]

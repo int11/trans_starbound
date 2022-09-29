@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보스를 소환하는듯 한데... 위키에서도 안나와서 모르겠다."
+        "path": "/description",
+        "value": "파멸 소환기"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "파멸 소환기"
+        "path": "/shortdescription",
+        "value": "보스를 소환하는듯 한데... 위키에서도 안나와서 모르겠다."
     }
 ]

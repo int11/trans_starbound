@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "익소둠 모형"
+        "path": "/description",
+        "value": "\"외골격이 손상된 경우 1초안에 다시 자라게 할 수 있는 거대한 절지 동물이다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"외골격이 손상된 경우 1초안에 다시 자라게 할 수 있는 거대한 절지 동물이다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "익소둠 모형"
     }
 ]

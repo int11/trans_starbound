@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "톱니 차크람"
+        "path": "/description",
+        "value": "성스러운 재목수도사들이 애용하는 무기다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "성스러운 재목수도사들이 애용하는 무기다."
+        "path": "/shortdescription",
+        "value": "톱니 차크람"
     },
     {
         "op": "replace",

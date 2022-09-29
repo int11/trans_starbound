@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아스라 녹스 모형"
+        "path": "/description",
+        "value": "\"오카수스 종파의 냉철한 인간 지도자, 그녀는 솔라리움 주입 카타나를 휘두른다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"오카수스 종파의 냉철한 인간 지도자, 그녀는 솔라리움 주입 카타나를 휘두른다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "아스라 녹스 모형"
     }
 ]

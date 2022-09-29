@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 벽돌로 뭉쳐진 흙."
+        "path": "/shortdescription",
+        "value": "단단한 흙"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "단단한 흙"
+        "path": "/description",
+        "value": "작은 벽돌로 뭉쳐진 흙."
     },
     {
         "op": "replace",

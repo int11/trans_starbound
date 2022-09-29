@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아베스밍고 아이스크림"
+        "path": "/description",
+        "value": "아베스밍고는 어떤 맛이든 날 수 있다! 복불복이지만. 이 아이스크림도 마찬가지다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아베스밍고는 어떤 맛이든 날 수 있다! 복불복이지만. 이 아이스크림도 마찬가지다."
+        "path": "/shortdescription",
+        "value": "아베스밍고 아이스크림"
     }
 ]

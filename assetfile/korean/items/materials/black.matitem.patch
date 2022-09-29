@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
+        "path": "/description",
         "value": "..."
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/shortdescription",
         "value": "..."
     },
     {

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "감각상의 오징어 모자"
+        "path": "/description",
+        "value": "애완동물, 친구, 그리고 모자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "애완동물, 친구, 그리고 모자."
+        "path": "/shortdescription",
+        "value": "감각상의 오징어 모자"
     }
 ]

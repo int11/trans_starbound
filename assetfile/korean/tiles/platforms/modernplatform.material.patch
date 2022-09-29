@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "현대적인 재료로 만듬, 이걸 만지면 매끄럽다."
+        "path": "/shortdescription",
+        "value": "현대적인 플랫폼"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "비싸보이는 금속 플랫폼이군."
+        "path": "/description",
+        "value": "현대적인 재료로 만듬, 이걸 만지면 매끄럽다."
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "현대적인 플랫폼"
+        "path": "/novakidDescription",
+        "value": "비싸보이는 금속 플랫폼이군."
     }
 ]

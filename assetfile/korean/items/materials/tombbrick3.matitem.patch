@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매우 능수능란하게 만들어진 작은 벽돌이다."
+        "path": "/shortdescription",
+        "value": "작은 무덤 벽돌"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 무덤 벽돌"
+        "path": "/description",
+        "value": "매우 능수능란하게 만들어진 작은 벽돌이다."
     },
     {
         "op": "replace",

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "벽지. 공간을 고급지게 만들 때 완벽하지."
+        "path": "/description",
+        "value": "어떤 고급 벽지. 완벽한 마무리 손질."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "클래식 벽지"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "어떤 고급 벽지. 완벽한 마무리 손질."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "클래식 벽지"
+        "path": "/novakidDescription",
+        "value": "벽지. 공간을 고급지게 만들 때 완벽하지."
     }
 ]

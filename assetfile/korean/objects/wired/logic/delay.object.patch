@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 신호를 지연시키는 회로다."
+        "path": "/description",
+        "value": "신호를 지연시키는 데 쓰이는 회로다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "지연 게이트"
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신호를 지연시키는 데 쓰이는 회로다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "지연 게이트"
+        "path": "/glitchDescription",
+        "value": "중립. 신호를 지연시키는 회로다."
     }
 ]

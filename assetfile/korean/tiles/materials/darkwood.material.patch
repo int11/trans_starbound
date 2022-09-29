@@ -1,28 +1,23 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 기초적인 나무 판자인데."
+        "path": "/description",
+        "value": "건축 및 제작을 위해 준비된 나무."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "기본 나무 판자다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "나무로 만들어진 판자네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "나무로 만들어진 살짝 간단한 판자다."
+        "path": "/shortdescription",
+        "value": "목재"
     },
     {
         "op": "replace",
         "path": "/apexDescription",
         "value": "나무로 된 판자군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "나무로 만들어진 판자네."
     },
     {
         "op": "replace",
@@ -36,12 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "목재"
+        "path": "/humanDescription",
+        "value": "나무로 만들어진 살짝 간단한 판자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "건축 및 제작을 위해 준비된 나무."
+        "path": "/hylotlDescription",
+        "value": "기본 나무 판자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 기초적인 나무 판자인데."
     }
 ]

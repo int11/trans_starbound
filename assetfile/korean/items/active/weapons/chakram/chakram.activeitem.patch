@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "차크람"
+        "path": "/description",
+        "value": "차크람 그랜드 마스터는 손가락을 잘리지 않고 차크람을 받아낼수 있다고한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "차크람 그랜드 마스터는 손가락을 잘리지 않고 차크람을 받아낼수 있다고한다."
+        "path": "/shortdescription",
+        "value": "차크람"
     },
     {
         "op": "replace",

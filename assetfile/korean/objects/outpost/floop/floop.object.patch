@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "\"Floop\" 단어"
+        "path": "/description",
+        "value": "\"Floop\" 를 벽에 적어놓는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"Floop\" 를 벽에 적어놓는다."
+        "path": "/shortdescription",
+        "value": "\"Floop\" 단어"
     },
     {
         "op": "replace",

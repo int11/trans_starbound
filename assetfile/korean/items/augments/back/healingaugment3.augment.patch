@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "회복 III 확장 부품"
+        "path": "/description",
+        "value": "체력을 빠르게 회복시켜주는 EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "체력을 빠르게 회복시켜주는 EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "회복 III 확장 부품"
     },
     {
         "op": "replace",

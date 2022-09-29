@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "야생동물 길들이기는 아이들의 생포구 놀이가 될거야."
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "애완동물 작업대"
     },
     {
         "op": "replace",
@@ -11,13 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "야생동물을 기르는 건 강하고 충직한 우정의 시작이지."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "애완동물 작업대"
+        "path": "/description",
+        "value": "포획구를 비롯한 애완동물과 관련된 여러 아이템을 만들 수 있게 한다."
     },
     {
         "op": "replace",
@@ -26,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "포획구를 비롯한 애완동물과 관련된 여러 아이템을 만들 수 있게 한다."
+        "path": "/apexDescription",
+        "value": "생포구를 여기서 만들 수 있어."
     },
     {
         "op": "replace",
@@ -36,13 +31,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "멋진데. 열받은 벌 떼도 붙잡을 수 있지 않을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "생포구를 여기서 만들 수 있어."
+        "path": "/floranDescription",
+        "value": "플로란, 가끔 동물 잡는다!"
     },
     {
         "op": "replace",
@@ -51,7 +41,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란, 가끔 동물 잡는다!"
+        "path": "/humanDescription",
+        "value": "멋진데. 열받은 벌 떼도 붙잡을 수 있지 않을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "야생동물을 기르는 건 강하고 충직한 우정의 시작이지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "야생동물 길들이기는 아이들의 생포구 놀이가 될거야."
     }
 ]

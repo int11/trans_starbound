@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "화면에서 생물이 날 노려본다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "인공적으로 빅 에이프 이미지만 투영하도록 되어있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 장비로 할 수 있는 건 없어보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "방금 이거 눈 움직였지?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "빅 에이프는 빅 에이프 TV에 모습을 드러낸 적이 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 장비는 수천 개나 되는 신호를 받고 있지만 모두 같은 신호다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "쓸모없는 기계."
+        "path": "/description",
+        "value": "아무것도 없다. 모든 채널이 그저 빅 에이프의 그림만을 송출하고 있다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아무것도 없다. 모든 채널이 그저 빅 에이프의 그림만을 송출하고 있다."
+        "path": "/apexDescription",
+        "value": "빅 에이프는 빅 에이프 TV에 모습을 드러낸 적이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 장비로 할 수 있는 건 없어보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쓸모없는 기계."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 장비는 수천 개나 되는 신호를 받고 있지만 모두 같은 신호다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "방금 이거 눈 움직였지?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "인공적으로 빅 에이프 이미지만 투영하도록 되어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "화면에서 생물이 날 노려본다."
     }
 ]

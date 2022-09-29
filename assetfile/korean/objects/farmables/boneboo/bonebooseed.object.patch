@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "고기 맛이 나는 과일이라. 헷갈리네!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "특출나게 별난 식물이다. 바삭한 줄기, 고기같은 과일."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "무관심. 이 식물은 유기체 내장기관처럼 생겼다. 글리치에겐 그런 기관이 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "바삭, 쫄깃, 다육질 음식."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "많은 하이로틀 채식주의자들의 식사는 골순으로 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "골순은 아비안 입맛은 아니네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "채식주의자들이랑은 궁합이 안 맞을지도."
+        "path": "/description",
+        "value": "칼슘 섭취가 필요할때, 골순."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "칼슘 섭취가 필요할때, 골순."
+        "path": "/apexDescription",
+        "value": "특출나게 별난 식물이다. 바삭한 줄기, 고기같은 과일."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "골순은 아비안 입맛은 아니네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바삭, 쫄깃, 다육질 음식."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "무관심. 이 식물은 유기체 내장기관처럼 생겼다. 글리치에겐 그런 기관이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "채식주의자들이랑은 궁합이 안 맞을지도."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "많은 하이로틀 채식주의자들의 식사는 골순으로 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "고기 맛이 나는 과일이라. 헷갈리네!"
     }
 ]

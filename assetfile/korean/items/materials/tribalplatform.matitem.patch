@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "신전 플랫폼"
+        "path": "/description",
+        "value": "신전 벽돌로 이뤄진 플랫폼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신전 벽돌로 이뤄진 플랫폼이다."
+        "path": "/shortdescription",
+        "value": "신전 플랫폼"
     },
     {
         "op": "replace",

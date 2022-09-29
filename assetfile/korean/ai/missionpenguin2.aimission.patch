@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/speciesText/default/repeatButtonText",
-        "value": "병기 실험실 재도전"
+        "path": "/speciesText/default/buttonText",
+        "value": "병기 실험실"
     },
     {
         "op": "replace",
-        "path": "/speciesText/default/buttonText",
-        "value": "병기 실험실"
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "병기 실험실 재도전"
     },
     {
         "op": "replace",

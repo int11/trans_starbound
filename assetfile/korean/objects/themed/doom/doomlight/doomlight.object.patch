@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파멸의 조명"
+        "path": "/description",
+        "value": "파멸의 조명이다. 어둠속에서 눈이 빛난다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "파멸의 조명이다. 어둠속에서 눈이 빛난다."
+        "path": "/shortdescription",
+        "value": "파멸의 조명"
     },
     {
         "op": "replace",

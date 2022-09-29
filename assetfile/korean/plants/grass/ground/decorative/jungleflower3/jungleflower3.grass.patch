@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "꽃은 플로란에게 고향을 떠오르게 해."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 이 꽃은 정글 지방의 토착종이라오."
+        "path": "/description",
+        "value": "이국적인 정글 꽃."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이국적인 정글 꽃."
+        "path": "/floranDescription",
+        "value": "꽃은 플로란에게 고향을 떠오르게 해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 이 꽃은 정글 지방의 토착종이라오."
     }
 ]

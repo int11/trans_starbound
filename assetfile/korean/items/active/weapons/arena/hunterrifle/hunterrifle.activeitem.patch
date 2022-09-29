@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "빈티지 저격 소총"
+        "path": "/description",
+        "value": "강력한 배율의 조준경으로 장거리의 적을 처리하자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강력한 배율의 조준경으로 장거리의 적을 처리하자."
+        "path": "/shortdescription",
+        "value": "빈티지 저격 소총"
     },
     {
         "op": "replace",

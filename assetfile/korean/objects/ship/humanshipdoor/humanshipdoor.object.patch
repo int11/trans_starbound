@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "우주선에 적합한 문이다."
+    },
+    {
+        "op": "replace",
         "path": "/shortdescription",
         "value": "인간 함선 문"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "문이군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "기초적인 함선 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "우주선 문이다."
     },
     {
         "op": "replace",
@@ -26,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "자랑. 함선 문이다."
+        "path": "/avianDescription",
+        "value": "우주선 문이다."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우주선에 적합한 문이다."
+        "path": "/glitchDescription",
+        "value": "자랑. 함선 문이다."
     },
     {
         "op": "replace",
         "path": "/humanDescription",
         "value": "멋진 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기초적인 함선 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "문이군."
     }
 ]

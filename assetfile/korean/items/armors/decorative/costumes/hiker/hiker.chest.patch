@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "여행 재킷"
+        "path": "/description",
+        "value": "착용자에게 어떠한 산이라도 정복할수있을 용기를 준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "착용자에게 어떠한 산이라도 정복할수있을 용기를 준다."
+        "path": "/shortdescription",
+        "value": "여행 재킷"
     }
 ]

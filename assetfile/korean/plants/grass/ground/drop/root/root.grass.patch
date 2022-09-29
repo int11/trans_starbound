@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 뿌리인가."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "뿌리이이!"
+        "path": "/description",
+        "value": "뿌리다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뿌리다."
+        "path": "/floranDescription",
+        "value": "뿌리이이!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 뿌리인가."
     }
 ]

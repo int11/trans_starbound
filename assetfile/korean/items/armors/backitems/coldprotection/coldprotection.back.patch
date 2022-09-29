@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "난방 EPP 업그레이드"
+        "path": "/description",
+        "value": "이 업그레이드는 내 EPP에 발열 기능을 추가한다. ^red;몹시 추운^reset; 행성을 갈 때 유용하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 업그레이드는 내 EPP에 발열 기능을 추가한다. ^red;몹시 추운^reset; 행성을 갈 때 유용하다."
+        "path": "/shortdescription",
+        "value": "난방 EPP 업그레이드"
     },
     {
         "op": "add",

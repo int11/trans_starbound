@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주조 공장 스위치"
+        "path": "/description",
+        "value": "주조 공장의 기구를 작동시키기 위한 스위치다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "주조 공장의 기구를 작동시키기 위한 스위치다."
+        "path": "/shortdescription",
+        "value": "주조 공장 스위치"
     },
     {
         "op": "replace",

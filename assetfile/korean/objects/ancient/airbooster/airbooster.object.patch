@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 가스에 노출되면 내 에너지를 절약할 수 있겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 배기구는 나는 듯한 기분을 느끼게 해 주지!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "중력 부스트를 내놔라!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 배기구에서 나오는 가스는 저중력 상태를 촉발한다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "재미있음. 그럭저럭 안전해 보이는 배기구로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 구멍은 플로란을 날게 해 줘어어!"
+        "path": "/description",
+        "value": "슈트에서 가스가 분출되서 당신을 깃털처럼 가볍게 해 줍니다."
     },
     {
         "op": "replace",
@@ -36,8 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "슈트에서 가스가 분출되서 당신을 깃털처럼 가볍게 해 줍니다."
+        "path": "/apexDescription",
+        "value": "이 배기구에서 나오는 가스는 저중력 상태를 촉발한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 배기구는 나는 듯한 기분을 느끼게 해 주지!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 구멍은 플로란을 날게 해 줘어어!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "재미있음. 그럭저럭 안전해 보이는 배기구로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "중력 부스트를 내놔라!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 가스에 노출되면 내 에너지를 절약할 수 있겠군."
     },
     {
         "op": "replace",

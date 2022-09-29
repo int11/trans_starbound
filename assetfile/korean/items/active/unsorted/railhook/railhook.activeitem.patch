@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "레일 갈고리"
+        "path": "/description",
+        "value": "레일에 몸을 맡겨라!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "레일에 몸을 맡겨라!"
+        "path": "/shortdescription",
+        "value": "레일 갈고리"
     }
 ]

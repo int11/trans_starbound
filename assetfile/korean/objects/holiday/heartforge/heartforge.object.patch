@@ -6,13 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 용광로로 기념품을 만들자!"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "사랑을 나눠요"
+        "path": "/shortdescription",
+        "value": "사랑의 용광로"
     },
     {
         "op": "replace",
@@ -21,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사랑의 용광로"
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "사랑을 나눠요"
     },
     {
         "op": "replace",
@@ -53,5 +48,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "用这张桌子，我能制作最通俗的节日装饰。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 용광로로 기념품을 만들자!"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "솔라리움 광석 (Solarium Ore)"
+        "path": "/description",
+        "value": "솔라리움 광석이다. 만져 보니 따뜻하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "솔라리움 광석이다. 만져 보니 따뜻하다."
+        "path": "/shortdescription",
+        "value": "솔라리움 광석 (Solarium Ore)"
     }
 ]

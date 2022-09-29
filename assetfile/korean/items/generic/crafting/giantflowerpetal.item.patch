@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거대꽃 꽃잎"
+        "path": "/description",
+        "value": "거대꽃의 꽃잎이다. 부드러워!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대꽃의 꽃잎이다. 부드러워!"
+        "path": "/shortdescription",
+        "value": "거대꽃 꽃잎"
     }
 ]

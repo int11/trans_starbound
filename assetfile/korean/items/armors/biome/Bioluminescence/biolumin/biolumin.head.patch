@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "글로우 마스크"
+        "path": "/description",
+        "value": "밤을 밝히는 발광 마스크!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "밤을 밝히는 발광 마스크!"
+        "path": "/shortdescription",
+        "value": "글로우 마스크"
     }
 ]

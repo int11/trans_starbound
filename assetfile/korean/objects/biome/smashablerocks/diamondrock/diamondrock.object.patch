@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다이아몬드 바위"
+        "path": "/description",
+        "value": "다이아몬드로 가득 찬 금간 바위다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다이아몬드로 가득 찬 금간 바위다."
+        "path": "/shortdescription",
+        "value": "다이아몬드 바위"
     },
     {
         "op": "replace",

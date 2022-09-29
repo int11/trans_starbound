@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이런 기묘한 그림이 뭘 말하고자하는건지 모르겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 그림이 뭘 포현할려고 했는지 모르겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 그림은 동물이 수레를 끌고 있는 모습을 그린거 같군. 나도 이렇겐 안그려."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 이 그림이 왜 이렇게 그려졌는지 확신할 수 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 그림 안그려."
+        "path": "/description",
+        "value": "수레 마차를 이상한 화법으로 그렸다."
     },
     {
         "op": "replace",
@@ -31,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수레 마차를 이상한 화법으로 그렸다."
+        "path": "/apexDescription",
+        "value": "이 그림은 동물이 수레를 끌고 있는 모습을 그린거 같군. 나도 이렇겐 안그려."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 그림이 뭘 포현할려고 했는지 모르겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 그림 안그려."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 그림이 왜 이렇게 그려졌는지 확신할 수 없어."
     },
     {
         "op": "replace",
         "path": "/humanDescription",
         "value": "这似乎是一个关于牛车的画，除此之外它是绿色的。我搞不太懂。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이런 기묘한 그림이 뭘 말하고자하는건지 모르겠어."
     },
     {
         "op": "replace",

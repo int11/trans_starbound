@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 배너엔 달이 짜여 있는 것 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "달... 대부분의 하이로틀이 본 적 없는 광경이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "배교자들에게 있어 달이란 자유의 상징이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "아름답게 짜인 달 배너다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "밝게 짜인 배너라. 달이 의미하는 바가 궁금하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "질문. 아비안에게 달은 무슨 상징일까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 달빛으로 샤냥한다. 달은 플로란 친구다."
+        "path": "/description",
+        "value": "초승달을 묘사한 두껍게 짠 배너다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "초승달을 묘사한 두껍게 짠 배너다."
+        "path": "/apexDescription",
+        "value": "밝게 짜인 배너라. 달이 의미하는 바가 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "배교자들에게 있어 달이란 자유의 상징이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 달빛으로 샤냥한다. 달은 플로란 친구다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "질문. 아비안에게 달은 무슨 상징일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아름답게 짜인 달 배너다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "달... 대부분의 하이로틀이 본 적 없는 광경이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 배너엔 달이 짜여 있는 것 같아."
     }
 ]

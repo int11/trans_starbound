@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "플로란 뼈 자일로폰"
+        "path": "/description",
+        "value": "뼈 자일로폰, 끝장나는 소리를 낸다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뼈 자일로폰, 끝장나는 소리를 낸다."
+        "path": "/shortdescription",
+        "value": "플로란 뼈 자일로폰"
     }
 ]

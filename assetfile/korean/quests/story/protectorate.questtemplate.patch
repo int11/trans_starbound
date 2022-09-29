@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/escape",
-        "value": "재난에서 살아남으세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/matterManipulator",
-        "value": "물질 조작기를 집으세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/graduate",
-        "value": "졸업식에 참석하세요."
+        "path": "/title",
+        "value": "수호자 연합"
     },
     {
         "op": "replace",
@@ -26,7 +16,17 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "수호자 연합"
+        "path": "/scriptConfig/descriptions/graduate",
+        "value": "졸업식에 참석하세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/matterManipulator",
+        "value": "물질 조작기를 집으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/escape",
+        "value": "재난에서 살아남으세요."
     }
 ]

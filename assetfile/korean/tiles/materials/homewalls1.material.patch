@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "꽤 예쁘게 질해진 벽돌들."
+        "path": "/description",
+        "value": "멋지게 벽돌을 그렸다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "그려진 벽돌"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "그려진 벽돌"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "멋지게 벽돌을 그렸다."
+        "path": "/novakidDescription",
+        "value": "꽤 예쁘게 질해진 벽돌들."
     }
 ]

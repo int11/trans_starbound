@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "돌로 만든 위인의 상은 그 위인이 살아있을 적에 바치는 거라고 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 기념물은 위대한 벤자민 \"Meuterion\" 듀스트에게 바치는 물건이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이 샤람 셕샹이면 분명 중요한 일 했을 거라 섕각한다."
+        "path": "/description",
+        "value": "벤자민 \"Meuterion\" 듀스트에게 바치는 석상이다."
     },
     {
         "op": "replace",
@@ -21,18 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "벤자민 \"Meuterion\" 듀스트에게 바치는 석상이다."
-    },
-    {
-        "op": "replace",
         "path": "/apexDescription",
         "value": "铭牌上说“献给本杰明“马特里翁”杜斯特的雕像”。"
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 샤람 셕샹이면 분명 중요한 일 했을 거라 섕각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 기념물은 위대한 벤자민 \"Meuterion\" 듀스트에게 바치는 물건이다."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "铭牌上说“献给本杰明“马特里翁”杜斯特的雕像”。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "돌로 만든 위인의 상은 그 위인이 살아있을 적에 바치는 거라고 한다."
     },
     {
         "op": "replace",

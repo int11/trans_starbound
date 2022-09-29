@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날카로운 조작기"
+        "path": "/description",
+        "value": "칼이 들어있는... 조작기?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "칼이 들어있는... 조작기?"
+        "path": "/shortdescription",
+        "value": "날카로운 조작기"
     },
     {
         "op": "replace",

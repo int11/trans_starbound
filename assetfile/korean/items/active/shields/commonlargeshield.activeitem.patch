@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "라지 쉴드"
+        "path": "/description",
+        "value": "우리들중 뭔가 특별한게 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우리들중 뭔가 특별한게 있다."
+        "path": "/shortdescription",
+        "value": "라지 쉴드"
     }
 ]

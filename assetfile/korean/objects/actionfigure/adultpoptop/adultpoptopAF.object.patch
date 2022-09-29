@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "완전히 자란 팝탑 모형"
+        "path": "/description",
+        "value": "\"크다…\"라 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"크다…\"라 적혀있다."
+        "path": "/shortdescription",
+        "value": "완전히 자란 팝탑 모형"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "끈적한 기름이랑 돌을 비벼놨다."
+        "path": "/description",
+        "value": "싸구려지만 효율적인 건축용 자재."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "아스팔트"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "싸구려지만 효율적인 건축용 자재."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "아스팔트"
+        "path": "/novakidDescription",
+        "value": "끈적한 기름이랑 돌을 비벼놨다."
     }
 ]

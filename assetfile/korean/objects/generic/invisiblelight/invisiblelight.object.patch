@@ -1,7 +1,17 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
+        "path": "/description",
+        "value": "함선을 빛내는 전등."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "함선 전등"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
         "value": "여기선 아무 것도 안 보여."
     },
     {
@@ -11,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "여기선 아무 것도 안 보여."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
+        "path": "/floranDescription",
         "value": "여기선 아무 것도 안 보여."
     },
     {
@@ -26,17 +31,12 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
+        "path": "/humanDescription",
         "value": "여기선 아무 것도 안 보여."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "함선 전등"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "함선을 빛내는 전등."
+        "path": "/hylotlDescription",
+        "value": "여기선 아무 것도 안 보여."
     }
 ]

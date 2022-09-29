@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기 그림은 전사가 창을 들고 있는 모습같은데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "플로란의 예술은 하이로틀의 것을 넘어설 수 없지. 이 그림은 사냥꾼이나 전사를 그리고 있군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 동굴 벽화는 창을 든 플로란이 사냥 중인 모습을 보여주고 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 그림을 그린 플로란이 누구든 미술 수업좀 받아야겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "플로란이 사냥하는 그림이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 그림은 플로란이 사냥 중인 모습을 조잡하게 묘사하고 있군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "그림 쇽의 플로란은 빠르게 달리고 있어. 샤냥 중일거야."
+        "path": "/description",
+        "value": "플로란 사냥꾼이 창을 들고 있는 조잡한 그림이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "플로란 사냥꾼이 창을 들고 있는 조잡한 그림이다."
+        "path": "/apexDescription",
+        "value": "플로란이 사냥하는 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 동굴 벽화는 창을 든 플로란이 사냥 중인 모습을 보여주고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "그림 쇽의 플로란은 빠르게 달리고 있어. 샤냥 중일거야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 그림은 플로란이 사냥 중인 모습을 조잡하게 묘사하고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 그림을 그린 플로란이 누구든 미술 수업좀 받아야겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란의 예술은 하이로틀의 것을 넘어설 수 없지. 이 그림은 사냥꾼이나 전사를 그리고 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기 그림은 전사가 창을 들고 있는 모습같은데."
     }
 ]

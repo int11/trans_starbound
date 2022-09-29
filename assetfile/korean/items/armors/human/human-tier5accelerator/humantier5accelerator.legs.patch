@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선봉대의 바지"
+        "path": "/description",
+        "value": "열정, 명예, 그리고 트랜디한 에지솔트 의상과 함깨 싸우자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "열정, 명예, 그리고 트랜디한 에지솔트 의상과 함깨 싸우자."
+        "path": "/shortdescription",
+        "value": "선봉대의 바지"
     }
 ]

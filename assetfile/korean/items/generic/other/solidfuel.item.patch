@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "결정화 에르키우스 연료"
+        "path": "/description",
+        "value": "불안정한 결정 물질로 FTL 연료로 사용하기 위해 달에서 채굴된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "불안정한 결정 물질로 FTL 연료로 사용하기 위해 달에서 채굴된다."
+        "path": "/shortdescription",
+        "value": "결정화 에르키우스 연료"
     }
 ]

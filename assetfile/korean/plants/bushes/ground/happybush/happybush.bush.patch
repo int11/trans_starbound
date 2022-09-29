@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 꽤 유쾌한 덤불이 아니한가."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "덤부우우울!"
+        "path": "/description",
+        "value": "즐거운 덤불이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "즐거운 덤불이다."
+        "path": "/floranDescription",
+        "value": "덤부우우울!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 꽤 유쾌한 덤불이 아니한가."
     }
 ]

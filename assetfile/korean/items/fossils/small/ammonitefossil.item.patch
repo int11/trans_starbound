@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "암모나이트 화석은 매우 잘 알려진 화석으로, 거의 모든 생명이 있는 행성에 그 종이 있다."
+        "path": "/shortdescription",
+        "value": "암모나이트 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 암모나이트다."
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "암모나이트 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석화된 암모나이트다."
+        "path": "/completeSetDescriptions/description",
+        "value": "암모나이트 화석은 매우 잘 알려진 화석으로, 거의 모든 생명이 있는 행성에 그 종이 있다."
     }
 ]

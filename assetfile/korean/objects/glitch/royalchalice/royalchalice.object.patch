@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "왕실 성배"
+        "path": "/description",
+        "value": "왕실 음료를 따라마실 왕족의 입을 위한 왕실 성배다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "왕실 음료를 따라마실 왕족의 입을 위한 왕실 성배다."
+        "path": "/shortdescription",
+        "value": "왕실 성배"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정동석 암석"
+        "path": "/description",
+        "value": "작은 정동석 수정이 가득한 단단한 돌이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 정동석 수정이 가득한 단단한 돌이다."
+        "path": "/shortdescription",
+        "value": "정동석 암석"
     },
     {
         "op": "replace",

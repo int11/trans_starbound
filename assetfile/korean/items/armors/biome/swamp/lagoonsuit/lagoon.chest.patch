@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "라군 상의"
+        "path": "/description",
+        "value": "이 눅눅한 상의는 수많은 비늘이 덮고있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 눅눅한 상의는 수많은 비늘이 덮고있다."
+        "path": "/shortdescription",
+        "value": "라군 상의"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "초신성 건틀릿"
+        "path": "/description",
+        "value": "초신성의 힘이 물든 건틀릿이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "초신성의 힘이 물든 건틀릿이다."
+        "path": "/shortdescription",
+        "value": "초신성 건틀릿"
     }
 ]

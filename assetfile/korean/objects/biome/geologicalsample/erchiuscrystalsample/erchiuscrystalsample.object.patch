@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에르키우스 결정 표본"
+        "path": "/description",
+        "value": "\"에르키우스 결정의 완벽한 표본이다. FTL 드라이브에 다량 사용된다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"에르키우스 결정의 완벽한 표본이다. FTL 드라이브에 다량 사용된다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "에르키우스 결정 표본"
     }
 ]

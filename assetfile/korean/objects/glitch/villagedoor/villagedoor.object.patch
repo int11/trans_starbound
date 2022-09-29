@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "마을 문"
+        "path": "/description",
+        "value": "싸게 만든 나무 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "싸게 만든 나무 문이다."
+        "path": "/shortdescription",
+        "value": "마을 문"
     },
     {
         "op": "replace",

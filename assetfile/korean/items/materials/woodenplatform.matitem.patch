@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화려한 플랫폼"
+        "path": "/description",
+        "value": "마무리도 잘 되고 화려한 나무 플랫폼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "마무리도 잘 되고 화려한 나무 플랫폼이다."
+        "path": "/shortdescription",
+        "value": "화려한 플랫폼"
     },
     {
         "op": "replace",

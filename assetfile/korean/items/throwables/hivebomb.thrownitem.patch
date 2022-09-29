@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조심! 이 곤충들은 위험하다구."
+        "path": "/shortdescription",
+        "value": "곤충집"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "곤충집"
+        "path": "/description",
+        "value": "조심! 이 곤충들은 위험하다구."
     }
 ]

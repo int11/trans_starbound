@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이렇게 많은 피를 본 적 없다고는 말할 수 없지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "혈액은 자고로 몸 속에 있어야 한다는 것이 하이로틀의 신념이지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "몇몇 병에 '실패' 라고 표시되어 있군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "혈액 냉장고. 이 내용물을 제공한 에이펙스는 다시는 볼 수 없게 되었지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 이 혈액들은 어디에 쓰이는가?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "자판기다!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "성현들은 피에 마법이 깃들어 있다고 믿었지."
+        "path": "/description",
+        "value": "다양한 혈액형으로 채워진 병이 들어 있다. 사람들 피를 전부 뽑아내지 않았기를 바랄 뿐."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다양한 혈액형으로 채워진 병이 들어 있다. 사람들 피를 전부 뽑아내지 않았기를 바랄 뿐."
+        "path": "/apexDescription",
+        "value": "혈액 냉장고. 이 내용물을 제공한 에이펙스는 다시는 볼 수 없게 되었지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "성현들은 피에 마법이 깃들어 있다고 믿었지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "자판기다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 이 혈액들은 어디에 쓰이는가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "몇몇 병에 '실패' 라고 표시되어 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "혈액은 자고로 몸 속에 있어야 한다는 것이 하이로틀의 신념이지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이렇게 많은 피를 본 적 없다고는 말할 수 없지."
     }
 ]

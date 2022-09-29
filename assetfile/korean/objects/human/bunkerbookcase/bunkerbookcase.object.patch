@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관심. 이 책들 중에는 수백 년 된 것도 있다. 살짝 만지기만 해도 부스러질것 같다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "여기 이런 책도 있다. '바보들도 알 수 있는 시간을 거꾸로 돌리는 법'"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "책장이다. 자립하는 책들도 꽤 있구만..."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "인간 역사로 가득한 서적들이다. 이 책은 박쥐처럼 옷을 입고 범죄와 싸우는 남자의 연대기를 다루고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "과학 서적이 가득이다. 종교적인 글은 별로 보이지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "익숙한 책이 잔뜩이다. '전쟁과 평화' 사본도 있다. 아무도 손대지 않은 건 당연지사다."
+        "path": "/shortdescription",
+        "value": "금속 책장"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "과학 서적이 가득이다. 종교적인 글은 별로 보이지 않는다."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "글씨만 잔뜩, 그림은 없다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금속 책장"
+        "path": "/glitchDescription",
+        "value": "관심. 이 책들 중에는 수백 년 된 것도 있다. 살짝 만지기만 해도 부스러질것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "익숙한 책이 잔뜩이다. '전쟁과 평화' 사본도 있다. 아무도 손대지 않은 건 당연지사다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "인간 역사로 가득한 서적들이다. 이 책은 박쥐처럼 옷을 입고 범죄와 싸우는 남자의 연대기를 다루고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "책장이다. 자립하는 책들도 꽤 있구만..."
     }
 ]

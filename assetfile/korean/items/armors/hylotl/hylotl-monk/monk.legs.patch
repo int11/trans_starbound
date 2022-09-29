@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "수도승 스커트"
+        "path": "/description",
+        "value": "간단하게 걸치는 하이로틀 수도승의 하의이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단하게 걸치는 하이로틀 수도승의 하의이다."
+        "path": "/shortdescription",
+        "value": "수도승 스커트"
     }
 ]

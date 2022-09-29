@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "과일음료? 아비안은 설탕 들어간 음료가 잘 안 받아서리."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "맛있는 음료... 지금 당장 하나 해치울 수 있을 것 같은데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "모험. 이 음료를 즐기는 상상 정도야 얼마든지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "드러워. 토나오는 셜탕 액체."
+        "path": "/description",
+        "value": "츄리닝에 비니 아니면 나팔바지를 입고 있을 때나 마실 만하다."
     },
     {
         "op": "replace",
@@ -26,8 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "민들레 소다는 아니지만 뭐."
+        "path": "/apexDescription",
+        "value": "사악한 음료에서 뿜어져나오는 역한 단내가 안 좋은 기억을 떠올린다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "과일음료? 아비안은 설탕 들어간 음료가 잘 안 받아서리."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "드러워. 토나오는 셜탕 액체."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "모험. 이 음료를 즐기는 상상 정도야 얼마든지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "맛있는 음료... 지금 당장 하나 해치울 수 있을 것 같은데."
     },
     {
         "op": "replace",
@@ -36,12 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "사악한 음료에서 뿜어져나오는 역한 단내가 안 좋은 기억을 떠올린다."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "츄리닝에 비니 아니면 나팔바지를 입고 있을 때나 마실 만하다."
+        "path": "/novakidDescription",
+        "value": "민들레 소다는 아니지만 뭐."
     }
 ]

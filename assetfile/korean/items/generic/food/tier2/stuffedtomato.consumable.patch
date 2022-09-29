@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "토마토 쌈"
+        "path": "/description",
+        "value": "맛있는 풍미로 가득찬 구운 토마토이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "맛있는 풍미로 가득찬 구운 토마토이다."
+        "path": "/shortdescription",
+        "value": "토마토 쌈"
     }
 ]

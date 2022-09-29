@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "질병과 고통이라. 에이펙스는 우리 치료법을 좀 배워야겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안도 에이펙스 독감이 걸리려나?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "인간은 에이펙스 독감에 안 걸렸으면 좋겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "확신. 글리치는 에이펙스 플루 따윈 안 통한다네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "멍청한 에이펙스 독감. 플로란이 먹어치울 거다."
+        "path": "/description",
+        "value": "영장류 독감? 심각해 보이는데..."
     },
     {
         "op": "replace",
@@ -31,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "영장류 독감? 심각해 보이는데..."
+        "path": "/apexDescription",
+        "value": "영장류 독감은 에이펙스 사회를 망가트린다. 이상한 건 높으신 분들은 앓아본 적 없다. 때문에 이게 실험의 일환이라는 소문도 있었다."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "영장류 독감은 에이펙스 사회를 망가트린다. 이상한 건 높으신 분들은 앓아본 적 없다. 때문에 이게 실험의 일환이라는 소문도 있었다."
+        "path": "/avianDescription",
+        "value": "아비안도 에이펙스 독감이 걸리려나?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "멍청한 에이펙스 독감. 플로란이 먹어치울 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "확신. 글리치는 에이펙스 플루 따윈 안 통한다네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "인간은 에이펙스 독감에 안 걸렸으면 좋겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "질병과 고통이라. 에이펙스는 우리 치료법을 좀 배워야겠어."
     },
     {
         "op": "replace",

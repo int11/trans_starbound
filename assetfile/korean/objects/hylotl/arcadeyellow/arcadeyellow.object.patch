@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "좀비 바나나 저택. 저택에 보관된 바나나를 지키려고 좀비를 쏴죽인단 말이지. 재밌는 컨셉이네."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "좀비 바나나 저택? 이제 좀비 게임은 다 해봤구만."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "누군가 집을 지키려는 심정은 이해하겠다만, 좀비 바나나 저택은 진짜 잔인한 게임이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "왜 징그러운 바나나 지켜? 좀비를 먹어!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "좀비 바나나 저택. 바나나 보존은 에이펙스가 가장 중요시하는 거니까 걔들 하라고 둬야겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "좀비 바나나 저택이야말로 고전 에이펙스 게임이지! 어렸을 땐 완전 무서웠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혐오.좀비 바나나 저택에 등장하는 생물들이 현실에도 존재할까?"
+        "path": "/description",
+        "value": "이 기계는 '좀비 바나나 저택'라는 게임을 가동한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 기계는 '좀비 바나나 저택'라는 게임을 가동한다."
+        "path": "/apexDescription",
+        "value": "좀비 바나나 저택이야말로 고전 에이펙스 게임이지! 어렸을 땐 완전 무서웠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "좀비 바나나 저택. 저택에 보관된 바나나를 지키려고 좀비를 쏴죽인단 말이지. 재밌는 컨셉이네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "왜 징그러운 바나나 지켜? 좀비를 먹어!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오.좀비 바나나 저택에 등장하는 생물들이 현실에도 존재할까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "좀비 바나나 저택. 바나나 보존은 에이펙스가 가장 중요시하는 거니까 걔들 하라고 둬야겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "누군가 집을 지키려는 심정은 이해하겠다만, 좀비 바나나 저택은 진짜 잔인한 게임이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좀비 바나나 저택? 이제 좀비 게임은 다 해봤구만."
     }
 ]

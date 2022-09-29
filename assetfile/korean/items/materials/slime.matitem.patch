@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "슬라임 진창"
+        "path": "/description",
+        "value": "두꺼운 점액이로군. 쿡하고 찌르면 움직인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "두꺼운 점액이로군. 쿡하고 찌르면 움직인다."
+        "path": "/shortdescription",
+        "value": "슬라임 진창"
     },
     {
         "op": "replace",

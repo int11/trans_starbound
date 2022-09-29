@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "프리즘 표본"
+        "path": "/description",
+        "value": "\"프리즘 조각의 완벽한 표본이다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"프리즘 조각의 완벽한 표본이다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "프리즘 표본"
     }
 ]

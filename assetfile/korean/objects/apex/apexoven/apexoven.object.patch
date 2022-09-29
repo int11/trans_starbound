@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "path": "/description",
         "value": "괜찮은 수준으로 음식을 요리한다."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "표준 규격 오븐"
     },
     {
         "op": "replace",
@@ -16,28 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "표준 규격 오븐"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
         "value": "괜찮은 수준으로 음식을 요리한다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "식사 요리하려고 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "여기선 음식을 빨리 데울 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "음식을 데우는 장치다. 여기선 요리할 수 있겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "가스 오븐이다. 한 번도 써본 적 없어."
     },
     {
         "op": "replace",
@@ -46,12 +26,32 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 요리 기구 확인."
+        "path": "/avianDescription",
+        "value": "음식을 데우는 장치다. 여기선 요리할 수 있겠어."
     },
     {
         "op": "replace",
         "path": "/floranDescription",
         "value": "불은 먹을 거 훨씬 맛나게 해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 요리 기구 확인."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "가스 오븐이다. 한 번도 써본 적 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "여기선 음식을 빨리 데울 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "식사 요리하려고 있지."
     }
 ]

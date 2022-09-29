@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파멸의 침대"
+        "path": "/description",
+        "value": "숭고한 파멸의 침대다. 비록 약간 뾰족하지만."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "숭고한 파멸의 침대다. 비록 약간 뾰족하지만."
+        "path": "/shortdescription",
+        "value": "파멸의 침대"
     },
     {
         "op": "replace",

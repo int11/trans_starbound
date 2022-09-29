@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "로봇 가슴부"
+        "path": "/description",
+        "value": "로봇 가슴부로, 강철같이 단단하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "로봇 가슴부로, 강철같이 단단하다."
+        "path": "/shortdescription",
+        "value": "로봇 가슴부"
     }
 ]

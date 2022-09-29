@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "매콤한 갈비"
+        "path": "/description",
+        "value": "달고 맵지만 맛있다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달고 맵지만 맛있다!"
+        "path": "/shortdescription",
+        "value": "매콤한 갈비"
     }
 ]

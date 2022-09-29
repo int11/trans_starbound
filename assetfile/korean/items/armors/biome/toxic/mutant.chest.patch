@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "돌연변이 가슴"
+        "path": "/description",
+        "value": "몸에 돌연변이 새포가 자라는걸 가장하고 싶다면 입어봐라."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "몸에 돌연변이 새포가 자라는걸 가장하고 싶다면 입어봐라."
+        "path": "/shortdescription",
+        "value": "돌연변이 가슴"
     }
 ]

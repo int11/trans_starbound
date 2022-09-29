@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "무지개 나무 판자"
+        "path": "/description",
+        "value": "간단하게 화려한 장식을 하는 방법이로군."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단하게 화려한 장식을 하는 방법이로군."
+        "path": "/shortdescription",
+        "value": "무지개 나무 판자"
     },
     {
         "op": "replace",

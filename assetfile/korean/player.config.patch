@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/blueprintAlreadyKnown",
-        "value": "이미 <ItemName> 의 제작법을 알고 있습니다. "
+        "path": "/blueprintUnlock",
+        "value": "^green;<ItemName> 의 제작법을 배웠습니다."
     },
     {
         "op": "replace",
-        "path": "/blueprintUnlock",
-        "value": "^green;<ItemName> 의 제작법을 배웠습니다."
+        "path": "/blueprintAlreadyKnown",
+        "value": "이미 <ItemName> 의 제작법을 알고 있습니다. "
     },
     {
         "op": "replace",

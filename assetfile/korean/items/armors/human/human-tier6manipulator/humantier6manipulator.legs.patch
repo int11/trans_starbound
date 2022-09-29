@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "방랑자의 바지"
+        "path": "/description",
+        "value": "딱 맞는 바지와 부츠 콤보로 다리를 지키자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "딱 맞는 바지와 부츠 콤보로 다리를 지키자."
+        "path": "/shortdescription",
+        "value": "방랑자의 바지"
     }
 ]

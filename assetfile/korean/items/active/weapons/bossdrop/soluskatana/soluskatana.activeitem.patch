@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "솔루스 카타나"
+        "path": "/description",
+        "value": "솔라리움으로 벼린 검이다. 아스라 녹스의 작품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "솔라리움으로 벼린 검이다. 아스라 녹스의 작품이다."
+        "path": "/shortdescription",
+        "value": "솔루스 카타나"
     },
     {
         "op": "replace",

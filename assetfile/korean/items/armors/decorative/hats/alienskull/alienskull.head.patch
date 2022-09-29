@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "외계인 해골"
+        "path": "/description",
+        "value": "머리에 쓸 수 있는 외계인 두개골이다. 무시무시하군."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "머리에 쓸 수 있는 외계인 두개골이다. 무시무시하군."
+        "path": "/shortdescription",
+        "value": "외계인 해골"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "튼튼해 보이는 대들보다."
+        "path": "/description",
+        "value": "강해 보이는 금속 대들보다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "대들보"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "대들보"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "강해 보이는 금속 대들보다."
+        "path": "/novakidDescription",
+        "value": "튼튼해 보이는 대들보다."
     }
 ]

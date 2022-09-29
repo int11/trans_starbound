@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "긴 듀라스틸 승강기"
+        "path": "/description",
+        "value": "이 듀라스틸 승강기는 맡은 일을 잘할 것이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 듀라스틸 승강기는 맡은 일을 잘할 것이다."
+        "path": "/shortdescription",
+        "value": "긴 듀라스틸 승강기"
     },
     {
         "op": "replace",

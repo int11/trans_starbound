@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "진흙"
+        "path": "/description",
+        "value": "걸쭉하고 끈적한 진흙이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "걸쭉하고 끈적한 진흙이다."
+        "path": "/shortdescription",
+        "value": "진흙"
     },
     {
         "op": "replace",

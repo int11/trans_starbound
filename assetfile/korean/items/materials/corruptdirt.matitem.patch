@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부패한 흙"
+        "path": "/description",
+        "value": "부패해서 구역질 나는 흙"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부패해서 구역질 나는 흙"
+        "path": "/shortdescription",
+        "value": "부패한 흙"
     },
     {
         "op": "replace",

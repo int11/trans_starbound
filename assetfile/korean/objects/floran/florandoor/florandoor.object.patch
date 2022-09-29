@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "다는 아니지만 이 문엔 태클걸게 많아."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 이 문은 있을 필요가 없소. 전혀 쓸모없단 말이오."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "제대로 만들지 않은 흉한 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "쓸모없는 문이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이게 아주 좋은 문인지는 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "산들바람에도 흔들리는 얇은 나무 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 문 안잠궈. 플로란은 다른 플로란한테서 물건 안훔치거든."
+        "path": "/description",
+        "value": "이 문은 악천후를 막는덴 거의 적합하지 않다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 문은 악천후를 막는덴 거의 적합하지 않다."
+        "path": "/apexDescription",
+        "value": "산들바람에도 흔들리는 얇은 나무 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "쓸모없는 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 문 안잠궈. 플로란은 다른 플로란한테서 물건 안훔치거든."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 문은 있을 필요가 없소. 전혀 쓸모없단 말이오."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이게 아주 좋은 문인지는 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "제대로 만들지 않은 흉한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "다는 아니지만 이 문엔 태클걸게 많아."
     }
 ]

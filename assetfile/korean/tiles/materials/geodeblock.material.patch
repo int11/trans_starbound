@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "조금 반짝이는 수정이다."
+        "path": "/description",
+        "value": "희미하게 빛나는 자연 정동 결정."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "정동 결정"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정동 결정"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "희미하게 빛나는 자연 정동 결정."
+        "path": "/novakidDescription",
+        "value": "조금 반짝이는 수정이다."
     }
 ]

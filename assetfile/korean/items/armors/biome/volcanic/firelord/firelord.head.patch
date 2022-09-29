@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "염제의 투구"
+        "path": "/description",
+        "value": "소문에 의하면 이 핼맷을 쓰면 과거의 속삭임을 들을수있다고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "소문에 의하면 이 핼맷을 쓰면 과거의 속삭임을 들을수있다고 한다."
+        "path": "/shortdescription",
+        "value": "염제의 투구"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "전통 바지"
+        "path": "/description",
+        "value": "이 기초적인 하의는 뛰어난 신축성과 방수성을 가진다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 기초적인 하의는 뛰어난 신축성과 방수성을 가진다."
+        "path": "/shortdescription",
+        "value": "전통 바지"
     }
 ]

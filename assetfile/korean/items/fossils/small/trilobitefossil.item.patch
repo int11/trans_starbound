@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "삽엽충은 그 외골격 덕분에 상당히 잘 보전된 화석중 하나다."
+        "path": "/shortdescription",
+        "value": "삼엽충 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 삼엽충이다."
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "삼엽충 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석화된 삼엽충이다."
+        "path": "/completeSetDescriptions/description",
+        "value": "삽엽충은 그 외골격 덕분에 상당히 잘 보전된 화석중 하나다."
     }
 ]

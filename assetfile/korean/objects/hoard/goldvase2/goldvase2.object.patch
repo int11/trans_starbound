@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "황금 주전자"
+        "path": "/description",
+        "value": "특별한 의식을 위한 황금 주전자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "특별한 의식을 위한 황금 주전자다."
+        "path": "/shortdescription",
+        "value": "황금 주전자"
     },
     {
         "op": "replace",

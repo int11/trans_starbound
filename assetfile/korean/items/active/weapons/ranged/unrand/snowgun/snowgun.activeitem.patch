@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈덩이 발사기"
+        "path": "/description",
+        "value": "이걸 쓴다면 강력한 눈덩이를 장갑 마르도록 쏴댈 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이걸 쓴다면 강력한 눈덩이를 장갑 마르도록 쏴댈 수 있다."
+        "path": "/shortdescription",
+        "value": "눈덩이 발사기"
     }
 ]

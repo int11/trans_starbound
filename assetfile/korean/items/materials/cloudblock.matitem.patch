@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구름"
+        "path": "/description",
+        "value": "충분히 걸을 수 있을 정도로 조밀한 구름이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "충분히 걸을 수 있을 정도로 조밀한 구름이다."
+        "path": "/shortdescription",
+        "value": "구름"
     },
     {
         "op": "replace",

@@ -1,53 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;직물, 의상, 염색약"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;직물, 의상, 염색약"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "재봉틀"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "물레"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;물레^white;"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-        "value": "^orange;재봉틀^white;"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-        "value": "^orange;물레^white;"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "직물을 짜고 옷과 염색약을 만들 수 있게 한다."
     },
     {
         "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/description",
-        "value": "직물을 짜고 옷과 염색약을 만들 수 있게 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/description",
-        "value": "직물을 짜고 옷과 염색약을 만들 수 있게 한다."
+        "path": "/shortdescription",
+        "value": "^orange;물레^white;"
     },
     {
         "op": "replace",
@@ -86,6 +46,16 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/description",
+        "value": "직물을 짜고 옷과 염색약을 만들 수 있게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;물레^white;"
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
         "value": "一台纺车。裁缝的一样工具。"
     },
@@ -121,6 +91,26 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "물레"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;직물, 의상, 염색약"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "직물을 짜고 옷과 염색약을 만들 수 있게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+        "value": "^orange;재봉틀^white;"
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
         "value": "一台缝纫机。裁缝的一样工具。"
     },
@@ -148,6 +138,16 @@
         "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
         "value": "缝纫机也许不那么传统，但是它确实要更加高效多了。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "재봉틀"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;직물, 의상, 염색약"
     },
     {
         "op": "replace",

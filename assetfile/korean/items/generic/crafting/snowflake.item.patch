@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈송이"
+        "path": "/description",
+        "value": "완벽하게 보존된 눈송이다. 학자들이 말하길 이런 모양은 두개이상 있을 수 없다고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "완벽하게 보존된 눈송이다. 학자들이 말하길 이런 모양은 두개이상 있을 수 없다고 한다."
+        "path": "/shortdescription",
+        "value": "눈송이"
     }
 ]

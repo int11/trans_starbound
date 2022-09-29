@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "이거 식물이야, 고기야?"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "거대 세포? 누가 두고 갔대냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "낯설지만 고귀한 물체다. 그닥 끌리지는 않지만, 흥미롭다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 세포 징그럽게 크다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "물리학 수업이 떠오르네. 생물학이었나?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "정말 특이하다. 돌연변이인가? 맨 처음엔 뭐였을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "환상. 이 구조물의 기반이 뭐였을 지 상상도 안 간다."
+        "path": "/description",
+        "value": "기묘하게 뒤섞인 세포다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기묘하게 뒤섞인 세포다."
+        "path": "/apexDescription",
+        "value": "정말 특이하다. 돌연변이인가? 맨 처음엔 뭐였을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 세포 징그럽게 크다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이거 식물이야, 고기야?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "환상. 이 구조물의 기반이 뭐였을 지 상상도 안 간다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "물리학 수업이 떠오르네. 생물학이었나?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "낯설지만 고귀한 물체다. 그닥 끌리지는 않지만, 흥미롭다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "거대 세포? 누가 두고 갔대냐?"
     }
 ]

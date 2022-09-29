@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 독성 바다 풀."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "끈적 끈적 풀슢."
+        "path": "/description",
+        "value": "독성 바다풀이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독성 바다풀이다."
+        "path": "/floranDescription",
+        "value": "끈적 끈적 풀슢."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 독성 바다 풀."
     }
 ]

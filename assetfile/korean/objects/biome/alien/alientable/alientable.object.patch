@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이렇게 생긴 건 본 적이 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 탁자는 모든 것은 자신의 영혼을 가지고 있다는 걸 생각나게 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 탁자 밑으로 다리를 넣으면 편안함을 느끼질 못한다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "불편. 얼마나 괴상한 창조물인가."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 탁자 믿을 슈 없댜!"
+        "path": "/description",
+        "value": "외계 나무로 만든 탁자이다. 살아 있는 것처럼 보인다."
     },
     {
         "op": "replace",
@@ -31,8 +11,23 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계 나무로 만든 탁자이다. 살아 있는 것처럼 보인다."
+        "path": "/apexDescription",
+        "value": "난 더 산업적이게 보이는 탁자를 선호해."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 탁자 밑으로 다리를 넣으면 편안함을 느끼질 못한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 탁자 믿을 슈 없댜!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불편. 얼마나 괴상한 창조물인가."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "난 더 산업적이게 보이는 탁자를 선호해."
+        "path": "/hylotlDescription",
+        "value": "이 탁자는 모든 것은 자신의 영혼을 가지고 있다는 걸 생각나게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이렇게 생긴 건 본 적이 없어."
     }
 ]

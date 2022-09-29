@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보물이 채워진 상자"
+        "path": "/description",
+        "value": "보물로 채워진 나무 상자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "보물로 채워진 나무 상자다."
+        "path": "/shortdescription",
+        "value": "보물이 채워진 상자"
     },
     {
         "op": "replace",

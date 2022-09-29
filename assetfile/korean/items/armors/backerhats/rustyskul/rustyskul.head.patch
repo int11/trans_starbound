@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹슨 금속 머리뼈"
+        "path": "/description",
+        "value": "초미세 증폭에 의한 무한한 힘과 총은 포함되지 않는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "초미세 증폭에 의한 무한한 힘과 총은 포함되지 않는다."
+        "path": "/shortdescription",
+        "value": "녹슨 금속 머리뼈"
     }
 ]

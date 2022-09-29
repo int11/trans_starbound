@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감상. 이 야채는 집에서나 맛볼 수 있던 맛 이로군!"
+        "path": "/description",
+        "value": "생각보다 훨신 부드러운 볼트구근이다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "볼트구근 씨앗"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "생각보다 훨신 부드러운 볼트구근이다."
     },
     {
         "op": "replace",
@@ -28,6 +23,11 @@
         "op": "replace",
         "path": "/floranDescription",
         "value": "柔柔柔软的金属，不像电子人肉那样。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감상. 이 야채는 집에서나 맛볼 수 있던 맛 이로군!"
     },
     {
         "op": "replace",

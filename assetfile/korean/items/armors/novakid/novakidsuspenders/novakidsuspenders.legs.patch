@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "멜빵 바지"
+        "path": "/description",
+        "value": "한쌍의 멜빵 핀이 있는 바지이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "한쌍의 멜빵 핀이 있는 바지이다."
+        "path": "/shortdescription",
+        "value": "멜빵 바지"
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "왜 맨날 버튼만 보면 누르고 싶어서 못 참을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "왜 버튼은 죄다 누르고싶게 생긴 거야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "버튼만 보면 신물이 난다. 그래도 난 이걸 눌러야겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "버튼이다! 안 누르지 않을 수가 없다!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "버튼이다. 기능은 불명이다. 알아보려면 딱 한 가지 방법 뿐."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "욕구. 버튼이다. 눌러달라고 간청하고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 버튼 누른다!"
+        "path": "/description",
+        "value": "누르면 잠시동안이나마 재밌다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "누르면 잠시동안이나마 재밌다."
+        "path": "/apexDescription",
+        "value": "버튼이다. 기능은 불명이다. 알아보려면 딱 한 가지 방법 뿐."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "왜 맨날 버튼만 보면 누르고 싶어서 못 참을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 버튼 누른다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "욕구. 버튼이다. 눌러달라고 간청하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "버튼이다! 안 누르지 않을 수가 없다!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "버튼만 보면 신물이 난다. 그래도 난 이걸 눌러야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "왜 버튼은 죄다 누르고싶게 생긴 거야."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사악한 버섯 모자"
+        "path": "/description",
+        "value": "그것은 처다 보는걸 멈추지 않는다. 누가 그런 걸 만들었나?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "그것은 처다 보는걸 멈추지 않는다. 누가 그런 걸 만들었나?"
+        "path": "/shortdescription",
+        "value": "사악한 버섯 모자"
     }
 ]

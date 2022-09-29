@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "플로란 유물을 가져오기"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "네가 찾은 단서들은 ^orange;플로란 유물^reset;이 ^orange;사냥굴 의례터^reset;에 있음을 가리키는구나.  내가 찾은 단서들로 판단해 본 결과 ^green;사냥 의식을 완료해야 얻을 수 있을거야^reset;. SAIL에 네가 필요한 위치 좌표를 전송했단다. 조심하거라, 얘야."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/turnIn",
-        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/descriptions/artifact",
-        "value": "^green;사냥굴 의례터^reset;에 있는 ^orange;유물^reset;을 찾으세요."
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/missionRadioMessage/text",
-        "value": "방금 ^orange;사냥굴 의례터^reset;의 좌표를 전송받았습니다. 만약 함선으로 돌아오시면 ^green;제 콘솔을 이용해서^reset; 그곳으로 갈 수 있습니다."
     },
     {
         "op": "replace",
@@ -26,7 +16,17 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "플로란 유물을 가져오기"
+        "path": "/scriptConfig/missionRadioMessage/text",
+        "value": "방금 ^orange;사냥굴 의례터^reset;의 좌표를 전송받았습니다. 만약 함선으로 돌아오시면 ^green;제 콘솔을 이용해서^reset; 그곳으로 갈 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/artifact",
+        "value": "^green;사냥굴 의례터^reset;에 있는 ^orange;유물^reset;을 찾으세요."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/turnIn",
+        "value": "^orange;방주^reset;에 있는 ^orange;에스더^reset;에게로 돌아가세요."
     }
 ]

@@ -1,13 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "쭉 뻗은 동물 가죽 같은거야."
+        "path": "/description",
+        "value": "동물의 날가죽이 두 뼈 사이에 뻗어 마르고 있다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "플로란들이 이런 방법으로 가죽을 무두질하는군."
+        "path": "/shortdescription",
+        "value": "원시 무두질 걸이대."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "무두질에 쓸 걸이대일까? 아니면 이젤?"
     },
     {
         "op": "replace",
@@ -21,8 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "원시 무두질 걸이대."
+        "path": "/glitchDescription",
+        "value": "혼란. 이 걸이대의 용도는 동물의 가죽을 전시하는 것인가?"
     },
     {
         "op": "replace",
@@ -31,17 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "무두질에 쓸 걸이대일까? 아니면 이젤?"
+        "path": "/hylotlDescription",
+        "value": "플로란들이 이런 방법으로 가죽을 무두질하는군."
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 이 걸이대의 용도는 동물의 가죽을 전시하는 것인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "동물의 날가죽이 두 뼈 사이에 뻗어 마르고 있다."
+        "path": "/novakidDescription",
+        "value": "쭉 뻗은 동물 가죽 같은거야."
     }
 ]

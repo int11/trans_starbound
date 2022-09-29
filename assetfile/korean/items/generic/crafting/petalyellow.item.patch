@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "노랑색 꽃잎"
+        "path": "/description",
+        "value": "노랑색 꽃잎. 염색약으로 만들 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "노랑색 꽃잎. 염색약으로 만들 수 있다."
+        "path": "/shortdescription",
+        "value": "노랑색 꽃잎"
     }
 ]

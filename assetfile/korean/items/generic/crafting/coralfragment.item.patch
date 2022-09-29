@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "잉걸불 산호 조각"
+        "path": "/description",
+        "value": "포근한 열기를 내고있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "포근한 열기를 내고있다."
+        "path": "/shortdescription",
+        "value": "잉걸불 산호 조각"
     }
 ]

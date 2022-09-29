@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "반역자의 바지"
+        "path": "/description",
+        "value": "이 텅스텐 판으로 보강된 다리 장갑은 착용자의 이동을 제한하지 않는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 텅스텐 판으로 보강된 다리 장갑은 착용자의 이동을 제한하지 않는다."
+        "path": "/shortdescription",
+        "value": "반역자의 바지"
     }
 ]

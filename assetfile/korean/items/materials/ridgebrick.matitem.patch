@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "마루 블럭"
+        "path": "/description",
+        "value": "윗부분이 마루로 조각된 돌 벽돌이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "윗부분이 마루로 조각된 돌 벽돌이다."
+        "path": "/shortdescription",
+        "value": "마루 블럭"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "버섯 밥"
+        "path": "/description",
+        "value": "달걀을 부쳐 밥 위에 얹고 버섯을 올렸다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달걀을 부쳐 밥 위에 얹고 버섯을 올렸다."
+        "path": "/shortdescription",
+        "value": "버섯 밥"
     }
 ]

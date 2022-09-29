@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "무지개 나무 문"
+        "path": "/description",
+        "value": "무지개 나무로 만들어진 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무지개 나무로 만들어진 문이다."
+        "path": "/shortdescription",
+        "value": "무지개 나무 문"
     },
     {
         "op": "replace",

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 쓸모 많은 점액이지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "끄으은적거려."
+        "path": "/description",
+        "value": "역겨운, 끈적거리는 슬라임이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "역겨운, 끈적거리는 슬라임이다."
+        "path": "/floranDescription",
+        "value": "끄으은적거려."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 쓸모 많은 점액이지."
     }
 ]

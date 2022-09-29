@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구운 토마토"
+        "path": "/description",
+        "value": "부드럽고, 달콤하며 수분이 많다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부드럽고, 달콤하며 수분이 많다."
+        "path": "/shortdescription",
+        "value": "구운 토마토"
     }
 ]

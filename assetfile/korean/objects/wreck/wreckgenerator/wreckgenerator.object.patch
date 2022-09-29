@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 고철더미 발로 차주면 예전처럼 전기를 뽑아낼 수 있을거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "커다란 발전기네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "실망. 부숴진 발전기로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "낯션 부숴진 발전기야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "언젠가는 힘차게 돌아갔던 발전기겠지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "함선의 동력장치로 보이는데. 지금은 전기를 뽑아낼 수 없는 모양이야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 발전기가 작동하고 있었을 때에는 엄청난 양의 동력을 생산하고 있었겠군."
+        "path": "/description",
+        "value": "옛날 옛적에, 이 물건 몇 개가 함선 전체에 동력을 공급할 수 있었습니다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "옛날 옛적에, 이 물건 몇 개가 함선 전체에 동력을 공급할 수 있었습니다."
+        "path": "/apexDescription",
+        "value": "이 발전기가 작동하고 있었을 때에는 엄청난 양의 동력을 생산하고 있었겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "커다란 발전기네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낯션 부숴진 발전기야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 부숴진 발전기로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "함선의 동력장치로 보이는데. 지금은 전기를 뽑아낼 수 없는 모양이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "언젠가는 힘차게 돌아갔던 발전기겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 고철더미 발로 차주면 예전처럼 전기를 뽑아낼 수 있을거야!"
     }
 ]

@@ -6,6 +6,11 @@
     },
     {
         "op": "replace",
+        "path": "/gaterepair-gateFound1/text",
+        "value": "제 스캔 결과 이 ^orange;고대 에너지 발신원^reset;에서 이상한 라디오 신호가 송출되고 있습니다. 당신이 들을 수 있도록 수정해 드리겠습니다."
+    },
+    {
+        "op": "replace",
         "path": "/gaterepair-gateFound1b/text",
         "value": "혹시 이 메세지를 들으셨다면, 당신은 이 ^orange;고대의 관문^reset;을 찾으신겁니다. 이걸 사용해서 저를 찾아오세요. ^green;이 관문을 열려면 ^orange;핵 파편^green;이 필요할겁니다^reset;."
     },
@@ -13,11 +18,6 @@
         "op": "replace",
         "path": "/gaterepair-gateFound2/text",
         "value": "이 근처에 있는 ^orange;핵 파편^reset;을 스캔해봤습니다. 이것은 자연적으로 행성의 땅속에 생성된다고 합니다. 확인 결과 이 행성의 중심에 많은 량의 파편이 발견되었습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/gaterepair-gateFound1/text",
-        "value": "제 스캔 결과 이 ^orange;고대 에너지 발신원^reset;에서 이상한 라디오 신호가 송출되고 있습니다. 당신이 들을 수 있도록 수정해 드리겠습니다."
     },
     {
         "op": "replace",

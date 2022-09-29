@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "일렉트릭 베이스 기타"
+        "path": "/description",
+        "value": "일렉트릭 베이스 기타. 약간 리듬을 내려 놓는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "일렉트릭 베이스 기타. 약간 리듬을 내려 놓는다."
+        "path": "/shortdescription",
+        "value": "일렉트릭 베이스 기타"
     }
 ]

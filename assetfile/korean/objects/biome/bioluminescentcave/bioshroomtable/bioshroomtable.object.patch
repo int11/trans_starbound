@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "저 커다란 가짜 버섯은 탁자로 쓸수 있겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "지하 버섯처럼 생긴 이 테이블은, 그 빛까지 모방하고있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 테이블은 내 취향엔 좀 너무 밝은데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "여기서 무언가 먹는다면 환상적인 피크닉이 되겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "만약 네가 너무 배고프다면, 이 테이블을 먹을 수도 있겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "황홀. 이 크고 빛나는 테이블은 진짜 버섯처럼 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 고기를 쎨때 바위로 된 테이블을 샤용해."
+        "path": "/description",
+        "value": "거대하고 빛나는 버섯 탁자다. 어둠속에 앉아있기 적절하다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대하고 빛나는 버섯 탁자다. 어둠속에 앉아있기 적절하다."
+        "path": "/apexDescription",
+        "value": "만약 네가 너무 배고프다면, 이 테이블을 먹을 수도 있겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 테이블은 내 취향엔 좀 너무 밝은데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 고기를 쎨때 바위로 된 테이블을 샤용해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "황홀. 이 크고 빛나는 테이블은 진짜 버섯처럼 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여기서 무언가 먹는다면 환상적인 피크닉이 되겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "지하 버섯처럼 생긴 이 테이블은, 그 빛까지 모방하고있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저 커다란 가짜 버섯은 탁자로 쓸수 있겠는데."
     }
 ]

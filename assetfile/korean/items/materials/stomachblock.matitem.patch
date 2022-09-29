@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "위벽 블럭"
+        "path": "/description",
+        "value": "이 살덩어리는 마치 어느 생명체의 위를 연상케한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 살덩어리는 마치 어느 생명체의 위를 연상케한다."
+        "path": "/shortdescription",
+        "value": "위벽 블럭"
     },
     {
         "op": "replace",

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "바람에 흔들리는 나뭇잎 그림이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "나뭇잎을 그린 플로란 그림이다. 말 되네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "자부심. 누가 봐도 나뭇잎을 그린 그림이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 잎샤귀 모양 만든다. 잎샤귀 플로란 많이 닮았다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "플로란한테 창작욕이 있다고?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이건 기호일까, 그림일까?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "나뭇잎 그림이다."
+        "path": "/description",
+        "value": "떨어지는 나뭇잎을 그린 것으로 보인다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "떨어지는 나뭇잎을 그린 것으로 보인다."
+        "path": "/apexDescription",
+        "value": "나뭇잎 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이건 기호일까, 그림일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 잎샤귀 모양 만든다. 잎샤귀 플로란 많이 닮았다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자부심. 누가 봐도 나뭇잎을 그린 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "나뭇잎을 그린 플로란 그림이다. 말 되네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란한테 창작욕이 있다고?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "바람에 흔들리는 나뭇잎 그림이다."
     }
 ]

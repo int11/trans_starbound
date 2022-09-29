@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "뇌"
+        "path": "/description",
+        "value": "맥박치는 뇌 물질이다... 무슨 생각을 하고있을까?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "맥박치는 뇌 물질이다... 무슨 생각을 하고있을까?"
+        "path": "/shortdescription",
+        "value": "뇌"
     },
     {
         "op": "replace",

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이건 지도가 확실해."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "통로랑 방이 그려져있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "구역을 나타내는 그림일까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "기초적인 지도다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "디지털 지도같아보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 지금 우리가 있는 곳을 그린 지도같다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "구부러진 션 플로란 이해 못 한다."
+        "path": "/description",
+        "value": "이 출력기는 중앙실 주변의 갈라진 각각의 복도를 보여준다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 출력기는 중앙실 주변의 갈라진 각각의 복도를 보여준다."
+        "path": "/apexDescription",
+        "value": "디지털 지도같아보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "구역을 나타내는 그림일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "구부러진 션 플로란 이해 못 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 지금 우리가 있는 곳을 그린 지도같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "기초적인 지도다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "통로랑 방이 그려져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이건 지도가 확실해."
     }
 ]

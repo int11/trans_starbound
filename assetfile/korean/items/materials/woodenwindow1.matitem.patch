@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나무 테두리로 이뤄진 창문이다."
+        "path": "/shortdescription",
+        "value": "나무 창문"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 창문"
+        "path": "/description",
+        "value": "나무 테두리로 이뤄진 창문이다."
     },
     {
         "op": "replace",

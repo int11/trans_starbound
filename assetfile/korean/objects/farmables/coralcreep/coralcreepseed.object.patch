@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "깊은 저 바닷속 진짜 과일."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "의심. 바닷속에 사는 생물같은데, 어떻게 이런 게 과일이 될 수 있지?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "동물처럼 위장한 식물. 영리하다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "맛있는 산호덩굴. 진정한 진미다. 모두들 꼭 맛을 봐야 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "해산물 맛이 나는 과일이다. 진짜 징그럽다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "과일처럼 생겼는데 바닷가재맛이 난다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "산호덩굴. 겉모습과 달리 과일이다."
+        "path": "/description",
+        "value": "이 식물의 열매는 수상 생물처럼 생겼다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 식물의 열매는 수상 생물처럼 생겼다."
+        "path": "/apexDescription",
+        "value": "산호덩굴. 겉모습과 달리 과일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "해산물 맛이 나는 과일이다. 진짜 징그럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "동물처럼 위장한 식물. 영리하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의심. 바닷속에 사는 생물같은데, 어떻게 이런 게 과일이 될 수 있지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "과일처럼 생겼는데 바닷가재맛이 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "맛있는 산호덩굴. 진정한 진미다. 모두들 꼭 맛을 봐야 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "깊은 저 바닷속 진짜 과일."
     }
 ]

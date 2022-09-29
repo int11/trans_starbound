@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "철학. 부리씨가 부리처럼 생긴 걸까, 부리가 부리씨처럼 생긴 걸까?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "부리씨는 놀랍도록 맛있다. 이처럼 맛있는 부리는 세상 어디에도 없을 거다."
+        "path": "/description",
+        "value": "바삭 바삭한 부리씨가 자란다. 콧구멍 부분이 가장 맛있다고 한다."
     },
     {
         "op": "replace",
@@ -21,11 +16,6 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "실수로 진짜 부리를 먹고 싶어하는 사람은 없겠지."
-    },
-    {
-        "op": "replace",
         "path": "/avianDescription",
         "value": "잔칫상에서 부리씨를 먹는 아비안에 대한 전래동화가 있었다. 그거 좋아하는데."
     },
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
+        "path": "/glitchDescription",
+        "value": "철학. 부리씨가 부리처럼 생긴 걸까, 부리가 부리씨처럼 생긴 걸까?"
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "아비안 면상처럼 생긴 작물이다. 좀 불길한데."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바삭 바삭한 부리씨가 자란다. 콧구멍 부분이 가장 맛있다고 한다."
+        "path": "/hylotlDescription",
+        "value": "부리씨는 놀랍도록 맛있다. 이처럼 맛있는 부리는 세상 어디에도 없을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "실수로 진짜 부리를 먹고 싶어하는 사람은 없겠지."
     }
 ]

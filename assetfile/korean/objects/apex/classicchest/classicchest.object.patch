@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "좋은 샹자다!"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "진짜 멋있는 보물상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "상자만 보면 기대감으로 벅차오른다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "화려한 상자다. 쓸만한 게 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "보물상자를 손에 넣은 해적이 된 기분이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "상자다! 안에는 뭐가 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 자물쇠가 없다."
+        "path": "/description",
+        "value": "고전적 보물로 가득찬 고전적 상자다!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고전적 보물로 가득찬 고전적 상자다!"
+        "path": "/apexDescription",
+        "value": "상자다! 안에는 뭐가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "화려한 상자다. 쓸만한 게 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "좋은 샹자다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 자물쇠가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "보물상자를 손에 넣은 해적이 된 기분이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "상자만 보면 기대감으로 벅차오른다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "진짜 멋있는 보물상자다."
     }
 ]

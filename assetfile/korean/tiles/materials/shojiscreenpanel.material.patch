@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "매혹. 단순하면서도 전통적인 창호지 로군!"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "비싸 보이는 창호지"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "낮선 창호지."
+        "path": "/description",
+        "value": "전통적인 창호지다."
     },
     {
         "op": "replace",
@@ -21,7 +11,17 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전통적인 창호지다."
+        "path": "/glitchDescription",
+        "value": "매혹. 단순하면서도 전통적인 창호지 로군!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낮선 창호지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "비싸 보이는 창호지"
     }
 ]

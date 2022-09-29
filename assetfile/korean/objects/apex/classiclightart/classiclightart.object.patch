@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "그림에 불을 비추기 위한 조명이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "낙셔에 불 비춘다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그림을 환히 보라고 만든 등불이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "조명이 있으면 가장 아름다운 그림도 더욱 아름답게 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "은은한 빛이야 말로 시선을 한 곳에 모아두기 딱 좋은 방법이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "미술관 조명이다. 예술품을 비추기 딱이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "영감. 조명을 이 각도로 세우면 글리치 예술품에도 참 잘 맞을 것 같다."
+        "path": "/description",
+        "value": "천장 조명이다. 예술품에 비추기 안성맞춤이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "천장 조명이다. 예술품에 비추기 안성맞춤이다."
+        "path": "/apexDescription",
+        "value": "그림에 불을 비추기 위한 조명이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "은은한 빛이야 말로 시선을 한 곳에 모아두기 딱 좋은 방법이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낙셔에 불 비춘다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "영감. 조명을 이 각도로 세우면 글리치 예술품에도 참 잘 맞을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "미술관 조명이다. 예술품을 비추기 딱이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "조명이 있으면 가장 아름다운 그림도 더욱 아름답게 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그림을 환히 보라고 만든 등불이다."
     }
 ]

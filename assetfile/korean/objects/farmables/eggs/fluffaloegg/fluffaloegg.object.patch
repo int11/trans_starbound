@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "평범한 플루팔로의 알이야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "온순한 동물인 평범한 플루팔로의 알이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "플루팔로의 알, 평범한 종류의 알이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "플루팔로의 알! 작고 귀여운 플루팔로가 들어있다지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "평범한 플루팔로의 알, 다 자라면 식물성 섬유를 생산한다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "향수. 플루팔로는 글리치 농가에서 흔히 가축으로 선택되지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 큰 알 안에 커다란 짐슝이 있어, 바로 크고 다정한 플루팔로야!"
+        "path": "/description",
+        "value": "다 자라면 훌륭한 식물성 섬유 공급원이 되는, 연약하고 평범한 새끼 플루팔로가 부화한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다 자라면 훌륭한 식물성 섬유 공급원이 되는, 연약하고 평범한 새끼 플루팔로가 부화한다."
+        "path": "/apexDescription",
+        "value": "평범한 플루팔로의 알, 다 자라면 식물성 섬유를 생산한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "플루팔로의 알, 평범한 종류의 알이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 큰 알 안에 커다란 짐슝이 있어, 바로 크고 다정한 플루팔로야!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "향수. 플루팔로는 글리치 농가에서 흔히 가축으로 선택되지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "플루팔로의 알! 작고 귀여운 플루팔로가 들어있다지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "온순한 동물인 평범한 플루팔로의 알이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "평범한 플루팔로의 알이야."
     }
 ]

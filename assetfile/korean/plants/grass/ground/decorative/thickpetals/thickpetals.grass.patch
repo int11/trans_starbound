@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 질감이 뛰어난 매력적인 꽃이지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "멋져!"
+        "path": "/description",
+        "value": "아름다운 꽃이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아름다운 꽃이다."
+        "path": "/floranDescription",
+        "value": "멋져!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 질감이 뛰어난 매력적인 꽃이지."
     }
 ]

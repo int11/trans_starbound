@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "어여쁜 해바라기."
+        "path": "/description",
+        "value": "아름다운 해바라기다."
     },
     {
         "op": "replace",
@@ -11,12 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 아름다운 해바라기군."
+        "path": "/floranDescription",
+        "value": "어여쁜 해바라기."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아름다운 해바라기다."
+        "path": "/glitchDescription",
+        "value": "성명. 아름다운 해바라기군."
     }
 ]

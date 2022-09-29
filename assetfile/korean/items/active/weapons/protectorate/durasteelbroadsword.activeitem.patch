@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고강도강 장검"
+        "path": "/description",
+        "value": "단단한 고강도강으로 만들어진 도검. 이것보다 강력한 금속은 드물다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단단한 고강도강으로 만들어진 도검. 이것보다 강력한 금속은 드물다."
+        "path": "/shortdescription",
+        "value": "고강도강 장검"
     }
 ]

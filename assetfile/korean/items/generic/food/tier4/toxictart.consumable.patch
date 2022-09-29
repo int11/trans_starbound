@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "독성 타르트"
+        "path": "/description",
+        "value": "독무 잼으로 달리 뭘 할 수 있겠어?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독무 잼으로 달리 뭘 할 수 있겠어?"
+        "path": "/shortdescription",
+        "value": "독성 타르트"
     }
 ]

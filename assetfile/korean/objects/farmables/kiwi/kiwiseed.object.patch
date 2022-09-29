@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "평범한 키위맛이네!"
+        "path": "/description",
+        "value": "이 우주 키위종은 땅에서 자란다."
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "땅에서 자라는 키위니까, 띠위인가."
+        "path": "/shortdescription",
+        "value": "키위 씨"
     },
     {
         "op": "replace",
@@ -16,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "즐거움. 먹는 자들을 떠올릴 수 있게 해주는 과일이라니."
+        "path": "/avianDescription",
+        "value": "이상하고 보송보송한 과일이다. 맛난 씨앗으로 가득차있다."
     },
     {
         "op": "replace",
@@ -26,8 +26,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 우주 키위종은 땅에서 자란다."
+        "path": "/glitchDescription",
+        "value": "즐거움. 먹는 자들을 떠올릴 수 있게 해주는 과일이라니."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "땅에서 자라는 키위니까, 띠위인가."
     },
     {
         "op": "replace",
@@ -36,12 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이상하고 보송보송한 과일이다. 맛난 씨앗으로 가득차있다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "키위 씨"
+        "path": "/novakidDescription",
+        "value": "평범한 키위맛이네!"
     }
 ]

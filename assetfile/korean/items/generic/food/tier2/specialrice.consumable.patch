@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "특별한 볶음밥"
+        "path": "/description",
+        "value": "푸짐하게 담아낸 요리로 따스함을 느끼기에는 충분하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "푸짐하게 담아낸 요리로 따스함을 느끼기에는 충분하다."
+        "path": "/shortdescription",
+        "value": "특별한 볶음밥"
     }
 ]

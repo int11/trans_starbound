@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 꼬마 나무 인건가?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "아기 나무야."
+        "path": "/description",
+        "value": "작은 나무다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 나무다."
+        "path": "/floranDescription",
+        "value": "아기 나무야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 꼬마 나무 인건가?"
     }
 ]

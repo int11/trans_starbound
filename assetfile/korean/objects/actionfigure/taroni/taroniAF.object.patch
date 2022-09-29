@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타로니 모형"
+        "path": "/description",
+        "value": "\"타르를 먹으며 산다. 타르로 된 배설물은 이 생물이 있음을 나타낸다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"타르를 먹으며 산다. 타르로 된 배설물은 이 생물이 있음을 나타낸다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "타로니 모형"
     }
 ]

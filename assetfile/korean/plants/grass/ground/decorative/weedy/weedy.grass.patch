@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 어이없는 잡초로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 다른 식물과 다름 없이 잡초도 좋아해."
+        "path": "/description",
+        "value": "짜증나는 잡초다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "짜증나는 잡초다."
+        "path": "/floranDescription",
+        "value": "플로란은 다른 식물과 다름 없이 잡초도 좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 어이없는 잡초로군."
     }
 ]

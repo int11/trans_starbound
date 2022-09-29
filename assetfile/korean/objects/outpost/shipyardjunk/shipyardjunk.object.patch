@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조선소 고철"
+        "path": "/description",
+        "value": "함선의 부품들을 모이둔듯 하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "함선의 부품들을 모이둔듯 하다."
+        "path": "/shortdescription",
+        "value": "조선소 고철"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "피자"
+        "path": "/description",
+        "value": "피자 한 판! 전부 다 먹을 수 있지?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "피자 한 판! 전부 다 먹을 수 있지?"
+        "path": "/shortdescription",
+        "value": "피자"
     }
 ]

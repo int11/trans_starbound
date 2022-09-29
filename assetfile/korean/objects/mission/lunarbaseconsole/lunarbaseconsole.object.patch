@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "제어 조작기네. 요걸 누르면 무슨 일이 일어날까?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "원격 조작에 쓰는 전자기기야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "원한다면 조작 패널의 버튼을 누를 수 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "조작기. 뭘 조작한대?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "커다란 터치 스크린이 있는 조작기."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "경계. 이 조작기를 건드리면 무슨 일이 일어날지 모른다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "조작기 버튼 있다."
+        "path": "/description",
+        "value": "윤이나는 제어 조작기이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "윤이나는 제어 조작기이다."
+        "path": "/apexDescription",
+        "value": "커다란 터치 스크린이 있는 조작기."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "원한다면 조작 패널의 버튼을 누를 수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "조작기 버튼 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경계. 이 조작기를 건드리면 무슨 일이 일어날지 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "조작기. 뭘 조작한대?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "원격 조작에 쓰는 전자기기야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "제어 조작기네. 요걸 누르면 무슨 일이 일어날까?"
     }
 ]

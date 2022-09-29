@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오렌지"
+        "path": "/description",
+        "value": "아무리봐도 오렌지다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아무리봐도 오렌지다."
+        "path": "/shortdescription",
+        "value": "오렌지"
     }
 ]

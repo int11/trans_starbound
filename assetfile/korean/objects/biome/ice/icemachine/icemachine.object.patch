@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 기계"
+        "path": "/description",
+        "value": "얼음으로 만들어진 얼음 발사기다. 그게 얼음 얼음이다, 아가야."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼음으로 만들어진 얼음 발사기다. 그게 얼음 얼음이다, 아가야."
+        "path": "/shortdescription",
+        "value": "얼음 기계"
     },
     {
         "op": "replace",

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "난 이 오래된 백금 블록이 누군가에게는 가치로웠을거라고 생각한다."
+        "path": "/description",
+        "value": "전체 블록이 단단한 백금이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "백금 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "백금 블록"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "전체 블록이 단단한 백금이다."
+        "path": "/novakidDescription",
+        "value": "난 이 오래된 백금 블록이 누군가에게는 가치로웠을거라고 생각한다."
     }
 ]

@@ -6,8 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "난 이 플랫폼이 같은 무게의 은덩어리만큼 가치있다고 생각되"
+        "path": "/description",
+        "value": "이 세련된 플랫폼은 순수한 은으로 제작 됬다."
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 세련된 플랫폼은 순수한 은으로 제작 됬다."
+        "path": "/novakidDescription",
+        "value": "난 이 플랫폼이 같은 무게의 은덩어리만큼 가치있다고 생각되"
     }
 ]

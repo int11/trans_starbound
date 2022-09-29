@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "밝게 빛나는 전등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 광도가 인간 눈에 살짝 위험할 정도로 높다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 전등 만든 사람 살짝 정신줄 놓고 만들었구만."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "너무 밝은 전등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "불편하게시리 밝다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "밝은 빛이다. 지정부 감방을 떠오르게 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "신명나게 반짝거린다."
+        "path": "/description",
+        "value": "눈을 못 뜨게 할 정도로 밝은 형광등이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈을 못 뜨게 할 정도로 밝은 형광등이다."
+        "path": "/apexDescription",
+        "value": "밝은 빛이다. 지정부 감방을 떠오르게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "너무 밝은 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "신명나게 반짝거린다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 광도가 인간 눈에 살짝 위험할 정도로 높다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "불편하게시리 밝다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 전등 만든 사람 살짝 정신줄 놓고 만들었구만."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "밝게 빛나는 전등이다."
     }
 ]

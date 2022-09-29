@@ -1,93 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 기기는 내가 SAIL과 말을 나눌수 있게 해줘."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakeUp/4/0",
-        "value": "도망치는 도중 함선의 항해 시스템이 손상되었습니다. 현재 우리의 목적지는 알 수 없습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakeUp/3/0",
-        "value": "지구는 알수없는 적에게 공격 당했고, 그 결과 절멸당했습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakeUp/2/0",
-        "value": "또한 저는 당신에게 조언과 정보를 알려드리기 위해 프로그래밍 되어있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakeUp/1/0",
-        "value": "저는 S.A.I.L 입니다. 당신의 함선-기반 인공 지능 비서 이며, 제 역할은 당신의 함선을 관리하는 것입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakeUp/0/0",
-        "value": "재가동 중..."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakePlayer/5/0",
-        "value": "재가동을 하려면 의식이 있는 생명체가 S.A.I.L 조작기와 상호작용을 해야합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakePlayer/4/0",
-        "value": "재가동은 함선의 상호작용 만족도를 73%까지 끌어올릴 수 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakePlayer/3/0",
-        "value": "S.A.I.L을 사용하기 위해서는 재가동을 해야합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakePlayer/2/0",
-        "value": "재가동 작업이 진행되지 않았습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakePlayer/1/0",
-        "value": "시스템을 재가동 하십시오."
-    },
-    {
-        "op": "replace",
-        "path": "/dialog/wakePlayer/0/0",
-        "value": "시스템이 종료되었습니다, 시스템을 재가동 하십시오."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 조작기는 나와 SAIL 간의 소통을 가능하게 해준다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이걸 사용해서 SAIL과 대화 할 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 기기는 나와 SAIL 간의 소통을 가능하게 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 조작기로 SAIL과 대화할 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "행복. 이 콘솔은 내가 SAIL 과 말을 나눌수 있도록 해주지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 이 마법의 창문으로 SAIL 과 말한다!"
+        "path": "/description",
+        "value": "함선-기반 인공지능 비서. 또는 줄여서 S.A.I.L"
     },
     {
         "op": "replace",
@@ -96,7 +11,114 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "함선-기반 인공지능 비서. 또는 줄여서 S.A.I.L"
+        "path": "/apexDescription",
+        "value": "이 조작기로 SAIL과 대화할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이걸 사용해서 SAIL과 대화 할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 이 마법의 창문으로 SAIL 과 말한다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "행복. 이 콘솔은 내가 SAIL 과 말을 나눌수 있도록 해주지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 기기는 나와 SAIL 간의 소통을 가능하게 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 조작기는 나와 SAIL 간의 소통을 가능하게 해준다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 기기는 내가 SAIL과 말을 나눌수 있게 해줘."
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakeUp/0",
+        "value": [
+            "재가동 중..."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakeUp/1",
+        "value": [
+            "저는 S.A.I.L 입니다. 당신의 함선-기반 인공 지능 비서 이며, 제 역할은 당신의 함선을 관리하는 것입니다."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakeUp/2",
+        "value": [
+            "또한 저는 당신에게 조언과 정보를 알려드리기 위해 프로그래밍 되어있습니다."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakeUp/3",
+        "value": [
+            "지구는 알수없는 적에게 공격 당했고, 그 결과 절멸당했습니다."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakeUp/4",
+        "value": [
+            "도망치는 도중 함선의 항해 시스템이 손상되었습니다. 현재 우리의 목적지는 알 수 없습니다."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakePlayer/0",
+        "value": [
+            "시스템이 종료되었습니다, 시스템을 재가동 하십시오."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakePlayer/1",
+        "value": [
+            "시스템을 재가동 하십시오."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakePlayer/2",
+        "value": [
+            "재가동 작업이 진행되지 않았습니다."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakePlayer/3",
+        "value": [
+            "S.A.I.L을 사용하기 위해서는 재가동을 해야합니다."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakePlayer/4",
+        "value": [
+            "재가동은 함선의 상호작용 만족도를 73%까지 끌어올릴 수 있습니다."
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/dialog/wakePlayer/5",
+        "value": [
+            "재가동을 하려면 의식이 있는 생명체가 S.A.I.L 조작기와 상호작용을 해야합니다."
+        ]
     }
 ]

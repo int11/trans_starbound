@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "문닫은 테라마트"
+        "path": "/description",
+        "value": "옥상위로 식물이 자라나 있는 상점이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "옥상위로 식물이 자라나 있는 상점이다."
+        "path": "/shortdescription",
+        "value": "문닫은 테라마트"
     },
     {
         "op": "replace",

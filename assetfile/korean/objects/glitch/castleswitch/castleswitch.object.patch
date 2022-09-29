@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "신남. 글리치는 이런 수정 뒤에 스위치를 숨겨놓는다."
+        "path": "/description",
+        "value": "겉보기보다 수상한 수정이다."
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝이는 슈정, 너 뭐 하냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 수정 어디에 쓰는 것 같은데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "커다란 수정이다. 다른 목적이 있는 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "그냥 수정인가? 아니야... 뭔가 더 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 수정에 뭔가 있을 텐데."
+        "path": "/shortdescription",
+        "value": "보석 스위치"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "겉보기보다 수상한 수정이다."
+        "path": "/avianDescription",
+        "value": "그냥 수정인가? 아니야... 뭔가 더 있어."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보석 스위치"
+        "path": "/floranDescription",
+        "value": "반짝이는 슈정, 너 뭐 하냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "신남. 글리치는 이런 수정 뒤에 스위치를 숨겨놓는다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 수정에 뭔가 있을 텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "커다란 수정이다. 다른 목적이 있는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 수정 어디에 쓰는 것 같은데."
     }
 ]

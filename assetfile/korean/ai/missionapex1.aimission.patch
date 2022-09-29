@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/speciesText/default/repeatButtonText",
-        "value": "지정부 근거지 재도전"
+        "path": "/speciesText/default/buttonText",
+        "value": "지정부 근거지"
     },
     {
         "op": "replace",
-        "path": "/speciesText/default/buttonText",
-        "value": "지정부 근거지"
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "지정부 근거지 재도전"
     },
     {
         "op": "replace",

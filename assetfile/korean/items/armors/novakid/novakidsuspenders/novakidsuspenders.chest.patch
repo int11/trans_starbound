@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "멜빵 셔츠"
+        "path": "/description",
+        "value": "멜빵이 달린 세련된 셔츠이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "멜빵이 달린 세련된 셔츠이다."
+        "path": "/shortdescription",
+        "value": "멜빵 셔츠"
     }
 ]

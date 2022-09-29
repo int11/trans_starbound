@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에르키우스 눈"
+        "path": "/description",
+        "value": "에르키우스 호러의 눈이다! 적들에게 집중시키자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "에르키우스 호러의 눈이다! 적들에게 집중시키자."
+        "path": "/shortdescription",
+        "value": "에르키우스 눈"
     },
     {
         "op": "replace",

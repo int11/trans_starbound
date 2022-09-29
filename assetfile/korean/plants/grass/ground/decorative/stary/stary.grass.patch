@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 매력적인 꽃이오."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "해애애..."
+        "path": "/description",
+        "value": "매력적인 꽃."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매력적인 꽃."
+        "path": "/floranDescription",
+        "value": "해애애..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 매력적인 꽃이오."
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "이 절지 동물의 두꺼운 외골격은 이 생물을 수백만 년 동안 살아남도록 도왔다."
+        "path": "/shortdescription",
+        "value": "익조둠 머리뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "화석화된 익조둠 머리뼈."
     },
     {
         "op": "replace",
@@ -11,12 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "익조둠 머리뼈"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석화된 익조둠 머리뼈."
+        "path": "/completeSetDescriptions/description",
+        "value": "이 절지 동물의 두꺼운 외골격은 이 생물을 수백만 년 동안 살아남도록 도왔다."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "루케인의 에너지 채찍"
+        "path": "/description",
+        "value": "순수한 에너지로 만든 채찍. 자, 게임을 시작해볼까!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "순수한 에너지로 만든 채찍. 자, 게임을 시작해볼까!"
+        "path": "/shortdescription",
+        "value": "루케인의 에너지 채찍"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 상자"
+        "path": "/description",
+        "value": "얼음 상자다. 완전히 안전하다, 녹기전 까지는."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼음 상자다. 완전히 안전하다, 녹기전 까지는."
+        "path": "/shortdescription",
+        "value": "얼음 상자"
     },
     {
         "op": "replace",

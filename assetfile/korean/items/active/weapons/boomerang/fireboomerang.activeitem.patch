@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "맹염 부매랑"
+        "path": "/description",
+        "value": "녹아버린 코어를 가지고있는 매우 뜨거운 부매랑."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "녹아버린 코어를 가지고있는 매우 뜨거운 부매랑."
+        "path": "/shortdescription",
+        "value": "맹염 부매랑"
     },
     {
         "op": "replace",

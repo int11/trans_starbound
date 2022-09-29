@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "그을린 핵"
+        "path": "/description",
+        "value": "불의 능력을 가진 생명체의 근원이다. 제작에 사용할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "불의 능력을 가진 생명체의 근원이다. 제작에 사용할 수 있다."
+        "path": "/shortdescription",
+        "value": "그을린 핵"
     }
 ]

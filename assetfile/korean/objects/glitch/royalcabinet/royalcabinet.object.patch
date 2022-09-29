@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "왕실 사물함"
+        "path": "/description",
+        "value": "귀중한 것들은 여기 보관해야한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "귀중한 것들은 여기 보관해야한다."
+        "path": "/shortdescription",
+        "value": "왕실 사물함"
     },
     {
         "op": "replace",

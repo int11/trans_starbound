@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "대나무 문"
+        "path": "/description",
+        "value": "이문은 악천후를 막는데 가장 적합하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이문은 악천후를 막는데 가장 적합하다."
+        "path": "/shortdescription",
+        "value": "대나무 문"
     },
     {
         "op": "replace",

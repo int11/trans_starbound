@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "트라이앵글륨 광석"
+        "path": "/description",
+        "value": "트라이앵글륨 광석이다. 아름답고 부드러우며 빛나는 삼각형이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "트라이앵글륨 광석이다. 아름답고 부드러우며 빛나는 삼각형이다."
+        "path": "/shortdescription",
+        "value": "트라이앵글륨 광석"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고강도강 리볼버"
+        "path": "/description",
+        "value": "지독하게 강력한 거대한 권총이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "지독하게 강력한 거대한 권총이다."
+        "path": "/shortdescription",
+        "value": "고강도강 리볼버"
     }
 ]

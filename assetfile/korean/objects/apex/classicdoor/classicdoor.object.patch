@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "손잡이가 아주 힘세고 번쩍이는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "방해. 감지기가 문에서 특이한 냄새를 감지한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "나무에셔 에이펙스 노란 과일 냄섀 난다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "바나나가 주입된 고전적 나무문에 금손잡이가 달려있다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "향기 나는 목재라, 하이로틀 공예의 기초다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "몇 안 되는 사람들에게만 열리는 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "문에서... 바나나 냄새가?"
+        "path": "/shortdescription",
+        "value": "클래식 문"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "클래식 문"
+        "path": "/avianDescription",
+        "value": "몇 안 되는 사람들에게만 열리는 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "나무에셔 에이펙스 노란 과일 냄섀 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "방해. 감지기가 문에서 특이한 냄새를 감지한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "문에서... 바나나 냄새가?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "향기 나는 목재라, 하이로틀 공예의 기초다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "손잡이가 아주 힘세고 번쩍이는걸."
     }
 ]

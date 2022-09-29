@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 구역의 위험한 놈은 바로 나야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "깔끔하면서 이상야릇한 경고다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "근처에 위험한 게 있는 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "위험이 도사리고 있다는 거야 표지판 자체가 위험하다는 거야? 모서리가 날카롭긴 하다만."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "위험표시다. 하지만 대체 뭐가 위험한 건지는 안 알려준다..."
+        "path": "/description",
+        "value": "\"위험\"이라고 쓰여있다. 아니 이 사람들이 내 호를 어떻게 알고?"
     },
     {
         "op": "replace",
@@ -31,8 +11,18 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"위험\"이라고 쓰여있다. 아니 이 사람들이 내 호를 어떻게 알고?"
+        "path": "/apexDescription",
+        "value": "위험표시다. 하지만 대체 뭐가 위험한 건지는 안 알려준다..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "근처에 위험한 게 있는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 위험 면샹한테 웃는다. 하하!"
     },
     {
         "op": "replace",
@@ -41,7 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 위험 면샹한테 웃는다. 하하!"
+        "path": "/humanDescription",
+        "value": "위험이 도사리고 있다는 거야 표지판 자체가 위험하다는 거야? 모서리가 날카롭긴 하다만."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "깔끔하면서 이상야릇한 경고다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 구역의 위험한 놈은 바로 나야."
     }
 ]

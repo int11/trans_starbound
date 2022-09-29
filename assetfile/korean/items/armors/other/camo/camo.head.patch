@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "카모 헬멧"
+        "path": "/description",
+        "value": "머리를 숙이면 발견하기 쉽지 않다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "머리를 숙이면 발견하기 쉽지 않다"
+        "path": "/shortdescription",
+        "value": "카모 헬멧"
     }
 ]

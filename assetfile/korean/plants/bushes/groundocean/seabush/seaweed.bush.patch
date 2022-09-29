@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 바다의 수풀이오."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "끈적이는 잡초."
+        "path": "/description",
+        "value": "미역이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "미역이다."
+        "path": "/floranDescription",
+        "value": "끈적이는 잡초."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 바다의 수풀이오."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우주기지에 일반적으로 사용되는 벽 제재다."
+        "path": "/shortdescription",
+        "value": "관문기지 벽"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "관문기지 벽"
+        "path": "/description",
+        "value": "우주기지에 일반적으로 사용되는 벽 제재다."
     },
     {
         "op": "replace",

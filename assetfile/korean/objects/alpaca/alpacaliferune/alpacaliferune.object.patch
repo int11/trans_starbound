@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "생명 자체를 나타내는 룬 문자로군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "낙관. 이 오래된 룬 문자는 생명의 미덕을 가르키네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "오래된 상징, 이건 슈명을 나타낸댜."
+        "path": "/description",
+        "value": "생명의 상징인 고대의 룬 문자이다."
     },
     {
         "op": "replace",
@@ -21,18 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "생명의 상징인 고대의 룬 문자이다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "룬 하나에 모든 생명 표현, 하나의 문자에겐 너무 어려운 주문이야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "한 글자에 모든 생명을 표현한 고대의 표식이다."
+        "path": "/apexDescription",
+        "value": "생명 자체를 나타내는 룬 문자로군."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "오래된 상징, 이건 슈명을 나타낸댜."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "낙관. 이 오래된 룬 문자는 생명의 미덕을 가르키네."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "듣기로는, 이 오래된 룬의 상징은 생명이라더라."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "한 글자에 모든 생명을 표현한 고대의 표식이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "룬 하나에 모든 생명 표현, 하나의 문자에겐 너무 어려운 주문이야."
     }
 ]

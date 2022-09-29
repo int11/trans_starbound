@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하이로틀은 이런 것에 대해서 편견을 가지지 않아"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "그래, 모두가 거짓말을 할때 하난 정말로 진실을 말하지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "지정부가 여기에 사람들을 묻는걸 낭비라고 여기지..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "여기에 정말 맛있는 고기를 묻는다고?"
+        "path": "/description",
+        "value": "불사의 좀비 흉내내기에 딱좋은 으시시한 관이다!"
     },
     {
         "op": "replace",
@@ -26,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "불사의 좀비 흉내내기에 딱좋은 으시시한 관이다!"
+        "path": "/apexDescription",
+        "value": "지정부가 여기에 사람들을 묻는걸 낭비라고 여기지..."
     },
     {
         "op": "replace",
@@ -36,8 +21,23 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "여기에 정말 맛있는 고기를 묻는다고?"
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "不适。这个棺木床给我一种不祥的预感。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "그래, 모두가 거짓말을 할때 하난 정말로 진실을 말하지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀은 이런 것에 대해서 편견을 가지지 않아"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "실리콘 기판"
+        "path": "/description",
+        "value": "실리콘 기판이다. 전자제품을 만드는데 사용한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "실리콘 기판이다. 전자제품을 만드는데 사용한다."
+        "path": "/shortdescription",
+        "value": "실리콘 기판"
     }
 ]

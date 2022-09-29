@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가짜 스패로우 면허"
+        "path": "/description",
+        "value": "함선을 영구히 더 큰 스패로우급 코르벳함으로 업그레이드 하게 허용해준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "함선을 영구히 더 큰 스패로우급 코르벳함으로 업그레이드 하게 허용해준다."
+        "path": "/shortdescription",
+        "value": "가짜 스패로우 면허"
     }
 ]

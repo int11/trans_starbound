@@ -6,6 +6,11 @@
     },
     {
         "op": "replace",
+        "path": "/charCreationTooltip/subTitle",
+        "value": "어떻게 이걸 읽고 있는 거야?"
+    },
+    {
+        "op": "replace",
         "path": "/charCreationTooltip/description",
         "value": "여기에 뭐라 써야할 지 모르겠다"
     },
@@ -24,10 +29,5 @@
             "펭귄",
             "성격"
         ]
-    },
-    {
-        "op": "replace",
-        "path": "/charCreationTooltip/subTitle",
-        "value": "어떻게 이걸 읽고 있는 거야?"
     }
 ]

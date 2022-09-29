@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "왕실 상자"
+        "path": "/description",
+        "value": "이 상자는 내용물을 볼 것도 없이 그자체로 보물이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 상자는 내용물을 볼 것도 없이 그자체로 보물이다."
+        "path": "/shortdescription",
+        "value": "왕실 상자"
     },
     {
         "op": "replace",

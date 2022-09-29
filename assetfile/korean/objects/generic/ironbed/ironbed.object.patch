@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "날카로운 침대"
+        "path": "/description",
+        "value": "검으로 만든 철 침대다. 강력한 낮잠을 자기 적합하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "검으로 만든 철 침대다. 강력한 낮잠을 자기 적합하다."
+        "path": "/shortdescription",
+        "value": "날카로운 침대"
     },
     {
         "op": "replace",

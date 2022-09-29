@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "구조 신호기인 것 같다. 누가 작동시켰을 지 궁금하다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "누군가 도움이 필요하다. 약자를 지키는 건 언제나 가치있는 일이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "구조 신호기다. 누군가 곤경에 처해있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "신호기가 구조신호를 보내고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "구조 신호기다. 작동시킨 사람이 무사했으면 좋겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 구조 신호기는 다양한 수의 주파수를 발산내고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 샤냥하듯 돕는다. 가끔씩은."
+        "path": "/description",
+        "value": "구조 신호기다. 누가 들을 지 누가 알아?"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "구조 신호기다. 누가 들을 지 누가 알아?"
+        "path": "/apexDescription",
+        "value": "구조 신호기다. 작동시킨 사람이 무사했으면 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "구조 신호기다. 누군가 곤경에 처해있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샤냥하듯 돕는다. 가끔씩은."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 구조 신호기는 다양한 수의 주파수를 발산내고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "신호기가 구조신호를 보내고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "누군가 도움이 필요하다. 약자를 지키는 건 언제나 가치있는 일이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "구조 신호기인 것 같다. 누가 작동시켰을 지 궁금하다."
     }
 ]

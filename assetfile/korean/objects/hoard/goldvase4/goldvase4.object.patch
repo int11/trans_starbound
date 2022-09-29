@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "얇은 황금 꽃병이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "얇은 황금 꽃병이다. 값이 좀 나갈지도."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "확신. 얇은 황금 꽃병이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "꽃병이 금으로 되어 있어!"
+        "path": "/description",
+        "value": "호리호리한 황금 꽃병이다."
     },
     {
         "op": "replace",
@@ -26,13 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "호리호리한 황금 꽃병이다."
+        "path": "/apexDescription",
+        "value": "一个黄金细长花瓶。太奢侈了。"
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "一个黄金细长花瓶。太奢侈了。"
+        "path": "/avianDescription",
+        "value": "얇은 황금 꽃병이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "꽃병이 금으로 되어 있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "확신. 얇은 황금 꽃병이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "얇은 황금 꽃병이다. 값이 좀 나갈지도."
     },
     {
         "op": "replace",

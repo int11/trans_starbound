@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스룸 문"
+        "path": "/description",
+        "value": "버섯으로 만든 문이다. 심지어 귀여운 버섯 손잡이도 가지고 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "버섯으로 만든 문이다. 심지어 귀여운 버섯 손잡이도 가지고 있다."
+        "path": "/shortdescription",
+        "value": "스룸 문"
     },
     {
         "op": "replace",

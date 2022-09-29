@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "철 탁자"
+        "path": "/description",
+        "value": "간단한 철 탁자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단한 철 탁자다."
+        "path": "/shortdescription",
+        "value": "철 탁자"
     },
     {
         "op": "replace",

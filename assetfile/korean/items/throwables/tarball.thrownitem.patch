@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "맞으면 끈적한게 묻어난다."
+        "path": "/shortdescription",
+        "value": "타르덩이"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타르덩이"
+        "path": "/description",
+        "value": "맞으면 끈적한게 묻어난다."
     }
 ]

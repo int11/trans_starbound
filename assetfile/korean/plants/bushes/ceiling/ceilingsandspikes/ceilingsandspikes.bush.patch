@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 모래 가시 아닌가."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "모오래 같고 뾰오족해."
+        "path": "/description",
+        "value": "모래 가시다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "모래 가시다."
+        "path": "/floranDescription",
+        "value": "모오래 같고 뾰오족해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 모래 가시 아닌가."
     }
 ]

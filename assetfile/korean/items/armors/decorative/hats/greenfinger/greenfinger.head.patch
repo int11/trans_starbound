@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "원예가의 머리장식"
+        "path": "/description",
+        "value": "부족의 원예가를 나타내는 플로란의 화려한 머리 장식."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부족의 원예가를 나타내는 플로란의 화려한 머리 장식."
+        "path": "/shortdescription",
+        "value": "원예가의 머리장식"
     }
 ]

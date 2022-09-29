@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "인상적인 동상이야. 이 에이펙스는 뉘지?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "평범한 돌을 기계로 가공했다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "훌륭하게 조각됐어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 사람은 중요해 보이는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 사람이 얼마나 많은 가정을 파괴했는지 궁금한데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "그리움. 이걸 보고 있자니, 우리 왕의 동상이 생각나는군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "돌로 된 식샤 먹으면 이빨 깨져."
+        "path": "/description",
+        "value": "중요한 에이펙스의 흉상이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "중요한 에이펙스의 흉상이다."
+        "path": "/apexDescription",
+        "value": "이 사람이 얼마나 많은 가정을 파괴했는지 궁금한데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "훌륭하게 조각됐어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "돌로 된 식샤 먹으면 이빨 깨져."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "그리움. 이걸 보고 있자니, 우리 왕의 동상이 생각나는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 사람은 중요해 보이는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "평범한 돌을 기계로 가공했다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "인상적인 동상이야. 이 에이펙스는 뉘지?"
     }
 ]

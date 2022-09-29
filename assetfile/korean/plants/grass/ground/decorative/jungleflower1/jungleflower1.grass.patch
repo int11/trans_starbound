@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "설명. 정글 지역의 토종 꽃."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 꽃을 보면 집이 생각나."
+        "path": "/description",
+        "value": "이국적인 정글 꽃."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이국적인 정글 꽃."
+        "path": "/floranDescription",
+        "value": "플로란은 꽃을 보면 집이 생각나."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 정글 지역의 토종 꽃."
     }
 ]

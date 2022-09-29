@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기술 정비 조작기"
+        "path": "/description",
+        "value": "이 작업대를 통해서 원격으로 기술을 장비하고 교체할 수 있다. \n^red;배치후 회수시 파손되니 주의하자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 작업대를 통해서 원격으로 기술을 장비하고 교체할 수 있다. \n^red;배치후 회수시 파손되니 주의하자."
+        "path": "/shortdescription",
+        "value": "기술 정비 조작기"
     },
     {
         "op": "replace",

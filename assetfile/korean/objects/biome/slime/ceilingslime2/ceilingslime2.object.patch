@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 점액 만지기 싫다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "점액이 스며나온다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "피부가 이미 미끌거리는데 점액 정도야 별 거 없지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "역겨운 점액구."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "점액 넘나 징그러운 것."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "점액 보관소다. 새어서 흘러나오는 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혐오. 끈적거리는 점액 보관소다."
+        "path": "/description",
+        "value": "새어나오는 점액 방울이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "새어나오는 점액 방울이다."
+        "path": "/apexDescription",
+        "value": "점액 보관소다. 새어서 흘러나오는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "역겨운 점액구."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 점액 만지기 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 끈적거리는 점액 보관소다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "점액 넘나 징그러운 것."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "피부가 이미 미끌거리는데 점액 정도야 별 거 없지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "점액이 스며나온다."
     }
 ]

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상태. 산호."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "뾰족한 산호다."
+        "path": "/description",
+        "value": "산호다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "산호다."
+        "path": "/floranDescription",
+        "value": "뾰족한 산호다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 산호."
     }
 ]

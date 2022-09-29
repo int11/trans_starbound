@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이런 우주선에서 따온 아이디어는 하이로틀입장에선 우수울 뿐이야."
+        "path": "/description",
+        "value": "마치 지구의 우주 왕복선을 연상케하는 가로로된 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "수직이륙 의자"
     },
     {
         "op": "replace",
@@ -16,21 +21,6 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 엄청난 디자인은 뭐지? 난 여전히 견딜 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "수직이륙 의자"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "마치 지구의 우주 왕복선을 연상케하는 가로로된 의자다."
-    },
-    {
-        "op": "replace",
         "path": "/floranDescription",
         "value": "在通过宇宇宇宙的时候躺着别有一番乐趣。"
     },
@@ -38,6 +28,16 @@
         "op": "replace",
         "path": "/glitchDescription",
         "value": "着迷。在旅途中躺在上面是个机智的主意。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 엄청난 디자인은 뭐지? 난 여전히 견딜 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이런 우주선에서 따온 아이디어는 하이로틀입장에선 우수울 뿐이야."
     },
     {
         "op": "replace",

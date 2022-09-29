@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사탕 블록"
+        "path": "/description",
+        "value": "달콤한 냄새가 나는 바위 사탕이다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달콤한 냄새가 나는 바위 사탕이다!"
+        "path": "/shortdescription",
+        "value": "사탕 블록"
     },
     {
         "op": "replace",

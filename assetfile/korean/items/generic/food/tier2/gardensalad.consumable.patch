@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "싱싱한 샐러드"
+        "path": "/description",
+        "value": "영양가 가득한 여러 채소가 섞여 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "영양가 가득한 여러 채소가 섞여 있다."
+        "path": "/shortdescription",
+        "value": "싱싱한 샐러드"
     }
 ]

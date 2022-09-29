@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부자 모자"
+        "path": "/description",
+        "value": "단안경과 수염이 달린 팬시한 모자입니다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단안경과 수염이 달린 팬시한 모자입니다"
+        "path": "/shortdescription",
+        "value": "부자 모자"
     }
 ]

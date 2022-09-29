@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 방울 져서 떨어지는 타르."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "끄은적한 검은 방울!"
+        "path": "/description",
+        "value": "방울 져서 떨어지는 타르."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "방울 져서 떨어지는 타르."
+        "path": "/floranDescription",
+        "value": "끄은적한 검은 방울!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 방울 져서 떨어지는 타르."
     }
 ]

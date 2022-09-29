@@ -21,11 +21,6 @@
     },
     {
         "op": "replace",
-        "path": "/gui/lblSlot_rightArm/value",
-        "value": "오른쪽 팔"
-    },
-    {
-        "op": "replace",
         "path": "/gui/lblSlot_legs/value",
         "value": "다리"
     },
@@ -33,6 +28,11 @@
         "op": "replace",
         "path": "/gui/lblSlot_booster/value",
         "value": "추진기"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/lblSlot_rightArm/value",
+        "value": "오른쪽 팔"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금 표본"
+        "path": "/description",
+        "value": "\"금 광석의 완벽한 표본이다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"금 광석의 완벽한 표본이다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "금 표본"
     }
 ]

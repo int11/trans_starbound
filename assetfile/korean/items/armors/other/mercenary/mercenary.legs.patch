@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "용병의 각반"
+        "path": "/description",
+        "value": "용병에게 작은 멋을 선사한다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "용병에게 작은 멋을 선사한다"
+        "path": "/shortdescription",
+        "value": "용병의 각반"
     }
 ]

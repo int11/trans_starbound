@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "무거운 돌 벽돌"
+        "path": "/description",
+        "value": "튼튼한 돌 석판, 성을 만들때 쓰면 좋다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "튼튼한 돌 석판, 성을 만들때 쓰면 좋다."
+        "path": "/shortdescription",
+        "value": "무거운 돌 벽돌"
     },
     {
         "op": "replace",

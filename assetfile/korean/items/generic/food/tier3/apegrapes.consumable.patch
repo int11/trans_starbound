@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "그에이프"
+        "path": "/description",
+        "value": "포도와 바나나를 뒤섞은 건강식이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "포도와 바나나를 뒤섞은 건강식이다."
+        "path": "/shortdescription",
+        "value": "그에이프"
     }
 ]

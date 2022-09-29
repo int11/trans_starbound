@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "헐거운 유사"
+        "path": "/description",
+        "value": "유사로군. 떨어질거 같은데..."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유사로군. 떨어질거 같은데..."
+        "path": "/shortdescription",
+        "value": "헐거운 유사"
     },
     {
         "op": "replace",

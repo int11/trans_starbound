@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아스트로 세이버 DX"
+        "path": "/description",
+        "value": "칼날에 \"너 스스로 하이파이브를 표현해봐!\"라고 새겨져있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "칼날에 \"너 스스로 하이파이브를 표현해봐!\"라고 새겨져있다."
+        "path": "/shortdescription",
+        "value": "아스트로 세이버 DX"
     }
 ]

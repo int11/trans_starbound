@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 얼음은 굉장히 매끄러운걸."
+        "path": "/description",
+        "value": "약간 자연스러운 매끄러운 얼음."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "매끄러운 얼음"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "매끄러운 얼음"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "약간 자연스러운 매끄러운 얼음."
+        "path": "/novakidDescription",
+        "value": "이 얼음은 굉장히 매끄러운걸."
     }
 ]

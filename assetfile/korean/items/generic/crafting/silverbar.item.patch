@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "은 주괴 (Silver Bar)"
+        "path": "/description",
+        "value": "은 주괴를 만드는데 쓰이는 광석은 모든 항성 주위의 행성의 중간 깊이에서 발견된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "은 주괴를 만드는데 쓰이는 광석은 모든 항성 주위의 행성의 중간 깊이에서 발견된다."
+        "path": "/shortdescription",
+        "value": "은 주괴 (Silver Bar)"
     }
 ]

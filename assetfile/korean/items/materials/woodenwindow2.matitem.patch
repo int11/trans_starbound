@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빛이 많이 들어오지 못 하게 해주는 오래된 널빤지다."
+        "path": "/shortdescription",
+        "value": "나무 칸막이"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 칸막이"
+        "path": "/description",
+        "value": "빛이 많이 들어오지 못 하게 해주는 오래된 널빤지다."
     },
     {
         "op": "replace",

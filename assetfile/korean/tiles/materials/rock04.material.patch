@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 돌 뭉텅이."
+        "path": "/description",
+        "value": "거칠고, 가공되지 않은 돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "거친 돌"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거친 돌"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "거칠고, 가공되지 않은 돌이다."
+        "path": "/novakidDescription",
+        "value": "그냥 돌 뭉텅이."
     }
 ]

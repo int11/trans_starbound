@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "강가 각반"
+        "path": "/description",
+        "value": "강하고 착용자의 다리처럼 유연하다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강하고 착용자의 다리처럼 유연하다"
+        "path": "/shortdescription",
+        "value": "강가 각반"
     }
 ]

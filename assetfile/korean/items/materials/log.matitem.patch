@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "통나무"
+        "path": "/description",
+        "value": "통나무다. 간단한 구조물을 짓는데 좋다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "통나무다. 간단한 구조물을 짓는데 좋다."
+        "path": "/shortdescription",
+        "value": "통나무"
     },
     {
         "op": "replace",

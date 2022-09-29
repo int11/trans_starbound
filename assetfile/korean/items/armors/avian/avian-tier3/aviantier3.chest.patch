@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "매추라기 흉갑"
+        "path": "/description",
+        "value": "수많은 아비안 평민들이 은하에서 입는다. 티타늄 강판이 좀 간지럽다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수많은 아비안 평민들이 은하에서 입는다. 티타늄 강판이 좀 간지럽다."
+        "path": "/shortdescription",
+        "value": "매추라기 흉갑"
     }
 ]

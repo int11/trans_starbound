@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "노란색 염색약"
+        "path": "/description",
+        "value": "이 염색약은 방어구나 옷에 오른쪽 클릭하여 염색할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 염색약은 방어구나 옷에 오른쪽 클릭하여 염색할 수 있다."
+        "path": "/shortdescription",
+        "value": "노란색 염색약"
     }
 ]

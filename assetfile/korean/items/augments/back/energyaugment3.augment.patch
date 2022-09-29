@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에너지 III 확장 부품"
+        "path": "/description",
+        "value": "내 에너지를 많이 높여주는 EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "내 에너지를 많이 높여주는 EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "에너지 III 확장 부품"
     },
     {
         "op": "replace",

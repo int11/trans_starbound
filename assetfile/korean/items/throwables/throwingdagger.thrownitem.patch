@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전투나 서커스 공연에 사용될법한 투척용 무기이다."
+        "path": "/shortdescription",
+        "value": "투척용 단검"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "투척용 단검"
+        "path": "/description",
+        "value": "전투나 서커스 공연에 사용될법한 투척용 무기이다."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "외계 과일"
+        "path": "/description",
+        "value": "외계의 과일. 즙이 많다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계의 과일. 즙이 많다."
+        "path": "/shortdescription",
+        "value": "외계 과일"
     }
 ]

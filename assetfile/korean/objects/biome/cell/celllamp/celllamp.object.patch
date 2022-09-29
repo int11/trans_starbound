@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이거 안 본 눈 삽니다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "까막눈도 밝다고 하겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "쾌활하지만 비현실적이다. 딱 내 타입이야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 램프더러 실용적이라 따질 사람은 없겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝이는 꽃같은 셰포."
+        "path": "/description",
+        "value": "각 등불이 서로에게 연결되어있는 키 큰 등불이다."
     },
     {
         "op": "replace",
@@ -31,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "각 등불이 서로에게 연결되어있는 키 큰 등불이다."
+        "path": "/apexDescription",
+        "value": "이 램프더러 실용적이라 따질 사람은 없겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "까막눈도 밝다고 하겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝이는 꽃같은 셰포."
     },
     {
         "op": "replace",
         "path": "/glitchDescription",
         "value": "사색. 무기체 같지만, 유기세포에서 만들어진 물건이다. 살아있으면서 죽어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "쾌활하지만 비현실적이다. 딱 내 타입이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이거 안 본 눈 삽니다."
     },
     {
         "op": "replace",

@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 기밀식 해치는 최고 수준의 보안을 제공하는군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "무서울 정도로 거대한 금속 해치다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이건 하이로틀의 전통 미에서 출발했지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "훌륭하고 큰 기밀식 해치야. 견고해."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "물고기인간 이 크고 튼튼한 해치 만들었어! 나쁘진 않아, 물고기인간.... 나쁘지는않아..."
+        "path": "/description",
+        "value": "튼튼한 기밀식 출입구다."
     },
     {
         "op": "replace",
@@ -31,17 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "튼튼한 기밀식 출입구다."
+        "path": "/apexDescription",
+        "value": "훌륭하고 큰 기밀식 해치야. 견고해."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "튼튼해 보이는 해치군."
+        "path": "/avianDescription",
+        "value": "무서울 정도로 거대한 금속 해치다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "물고기인간 이 크고 튼튼한 해치 만들었어! 나쁘진 않아, 물고기인간.... 나쁘지는않아..."
     },
     {
         "op": "replace",
         "path": "/glitchDescription",
         "value": "궁금. 손잡이는 어디에 있는건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 하이로틀의 전통 미에서 출발했지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 기밀식 해치는 최고 수준의 보안을 제공하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "튼튼해 보이는 해치군."
     }
 ]

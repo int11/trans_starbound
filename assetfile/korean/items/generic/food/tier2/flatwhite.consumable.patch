@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "플랫 화이트 라떼"
+        "path": "/description",
+        "value": "커피에 우유를 넣으면 된다. 참 쉽죠?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커피에 우유를 넣으면 된다. 참 쉽죠?"
+        "path": "/shortdescription",
+        "value": "플랫 화이트 라떼"
     }
 ]

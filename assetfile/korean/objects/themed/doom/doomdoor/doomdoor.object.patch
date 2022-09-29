@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파멸의 문"
+        "path": "/description",
+        "value": "소름끼치는 파멸의 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "소름끼치는 파멸의 문이다."
+        "path": "/shortdescription",
+        "value": "파멸의 문"
     },
     {
         "op": "replace",

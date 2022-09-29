@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/subtitle",
-        "value": "아픈 애완동물를 올리자"
+        "path": "/description",
+        "value": "생명체를 치료할 수 있는 장치이다. 포획 장치를 올려보자"
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "생명체를 치료할 수 있는 장치이다. 포획 장치를 올려보자"
+        "path": "/subtitle",
+        "value": "아픈 애완동물를 올리자"
     },
     {
         "op": "replace",

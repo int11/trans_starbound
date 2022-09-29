@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "엄청 오래된 먼지낀 실트더미."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "실트. 너무 먼지투셩이다."
+        "path": "/description",
+        "value": "실트다. 매우 실트같다."
     },
     {
         "op": "replace",
@@ -21,7 +16,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "실트다. 매우 실트같다."
+        "path": "/floranDescription",
+        "value": "실트. 너무 먼지투셩이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "엄청 오래된 먼지낀 실트더미."
     }
 ]

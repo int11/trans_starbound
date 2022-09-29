@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "돌의 무언가가 안쪽에 있군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "정동석은 안에 매력적인 비밀을 숨기고 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "빛이 아른거려. 예쁘다!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "안쪽은 예쁘고, 바깥은 칙칙하고, 내 취향이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "정동석이야말로 마음을 사로잡을 바위지!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "기쁨. 아, 사랑스러운 정동석일세!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝반짝 빛나고 예뻐!"
+        "path": "/description",
+        "value": "아름다운 파랑색의 정동석이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아름다운 파랑색의 정동석이다."
+        "path": "/apexDescription",
+        "value": "정동석이야말로 마음을 사로잡을 바위지!"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "빛이 아른거려. 예쁘다!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝반짝 빛나고 예뻐!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 아, 사랑스러운 정동석일세!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "안쪽은 예쁘고, 바깥은 칙칙하고, 내 취향이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "정동석은 안에 매력적인 비밀을 숨기고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "돌의 무언가가 안쪽에 있군."
     }
 ]

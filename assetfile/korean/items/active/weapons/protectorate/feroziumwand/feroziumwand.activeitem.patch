@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "패로지움 마술봉"
+        "path": "/description",
+        "value": "이게 뭐야, 개미를 위한 지팡이?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이게 뭐야, 개미를 위한 지팡이?"
+        "path": "/shortdescription",
+        "value": "패로지움 마술봉"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가죽 스커트"
+        "path": "/description",
+        "value": "편안하고 이동하기 편한 간단한 스커트이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "편안하고 이동하기 편한 간단한 스커트이다."
+        "path": "/shortdescription",
+        "value": "가죽 스커트"
     }
 ]

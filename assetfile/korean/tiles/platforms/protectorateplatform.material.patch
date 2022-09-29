@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "좋아 보이는 금속제 플랫폼이네"
+        "path": "/shortdescription",
+        "value": "보호국 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "간단해 보이는 플랫폼이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단해 보이는 플랫폼이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "보호국 플랫폼"
+        "path": "/novakidDescription",
+        "value": "좋아 보이는 금속제 플랫폼이네"
     }
 ]

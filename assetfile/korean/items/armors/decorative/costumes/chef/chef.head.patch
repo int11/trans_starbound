@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주방장 모자"
+        "path": "/description",
+        "value": "프로 주방장이 쓸법하게 만들어졌다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "프로 주방장이 쓸법하게 만들어졌다."
+        "path": "/shortdescription",
+        "value": "주방장 모자"
     }
 ]

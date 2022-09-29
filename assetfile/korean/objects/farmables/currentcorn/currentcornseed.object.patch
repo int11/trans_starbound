@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "건전미는 먹을 수 있는 음식보단 배터리에 가깝다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "끔찍한 산성을 지닌 변종 곡물이다. 어느 요리에나 해롭다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "건전미의 산에 화상을 입은 사람 얘기를 들어본 적 있다. 조심히 다뤄야겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "자랑. 글리치는 이 야채를 배터리로 쓰는 법을 알고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "맛있는 샨셩 곡식. 고깃덩이들 해친다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "산성 곡식이다. 기분 나쁘고 위험하다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "곡식같아 보이지만, 정말로, 진짜 아니야."
+        "path": "/description",
+        "value": "산성으로 가득찬 건전미, 유기생물체라면 피하자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "산성으로 가득찬 건전미, 유기생물체라면 피하자."
+        "path": "/apexDescription",
+        "value": "건전미의 산에 화상을 입은 사람 얘기를 들어본 적 있다. 조심히 다뤄야겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "산성 곡식이다. 기분 나쁘고 위험하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "맛있는 샨셩 곡식. 고깃덩이들 해친다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자랑. 글리치는 이 야채를 배터리로 쓰는 법을 알고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "곡식같아 보이지만, 정말로, 진짜 아니야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "끔찍한 산성을 지닌 변종 곡물이다. 어느 요리에나 해롭다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "건전미는 먹을 수 있는 음식보단 배터리에 가깝다."
     }
 ]

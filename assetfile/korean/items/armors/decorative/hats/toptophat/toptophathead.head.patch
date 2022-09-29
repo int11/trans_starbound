@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "높디높은 모자"
+        "path": "/description",
+        "value": "더 신사적이다, 네가 그랬잖아?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "더 신사적이다, 네가 그랬잖아?"
+        "path": "/shortdescription",
+        "value": "높디높은 모자"
     }
 ]

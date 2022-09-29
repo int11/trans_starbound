@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "맨홀 뚜껑"
+        "path": "/description",
+        "value": "맨홀 뚜껑이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "맨홀 뚜껑이다."
+        "path": "/shortdescription",
+        "value": "맨홀 뚜껑"
     },
     {
         "op": "replace",

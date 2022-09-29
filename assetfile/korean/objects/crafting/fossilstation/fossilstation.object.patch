@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "발굴 도구, 전시대"
+        "path": "/description",
+        "value": "화석 발굴 도구와 발굴한 화석을 전시할 전시대를 만들 수 있게 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "^orange;화석 작업대^white; "
     },
     {
         "op": "replace",
@@ -11,13 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화석 발굴 도구와 발굴한 화석을 전시할 전시대를 만들 수 있게 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;화석 작업대^white; "
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "발굴 도구, 전시대"
     },
     {
         "op": "replace",

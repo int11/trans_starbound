@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다기능 쇠뇌"
+        "path": "/description",
+        "value": "교체할 수 있는 여러 가지 화살을 전자기력으로 발사한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "교체할 수 있는 여러 가지 화살을 전자기력으로 발사한다."
+        "path": "/shortdescription",
+        "value": "다기능 쇠뇌"
     },
     {
         "op": "replace",

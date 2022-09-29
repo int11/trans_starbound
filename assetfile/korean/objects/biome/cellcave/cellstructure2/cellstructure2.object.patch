@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "거대 세포? 누가 두고 갔대냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "분석. 이 세포 구조물은 변성된 에이펙스의 것이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "과학이 예술을 만났을 때."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "전시물이다. 동력 수정이 생각난다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "물리학 수업이 떠오르네. 생물학이었나?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "낯선 전시물이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "범샹찮은 물건이다."
+        "path": "/description",
+        "value": "기묘하게 뒤섞인 세포다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기묘하게 뒤섞인 세포다."
+        "path": "/apexDescription",
+        "value": "낯선 전시물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "전시물이다. 동력 수정이 생각난다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "범샹찮은 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분석. 이 세포 구조물은 변성된 에이펙스의 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "물리학 수업이 떠오르네. 생물학이었나?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "과학이 예술을 만났을 때."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "거대 세포? 누가 두고 갔대냐?"
     }
 ]

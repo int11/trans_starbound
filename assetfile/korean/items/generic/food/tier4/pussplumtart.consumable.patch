@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고름자두 타르트"
+        "path": "/description",
+        "value": "고름자두 잼의 거의 유일하게 좋은 사용법이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고름자두 잼의 거의 유일하게 좋은 사용법이다."
+        "path": "/shortdescription",
+        "value": "고름자두 타르트"
     }
 ]

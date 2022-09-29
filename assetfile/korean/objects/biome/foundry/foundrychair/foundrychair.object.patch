@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "무거운 의자"
+        "path": "/description",
+        "value": "무거운 금속제의 의자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무거운 금속제의 의자다."
+        "path": "/shortdescription",
+        "value": "무거운 의자"
     },
     {
         "op": "replace",

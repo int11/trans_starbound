@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "간단한 벽 전등"
+        "path": "/description",
+        "value": "벽에 부착하는 전등이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "벽에 부착하는 전등이다."
+        "path": "/shortdescription",
+        "value": "간단한 벽 전등"
     },
     {
         "op": "replace",

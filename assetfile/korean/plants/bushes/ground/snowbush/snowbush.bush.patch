@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 눈덮힌 수풀이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "눈샿인 슈풀."
+        "path": "/description",
+        "value": "눈으로 덮힌 수풀."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈으로 덮힌 수풀."
+        "path": "/floranDescription",
+        "value": "눈샿인 슈풀."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 눈덮힌 수풀이군."
     }
 ]

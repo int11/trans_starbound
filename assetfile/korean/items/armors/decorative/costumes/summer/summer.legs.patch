@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "여름 치마"
+        "path": "/description",
+        "value": "여름 축제 딱이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여름 축제 딱이다."
+        "path": "/shortdescription",
+        "value": "여름 치마"
     }
 ]

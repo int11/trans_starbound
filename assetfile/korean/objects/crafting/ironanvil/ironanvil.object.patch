@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;갑옷과 무기"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "철 모루"
+        "path": "/description",
+        "value": "갑옷과 무기 제조에 사용 할 수 있다."
     },
     {
         "op": "replace",
@@ -16,8 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "갑옷과 무기 제조에 사용 할 수 있다."
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "철 모루"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;갑옷과 무기"
     },
     {
         "op": "replace",

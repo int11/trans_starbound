@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "비싸보이는 찬장이다. 비밀스러운 물건이 있을 지도 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "크고 오랜 쌈박한 찬장이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "호화로운 문짝 뒤엔 무엇이 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이리 웅장한 찬장이라면 속에 그에 걸맞는 물건이 들어있을 거다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "뭐가 들어있는지 한 번 보실까."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "희망. 유용한 게 있었으면 좋겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "샬짝만 샬펴봐야지."
+        "path": "/description",
+        "value": "커다란 고전 찬장이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다란 고전 찬장이다."
+        "path": "/apexDescription",
+        "value": "비싸보이는 찬장이다. 비밀스러운 물건이 있을 지도 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이리 웅장한 찬장이라면 속에 그에 걸맞는 물건이 들어있을 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샬짝만 샬펴봐야지."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "희망. 유용한 게 있었으면 좋겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "뭐가 들어있는지 한 번 보실까."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "호화로운 문짝 뒤엔 무엇이 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "크고 오랜 쌈박한 찬장이다."
     }
 ]

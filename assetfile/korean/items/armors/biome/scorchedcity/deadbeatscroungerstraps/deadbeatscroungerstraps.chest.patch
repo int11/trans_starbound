@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하얗게 불태운 약탈자 가죽띠"
+        "path": "/description",
+        "value": "황무지의 약탈자가 자주 입던 가죽띠."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "황무지의 약탈자가 자주 입던 가죽띠."
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 약탈자 가죽띠"
     }
 ]

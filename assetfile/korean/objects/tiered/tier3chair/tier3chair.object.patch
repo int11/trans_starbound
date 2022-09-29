@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "티타늄 의자"
+        "path": "/description",
+        "value": "편안한 티타늄 의자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "편안한 티타늄 의자다."
+        "path": "/shortdescription",
+        "value": "티타늄 의자"
     },
     {
         "op": "replace",

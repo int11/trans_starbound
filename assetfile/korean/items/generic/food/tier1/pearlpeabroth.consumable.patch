@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "진주콩 수프"
+        "path": "/description",
+        "value": "진주콩을 그냥 끓이는 것보다는 아주 약간 더 영양가 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "진주콩을 그냥 끓이는 것보다는 아주 약간 더 영양가 있다."
+        "path": "/shortdescription",
+        "value": "진주콩 수프"
     }
 ]

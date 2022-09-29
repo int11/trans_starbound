@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나라면 일발백중으로 부숴버릴 수 있을 거다."
+        "path": "/description",
+        "value": "금이 간 점토 단지다. 안에 뭐가 들었을까?"
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 금 간 단지는 신중하게 만들어진 물건이지만 깨부수지 않고 내용물을 확인할 수는 없을 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "금 간 점토 단지다. 유용한 게 들어있을 것 같다!"
+        "path": "/shortdescription",
+        "value": "비범한 점토 단지"
     },
     {
         "op": "replace",
@@ -21,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관심. 이 금 간 단지를 부수면 내용물을 볼 수 있을 것이다."
+        "path": "/avianDescription",
+        "value": "금 간 점토 단지다. 유용한 게 들어있을 것 같다!"
     },
     {
         "op": "replace",
@@ -31,8 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "금이 간 점토 단지다. 안에 뭐가 들었을까?"
+        "path": "/glitchDescription",
+        "value": "관심. 이 금 간 단지를 부수면 내용물을 볼 수 있을 것이다."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "비범한 점토 단지"
+        "path": "/hylotlDescription",
+        "value": "이 금 간 단지는 신중하게 만들어진 물건이지만 깨부수지 않고 내용물을 확인할 수는 없을 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나라면 일발백중으로 부숴버릴 수 있을 거다."
     }
 ]

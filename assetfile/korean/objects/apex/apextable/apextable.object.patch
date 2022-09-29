@@ -1,23 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "모든 에이펙스가 이처럼 생긴 탁자에서 저녁을 먹는다. 뭐... 적어도 규칙을 따르는 에이펙스는 다 그렇다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "기본적인 대량생산 탁자다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 나무 탁자다."
+        "path": "/shortdescription",
+        "value": "표준 규격 탁자"
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 탁자는 강제로 만들어졌다."
+        "path": "/apexDescription",
+        "value": "모든 에이펙스가 이처럼 생긴 탁자에서 저녁을 먹는다. 뭐... 적어도 규칙을 따르는 에이펙스는 다 그렇다."
     },
     {
         "op": "replace",
@@ -26,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "우울한 탁자다."
+        "path": "/floranDescription",
+        "value": "나무 냄섀 구리다. 진짜 나무 아니다."
     },
     {
         "op": "replace",
@@ -36,12 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "나무 냄섀 구리다. 진짜 나무 아니다."
+        "path": "/humanDescription",
+        "value": "우울한 탁자다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "표준 규격 탁자"
+        "path": "/hylotlDescription",
+        "value": "이 탁자는 강제로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 나무 탁자다."
     }
 ]

@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "명왕성은 지구의 고대 지하 신의 이름을 사용해. 왠지 아비안의 신화가 떠오르는데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "당혹. 왜 인간은 명왕성에 깊게 심취하는가? 행성조차 아닌데."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 쪼끄만 난쟁이 행셩은 인간 태양계 변두리에 아무러케나 돈다고 해."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "난 이 작은 난쟁이 행성에 대한 인류의 집착을 이해할 수 없어."
+        "path": "/description",
+        "value": "난쟁이 행성인 인류 태양계의 명왕성을 본뜬 천장걸이 모형이다."
     },
     {
         "op": "replace",
@@ -26,8 +11,23 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "난쟁이 행성인 인류 태양계의 명왕성을 본뜬 천장걸이 모형이다."
+        "path": "/apexDescription",
+        "value": "난 이 작은 난쟁이 행성에 대한 인류의 집착을 이해할 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "명왕성은 지구의 고대 지하 신의 이름을 사용해. 왠지 아비안의 신화가 떠오르는데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 쪼끄만 난쟁이 행셩은 인간 태양계 변두리에 아무러케나 돈다고 해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "당혹. 왜 인간은 명왕성에 깊게 심취하는가? 행성조차 아닌데."
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "레리쉬"
+        "path": "/description",
+        "value": "짭짤한 고기 맛을 잡아주는 소스이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "짭짤한 고기 맛을 잡아주는 소스이다."
+        "path": "/shortdescription",
+        "value": "레리쉬"
     }
 ]

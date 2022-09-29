@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 블록들 은 꼭 뭔가 억센 소재를 다 함께 엮어 놓은 것 같다."
+        "path": "/shortdescription",
+        "value": "고리 버들 지원 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "촘촘하게 짜인 고리 버들 물체이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "촘촘하게 짜인 고리 버들 물체이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "고리 버들 지원 블록"
+        "path": "/novakidDescription",
+        "value": "이 블록들 은 꼭 뭔가 억센 소재를 다 함께 엮어 놓은 것 같다."
     }
 ]

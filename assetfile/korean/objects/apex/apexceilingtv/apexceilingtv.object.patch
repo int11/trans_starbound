@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "모든 에이펙스 가정에는 이게 하나씩 있지. '교육용' 방송이 가득해. 이걸 오래 보고 있으면 티비를 보는 네 모습을 발견하게 될거야..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "화면이 엄청 깜빡거려."
+        "path": "/description",
+        "value": "섬뜩한 모니터, 눈이 볼 수 있는 것 보다 빠른 속도로 얼굴이 깜빡인다."
     },
     {
         "op": "replace",
@@ -16,13 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "예능을 방송하는건 아닌거 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "우리가 그렇듯이 에이펙스도 갖혀 사는군."
+        "path": "/apexDescription",
+        "value": "모든 에이펙스 가정에는 이게 하나씩 있지. '교육용' 방송이 가득해. 이걸 오래 보고 있으면 티비를 보는 네 모습을 발견하게 될거야..."
     },
     {
         "op": "replace",
@@ -31,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "너무나도 얄팍한 프로파간다야."
+        "path": "/floranDescription",
+        "value": "화면이 엄청 깜빡거려."
     },
     {
         "op": "replace",
@@ -41,7 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "섬뜩한 모니터, 눈이 볼 수 있는 것 보다 빠른 속도로 얼굴이 깜빡인다."
+        "path": "/humanDescription",
+        "value": "너무나도 얄팍한 프로파간다야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "우리가 그렇듯이 에이펙스도 갖혀 사는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "예능을 방송하는건 아닌거 같아."
     }
 ]

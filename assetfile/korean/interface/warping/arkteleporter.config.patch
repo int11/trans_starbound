@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/destinations/0/name",
-        "value": "함선으로 귀환"
+        "path": "/bookmarkName",
+        "value": "前哨站—方舟遗迹"
     },
     {
         "op": "replace",
-        "path": "/bookmarkName",
-        "value": "前哨站—方舟遗迹"
+        "path": "/destinations/0/name",
+        "value": "함선으로 귀환"
     }
 ]

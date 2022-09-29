@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "해독제"
+        "path": "/description",
+        "value": "독으로부터 몸을 지켜준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독으로부터 몸을 지켜준다."
+        "path": "/shortdescription",
+        "value": "해독제"
     }
 ]

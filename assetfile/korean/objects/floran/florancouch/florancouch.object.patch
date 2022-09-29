@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이렇게 뾰족한 의자에서 쉴 수 있는 사람이 있을 거 같진 않은데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 긴 의자는 특히 피에 더 굶주린 플로란 것 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "역겨움. 가죽에 피얼룩이 남아있소."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "많이 샤냥한 플로란은 뼈로 된 긴 의자 만들어. 다른 플로란들은 그냥 긴 의자에 앉고. "
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "생 가죽과 큰 뼈로 만든 긴 의자다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "살아있는 뼈 위에 앉아있는 플로란을 상상하는게 날 역겹게 하는군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 뼈들은 날카로운 만큼 부드럽기도 해."
+        "path": "/shortdescription",
+        "value": "원시 긴 의자"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "원시 긴 의자"
+        "path": "/avianDescription",
+        "value": "이 뼈들은 날카로운 만큼 부드럽기도 해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "많이 샤냥한 플로란은 뼈로 된 긴 의자 만들어. 다른 플로란들은 그냥 긴 의자에 앉고. "
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "역겨움. 가죽에 피얼룩이 남아있소."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 긴 의자는 특히 피에 더 굶주린 플로란 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "살아있는 뼈 위에 앉아있는 플로란을 상상하는게 날 역겹게 하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이렇게 뾰족한 의자에서 쉴 수 있는 사람이 있을 거 같진 않은데."
     }
 ]

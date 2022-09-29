@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기사의 타셋츠"
+        "path": "/description",
+        "value": "기사의 타셋츠는 전사의 허벅지를 보호한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기사의 타셋츠는 전사의 허벅지를 보호한다."
+        "path": "/shortdescription",
+        "value": "기사의 타셋츠"
     }
 ]

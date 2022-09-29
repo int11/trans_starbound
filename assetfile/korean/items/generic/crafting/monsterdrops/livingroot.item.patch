@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "살아있는 뿌리"
+        "path": "/description",
+        "value": "발달한 식물 조직의 잘라낸 조각이다. 제작용으로 쓸 수 있을 것 같다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "발달한 식물 조직의 잘라낸 조각이다. 제작용으로 쓸 수 있을 것 같다."
+        "path": "/shortdescription",
+        "value": "살아있는 뿌리"
     }
 ]

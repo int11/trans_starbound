@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "엄청 밝은 색으로 뒤덮혀져있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 사랑스러운 침대좀 봐!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "병약의 묘미란..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "침대에 꽃있어. 플로란 이거 괜찮은거 같아."
+        "path": "/description",
+        "value": "매력적인, 파스텔 풍의 침대다."
     },
     {
         "op": "replace",
@@ -26,13 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매력적인, 파스텔 풍의 침대다."
+        "path": "/apexDescription",
+        "value": "병약의 묘미란..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "엄청 밝은 색으로 뒤덮혀져있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "침대에 꽃있어. 플로란 이거 괜찮은거 같아."
     },
     {
         "op": "replace",
         "path": "/glitchDescription",
         "value": "迷人。这张床有着很多独具匠心的细节，比如在床头板上的爱心，以及花卉床单。"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 사랑스러운 침대좀 봐!"
     },
     {
         "op": "replace",

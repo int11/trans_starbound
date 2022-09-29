@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기초 금속 침대"
+        "path": "/description",
+        "value": "기초적인 침대이다. 썩 편안하진 않다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기초적인 침대이다. 썩 편안하진 않다."
+        "path": "/shortdescription",
+        "value": "기초 금속 침대"
     },
     {
         "op": "replace",

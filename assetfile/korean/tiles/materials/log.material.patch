@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "선실같은 데서 이런 통나무를 보는 건 드문 일이 아니지."
+        "path": "/shortdescription",
+        "value": "통나무"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "통나무. 간단한 구조물을 짓기 좋다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "통나무"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "통나무. 간단한 구조물을 짓기 좋다."
+        "path": "/novakidDescription",
+        "value": "선실같은 데서 이런 통나무를 보는 건 드문 일이 아니지."
     }
 ]

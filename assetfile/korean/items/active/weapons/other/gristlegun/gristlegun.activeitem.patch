@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "연골 총"
+        "path": "/description",
+        "value": "이 권총은 필요한 탄환을 자연적이게 생성한다. 우웩."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 권총은 필요한 탄환을 자연적이게 생성한다. 우웩."
+        "path": "/shortdescription",
+        "value": "연골 총"
     },
     {
         "op": "replace",

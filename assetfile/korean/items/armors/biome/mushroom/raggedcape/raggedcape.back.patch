@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "해진 망토"
+        "path": "/description",
+        "value": "험난한 모험엔 제격이네!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "험난한 모험엔 제격이네!"
+        "path": "/shortdescription",
+        "value": "해진 망토"
     }
 ]

@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;기술 정비 조작기 판매중"
+        "path": "/description",
+        "value": "기술 정비 조작기을 팔고 있는 기계다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "기술 정비 조작기 자판기"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "기술 정비 조작기을 팔고 있는 기계다."
     },
     {
         "op": "replace",
@@ -53,5 +48,10 @@
         "op": "replace",
         "path": "/interactData/paneLayoutOverride/windowtitle/title",
         "value": "科技控制台柜机"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;기술 정비 조작기 판매중"
     }
 ]

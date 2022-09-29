@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "이과생의 미어캣"
+        "path": "/description",
+        "value": "미어 캡이다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "미어 캡이다!"
+        "path": "/shortdescription",
+        "value": "이과생의 미어캣"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스퀴임"
+        "path": "/description",
+        "value": "\"대기의 온도에 따라 움직임이 다르다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"대기의 온도에 따라 움직임이 다르다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "스퀴임"
     }
 ]

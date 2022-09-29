@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "스캔드로이드는 영원한 탐색중이다. 뭘 찾는진 모르지만."
+        "path": "/shortdescription",
+        "value": "스캔드로이드"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스캔드로이드"
+        "path": "/description",
+        "value": "스캔드로이드는 영원한 탐색중이다. 뭘 찾는진 모르지만."
     }
 ]

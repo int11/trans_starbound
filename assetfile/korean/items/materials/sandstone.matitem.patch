@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사암"
+        "path": "/description",
+        "value": "튼튼한 자연 사암."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "튼튼한 자연 사암."
+        "path": "/shortdescription",
+        "value": "사암"
     },
     {
         "op": "replace",

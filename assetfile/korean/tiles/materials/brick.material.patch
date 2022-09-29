@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "좋아보이는 벽돌이야."
+        "path": "/shortdescription",
+        "value": "벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "작지만 완벽히 모양낸 진흙으로 만든 벽돌."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "벽돌"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "작지만 완벽히 모양낸 진흙으로 만든 벽돌."
+        "path": "/novakidDescription",
+        "value": "좋아보이는 벽돌이야."
     }
 ]

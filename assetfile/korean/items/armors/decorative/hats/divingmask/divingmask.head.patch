@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "잠수마스크"
+        "path": "/description",
+        "value": "물고기를 가까이서 볼 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "물고기를 가까이서 볼 수 있다."
+        "path": "/shortdescription",
+        "value": "잠수마스크"
     }
 ]

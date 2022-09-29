@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "행정실 문"
+        "path": "/description",
+        "value": "뚫을 수없는 행정실 문"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뚫을 수없는 행정실 문"
+        "path": "/shortdescription",
+        "value": "행정실 문"
     },
     {
         "op": "replace",

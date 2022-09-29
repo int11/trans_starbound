@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "설마 이 의자는 외계 식물로 만들어 진거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 의자는 외계 식물로 만들어 졌어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "보통은 아닌 의자."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "설마 이거 외계인 의자야? 난 여기에 앉기 싫은걸."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "난 조금 더 무생물적인걸 원하는데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰력. 의자는 유기 외계인 재료로 만들어졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 식물 의자를 좋아해애애. 식물 의자는 친구야아아!"
+        "path": "/description",
+        "value": "외계인 의자다. 살아 있는거 같다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계인 의자다. 살아 있는거 같다."
+        "path": "/apexDescription",
+        "value": "난 조금 더 무생물적인걸 원하는데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "보통은 아닌 의자."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 식물 의자를 좋아해애애. 식물 의자는 친구야아아!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰력. 의자는 유기 외계인 재료로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "설마 이거 외계인 의자야? 난 여기에 앉기 싫은걸."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 의자는 외계 식물로 만들어 졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "설마 이 의자는 외계 식물로 만들어 진거야?"
     }
 ]

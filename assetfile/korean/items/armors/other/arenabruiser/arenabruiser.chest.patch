@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "덩치의 흉부 보호대"
+        "path": "/description",
+        "value": "인상적인 어깨와 갑옷이 볼만 하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "인상적인 어깨와 갑옷이 볼만 하다."
+        "path": "/shortdescription",
+        "value": "덩치의 흉부 보호대"
     }
 ]

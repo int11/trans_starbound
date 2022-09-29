@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "당근 빵"
+        "path": "/description",
+        "value": "당근과 빵 덩어리. 솔직히  빵모양 케이크 처럼 생겼다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "당근과 빵 덩어리. 솔직히  빵모양 케이크 처럼 생겼다."
+        "path": "/shortdescription",
+        "value": "당근 빵"
     }
 ]

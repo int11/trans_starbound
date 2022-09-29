@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "힘세고 강한 현수막."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "장식용 현수막인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "진짜 고운 현수막이다! 금빛 테두리 덕분에 완전 장엄해보여."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "자랑. 글리치는 온갖 종류의 현수막을 만든다. 글리치 가문의 상징과도 같은 물건이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "섀빨간 비단 현슈막."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "대단한 긍지를 갖고 만든 현수막이다. 무슨 의미가 있을 거야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "전문적인 솜씨로 짜인 현수막이다."
+        "path": "/description",
+        "value": "아름답게 짜인 현수막이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아름답게 짜인 현수막이다."
+        "path": "/apexDescription",
+        "value": "전문적인 솜씨로 짜인 현수막이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "장식용 현수막인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "섀빨간 비단 현슈막."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자랑. 글리치는 온갖 종류의 현수막을 만든다. 글리치 가문의 상징과도 같은 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "진짜 고운 현수막이다! 금빛 테두리 덕분에 완전 장엄해보여."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "대단한 긍지를 갖고 만든 현수막이다. 무슨 의미가 있을 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "힘세고 강한 현수막."
     }
 ]

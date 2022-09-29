@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "난 이 상자를 확인할 가치가 있다고 장담을 못하겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "과연 이 너덜너덜한 상자에 보석이 숨겨져있을수도 있단 말이오?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "여기에 무언가 남아있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 오래된 저장 용기."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "낡고 박샬난 샹자다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오래된 상자다. 아직 무언가 남아 있을지도 모른다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "낡아빠진 상자다."
+        "path": "/description",
+        "value": "골동품인 상자다, 안에 뭐가 있는지 궁금하네.."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "골동품인 상자다, 안에 뭐가 있는지 궁금하네.."
+        "path": "/apexDescription",
+        "value": "낡아빠진 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기에 무언가 남아있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "낡고 박샬난 샹자다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 오래된 저장 용기."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래된 상자다. 아직 무언가 남아 있을지도 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "과연 이 너덜너덜한 상자에 보석이 숨겨져있을수도 있단 말이오?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "난 이 상자를 확인할 가치가 있다고 장담을 못하겠어."
     }
 ]

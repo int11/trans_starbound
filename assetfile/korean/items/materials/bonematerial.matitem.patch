@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "뼈 패키지"
+        "path": "/description",
+        "value": "여러 개의 뼈를 빡빡하게 포장한 것 같다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여러 개의 뼈를 빡빡하게 포장한 것 같다."
+        "path": "/shortdescription",
+        "value": "뼈 패키지"
     },
     {
         "op": "replace",

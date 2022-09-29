@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이건 나에게 최고의 밤잠을 주진 않을테지만, 비상시에는 쓸만해."
+        "path": "/description",
+        "value": "침당이다.  편안하지는 않지만, 쓸만하다."
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "물 밑에서도 쓸 수 있나?"
+        "path": "/apexDescription",
+        "value": "반군 에이펙스들이 이 안에서 많은 밤잠을 보냈다."
     },
     {
         "op": "replace",
@@ -21,13 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "침낭.  만일의 요소로부터 몸을 보호하기엔 좋지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "반군 에이펙스들이 이 안에서 많은 밤잠을 보냈다."
+        "path": "/floranDescription",
+        "value": "플로란 가방에서 자는거 안 좋다."
     },
     {
         "op": "replace",
@@ -36,12 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 가방에서 자는거 안 좋다."
+        "path": "/humanDescription",
+        "value": "침낭.  만일의 요소로부터 몸을 보호하기엔 좋지."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "침당이다.  편안하지는 않지만, 쓸만하다."
+        "path": "/hylotlDescription",
+        "value": "물 밑에서도 쓸 수 있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이건 나에게 최고의 밤잠을 주진 않을테지만, 비상시에는 쓸만해."
     }
 ]

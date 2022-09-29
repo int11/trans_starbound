@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "과녁에 조준하자."
+        "path": "/shortdescription",
+        "value": "투척용 다트"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "투척용 다트"
+        "path": "/description",
+        "value": "과녁에 조준하자."
     }
 ]

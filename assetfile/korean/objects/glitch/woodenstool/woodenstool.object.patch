@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "대부분의 하이로틀 가구는 이 정도의 높이지."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 심플한 스툴이네."
+        "path": "/description",
+        "value": "간단한 나무 스툴."
     },
     {
         "op": "replace",
@@ -16,18 +11,18 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "작고 좋은 나무 스툴."
+    },
+    {
+        "op": "replace",
         "path": "/avianDescription",
         "value": "나무도 만들어진 스툴."
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "발 올려놓기에 좋지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "작고 좋은 나무 스툴."
+        "path": "/floranDescription",
+        "value": "小铁人的座座座位。"
     },
     {
         "op": "replace",
@@ -36,12 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단한 나무 스툴."
+        "path": "/humanDescription",
+        "value": "발 올려놓기에 좋지."
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "小铁人的座座座位。"
+        "path": "/hylotlDescription",
+        "value": "대부분의 하이로틀 가구는 이 정도의 높이지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "그냥 심플한 스툴이네."
     }
 ]

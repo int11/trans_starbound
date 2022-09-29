@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "덩쿨 주먹"
+        "path": "/description",
+        "value": "자연의 힘을 내뿜어라!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자연의 힘을 내뿜어라!"
+        "path": "/shortdescription",
+        "value": "덩쿨 주먹"
     },
     {
         "op": "replace",

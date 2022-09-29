@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "오두막 지붕, 빗속에서 건조함을 유지하기에는 딱이지."
+        "path": "/description",
+        "value": "간단하게 오두막 지붕으로 사용된다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "오두막 지붕"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오두막 지붕"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "간단하게 오두막 지붕으로 사용된다."
+        "path": "/novakidDescription",
+        "value": "오두막 지붕, 빗속에서 건조함을 유지하기에는 딱이지."
     }
 ]

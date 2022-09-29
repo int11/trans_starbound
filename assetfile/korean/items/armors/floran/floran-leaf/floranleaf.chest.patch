@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나뭇잎 가슴 장식"
+        "path": "/description",
+        "value": "크고 튼튼한 나뭇잎으로 덮혀있는 셔츠이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "크고 튼튼한 나뭇잎으로 덮혀있는 셔츠이다."
+        "path": "/shortdescription",
+        "value": "나뭇잎 가슴 장식"
     }
 ]

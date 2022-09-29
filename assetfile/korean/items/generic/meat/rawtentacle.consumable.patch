@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "생 촉수"
+        "path": "/description",
+        "value": "촉수 날것이로군. 이걸 요리에 쓰면 나아질려나..."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "촉수 날것이로군. 이걸 요리에 쓰면 나아질려나..."
+        "path": "/shortdescription",
+        "value": "생 촉수"
     }
 ]

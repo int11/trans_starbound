@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "별관측자 시종의 날개"
+        "path": "/description",
+        "value": "별관측자에 대한 믿음을 상징하는 장식용 날개이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "별관측자에 대한 믿음을 상징하는 장식용 날개이다."
+        "path": "/shortdescription",
+        "value": "별관측자 시종의 날개"
     }
 ]

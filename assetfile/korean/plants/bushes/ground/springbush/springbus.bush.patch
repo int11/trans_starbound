@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 꽃들이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "꽃들이다!"
+        "path": "/description",
+        "value": "화려하군."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화려하군."
+        "path": "/floranDescription",
+        "value": "꽃들이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 꽃들이군."
     }
 ]

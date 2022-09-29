@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "상어 모자"
+        "path": "/description",
+        "value": "바람이 불때 하늘에서 떨어졌지요."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바람이 불때 하늘에서 떨어졌지요."
+        "path": "/shortdescription",
+        "value": "상어 모자"
     }
 ]

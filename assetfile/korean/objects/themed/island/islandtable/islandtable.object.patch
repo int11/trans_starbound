@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "섬 탁자"
+        "path": "/description",
+        "value": "이 탁자의 기반에 새겨진 조각은 오히려 엄숙한 면이 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 탁자의 기반에 새겨진 조각은 오히려 엄숙한 면이 있다."
+        "path": "/shortdescription",
+        "value": "섬 탁자"
     },
     {
         "op": "replace",

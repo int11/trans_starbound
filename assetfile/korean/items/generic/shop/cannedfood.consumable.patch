@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "통조림 음식"
+        "path": "/description",
+        "value": "별로 좋은 음식은 아니지만, 내용물이 오랫동안 보존된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "별로 좋은 음식은 아니지만, 내용물이 오랫동안 보존된다."
+        "path": "/shortdescription",
+        "value": "통조림 음식"
     }
 ]

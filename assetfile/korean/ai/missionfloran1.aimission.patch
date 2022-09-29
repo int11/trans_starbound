@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/speciesText/default/selectSpeech/text",
-        "value": "에스더의 연구는 이 곳이 플로란 유물의 예상 위치라고 결론지었습니다."
+        "path": "/speciesText/default/buttonText",
+        "value": "사냥굴 의례터"
     },
     {
         "op": "replace",
@@ -11,7 +11,7 @@
     },
     {
         "op": "replace",
-        "path": "/speciesText/default/buttonText",
-        "value": "사냥굴 의례터"
+        "path": "/speciesText/default/selectSpeech/text",
+        "value": "에스더의 연구는 이 곳이 플로란 유물의 예상 위치라고 결론지었습니다."
     }
 ]

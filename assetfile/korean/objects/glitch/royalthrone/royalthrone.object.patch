@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "왕실 옥좌"
+        "path": "/description",
+        "value": "국왕 엉덩이에 딱 맞는 옥좌다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "국왕 엉덩이에 딱 맞는 옥좌다."
+        "path": "/shortdescription",
+        "value": "왕실 옥좌"
     },
     {
         "op": "replace",

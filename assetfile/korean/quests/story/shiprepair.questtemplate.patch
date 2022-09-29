@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/findMechanic",
-        "value": "^orange;전초기지^white;에 있는^orange;펭귄 피트^green;를 찾으세요^white;."
+        "path": "/title",
+        "value": "우주 비행에 적합하게"
     },
     {
         "op": "replace",
@@ -11,8 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/findEsther",
-        "value": "^orange;아크^white;에 있는 ^orange;에스더 브라이트^green;에게 말을 거세요^white;."
+        "path": "/completionText",
+        "value": "그에게 쓸만한 재주가 있긴 하구나 - 잘했구나, 얘야. 이제 네 함선이 수리되어서 우리가 해야할 일을 할 수 있게됬어."
+    },
+    {
+        "op": "replace",
+        "path": "/scriptConfig/descriptions/findMechanic",
+        "value": "^orange;전초기지^white;에 있는^orange;펭귄 피트^green;를 찾으세요^white;."
     },
     {
         "op": "replace",
@@ -21,12 +26,7 @@
     },
     {
         "op": "replace",
-        "path": "/completionText",
-        "value": "그에게 쓸만한 재주가 있긴 하구나 - 잘했구나, 얘야. 이제 네 함선이 수리되어서 우리가 해야할 일을 할 수 있게됬어."
-    },
-    {
-        "op": "replace",
-        "path": "/title",
-        "value": "우주 비행에 적합하게"
+        "path": "/scriptConfig/descriptions/findEsther",
+        "value": "^orange;아크^white;에 있는 ^orange;에스더 브라이트^green;에게 말을 거세요^white;."
     }
 ]

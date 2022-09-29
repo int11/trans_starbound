@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "해골 가면"
+        "path": "/description",
+        "value": "천으로 덧댄 해골 가면이다. 얼굴을 으스스하게 감춰준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "천으로 덧댄 해골 가면이다. 얼굴을 으스스하게 감춰준다."
+        "path": "/shortdescription",
+        "value": "해골 가면"
     }
 ]

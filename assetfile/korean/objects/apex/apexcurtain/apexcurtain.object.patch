@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 커튼들은 닫히지 않아. 만들 때 사생활이 우선되지 않았거든."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "바보같은 에이펙스가 창문을 가리지도 못할 작은 커튼을 만들었어."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "커튼. 창문 가리기엔 짧아 보여."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "흐릿한 색상과 거친 느낌의 천이네."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "얇은 천 한 장이다. 너무 작아 어떤 창문조차 가릴 수 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 커튼은 별로 넓지 않은데, 저걸론 창문조차 못 가려."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 커튼이 본래 목적에 비해 너무 작군."
+        "path": "/description",
+        "value": "얇고 짧은 커튼이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얇고 짧은 커튼이다."
+        "path": "/apexDescription",
+        "value": "이 커튼들은 닫히지 않아. 만들 때 사생활이 우선되지 않았거든."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "얇은 천 한 장이다. 너무 작아 어떤 창문조차 가릴 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바보같은 에이펙스가 창문을 가리지도 못할 작은 커튼을 만들었어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 커튼이 본래 목적에 비해 너무 작군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 커튼은 별로 넓지 않은데, 저걸론 창문조차 못 가려."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "흐릿한 색상과 거친 느낌의 천이네."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "커튼. 창문 가리기엔 짧아 보여."
     }
 ]

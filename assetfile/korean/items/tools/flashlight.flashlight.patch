@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "손전등"
+        "path": "/description",
+        "value": "편리한 손전등이다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "편리한 손전등이다!"
+        "path": "/shortdescription",
+        "value": "손전등"
     }
 ]

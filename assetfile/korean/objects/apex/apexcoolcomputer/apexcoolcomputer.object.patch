@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "컴퓨터 화면이야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "기본적인 컴퓨터야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 컴퓨터 화면은 다채로운데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이건 인간이 지녔던 컴퓨팅 파워 기술의 종류와 많이 닮아보이는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이건 정말로 강력한 컴퓨터야. 에이펙스 시민은 컴퓨터에 대한 접근권이 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감탄. 이 얼마나 멋진 기계란 말인가!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 샬아남기 위해 기슐을 훔친다."
+        "path": "/description",
+        "value": "멋진 컴퓨터는 많은 '빕 붑 붑 빕' 소음을 만든다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "멋진 컴퓨터는 많은 '빕 붑 붑 빕' 소음을 만든다."
+        "path": "/apexDescription",
+        "value": "이건 정말로 강력한 컴퓨터야. 에이펙스 시민은 컴퓨터에 대한 접근권이 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 컴퓨터 화면은 다채로운데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 샬아남기 위해 기슐을 훔친다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 이 얼마나 멋진 기계란 말인가!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이건 인간이 지녔던 컴퓨팅 파워 기술의 종류와 많이 닮아보이는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기본적인 컴퓨터야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "컴퓨터 화면이야."
     }
 ]

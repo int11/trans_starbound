@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "깃털 머리띠"
+        "path": "/description",
+        "value": "거대한 가짜 깃털 하나가 위를 단장하는 머리띠."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대한 가짜 깃털 하나가 위를 단장하는 머리띠."
+        "path": "/shortdescription",
+        "value": "깃털 머리띠"
     }
 ]

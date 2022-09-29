@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "과일 샐러드"
+        "path": "/description",
+        "value": "여러 과일들이 먹기 좋게 섞여있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여러 과일들이 먹기 좋게 섞여있다."
+        "path": "/shortdescription",
+        "value": "과일 샐러드"
     }
 ]

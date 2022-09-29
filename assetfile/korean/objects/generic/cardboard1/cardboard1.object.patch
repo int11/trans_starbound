@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "골판지로 만든 단순한 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "기본적인 판지 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "기본적인 판지 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "판지 상자다. 물건들을 정리하는데 유용하다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "화살표가 인쇄된 판지 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 화살표는 내용물을 보호하는 중요한 역할을 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "물건을 보관하는 판지 샹자."
+        "path": "/description",
+        "value": "똑바로 세워둔 판지 상자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "똑바로 세워둔 판지 상자다."
+        "path": "/apexDescription",
+        "value": "화살표가 인쇄된 판지 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "기본적인 판지 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "물건을 보관하는 판지 샹자."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 화살표는 내용물을 보호하는 중요한 역할을 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "판지 상자다. 물건들을 정리하는데 유용하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기본적인 판지 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "골판지로 만든 단순한 상자다."
     }
 ]

@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "^orange;이동을 위한 연료"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "^green;FTL 드라이브에 연료를 채우기 위해선 ^orange;액화 에르키우스 연료를 얻어야 한다. ^green;이 용액은 대체로 대기가 없는 행성 지하에 많이 분포한다. 최소한 ^orange;액화 에르키우스 연료 20리터^green;를 우주선 연료로 채워야 한다. ^white;그럼 가까운 항성계 정도는 이동할 수 있을 것이다."
     },
@@ -8,10 +13,5 @@
         "op": "replace",
         "path": "/completionText",
         "value": "충분한 연료를 얻었다! ^green;우주선 조종실 뒤쪽에 있는 ^orange;연료 주입구^green;에 채워넣으면 된다. ^white;그 후엔 함선 항로 콘솔에서 다른 항성계로 이동할 수 있을 것이다."
-    },
-    {
-        "op": "replace",
-        "path": "/title",
-        "value": "^orange;이동을 위한 연료"
     }
 ]

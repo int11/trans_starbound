@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "선장의 의자. 여기에 앉는 놈이 우주선이 어디로 갈지 결정하지! 바로 나다!"
+        "path": "/description",
+        "value": "선장이 이곳에 앉아서 함선을 운영한다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "선장석에 앉는 것이 내가 이 함선을 운항할 수 있도록 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "선장의 의자. 바로 나야! 이 의자에서 우주선의 항해 장치를 사용할 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "선장의 의자. 여기 앉는 사람이 우주선이 어디로 갈지 결정하지!"
+        "path": "/shortdescription",
+        "value": "하이로틀 선장석"
     },
     {
         "op": "replace",
@@ -26,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "신남. 선장석에 앉는 것이 이 함선을 운항할 수 있도록 하지. 다음은 어디로 갈까."
+        "path": "/avianDescription",
+        "value": "선장의 의자. 바로 나야! 이 의자에서 우주선의 항해 장치를 사용할 수 있어."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "선장이 이곳에 앉아서 함선을 운영한다."
+        "path": "/glitchDescription",
+        "value": "신남. 선장석에 앉는 것이 이 함선을 운항할 수 있도록 하지. 다음은 어디로 갈까."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하이로틀 선장석"
+        "path": "/humanDescription",
+        "value": "선장의 의자. 여기 앉는 사람이 우주선이 어디로 갈지 결정하지!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "선장석에 앉는 것이 내가 이 함선을 운항할 수 있도록 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "선장의 의자. 여기에 앉는 놈이 우주선이 어디로 갈지 결정하지! 바로 나다!"
     }
 ]

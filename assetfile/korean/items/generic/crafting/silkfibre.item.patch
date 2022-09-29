@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "비단 섬유"
+        "path": "/description",
+        "value": "비단 섬유 한 묶음이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "비단 섬유 한 묶음이다."
+        "path": "/shortdescription",
+        "value": "비단 섬유"
     }
 ]

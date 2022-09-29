@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "용맹한 투구"
+        "path": "/description",
+        "value": "수 세기 전 하이로틀이 쓰던 녹슨 의식용 투구다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수 세기 전 하이로틀이 쓰던 녹슨 의식용 투구다."
+        "path": "/shortdescription",
+        "value": "용맹한 투구"
     }
 ]

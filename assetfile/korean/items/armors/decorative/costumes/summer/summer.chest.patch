@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "여름 상의"
+        "path": "/description",
+        "value": "여름이 곧 온다! 이 최신 유행의 옷을 준비하자"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여름이 곧 온다! 이 최신 유행의 옷을 준비하자"
+        "path": "/shortdescription",
+        "value": "여름 상의"
     }
 ]

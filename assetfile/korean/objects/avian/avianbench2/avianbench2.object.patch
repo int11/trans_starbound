@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "잠깐 내 부츠를 쉬게 하기에 딱 좋은 곳이군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "제작기술은 좋았지만 매력이 부족하다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "배교자들 공예는 이보다 더 나을 수가 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "멋지고 편한 벤치다. 잘 만들어진 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 벤치 편안해보이는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 이 벤치는 다른 아비안 가구보다 훨씬 높은 기술로 만들어졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "벤치 나무 부드럽다."
+        "path": "/description",
+        "value": "편안한 아비안 벤치다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "편안한 아비안 벤치다."
+        "path": "/apexDescription",
+        "value": "이 벤치 편안해보이는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "배교자들 공예는 이보다 더 나을 수가 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "벤치 나무 부드럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 벤치는 다른 아비안 가구보다 훨씬 높은 기술로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "멋지고 편한 벤치다. 잘 만들어진 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "제작기술은 좋았지만 매력이 부족하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "잠깐 내 부츠를 쉬게 하기에 딱 좋은 곳이군."
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "추진력."
+        "path": "/description",
+        "value": "이거면 햄버거 하나를 얼마나 빨리 구울 수 있을까."
     },
     {
         "op": "replace",
@@ -11,8 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이거면 햄버거 하나를 얼마나 빨리 구울 수 있을까."
+        "path": "/apexDescription",
+        "value": "추진기다. 고장과 폭발로 인해 잠깐 쓸 수 없었다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "추진기. 함선의 날개같은 존재."
     },
     {
         "op": "replace",
@@ -26,17 +31,12 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "추진기. 함선의 날개같은 존재."
-    },
-    {
-        "op": "replace",
         "path": "/humanDescription",
         "value": "연료를 잡아먹는 물건이다."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "추진기다. 고장과 폭발로 인해 잠깐 쓸 수 없었다."
+        "path": "/hylotlDescription",
+        "value": "추진력."
     }
 ]

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 돌이 쌓여있군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "도도돌!"
+        "path": "/description",
+        "value": "돌이 쌓여있다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "돌이 쌓여있다."
+        "path": "/floranDescription",
+        "value": "도도돌!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 돌이 쌓여있군."
     }
 ]

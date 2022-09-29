@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/techchallenge_morphball2/text",
-        "value": "보아하니 ^#71f2f6;점프 도중 ^orange;왜곡 구체 기술^#71f2f6;을 사용하여^white; 이 통로로 들어가야 할 것 같습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/techchallenge_dash2/text",
-        "value": "이 문들은 매우 잠깐 열렸다 닫힙니다. ^#71f2f6;문에서 가까운 곳에 미리 자리를 잡고, 스위치를 작동시키자 마자 돌진을 사용해야합니다^white;."
-    },
-    {
-        "op": "replace",
         "path": "/techchallenge_doublejump1/text",
         "value": "^orange;공중 도약^#71f2f6;을 하려면 공중에서 스페이스 바를 누르세요^white;. 공중 도약으로 조금 더 높이 올라갈 수 있을겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/techchallenge_dash3/text",
-        "value": "이 문은 ^orange;매우 짧은 시간 동안 열립니다^white;. 당신이 좌절감을 극복하고 인내심을 통해 성공하면 칭찬해드릴만한 일이네요."
-    },
-    {
-        "op": "replace",
-        "path": "/techchallenge_dash1/text",
-        "value": "이 장애물 코스는 당신이 받은 ^orange;돌진 기술^white;이 필요합니다. 사용하려면 ^#71f2f6;A 또는 D 를 빠르게 두번 눌러 왼쪽이나 오른쪽으로 돌진합니다^white;."
     },
     {
         "op": "replace",
@@ -31,12 +11,32 @@
     },
     {
         "op": "replace",
-        "path": "/techchallenge_morphball1/text",
-        "value": "^#71f2f6;F를 누르면 ^orange;왜곡 구체 기술^white;을 사용하여 압축된 형태로 들어갔다 나올 수 있습니다."
+        "path": "/techchallenge_dash1/text",
+        "value": "이 장애물 코스는 당신이 받은 ^orange;돌진 기술^white;이 필요합니다. 사용하려면 ^#71f2f6;A 또는 D 를 빠르게 두번 눌러 왼쪽이나 오른쪽으로 돌진합니다^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/techchallenge_dash2/text",
+        "value": "이 문들은 매우 잠깐 열렸다 닫힙니다. ^#71f2f6;문에서 가까운 곳에 미리 자리를 잡고, 스위치를 작동시키자 마자 돌진을 사용해야합니다^white;."
+    },
+    {
+        "op": "replace",
+        "path": "/techchallenge_dash3/text",
+        "value": "이 문은 ^orange;매우 짧은 시간 동안 열립니다^white;. 당신이 좌절감을 극복하고 인내심을 통해 성공하면 칭찬해드릴만한 일이네요."
     },
     {
         "op": "replace",
         "path": "/techchallenge_dash4/text",
         "value": "이 반짝이는 불빛은 ^orange;극저온 발생기^white;입니다. 이것들은 치명적이진 않지만, 접촉시 당신의 이동속도를 상당히 낮춰줄것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/techchallenge_morphball1/text",
+        "value": "^#71f2f6;F를 누르면 ^orange;왜곡 구체 기술^white;을 사용하여 압축된 형태로 들어갔다 나올 수 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/techchallenge_morphball2/text",
+        "value": "보아하니 ^#71f2f6;점프 도중 ^orange;왜곡 구체 기술^#71f2f6;을 사용하여^white; 이 통로로 들어가야 할 것 같습니다."
     }
 ]

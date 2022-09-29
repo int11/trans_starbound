@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "키위"
+        "path": "/description",
+        "value": "부드럽고 달콤하다. 냠."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부드럽고 달콤하다. 냠."
+        "path": "/shortdescription",
+        "value": "키위"
     }
 ]

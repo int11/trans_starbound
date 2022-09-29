@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "정말로 못난 항아리다."
+    },
+    {
+        "op": "replace",
         "path": "/shortdescription",
         "value": "흉한 신전 항아리"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사격연습용으로 쓰면 딱이겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "값어치 없는 물건이다. 한 번 까보자."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "수습생들이 만든 단지인 모양이다. 흉하게 생겼다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "까서 열어보자. 그리 매력적이지도 않다."
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "수상. 이 단지를 부수면 내용물을 확인할 수 있을 것이다."
+        "path": "/avianDescription",
+        "value": "수습생들이 만든 단지인 모양이다. 흉하게 생겼다."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "정말로 못난 항아리다."
+        "path": "/glitchDescription",
+        "value": "수상. 이 단지를 부수면 내용물을 확인할 수 있을 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "까서 열어보자. 그리 매력적이지도 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "값어치 없는 물건이다. 한 번 까보자."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사격연습용으로 쓰면 딱이겠어."
     }
 ]

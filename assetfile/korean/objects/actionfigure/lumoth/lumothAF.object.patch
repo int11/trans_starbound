@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "루모스 모형"
+        "path": "/description",
+        "value": "\"루모스가 날개짓을 하면, 몸에 달린 전구에 불이 들어온다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"루모스가 날개짓을 하면, 몸에 달린 전구에 불이 들어온다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "루모스 모형"
     }
 ]

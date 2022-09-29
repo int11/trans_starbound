@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "빅 에이프 벽보를 훼손하는 건 위험한 행동이야. 누군가 제대로 값을 치뤘겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이와 같은 압제의 시기에도 벽보를 훼손할 시간을 내다니."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "훼손된 빅 에이프 벽보다. 명작인데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "누구는 지정부가 무섭지도 않나보네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "누구는 빅 에이프가 마음에 안 드나보네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "재미. 누가 빅 에이프 벽보를 훼손해놨다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 원슝이 재밌다!"
+        "path": "/description",
+        "value": "외관을 훼손시킨 빅 에이프 벽보다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외관을 훼손시킨 빅 에이프 벽보다."
+        "path": "/apexDescription",
+        "value": "누구는 빅 에이프가 마음에 안 드나보네."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "훼손된 빅 에이프 벽보다. 명작인데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 원슝이 재밌다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "재미. 누가 빅 에이프 벽보를 훼손해놨다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "누구는 지정부가 무섭지도 않나보네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이와 같은 압제의 시기에도 벽보를 훼손할 시간을 내다니."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "빅 에이프 벽보를 훼손하는 건 위험한 행동이야. 누군가 제대로 값을 치뤘겠군."
     }
 ]

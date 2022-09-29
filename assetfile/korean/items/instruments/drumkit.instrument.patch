@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "드럼 키트"
+        "path": "/description",
+        "value": "드럼 키트다. 이웃에게 경고하는게 좋을같다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "드럼 키트다. 이웃에게 경고하는게 좋을같다."
+        "path": "/shortdescription",
+        "value": "드럼 키트"
     }
 ]

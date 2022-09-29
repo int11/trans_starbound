@@ -21,12 +21,12 @@
     },
     {
         "op": "replace",
-        "path": "/shipStatus/3/text",
-        "value": "^#6f6f6f;$ status -f\n^cyan;> 함선 추진기는 정상입니다.\n> FTL 드라이브는 정상입니다.\n> 함선 순간이동 시스템은 정상입니다.\n> ^green;전 우주에 접근할 수 있습니다."
+        "path": "/shipStatus/2/text",
+        "value": "^#6f6f6f;$ status\n^cyan;> 함선 추진기는 정상입니다.\n> 함선 순간이동 시스템은 정상입니다.\n> ^green;현재 항성계의 모든 행성에 접근할 수 있습니다."
     },
     {
         "op": "replace",
-        "path": "/shipStatus/2/text",
-        "value": "^#6f6f6f;$ status\n^cyan;> 함선 추진기는 정상입니다.\n> 함선 순간이동 시스템은 정상입니다.\n> ^green;현재 항성계의 모든 행성에 접근할 수 있습니다."
+        "path": "/shipStatus/3/text",
+        "value": "^#6f6f6f;$ status -f\n^cyan;> 함선 추진기는 정상입니다.\n> FTL 드라이브는 정상입니다.\n> 함선 순간이동 시스템은 정상입니다.\n> ^green;전 우주에 접근할 수 있습니다."
     }
 ]

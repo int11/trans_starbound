@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정전기 전지"
+        "path": "/description",
+        "value": "전기가 한데 뭉쳐 있는 전지다. 제작에 사용된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전기가 한데 뭉쳐 있는 전지다. 제작에 사용된다."
+        "path": "/shortdescription",
+        "value": "정전기 전지"
     }
 ]

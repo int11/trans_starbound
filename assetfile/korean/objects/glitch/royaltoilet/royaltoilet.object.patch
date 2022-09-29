@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "왕실 양변기"
+        "path": "/description",
+        "value": "...또다른 왕좌."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "...또다른 왕좌."
+        "path": "/shortdescription",
+        "value": "왕실 양변기"
     },
     {
         "op": "replace",

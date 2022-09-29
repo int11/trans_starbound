@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "피잡 한조각"
+        "path": "/description",
+        "value": "금속성 가득한 뒷맛을 견딜 수만 있다면 꽤 먹을만하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "금속성 가득한 뒷맛을 견딜 수만 있다면 꽤 먹을만하다."
+        "path": "/shortdescription",
+        "value": "피잡 한조각"
     }
 ]

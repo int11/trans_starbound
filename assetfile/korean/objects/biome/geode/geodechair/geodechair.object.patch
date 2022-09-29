@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "내가 평생 본적없는 제일 멋진 돌"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "편안해보이진 않아. 하지만 작업할 순 있겠지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 속이 빈 정동석 안에 앉을 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 정동석은 앉기에 옮바른 모양으로 되어있어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "걱정. 이런 의자에 오래 앉아있다보면 매우 불편할거 같네"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "커다란 돌로 멍청하게 앉는거나 만들다니"
+        "path": "/description",
+        "value": "커다랗고 움푹 꺼진 정동석을 깍아 만든 의자이다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다랗고 움푹 꺼진 정동석을 깍아 만든 의자이다."
+        "path": "/apexDescription",
+        "value": "이 정동석은 앉기에 옮바른 모양으로 되어있어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "편안해보이진 않아. 하지만 작업할 순 있겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "커다란 돌로 멍청하게 앉는거나 만들다니"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 이런 의자에 오래 앉아있다보면 매우 불편할거 같네"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 속이 빈 정동석 안에 앉을 수 있어."
     },
     {
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "以美观性弥补舒适性。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 평생 본적없는 제일 멋진 돌"
     }
 ]

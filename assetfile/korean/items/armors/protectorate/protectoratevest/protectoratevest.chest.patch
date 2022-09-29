@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보호국 셔츠"
+        "path": "/description",
+        "value": "행성 보호국을 상징하는 로고가 박힌 효율적인 조끼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "행성 보호국을 상징하는 로고가 박힌 효율적인 조끼이다."
+        "path": "/shortdescription",
+        "value": "보호국 셔츠"
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "\"독방동\" 간판이네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 간판은 \"독방동\"이라고 읽어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. \"독방동\"."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "재미없는 간판이야."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "교도소 \"독방봉\" 간판."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "교도소 독방동을 가리키는 간판이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "항상 교도소 독방동에 가보고 싶었어! 아니, 잠깐. 동물원 생각했던 거야."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "이 간판은 \"독방동\"이라고 읽어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "교도소 독방동을 가리키는 간판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "재미없는 간판이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. \"독방동\"."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "항상 교도소 독방동에 가보고 싶었어! 아니, 잠깐. 동물원 생각했던 거야."
+    },
+    {
+        "op": "replace",
         "path": "/hylotlDescription",
         "value": "为那些无视周围环境的人立的标志。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "\"독방동\" 간판이네."
     }
 ]

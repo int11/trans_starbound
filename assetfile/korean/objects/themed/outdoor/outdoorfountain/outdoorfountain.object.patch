@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "야외 분수"
+        "path": "/description",
+        "value": "매끄러운 분수다. 물은 상쾌해 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매끄러운 분수다. 물은 상쾌해 보인다."
+        "path": "/shortdescription",
+        "value": "야외 분수"
     },
     {
         "op": "replace",

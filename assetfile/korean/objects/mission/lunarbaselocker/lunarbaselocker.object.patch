@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달 기지 사물함"
+        "path": "/description",
+        "value": "사물을 저장하기 완벽한 사물함 한단이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사물을 저장하기 완벽한 사물함 한단이다."
+        "path": "/shortdescription",
+        "value": "달 기지 사물함"
     },
     {
         "op": "replace",

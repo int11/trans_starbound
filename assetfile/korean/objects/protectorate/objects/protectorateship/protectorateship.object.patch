@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "내가 안전해지려면 저 우주선을 타야할거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이거야! 이 우주선이 나를 좀 더 안전한 지역으로 데려다 주겠지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "제작자분 감사합니다! 이건 어쩌면 내가 나갈 수 있는 방법일지도 몰라!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "희망이 이루어 졌어! 이 함선이 내가 나갈 유일한 방법이야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "우주선이다! 이게 내가 나갈 방법이야!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "안심. 이 우주선을 사용해서 안전하게 탈출 할 수 있을거야!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "우주션이다! 플로란은 탈출용 운숑슈단을 찾았다!"
+        "path": "/description",
+        "value": "보호국 아카데미에서 온 함선이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "보호국 아카데미에서 온 함선이다."
+        "path": "/apexDescription",
+        "value": "우주선이다! 이게 내가 나갈 방법이야!"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "제작자분 감사합니다! 이건 어쩌면 내가 나갈 수 있는 방법일지도 몰라!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "우주션이다! 플로란은 탈출용 운숑슈단을 찾았다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "안심. 이 우주선을 사용해서 안전하게 탈출 할 수 있을거야!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "희망이 이루어 졌어! 이 함선이 내가 나갈 유일한 방법이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이거야! 이 우주선이 나를 좀 더 안전한 지역으로 데려다 주겠지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 안전해지려면 저 우주선을 타야할거야!"
     }
 ]

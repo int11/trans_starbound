@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "거울에 비치는 상이 사막의 여름날 아지랑이처럼 흐리다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "거울 장식의 질은 좋지만, 거울 자체는 흐릿하다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "거울에 비치는 상이 흐릿하다. 수수께끼를 품고 있으려나?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "거울에 비치는 상이 흐릿하다. 물 밑을 바라보는 기분이다. 아니면 비눗물."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "거울에 비치는 상이 끔찍하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "불만. 거울에 비치는 상이 물 밑을 바라보는 것처럼 흐리다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "거울 보면 잠슈하는 기분이다."
+        "path": "/description",
+        "value": "산호 틀에 짜맞춘 벽걸이 거울이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "산호 틀에 짜맞춘 벽걸이 거울이다."
+        "path": "/apexDescription",
+        "value": "거울에 비치는 상이 끔찍하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "거울에 비치는 상이 흐릿하다. 수수께끼를 품고 있으려나?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "거울 보면 잠슈하는 기분이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "불만. 거울에 비치는 상이 물 밑을 바라보는 것처럼 흐리다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "거울에 비치는 상이 흐릿하다. 물 밑을 바라보는 기분이다. 아니면 비눗물."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "거울 장식의 질은 좋지만, 거울 자체는 흐릿하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "거울에 비치는 상이 사막의 여름날 아지랑이처럼 흐리다."
     }
 ]

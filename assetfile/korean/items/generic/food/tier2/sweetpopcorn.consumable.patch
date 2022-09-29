@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달콤한 팝콘"
+        "path": "/description",
+        "value": "갓 튀긴 달콤하고 버터로 코팅된 팝콘이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "갓 튀긴 달콤하고 버터로 코팅된 팝콘이다."
+        "path": "/shortdescription",
+        "value": "달콤한 팝콘"
     }
 ]

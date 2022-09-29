@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "멋진 창문. 플로란 밖 볼 슈 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나무 테두리로 만든 멋진 창문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "기쁨. 이 창문은 방을 밝게하는 데 도움을 준다."
+        "path": "/shortdescription",
+        "value": "나무 창문"
     },
     {
         "op": "replace",
@@ -21,7 +11,17 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 창문"
+        "path": "/glitchDescription",
+        "value": "기쁨. 이 창문은 방을 밝게하는 데 도움을 준다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "멋진 창문. 플로란 밖 볼 슈 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무 테두리로 만든 멋진 창문이다."
     }
 ]

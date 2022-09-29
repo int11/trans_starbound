@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "쭉 뻗고 앉으면 빨려들어가는 소파다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "보기엔 엄청 편안해 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀람. 매우 푹신함."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "푹신해."
+        "path": "/description",
+        "value": "푹신한 2인용 소파다."
     },
     {
         "op": "replace",
@@ -26,13 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "푹신한 2인용 소파다."
+        "path": "/apexDescription",
+        "value": "보기엔 엄청 편안해 보인다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "완전 푹신한게 있어."
+        "path": "/avianDescription",
+        "value": "여기에 앉아있으면 영원히 만족할 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "푹신해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 매우 푹신함."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "쭉 뻗고 앉으면 빨려들어가는 소파다."
     },
     {
         "op": "replace",
@@ -41,7 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "여기에 앉아있으면 영원히 만족할 것 같다."
+        "path": "/novakidDescription",
+        "value": "완전 푹신한게 있어."
     }
 ]

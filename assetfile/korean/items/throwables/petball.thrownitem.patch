@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "애완동물이 이걸 가지고 노는걸 좋아하려나?"
+        "path": "/shortdescription",
+        "value": "작은 빨강 공"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 빨강 공"
+        "path": "/description",
+        "value": "애완동물이 이걸 가지고 노는걸 좋아하려나?"
     }
 ]

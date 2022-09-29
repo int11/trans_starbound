@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고대 블럭"
+        "path": "/description",
+        "value": "이 블럭은 시간의 시련 속에서도 살아남았다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 블럭들은 흙보다도 오래되었다."
+        "path": "/shortdescription",
+        "value": "고대 블럭"
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 블럭은 시간의 시련 속에서도 살아남았다."
+        "path": "/novakidDescription",
+        "value": "이 블럭들은 흙보다도 오래되었다."
     }
 ]

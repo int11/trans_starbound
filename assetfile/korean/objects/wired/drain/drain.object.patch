@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "귀찮은 물을 처리해줘!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "물을 빨아내는데 유용한 장치야. 그런걸 좋아하는 것들에겐 말이지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "내 깃털을 보송하게 유지해주도록 물을 배출해줘."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 배수구는 물을 빠르게 뽑아버리지!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "물을 배출하도록 디자인되어 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 이 배수구는 물을 뽑아내기 용이하다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "배슈구 물 없애버린다."
+        "path": "/description",
+        "value": "꾸르르륵!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "꾸르르륵!"
+        "path": "/apexDescription",
+        "value": "물을 배출하도록 디자인되어 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "내 깃털을 보송하게 유지해주도록 물을 배출해줘."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "배슈구 물 없애버린다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 배수구는 물을 뽑아내기 용이하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 배수구는 물을 빠르게 뽑아버리지!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "물을 빨아내는데 유용한 장치야. 그런걸 좋아하는 것들에겐 말이지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "귀찮은 물을 처리해줘!"
     }
 ]

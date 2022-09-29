@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이걸 심으면 큰 나무로 자랄거야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "얼마나 꿈같은 삶인가,  이런 조그마한 것으로 부터 솟아나다니. (한숨)"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "묘목을 심으면 나무를 얻을 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 묘목이 나무로 자랄거야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "나무를 기르기 위해 이것을 심는다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "경이로움. 이 묘목을 심는것은 생명을 자라게 해주는 군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 식물 귀여운 묘목. 크게 자라 샤악한 나무!"
+        "path": "/description",
+        "value": "묘목. 뿌리로 부터 나무가 자랄 것이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "묘목. 뿌리로 부터 나무가 자랄 것이다."
+        "path": "/apexDescription",
+        "value": "나무를 기르기 위해 이것을 심는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "묘목을 심으면 나무를 얻을 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 식물 귀여운 묘목. 크게 자라 샤악한 나무!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경이로움. 이 묘목을 심는것은 생명을 자라게 해주는 군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 묘목이 나무로 자랄거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "얼마나 꿈같은 삶인가,  이런 조그마한 것으로 부터 솟아나다니. (한숨)"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이걸 심으면 큰 나무로 자랄거야."
     }
 ]

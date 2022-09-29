@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "엑스 마키나"
+        "path": "/description",
+        "value": "Serial No: 0451"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "Serial No: 0451"
+        "path": "/shortdescription",
+        "value": "엑스 마키나"
     }
 ]

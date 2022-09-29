@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 낡은 묘비는 누군가의 무덤이란걸 표시한거야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "죽음은 이보다도 더 명예롭지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "표준 묘비. 오래되고 지천에 널렸지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "아주 오래된 묘비. 단어들이 대부분 사어야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "풍화된 묘비. 아주 오래됐다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 묘비가 무너지려 하는군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 꽃 자란 걸로 죽음 표시해."
+        "path": "/description",
+        "value": "추락한 자 중 한 명의 묘지. 훼손됐다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "추락한 자 중 한 명의 묘지. 훼손됐다."
+        "path": "/apexDescription",
+        "value": "풍화된 묘비. 아주 오래됐다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "표준 묘비. 오래되고 지천에 널렸지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 꽃 자란 걸로 죽음 표시해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 묘비가 무너지려 하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아주 오래된 묘비. 단어들이 대부분 사어야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "죽음은 이보다도 더 명예롭지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 낡은 묘비는 누군가의 무덤이란걸 표시한거야."
     }
 ]

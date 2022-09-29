@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "밀"
+        "path": "/description",
+        "value": "빵같은걸 만들땐 필수이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빵같은걸 만들땐 필수이다."
+        "path": "/shortdescription",
+        "value": "밀"
     }
 ]

@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "오래되었는데도 모피에서 아직 사향 냄새가 나는군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 모피는 낡은 것 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 뼈와 털가죽은 같은 동물의 것이오."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "낡고 해지긴 했지만 멋진 모피네."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 모피가 커튼 역할을 톡톡히 하는군."
+        "path": "/description",
+        "value": "두개의 송곳니 사이에 걸린 해진 털가죽이다."
     },
     {
         "op": "replace",
@@ -31,8 +11,23 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "두개의 송곳니 사이에 걸린 해진 털가죽이다."
+        "path": "/apexDescription",
+        "value": "이 모피는 낡은 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 모피가 커튼 역할을 톡톡히 하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샤냥하면 뼈에다 털가죽 걸어놔."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 뼈와 털가죽은 같은 동물의 것이오."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 샤냥하면 뼈에다 털가죽 걸어놔."
+        "path": "/hylotlDescription",
+        "value": "오래되었는데도 모피에서 아직 사향 냄새가 나는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "낡고 해지긴 했지만 멋진 모피네."
     }
 ]

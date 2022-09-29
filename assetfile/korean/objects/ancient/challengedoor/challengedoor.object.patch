@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 도데체 뭐하는 문이지?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "알려지지않은 목적지로 가는 수수께끼의 문... 이건 숨겨진 기회일까?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "어떤 차원으로든 이어질 수 있는 불길한 문이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "알 수없는 차원으로 이어지는 신비한 출입구야. 뭐 이상해질게 있겠어?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이상한 문이 여기에 있군. 어떤 차원으로 날 이끌 것인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "요상한 문이랑.. 이거 어떻게 읽어?"
+        "path": "/description",
+        "value": "알 수없는 차원으로 이어지는 신비한 출입구다. 뭔가 잘못 될 가능성이 있을까?"
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "알 수없는 차원으로 이어지는 신비한 출입구다. 뭔가 잘못 될 가능성이 있을까?"
+        "path": "/apexDescription",
+        "value": "이상한 문이 여기에 있군. 어떤 차원으로 날 이끌 것인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "어떤 차원으로든 이어질 수 있는 불길한 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "요상한 문이랑.. 이거 어떻게 읽어?"
     },
     {
         "op": "replace",
         "path": "/glitchDescription",
         "value": "조심. 난 이 관문을 넘어설 준비가 되었는가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "알 수없는 차원으로 이어지는 신비한 출입구야. 뭐 이상해질게 있겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "알려지지않은 목적지로 가는 수수께끼의 문... 이건 숨겨진 기회일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 도데체 뭐하는 문이지?"
     }
 ]

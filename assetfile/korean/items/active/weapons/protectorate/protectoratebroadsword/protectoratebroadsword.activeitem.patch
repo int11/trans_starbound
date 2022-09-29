@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/altAbility/name",
-        "value": "에너지 부여"
+        "path": "/description",
+        "value": "행성 보호국에서 만들어진 강력한 실험적인 검이다."
     },
     {
         "op": "replace",
@@ -11,7 +11,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "행성 보호국에서 만들어진 강력한 실험적인 검이다."
+        "path": "/altAbility/name",
+        "value": "에너지 부여"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "꿀벌 바지"
+        "path": "/description",
+        "value": "줄무늬가 있는 바지. 벌침은 장식이니 걱정하지 않아도 된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "줄무늬가 있는 바지. 벌침은 장식이니 걱정하지 않아도 된다."
+        "path": "/shortdescription",
+        "value": "꿀벌 바지"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 강인한 바위는 몹시 뾰족해."
+        "path": "/description",
+        "value": "엄청난 열 폭발에 의해 생겨난 날카로운 바위."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "블라스트스톤 블럭."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "블라스트스톤 블럭."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "엄청난 열 폭발에 의해 생겨난 날카로운 바위."
+        "path": "/novakidDescription",
+        "value": "이 강인한 바위는 몹시 뾰족해."
     }
 ]

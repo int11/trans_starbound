@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "모험가의 바지"
+        "path": "/description",
+        "value": "이 바지들은 좀 뻣뻣하긴 하지만 로봇같은 모습을 깔끔하게 완성한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 바지들은 좀 뻣뻣하긴 하지만 로봇같은 모습을 깔끔하게 완성한다."
+        "path": "/shortdescription",
+        "value": "모험가의 바지"
     }
 ]

@@ -1,43 +1,21 @@
 [
     {
         "op": "replace",
-        "path": "/destinations/0/name",
-        "value": "행성으로 전송"
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/0/planetName",
-        "value": "현재 궤도 중심 천체"
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/1/name",
-        "value": "기체 배치"
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/1/planetName",
-        "value": "현재 궤도 중심 천체"
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/0",
-        "value": {
-            "name": "행성으로 전송",
-            "planetName": "현재 궤도 중심 천체",
-            "warpAction": "OrbitedWorld",
-            "icon": "beamdown"
-        }
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/1",
-        "value": {
-            "name": "기체 배치",
-            "planetName": "현재 궤도 중심 천체",
-            "warpAction": "OrbitedWorld",
-            "deploy": true,
-            "icon": "deploy"
-        }
+        "path": "/destinations",
+        "value": [
+            {
+                "name": "행성으로 전송",
+                "planetName": "현재 궤도 중심 천체",
+                "warpAction": "OrbitedWorld",
+                "icon": "beamdown"
+            },
+            {
+                "name": "기체 배치",
+                "planetName": "현재 궤도 중심 천체",
+                "warpAction": "OrbitedWorld",
+                "deploy": true,
+                "icon": "deploy"
+            }
+        ]
     }
 ]

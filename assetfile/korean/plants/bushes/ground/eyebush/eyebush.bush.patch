@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혐오. 끔찍한 눈알."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "눈싸움 하는중."
+        "path": "/description",
+        "value": "끔찍한 눈알이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "끔찍한 눈알이다."
+        "path": "/floranDescription",
+        "value": "눈싸움 하는중."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혐오. 끔찍한 눈알."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 체인"
+        "path": "/description",
+        "value": "텅스텐 체인, 재미없는 모양이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "텅스텐 체인, 재미없는 모양이다."
+        "path": "/shortdescription",
+        "value": "텅스텐 체인"
     },
     {
         "op": "replace",

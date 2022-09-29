@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "설명. 얼음 블럭"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "차가운 블러억!"
+        "path": "/description",
+        "value": "얼음 블럭"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼음 블럭"
+        "path": "/floranDescription",
+        "value": "차가운 블러억!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 얼음 블럭"
     }
 ]

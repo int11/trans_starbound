@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "머리뼈 벽 횃불"
+        "path": "/description",
+        "value": "오래된 뼈로 만든 불길한 횃불이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오래된 뼈로 만든 불길한 횃불이다."
+        "path": "/shortdescription",
+        "value": "머리뼈 벽 횃불"
     },
     {
         "op": "replace",

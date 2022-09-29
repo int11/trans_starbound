@@ -1,13 +1,28 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "화성은 지구의 고대 전쟁 신의 이름을 사용해. \"붉은 행성\"이라고도 하지."
+        "path": "/description",
+        "value": "붉은 행성인 태양계의 화성을 본뜬 천장걸이 모형이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화성 모형"
     },
     {
         "op": "replace",
         "path": "/apexDescription",
         "value": "화성은 인류 태양계의 네번째 행성이다. 지구가 파괴되기전 부터 테라포밍되고 있었다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "화성은 지구의 고대 전쟁 신의 이름을 사용해. \"붉은 행성\"이라고도 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "火星星星有许多居民在那里，直到地球毁灭灭灭…"
     },
     {
         "op": "replace",
@@ -18,21 +33,6 @@
         "op": "replace",
         "path": "/humanDescription",
         "value": "화성은 여러 식민지와 수천명의 사람들이 있어. 모두 지구가 파괴되면서 대피한 사람들이야..."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "화성 모형"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "붉은 행성인 태양계의 화성을 본뜬 천장걸이 모형이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "火星星星有许多居民在那里，直到地球毁灭灭灭…"
     },
     {
         "op": "replace",

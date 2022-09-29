@@ -1,11 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란, 거품으로 불 죽인다!"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "가지고 놀라고 비치한게 아니다."
     },
@@ -23,6 +18,11 @@
         "op": "replace",
         "path": "/avianDescription",
         "value": "方便的灭火器。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란, 거품으로 불 죽인다!"
     },
     {
         "op": "replace",

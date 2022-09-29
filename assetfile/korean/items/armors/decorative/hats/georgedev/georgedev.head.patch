@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조지의 여우 안경"
+        "path": "/description",
+        "value": "조지가 가진 섹시한 안경이다. 아무나 소화할수 없을걸?!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조지가 가진 섹시한 안경이다. 아무나 소화할수 없을걸?!"
+        "path": "/shortdescription",
+        "value": "조지의 여우 안경"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스타므 스커트"
+        "path": "/description",
+        "value": "스마트한 스커트. 트랜디의 정점!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "스마트한 스커트. 트랜디의 정점!"
+        "path": "/shortdescription",
+        "value": "스타므 스커트"
     }
 ]

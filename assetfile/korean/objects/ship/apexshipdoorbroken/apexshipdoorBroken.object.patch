@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 문은 망가졌다. 언제라도 안 열릴 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "기초적인 함선 문이다. 지금은 안 열린다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "문이다. 안 열린다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "멋진 문이다. 지금은 안 열린다니 아까운걸."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이런 문짝들은 우리 함선에 달린다. 이 물건은 제대로 구르질 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "실망. 문이다. 지금은 작동을 중지했다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "문 안 열린다!"
+        "path": "/description",
+        "value": "우주선에 적합한 문이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우주선에 적합한 문이다."
+        "path": "/apexDescription",
+        "value": "이런 문짝들은 우리 함선에 달린다. 이 물건은 제대로 구르질 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "문이다. 안 열린다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "문 안 열린다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 문이다. 지금은 작동을 중지했다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "멋진 문이다. 지금은 안 열린다니 아까운걸."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기초적인 함선 문이다. 지금은 안 열린다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 문은 망가졌다. 언제라도 안 열릴 것 같다."
     }
 ]

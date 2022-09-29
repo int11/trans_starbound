@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "E.A.S.E.L."
+        "path": "/description",
+        "value": "품격있는(E) 전자동(A) 간판(S) 공학(E) 인쇄기(L). 줄여서 \"EASEL\"이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "품격있는(E) 전자동(A) 간판(S) 공학(E) 인쇄기(L). 줄여서 \"EASEL\"이다."
+        "path": "/shortdescription",
+        "value": "E.A.S.E.L."
     },
     {
         "op": "replace",

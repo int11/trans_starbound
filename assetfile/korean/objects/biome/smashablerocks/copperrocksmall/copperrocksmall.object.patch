@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 구리 바위"
+        "path": "/description",
+        "value": "구리로 가득한 갈라진 바위다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "구리로 가득한 갈라진 바위다."
+        "path": "/shortdescription",
+        "value": "작은 구리 바위"
     },
     {
         "op": "replace",

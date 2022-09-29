@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/conditions/0/description",
-        "value": "^orange;<itemName>^reset;을 : ^green;<current> / <required>^reset;개 획득"
+        "path": "/title",
+        "value": "^green;수상한 케스트렐 함선 업그레이드"
     },
     {
         "op": "replace",
@@ -21,12 +21,12 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "^green;수상한 케스트렐 함선 업그레이드"
+        "path": "/scriptConfig/turnInDescription",
+        "value": "将^orange;升级模块^reset;送到^orange;前哨站^reset;的^orange;企鹅皮特^reset;那里。"
     },
     {
         "op": "replace",
-        "path": "/scriptConfig/turnInDescription",
-        "value": "将^orange;升级模块^reset;送到^orange;前哨站^reset;的^orange;企鹅皮特^reset;那里。"
+        "path": "/scriptConfig/conditions/0/description",
+        "value": "^orange;<itemName>^reset;을 : ^green;<current> / <required>^reset;개 획득"
     }
 ]

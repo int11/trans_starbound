@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뉘가 이거 부숴놨네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "실망. 수리할 수 없게 부숴졌군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "박샬난 모니터."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "유리가 날카롭다, 조심해야지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "볼 거 없네요."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "부숴진 모니터. 고칠 수도 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "완전히 부숴졌다, 더는 못쓰겠다."
+        "path": "/description",
+        "value": "박살난 모니터, 쓸 만한 건 없다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "박살난 모니터, 쓸 만한 건 없다."
+        "path": "/apexDescription",
+        "value": "완전히 부숴졌다, 더는 못쓰겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "볼 거 없네요."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "박샬난 모니터."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 수리할 수 없게 부숴졌군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "부숴진 모니터. 고칠 수도 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "유리가 날카롭다, 조심해야지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뉘가 이거 부숴놨네."
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "순전히 장식용일까 아니면 다른 의도가 있을까?"
+        "path": "/description",
+        "value": "그냥 벽 판이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "표준 규격 벽 판"
     },
     {
         "op": "replace",
@@ -16,23 +21,13 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "쓸모없는 장식."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "무감명. 쓸모없는 나무 판자다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "표준 규격 벽 판"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "그냥 벽 판이다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "동전 숨기는 장화마냥 허술하기 짝이 없네."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "쓸모없는 장식."
+        "path": "/hylotlDescription",
+        "value": "순전히 장식용일까 아니면 다른 의도가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "동전 숨기는 장화마냥 허술하기 짝이 없네."
     }
 ]

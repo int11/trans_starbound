@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 보관함은 가죽을 늘여 만들어졌어. 압력이 가해지면 더 늘어날꺼야."
+        "path": "/description",
+        "value": "네개의 커다란 송곳니 사이에 가죽을 뻗쳐 만든 보관함이다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "보관함에 쓰기에는 꽤나 그럴싸한 송곳닌데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "생명을 죽여서 다 된 디자인에 코를 풀어놨군."
+        "path": "/shortdescription",
+        "value": "거대한 원시 보관함"
     },
     {
         "op": "replace",
@@ -21,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 혁신적인 디자인이로군, 필요에 의해 가죽이 늘어난다니."
+        "path": "/avianDescription",
+        "value": "이 보관함은 가죽을 늘여 만들어졌어. 압력이 가해지면 더 늘어날꺼야."
     },
     {
         "op": "replace",
@@ -31,8 +26,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "네개의 커다란 송곳니 사이에 가죽을 뻗쳐 만든 보관함이다."
+        "path": "/glitchDescription",
+        "value": "감명. 혁신적인 디자인이로군, 필요에 의해 가죽이 늘어난다니."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거대한 원시 보관함"
+        "path": "/hylotlDescription",
+        "value": "생명을 죽여서 다 된 디자인에 코를 풀어놨군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "보관함에 쓰기에는 꽤나 그럴싸한 송곳닌데."
     }
 ]

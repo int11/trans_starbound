@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "여기에다 오망성 장신구랑 검은 양초를 보관해야겠군!"
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뼈 상자라. 흉곽으로 만들어졌을 지도."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "뼈로 만들어진 상자다. 골수로 가득 차지 않길 바란다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 상자 만들자고 죽은 생물은 훨씬 나은 최후를 맞이했어야 할 텐데."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "뼈로 장식된 상자다."
+        "path": "/shortdescription",
+        "value": "뼈 상자"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "반감. 뼈로 이루어진 상자다."
+        "path": "/avianDescription",
+        "value": "뼈로 장식된 상자다."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "뼈 상자"
+        "path": "/glitchDescription",
+        "value": "반감. 뼈로 이루어진 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여기에다 오망성 장신구랑 검은 양초를 보관해야겠군!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 상자 만들자고 죽은 생물은 훨씬 나은 최후를 맞이했어야 할 텐데."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뼈 상자라. 흉곽으로 만들어졌을 지도."
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "보라색 상자로군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 상자는 내가 모르는 재질로 만들어 졌어. 이게 과연 뭘까?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "만지니 꽤 따뜻한걸..."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 상자가 뭘로 만들어 진거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "난 금속으로 만들어 진게 좋은데 말이지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감탄. 이 밝은 색은 무엇인가"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "보라색 샹자, 플로란 필요한거 들어있나?"
+        "path": "/description",
+        "value": "외계 나무로 만든 상자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계 나무로 만든 상자다."
+        "path": "/apexDescription",
+        "value": "난 금속으로 만들어 진게 좋은데 말이지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "만지니 꽤 따뜻한걸..."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "보라색 샹자, 플로란 필요한거 들어있나?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 이 밝은 색은 무엇인가"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 상자가 뭘로 만들어 진거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 상자는 내가 모르는 재질로 만들어 졌어. 이게 과연 뭘까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "보라색 상자로군."
     }
 ]

@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "보물 교환소"
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "귀한거 얻고 싶어? 그럼 여기로 가자"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "귀한 아이템들을 모아 보상품으로 바꾸자"
     },
     {
         "op": "replace",
@@ -53,5 +43,15 @@
         "op": "replace",
         "path": "/novakidDescription",
         "value": "我要拿我的靴子换一些商品！但这商人对靴子不感兴趣…"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "보물 교환소"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "귀한 아이템들을 모아 보상품으로 바꾸자"
     }
 ]

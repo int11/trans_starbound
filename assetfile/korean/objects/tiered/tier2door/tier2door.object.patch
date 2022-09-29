@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 문"
+        "path": "/description",
+        "value": "기본적인 텅스텐 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기본적인 텅스텐 문이다."
+        "path": "/shortdescription",
+        "value": "텅스텐 문"
     },
     {
         "op": "replace",

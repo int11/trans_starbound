@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "꽤 크군..."
+        "path": "/shortdescription",
+        "value": "성체 팝탑"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "성체 팝탑"
+        "path": "/description",
+        "value": "꽤 크군..."
     }
 ]

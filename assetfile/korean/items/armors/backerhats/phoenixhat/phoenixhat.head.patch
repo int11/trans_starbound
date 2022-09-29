@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "불사조 서클릿"
+        "path": "/description",
+        "value": "우주를 날아다닌다고 전해지는 전설상의 불새를 상징하는 서클릿이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우주를 날아다닌다고 전해지는 전설상의 불새를 상징하는 서클릿이다."
+        "path": "/shortdescription",
+        "value": "불사조 서클릿"
     }
 ]

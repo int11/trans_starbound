@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "오토마토는 짜릿한 금속 맛이 나."
+        "path": "/description",
+        "value": "오토마토다! 나사는 꼭 뱉도록 하자."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "흔한 글리치 소작농의 음식이지. 내 취향은 아니야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "오토마토다. 씨앗 자체로도 꽤 맛있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "나사로 가득찬 토마토야.  맛있지만 위험해."
+        "path": "/shortdescription",
+        "value": "오토마토 씨앗"
     },
     {
         "op": "replace",
@@ -26,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "못마땅함. 다른 종족은 나사를 없애지. 글리치는 그게 풍미를 돋군다고 생각하오."
+        "path": "/avianDescription",
+        "value": "오토마토다. 씨앗 자체로도 꽤 맛있어."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오토마토다! 나사는 꼭 뱉도록 하자."
+        "path": "/glitchDescription",
+        "value": "못마땅함. 다른 종족은 나사를 없애지. 글리치는 그게 풍미를 돋군다고 생각하오."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오토마토 씨앗"
+        "path": "/humanDescription",
+        "value": "나사로 가득찬 토마토야.  맛있지만 위험해."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "흔한 글리치 소작농의 음식이지. 내 취향은 아니야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "오토마토는 짜릿한 금속 맛이 나."
     }
 ]

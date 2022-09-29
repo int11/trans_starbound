@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "빛나는 상자. 잃어버리기 싫은 걸 보관하기에 좋지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 인상적인 상자는 천연소재로 보이는군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 상자는 누가 만든 거야, 지가 자라난 거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 상자 빛나는 거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 상자는 유기물로 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 이 식물은 상자가 되기 위해 자라난 것 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 원예가는 이것처럼 땅에서 상자 기를 수 있어."
+        "path": "/description",
+        "value": "구조가 유기물로 보이는 상자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "구조가 유기물로 보이는 상자."
+        "path": "/apexDescription",
+        "value": "이 상자는 유기물로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 상자는 누가 만든 거야, 지가 자라난 거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 원예가는 이것처럼 땅에서 상자 기를 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 이 식물은 상자가 되기 위해 자라난 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 상자 빛나는 거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 인상적인 상자는 천연소재로 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "빛나는 상자. 잃어버리기 싫은 걸 보관하기에 좋지."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "골순 씨앗"
+        "path": "/description",
+        "value": "칼슘 섭취가 필요할때, 골순."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "칼슘 섭취가 필요할때, 골순."
+        "path": "/shortdescription",
+        "value": "골순 씨앗"
     },
     {
         "op": "replace",

@@ -41,6 +41,16 @@
     },
     {
         "op": "replace",
+        "path": "/gui/editBookmarkFrame/children/name/hint",
+        "value": "북마크 이름 입력"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/editBookmarkFrame/children/name/regex",
+        "value": ".{0,28}"
+    },
+    {
+        "op": "replace",
         "path": "/gui/jumpDialog/children/jump/caption",
         "value": "점프"
     },
@@ -61,8 +71,28 @@
     },
     {
         "op": "replace",
+        "path": "/gui/clusterinfo/children/inner/children/name/value",
+        "value": "이것은 클러스터다"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/clusterinfo/children/inner/children/moons/value",
+        "value": "많은 위성"
+    },
+    {
+        "op": "replace",
         "path": "/gui/clusterinfo/children/inner/children/view/caption",
         "value": "아직 탐험되지 않음"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/objectinfo/children/inner/children/name/value",
+        "value": "우주 물체"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/objectinfo/children/inner/children/description/value",
+        "value": "이것은 매우 좋은 우주 물체"
     },
     {
         "op": "replace",
@@ -71,8 +101,38 @@
     },
     {
         "op": "replace",
+        "path": "/gui/objectinfo/children/inner/children/bookmark/caption",
+        "value": "북마크 추가"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/systeminfo/children/inner/children/type/value",
+        "value": "별 유형"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/systeminfo/children/inner/children/name/value",
+        "value": "시스템"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
+        "value": "행성 유형"
+    },
+    {
+        "op": "replace",
         "path": "/gui/systeminfo/children/inner/children/view/caption",
         "value": "아직 탐험되지 않음"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/planetinfo/children/inner/children/name/value",
+        "value": "이것은 행성이다"
+    },
+    {
+        "op": "replace",
+        "path": "/gui/planetinfo/children/inner/children/description/value",
+        "value": "이 행성에 대한 설명"
     },
     {
         "op": "replace",
@@ -121,6 +181,20 @@
     },
     {
         "op": "replace",
+        "path": "/gui/systemName/value",
+        "value": "시스템명"
+    },
+    {
+        "op": "replace",
+        "path": "/planetInfoBox/bookmarkButtonCaption",
+        "value": {
+            "add": "북마크 추가",
+            "edit": "북마크 편집",
+            "disabled": "북마크할 수 없음"
+        }
+    },
+    {
+        "op": "replace",
         "path": "/planetInfoBox/bookmarkButtonCaption/add",
         "value": "북마크 추가"
     },
@@ -136,6 +210,14 @@
     },
     {
         "op": "replace",
+        "path": "/clusterInfoBox/viewButtonCaption",
+        "value": {
+            "enabled": "탐색",
+            "disabled": "미탐색"
+        }
+    },
+    {
+        "op": "replace",
         "path": "/clusterInfoBox/viewButtonCaption/enabled",
         "value": "보기"
     },
@@ -143,6 +225,24 @@
         "op": "replace",
         "path": "/clusterInfoBox/viewButtonCaption/disabled",
         "value": "미탐험"
+    },
+    {
+        "op": "replace",
+        "path": "/objectInfoBox/bookmarkButtonCaption",
+        "value": {
+            "add": "북마크 추가",
+            "edit": "북마크 편집",
+            "disabled": "북마크할 수 없음",
+            "unexplored": "미탐색"
+        }
+    },
+    {
+        "op": "replace",
+        "path": "/systemInfoBox/viewButtonCaption",
+        "value": {
+            "enabled": "탐색",
+            "disabled": "미탐색"
+        }
     },
     {
         "op": "replace",
@@ -236,6 +336,15 @@
     },
     {
         "op": "replace",
+        "path": "/terraformedPlanetDescription",
+        "value": [
+            "이 행성은 광범위한 테라포밍에 의해 알아볼 수 없을 정도로 변형되었습니다.",
+            "테라포밍은 외관상 부자연스럽기는 하지만 이 행성을 거주하기에 안전한 곳으로 만들었습니다.",
+            "이 행성의 기후와 생태계는 테라포밍에 의해 극적으로 변화되었습니다."
+        ]
+    },
+    {
+        "op": "replace",
         "path": "/visitableTypeDescription/tundra",
         "value": [
             "^#61ffe3;얼어붙은^white; 땅, 영구 동토층이 깊게 형성되어 있습니다. 눈폭풍은 흔하고, 기온은 ^red;위험할 정도로 낮습니다.^white;",
@@ -311,15 +420,6 @@
         "path": "/visitableTypeDescription/ancientgateway",
         "value": [
             "기원을 알 수 없는 고대 관문입니다. 강력한 힘과 미지의 건축물입니다."
-        ]
-    },
-    {
-        "op": "replace",
-        "path": "/terraformedPlanetDescription",
-        "value": [
-            "이 행성은 광범위한 테라포밍에 의해 알아볼 수 없을 정도로 변형되었습니다.",
-            "테라포밍은 외관상 부자연스럽기는 하지만 이 행성을 거주하기에 안전한 곳으로 만들었습니다.",
-            "이 행성의 기후와 생태계는 테라포밍에 의해 극적으로 변화되었습니다."
         ]
     },
     {
@@ -411,13 +511,13 @@
     },
     {
         "op": "replace",
-        "path": "/displayOres/erchius/displayName",
-        "value": "에르키우스 결정 연료 (Crystal Erchius Fuel)"
+        "path": "/displayWeathers/rain/displayName",
+        "value": "비 (Rain)"
     },
     {
         "op": "replace",
-        "path": "/displayWeathers/rain/displayName",
-        "value": "비 (Rain)"
+        "path": "/displayOres/erchius/displayName",
+        "value": "에르키우스 결정 연료 (Crystal Erchius Fuel)"
     },
     {
         "op": "replace",
@@ -466,13 +566,28 @@
     },
     {
         "op": "replace",
+        "path": "/clusterMoons/none",
+        "value": "공전 중인 천제 없음"
+    },
+    {
+        "op": "replace",
         "path": "/displayWeathers/glowingrain/displayName",
         "value": "발광성 비 (Luminous Rain)"
     },
     {
         "op": "replace",
+        "path": "/clusterMoons/singular",
+        "value": "공전 중인 천체 한 개"
+    },
+    {
+        "op": "replace",
         "path": "/displayWeathers/crystalrain/displayName",
         "value": "결정 비 (Crystal Rain)"
+    },
+    {
+        "op": "replace",
+        "path": "/clusterMoons/plural",
+        "value": "공전 중인 천체 %s 개"
     },
     {
         "op": "replace",
@@ -516,38 +631,23 @@
     },
     {
         "op": "replace",
-        "path": "/displayWeathers/icestorm/displayName",
-        "value": "얼음 폭풍 (Ice Storms)"
-    },
-    {
-        "op": "replace",
-        "path": "/displayWeathers/acidrain/displayName",
-        "value": "산성비 (Acid Rain)"
-    },
-    {
-        "op": "replace",
-        "path": "/clusterMoons/none",
-        "value": "공전 중인 천제 없음"
-    },
-    {
-        "op": "replace",
-        "path": "/clusterMoons/singular",
-        "value": "공전 중인 천체 한 개"
-    },
-    {
-        "op": "replace",
-        "path": "/clusterMoons/plural",
-        "value": "공전 중인 천체 %s 개"
-    },
-    {
-        "op": "replace",
         "path": "/planetTypeNames/garden",
         "value": "초원"
     },
     {
         "op": "replace",
+        "path": "/displayWeathers/icestorm/displayName",
+        "value": "얼음 폭풍 (Ice Storms)"
+    },
+    {
+        "op": "replace",
         "path": "/planetTypeNames/forest",
         "value": "숲"
+    },
+    {
+        "op": "replace",
+        "path": "/displayWeathers/acidrain/displayName",
+        "value": "산성비 (Acid Rain)"
     },
     {
         "op": "replace",
@@ -676,6 +776,14 @@
     },
     {
         "op": "replace",
+        "path": "/jumpDialog",
+        "value": {
+            "valid": "FTL 항해는 ^green;%s 연료^reset;를 사용할 것입니다.\n계속할 것인지 확인해주세요.",
+            "invalid": "FTL 항해는 ^red;%i 연료^reset;를 필요로 합니다.\n 연료가 부족합니다."
+        }
+    },
+    {
+        "op": "replace",
         "path": "/jumpDialog/valid",
         "value": "FTL 항해는 ^green;%s 연료^reset;를 사용할 것입니다. \n계속할 것인지 확인해주세요."
     },
@@ -683,6 +791,16 @@
         "op": "replace",
         "path": "/jumpDialog/invalid",
         "value": "FTL 항해는 ^red;%i 연료^reset;를 필요로 합니다.\n 연료가 부족합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/topLeftButtonTooltips",
+        "value": {
+            "showBookmarkList": "북마크",
+            "goToShip": "함선보기",
+            "goToQuest": "미션장소보기",
+            "showCoordinates": "좌표"
+        }
     },
     {
         "op": "replace",
@@ -739,123 +857,5 @@
         "op": "replace",
         "path": "/systemTooltip/exploredLabel/unexplored",
         "value": "방문하지 않음"
-    },
-    {
-        "op": "replace",
-        "path": "/jumpDialog",
-        "value": {
-            "valid": "FTL 항해는 ^green;%s 연료^reset;를 사용할 것입니다.\n계속할 것인지 확인해주세요.",
-            "invalid": "FTL 항해는 ^red;%i 연료^reset;를 필요로 합니다.\n 연료가 부족합니다."
-        }
-    },
-    {
-        "op": "replace",
-        "path": "/topLeftButtonTooltips",
-        "value": {
-            "showBookmarkList": "북마크",
-            "goToShip": "함선보기",
-            "goToQuest": "미션장소보기",
-            "showCoordinates": "좌표"
-        }
-    },
-    {
-        "op": "replace",
-        "path": "/gui/editBookmarkFrame/children/name/hint",
-        "value": "북마크 이름 입력"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/editBookmarkFrame/children/name/regex",
-        "value": ".{0,28}"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/clusterinfo/children/inner/children/name/value",
-        "value": "이것은 클러스터다"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/clusterinfo/children/inner/children/moons/value",
-        "value": "많은 위성"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/objectinfo/children/inner/children/name/value",
-        "value": "우주 물체"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/objectinfo/children/inner/children/description/value",
-        "value": "이것은 매우 좋은 우주 물체"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/objectinfo/children/inner/children/bookmark/caption",
-        "value": "북마크 추가"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/systeminfo/children/inner/children/type/value",
-        "value": "별 유형"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/systeminfo/children/inner/children/name/value",
-        "value": "시스템"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
-        "value": "행성 유형"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/planetinfo/children/inner/children/name/value",
-        "value": "이것은 행성이다"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/planetinfo/children/inner/children/description/value",
-        "value": "이 행성에 대한 설명"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/systemName/value",
-        "value": "시스템명"
-    },
-    {
-        "op": "replace",
-        "path": "/planetInfoBox/bookmarkButtonCaption",
-        "value": {
-            "add": "북마크 추가",
-            "edit": "북마크 편집",
-            "disabled": "북마크할 수 없음"
-        }
-    },
-    {
-        "op": "replace",
-        "path": "/clusterInfoBox/viewButtonCaption",
-        "value": {
-            "enabled": "탐색",
-            "disabled": "미탐색"
-        }
-    },
-    {
-        "op": "replace",
-        "path": "/objectInfoBox/bookmarkButtonCaption",
-        "value": {
-            "add": "북마크 추가",
-            "edit": "북마크 편집",
-            "disabled": "북마크할 수 없음",
-            "unexplored": "미탐색"
-        }
-    },
-    {
-        "op": "replace",
-        "path": "/systemInfoBox/viewButtonCaption",
-        "value": {
-            "enabled": "탐색",
-            "disabled": "미탐색"
-        }
     }
 ]

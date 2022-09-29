@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "엉망진창에 끈적해보이는 젤리야."
+        "path": "/description",
+        "value": "점액질의 밝은 색상의 덩어리 젤리."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "젤리 방울"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "젤리 방울"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "점액질의 밝은 색상의 덩어리 젤리."
+        "path": "/novakidDescription",
+        "value": "엉망진창에 끈적해보이는 젤리야."
     }
 ]

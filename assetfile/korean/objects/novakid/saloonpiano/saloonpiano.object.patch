@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 피아노"
+        "path": "/description",
+        "value": "술집과 잘 어울리는 피아노다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "술집과 잘 어울리는 피아노다."
+        "path": "/shortdescription",
+        "value": "술집 피아노"
     },
     {
         "op": "replace",

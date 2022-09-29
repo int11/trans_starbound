@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "가벼운 미닫이 문이다, 얇고, 빠르고 더 비싸다고 광고한다."
+    },
+    {
+        "op": "replace",
         "path": "/shortdescription",
         "value": "검정 미닫이 문"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀이. 미닫는 소리가 내 회로에 스파크를 발생시킨다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "놀라운 문짝이다. 절대 싸구려는 아니겠는데."
     },
     {
         "op": "replace",
@@ -21,13 +16,23 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 고귀한 건축물이 다 있다니."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "문이 샬모샤처렴 슈이익댄다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가벼운 미닫이 문이다, 얇고, 빠르고 더 비싸다고 광고한다."
+        "path": "/glitchDescription",
+        "value": "놀이. 미닫는 소리가 내 회로에 스파크를 발생시킨다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "요 미닫이 문에서 아주 기분 좋은 소리가 난다."
     },
     {
         "op": "replace",
@@ -36,12 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이런 고귀한 건축물이 다 있다니."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "요 미닫이 문에서 아주 기분 좋은 소리가 난다."
+        "path": "/novakidDescription",
+        "value": "놀라운 문짝이다. 절대 싸구려는 아니겠는데."
     }
 ]

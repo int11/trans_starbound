@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "검고 차가운 이 벽돌은 방의 열기를 흡수해버린다."
+        "path": "/shortdescription",
+        "value": "검은 무덤 벽돌"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "검은 무덤 벽돌"
+        "path": "/description",
+        "value": "검고 차가운 이 벽돌은 방의 열기를 흡수해버린다."
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "폭풍이 몰아치면, 날아가지 않기 위해 나무에 달라붙는다."
+        "path": "/shortdescription",
+        "value": "촉수 폭탄"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "촉수 폭탄"
+        "path": "/description",
+        "value": "폭풍이 몰아치면, 날아가지 않기 위해 나무에 달라붙는다."
     }
 ]

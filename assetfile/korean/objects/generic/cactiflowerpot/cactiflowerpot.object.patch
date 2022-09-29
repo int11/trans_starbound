@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "설명하진 못하겠지만 나 여기 선인장 지인짜 좋아."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "따가워보이는 식물이군. 만지지 않는 게 좋겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "작고 알록달록한 꽃이 피는 가시 식물."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "선인장 화분. 별 느낌 없군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정보. 이런 선인장은 그렇게 많은 물이 없어도 살 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "다육이는 자기 방어 슈단을 갖고 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "선인장! 자라기도 잘 자라고 돌보기도 쉽고."
+        "path": "/description",
+        "value": "꽃 화분에 심어진 선인장."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "꽃 화분에 심어진 선인장."
+        "path": "/apexDescription",
+        "value": "선인장 화분. 별 느낌 없군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "작고 알록달록한 꽃이 피는 가시 식물."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "다육이는 자기 방어 슈단을 갖고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정보. 이런 선인장은 그렇게 많은 물이 없어도 살 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "선인장! 자라기도 잘 자라고 돌보기도 쉽고."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "따가워보이는 식물이군. 만지지 않는 게 좋겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "설명하진 못하겠지만 나 여기 선인장 지인짜 좋아."
     }
 ]

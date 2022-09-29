@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "피라미드 해드"
+        "path": "/description",
+        "value": "왠지 생각했던것보다 너무 무섭지 않다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "왠지 생각했던것보다 너무 무섭지 않다."
+        "path": "/shortdescription",
+        "value": "피라미드 해드"
     }
 ]

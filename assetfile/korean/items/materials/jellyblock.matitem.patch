@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "젤리 덩어리"
+        "path": "/description",
+        "value": "끈적거리고 밝은 색의 젤리 덩어리."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "끈적거리고 밝은 색의 젤리 덩어리."
+        "path": "/shortdescription",
+        "value": "젤리 덩어리"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나무로 만들어진 간단한 격자."
+        "path": "/shortdescription",
+        "value": "창문 격자"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "창문 격자"
+        "path": "/description",
+        "value": "나무로 만들어진 간단한 격자."
     },
     {
         "op": "replace",

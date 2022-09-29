@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "불처럼 생겼다. 지나갈 때 조심해야겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "소용돌이치는 화염 표시다. 앞에 불이 났다는 표시다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "전통적으로 불을 나타내는 표시다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "불을 의미하는 표시가 틀림없어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "불조심 용도로 쓰는 표시다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주의. 불을 조심하라는 신호다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "불이야아! 플로란 제일 싫어하는 거다."
+        "path": "/description",
+        "value": "거칠고 파괴적인 화염을 경고하는 표식이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거칠고 파괴적인 화염을 경고하는 표식이다."
+        "path": "/apexDescription",
+        "value": "불조심 용도로 쓰는 표시다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "전통적으로 불을 나타내는 표시다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불이야아! 플로란 제일 싫어하는 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 불을 조심하라는 신호다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "불을 의미하는 표시가 틀림없어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "소용돌이치는 화염 표시다. 앞에 불이 났다는 표시다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "불처럼 생겼다. 지나갈 때 조심해야겠다."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "종자의 흉갑"
+        "path": "/description",
+        "value": "종자의 흉갑은 검소하고 꾸밈이 없다, 마치 그들의 사회적 위치를 보여주는것 처럼..."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "종자의 흉갑은 검소하고 꾸밈이 없다, 마치 그들의 사회적 위치를 보여주는것 처럼..."
+        "path": "/shortdescription",
+        "value": "종자의 흉갑"
     }
 ]

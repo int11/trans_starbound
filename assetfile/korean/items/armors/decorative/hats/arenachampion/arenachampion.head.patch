@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "투기장 챔피언의 투구"
+        "path": "/description",
+        "value": "투기장 챔피언을 위한 전설적인 투구이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "투기장 챔피언을 위한 전설적인 투구이다."
+        "path": "/shortdescription",
+        "value": "투기장 챔피언의 투구"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "수정"
+        "path": "/description",
+        "value": "빛나는 수정이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빛나는 수정이다."
+        "path": "/shortdescription",
+        "value": "수정"
     }
 ]

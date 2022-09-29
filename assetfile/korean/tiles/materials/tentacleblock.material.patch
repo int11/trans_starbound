@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 꿈틀거이는 촉슈 싫다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "거슬림. 이 촉수들은 딱딱한걸로 으깨졌다오."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "징그러워 보이는 촉수뭉텅이를 죄다 섞어놓았군."
+        "path": "/description",
+        "value": "꿈틀대는 촉수의 덩어리다."
     },
     {
         "op": "replace",
@@ -21,7 +11,17 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "꿈틀대는 촉수의 덩어리다."
+        "path": "/glitchDescription",
+        "value": "거슬림. 이 촉수들은 딱딱한걸로 으깨졌다오."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 꿈틀거이는 촉슈 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "징그러워 보이는 촉수뭉텅이를 죄다 섞어놓았군."
     }
 ]

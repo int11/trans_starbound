@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝인다. 하지만 플로란 관심 끌기엔 너무 멍청해보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "중요한 거 보관하기엔 너무 수상쩍잖아."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 상자를 디자인한 사람이랑 단어 '절제'는 친한 사이가 아니었나보네."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "걸쇠는 꼭 열매처럼 생겼는데. 마음에 들어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "세포로 이루어진 건 알지만서도 꼭 사탕으로 된 상자같잖아."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "금속 질감이 느껴지지만 사실은 유기물로 만들어졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "냉담. 우와 정말 데단해..."
+        "path": "/description",
+        "value": "구체 자물쇠가 달려있는 상자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "구체 자물쇠가 달려있는 상자다."
+        "path": "/apexDescription",
+        "value": "금속 질감이 느껴지지만 사실은 유기물로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "걸쇠는 꼭 열매처럼 생겼는데. 마음에 들어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "반짝인다. 하지만 플로란 관심 끌기엔 너무 멍청해보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "냉담. 우와 정말 데단해..."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "세포로 이루어진 건 알지만서도 꼭 사탕으로 된 상자같잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 상자를 디자인한 사람이랑 단어 '절제'는 친한 사이가 아니었나보네."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "중요한 거 보관하기엔 너무 수상쩍잖아."
     }
 ]

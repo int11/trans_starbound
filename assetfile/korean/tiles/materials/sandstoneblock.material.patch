@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사암으로 만든 벽돌이네."
+        "path": "/description",
+        "value": "매끄러운 사암으로 만든 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사암 벽돌"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매끄러운 사암으로 만든 벽돌이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "사암 벽돌"
+        "path": "/novakidDescription",
+        "value": "사암으로 만든 벽돌이네."
     }
 ]

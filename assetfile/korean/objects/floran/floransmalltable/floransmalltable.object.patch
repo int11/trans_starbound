@@ -6,31 +6,6 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나무를 탁자로 쓰는 기발한 방법이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "슬픔. 이 탁자의 기반은 죽은 묘목으로 지었군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "플로란이 생목으로 탁자를 만든 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 탁자의 토대는 작은 나무로 된 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 나무로 작은 탁자 만들어."
-    },
-    {
-        "op": "replace",
         "path": "/shortdescription",
         "value": "작은 원시 탁자"
     },
@@ -43,5 +18,30 @@
         "op": "replace",
         "path": "/avianDescription",
         "value": "看起来，不管是动物还是植物的遗骸，叶族人都会用来做家具。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 나무로 작은 탁자 만들어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "슬픔. 이 탁자의 기반은 죽은 묘목으로 지었군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 탁자의 토대는 작은 나무로 된 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란이 생목으로 탁자를 만든 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무를 탁자로 쓰는 기발한 방법이다."
     }
 ]

@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기있는 이 울타리는 구리로 만든거다."
+        "path": "/description",
+        "value": "튼튼한 구리 울타리다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "구리 울타리"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "튼튼한 구리 울타리다."
     },
     {
         "op": "replace",
@@ -23,5 +18,10 @@
         "op": "replace",
         "path": "/floranDescription",
         "value": "견고한 구리 울타리."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기있는 이 울타리는 구리로 만든거다."
     }
 ]

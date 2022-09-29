@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "의문. 문자가 26개밖에 안되는군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "바보같은 기계야."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "키보드다. 입력할 때 쓰지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하이로틀의 글자는 물같이 흐르지만, 에이펙스의 것은 돌 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "외계의 문자가 적힌 버튼이 많은 장치야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "QWERTY 키보드가 아니야.. 하지만 꽤 많은 글자를 알아보겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "에이펙스 키보드는 에이펙스 알파벳의 26키가 있어."
+        "path": "/description",
+        "value": "이 버튼들은 어디에 쓰는걸까..."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 버튼들은 어디에 쓰는걸까..."
+        "path": "/apexDescription",
+        "value": "에이펙스 키보드는 에이펙스 알파벳의 26키가 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "외계의 문자가 적힌 버튼이 많은 장치야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바보같은 기계야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의문. 문자가 26개밖에 안되는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "QWERTY 키보드가 아니야.. 하지만 꽤 많은 글자를 알아보겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀의 글자는 물같이 흐르지만, 에이펙스의 것은 돌 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "키보드다. 입력할 때 쓰지."
     }
 ]

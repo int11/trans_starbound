@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "모험가의 각반"
+        "path": "/description",
+        "value": "이 각반 시재품은 좀 뻣뻣하지만 로봇같은 이미지를 잘 살려낸다. -사용 안함-"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 각반 시재품은 좀 뻣뻣하지만 로봇같은 이미지를 잘 살려낸다. -사용 안함-"
+        "path": "/shortdescription",
+        "value": "모험가의 각반"
     }
 ]

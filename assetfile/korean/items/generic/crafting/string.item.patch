@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "실 (String)"
+        "path": "/description",
+        "value": "당신은 약간의 실이 언제 쓸모있을지 모른다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "당신은 약간의 실이 언제 쓸모있을지 모른다."
+        "path": "/shortdescription",
+        "value": "실 (String)"
     }
 ]

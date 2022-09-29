@@ -1,22 +1,17 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 전등이야."
+        "path": "/description",
+        "value": "우주선에 쓰이는 스트립 조명."
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 전등."
+        "path": "/shortdescription",
+        "value": "함선 조명"
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "밝은 조명."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
+        "path": "/apexDescription",
         "value": "조명."
     },
     {
@@ -26,22 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "밝은 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 전등."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "조명."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
+        "path": "/hylotlDescription",
         "value": "조명."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "함선 조명"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "우주선에 쓰이는 스트립 조명."
+        "path": "/novakidDescription",
+        "value": "그냥 전등이야."
     }
 ]

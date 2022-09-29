@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "채광 해치"
+        "path": "/description",
+        "value": "수직 해치 출입구이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수직 해치 출입구이다."
+        "path": "/shortdescription",
+        "value": "채광 해치"
     },
     {
         "op": "replace",

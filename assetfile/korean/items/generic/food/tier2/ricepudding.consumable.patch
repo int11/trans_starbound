@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "쌀 푸딩"
+        "path": "/description",
+        "value": "달콤하고 따뜻한 쌀 푸딩이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "달콤하고 따뜻한 쌀 푸딩이다."
+        "path": "/shortdescription",
+        "value": "쌀 푸딩"
     }
 ]

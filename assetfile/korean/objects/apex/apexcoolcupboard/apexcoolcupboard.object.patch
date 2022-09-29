@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "안을 들여다 보자고."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "내용물을 확인해야겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "안에 뭔가 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "윤이 나 보이는 찬장이야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 옷장엔 별다른 비밀이 없을거라고 장담하지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "궁금. 안에 물건이 있을까."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "창고야."
+        "path": "/description",
+        "value": "이 찬장은 멋져보이지만, 별로 튼튼해 보이진 않는다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 찬장은 멋져보이지만, 별로 튼튼해 보이진 않는다."
+        "path": "/apexDescription",
+        "value": "이 옷장엔 별다른 비밀이 없을거라고 장담하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "안에 뭔가 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "창고야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 안에 물건이 있을까."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "윤이 나 보이는 찬장이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "내용물을 확인해야겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "안을 들여다 보자고."
     }
 ]

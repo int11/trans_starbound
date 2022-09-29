@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "예쁘게 마감된 괜찮은 침대야!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "괜찮은 퀄리티야. 충분해."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "내 날개를 쉬게 하기에 아주 편안해."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "좋은 침대야. 여기에서 용이하게 쉴 수 있을거야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "좋고 편안한 침대."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "행복. 이 침대에서 좋은 잠을 잘 수 있겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 좋은 침대에서 쉰다."
+        "path": "/description",
+        "value": "편안한 듀라스틸 침대. 꽤 광택이 난다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "편안한 듀라스틸 침대. 꽤 광택이 난다."
+        "path": "/apexDescription",
+        "value": "좋고 편안한 침대."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "내 날개를 쉬게 하기에 아주 편안해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 좋은 침대에서 쉰다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "행복. 이 침대에서 좋은 잠을 잘 수 있겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "좋은 침대야. 여기에서 용이하게 쉴 수 있을거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "괜찮은 퀄리티야. 충분해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "예쁘게 마감된 괜찮은 침대야!"
     }
 ]

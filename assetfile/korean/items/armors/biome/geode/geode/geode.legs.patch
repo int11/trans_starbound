@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정동석 바지"
+        "path": "/description",
+        "value": "조금 얼룩덜룩한, 쾌적한 바지이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조금 얼룩덜룩한, 쾌적한 바지이다."
+        "path": "/shortdescription",
+        "value": "정동석 바지"
     }
 ]

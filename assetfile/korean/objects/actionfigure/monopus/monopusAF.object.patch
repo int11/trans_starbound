@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "모노푸스 모형"
+        "path": "/description",
+        "value": "\"날쌔고 골칫거리인 것으로 알려진 고대 생물이다. 그들은 총명한 시야를 갖고 있다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"날쌔고 골칫거리인 것으로 알려진 고대 생물이다. 그들은 총명한 시야를 갖고 있다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "모노푸스 모형"
     }
 ]

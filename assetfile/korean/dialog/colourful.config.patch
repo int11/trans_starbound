@@ -1,116 +1,46 @@
 [
     {
         "op": "replace",
-        "path": "/severe/default/default/1",
-        "value": "실망감. 나같은 사람은 그런 자격에 미치질 못하오."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/default/default/0",
-        "value": "화남. 방랑 무지개단은 이 불명예를 모른척하지 않을 것이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/default/default/1",
-        "value": "화남. 이 장소에 나의 능력으로 헌신할 꺼라 믿었건만, 전혀 환영받지 못했소."
-    },
-    {
-        "op": "replace",
-        "path": "/final/default/default/0",
-        "value": "절박. 여길 떠나야겠소. 방랑 무지개단은 이를 모른척하지 않을 것 이라오!"
-    },
-    {
-        "op": "replace",
-        "path": "/beacon/default/default/2",
-        "value": "관찰. 이게 함정이 아닌지 확인해야겠소."
-    },
-    {
-        "op": "replace",
-        "path": "/beacon/default/default/1",
-        "value": "친절. 방랑자의 도움을 원하시오?"
-    },
-    {
-        "op": "replace",
-        "path": "/beacon/default/default/0",
-        "value": "환대. 나 같은 방랑 무지개단에게 필요한 것이라도 있소?"
-    },
-    {
-        "op": "replace",
-        "path": "/rent/default/default/1",
-        "value": "고마움. 방랑 무지개단의 거처를 마련해 줘서 고맙소."
-    },
-    {
-        "op": "replace",
-        "path": "/rent/default/default/0",
-        "value": "감사. 방랑 무지개단이 주는 선물로 받아들기를 바라오."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/4",
-        "value": "용맹. 방랑 무지개단은 무고한 이들을 악으로부터 지켜줄 것이오."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/3",
-        "value": "대담. 유니콘의 기교로, 나의 동지를 수호할 것이오."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/2",
-        "value": "친절. 내가 방랑 무지개단일지언정, 그게 우리가 말을 나누지 못할 이유는 아니오!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/1",
-        "value": "용기. 나, 방랑 무지개단의 일원으로서, 어떤 악당도 용서하지 않을 것이오!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/0",
-        "value": "자랑. 방랑 무지개단은 그대를 위험으로부터 쉬이 구할 것이오!"
-    },
-    {
-        "op": "replace",
         "path": "/converse/default/default",
         "value": [
-            "自夸。彩虹猛兽公会能让你远离游手好闲的伤害！",
-            "勇敢。我，一个经过认证的彩虹猛兽，会时刻巡逻注意坏人！",
-            "友好。我可能是一个彩虹猛兽，但这并不意味着我们不能谈话！",
-            "无畏。我拥有独角兽的技巧，我能保护我的盟友！",
-            "英勇。彩虹猛兽公会会保护无辜者！"
+            "자랑. 방랑 무지개단은 그대를 위험으로부터 쉬이 구할 것이오!",
+            "용기. 나, 방랑 무지개단의 일원으로서, 어떤 악당도 용서하지 않을 것이오!",
+            "친절. 내가 방랑 무지개단일지언정, 그게 우리가 말을 나누지 못할 이유는 아니오!",
+            "대담. 유니콘의 기교로, 나의 동지를 수호할 것이오.",
+            "용맹. 방랑 무지개단은 무고한 이들을 악으로부터 지켜줄 것이오."
         ]
     },
     {
         "op": "replace",
         "path": "/severe/default/default",
         "value": [
-            "愤怒。其他彩虹猛兽会知道这次的耻辱！",
-            "泄气。像我这种人不应该生活在这种环境里。"
+            "화남. 방랑 무지개단은 이 불명예를 모른척하지 않을 것이다!",
+            "실망감. 나같은 사람은 그런 자격에 미치질 못하오."
         ]
     },
     {
         "op": "replace",
         "path": "/final/default/default",
         "value": [
-            "绝望。我必须离开了，其他彩虹猛兽会听说这件事的！",
-            "失望。我本以为我的技能可以用在这，但我没能得到赏识。"
+            "절박. 여길 떠나야겠소. 방랑 무지개단은 이를 모른척하지 않을 것 이라오!",
+            "화남. 이 장소에 나의 능력으로 헌신할 꺼라 믿었건만, 전혀 환영받지 못했소."
         ]
     },
     {
         "op": "replace",
         "path": "/beacon/default/default",
         "value": [
-            "欢迎。你对像我这样的彩虹猛兽有什么要求吗？",
-            "友好。你需要我猛兽般的专业知识吗？",
-            "观察。我得确保这不是个陷阱。"
+            "환대. 나 같은 방랑 무지개단에게 필요한 것이라도 있소?",
+            "친절. 방랑자의 도움을 원하시오?",
+            "관찰. 이게 함정이 아닌지 확인해야겠소."
         ]
     },
     {
         "op": "replace",
         "path": "/rent/default/default",
         "value": [
-            "感激。这是一份来自彩虹猛兽公会的礼物。",
-            "感谢。彩虹猛兽公会感谢你提供给我房子！"
+            "감사. 방랑 무지개단이 주는 선물로 받아들기를 바라오.",
+            "고마움. 방랑 무지개단의 거처를 마련해 줘서 고맙소."
         ]
     },
     {

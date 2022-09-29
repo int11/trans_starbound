@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "기초 단말기"
+        "path": "/description",
+        "value": "아마도 유용할거 같기는한 단말기이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아마도 유용할거 같기는한 단말기이다."
+        "path": "/shortdescription",
+        "value": "기초 단말기"
     },
     {
         "op": "replace",

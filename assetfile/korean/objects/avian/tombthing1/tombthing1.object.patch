@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 글리치는 죽은 자를 묻는 대신 부품을 회수한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 죽은 자는 흙으로 돌아가야 한다고 믿는다."
+        "path": "/description",
+        "value": "먼지 묻은 평범한 돌 무덤."
     },
     {
         "op": "replace",
@@ -16,18 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "먼지 묻은 평범한 돌 무덤."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "죽은 자를 위한 침대야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "시신은 더 좋은 곳으로 옮겨져야 해."
+        "path": "/apexDescription",
+        "value": "장식 없는 무덤."
     },
     {
         "op": "replace",
@@ -36,12 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 죽은 자는 흙으로 돌아가야 한다고 믿는다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 글리치는 죽은 자를 묻는 대신 부품을 회수한다."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "영원히 있어야 하는 우울한 곳이야."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "장식 없는 무덤."
+        "path": "/hylotlDescription",
+        "value": "시신은 더 좋은 곳으로 옮겨져야 해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "죽은 자를 위한 침대야."
     }
 ]

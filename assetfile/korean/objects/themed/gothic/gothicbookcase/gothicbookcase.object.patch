@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "책은 모든 지식의 원천! 근데 이건 흡혈귀 소설들 뿐이잖아.."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "흡혈귀 소설로 가득이잖아..."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 먼저투성이 책들이 언제 쓰여진건지 궁금하네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "책 지루해. 나무 낭비야."
+        "path": "/description",
+        "value": "서적이나 여타 잡다한 물건을 보관하는 병적인 책장이다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "고딕풍 책장"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "서적이나 여타 잡다한 물건을 보관하는 병적인 책장이다."
     },
     {
         "op": "replace",
@@ -38,6 +18,26 @@
         "op": "replace",
         "path": "/avianDescription",
         "value": "我不喜欢这倒霉书架的样子。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "책 지루해. 나무 낭비야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 먼저투성이 책들이 언제 쓰여진건지 궁금하네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "흡혈귀 소설로 가득이잖아..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "책은 모든 지식의 원천! 근데 이건 흡혈귀 소설들 뿐이잖아.."
     },
     {
         "op": "replace",

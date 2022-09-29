@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/message",
-        "value": "^yellow;1 금화^white;를 대가로 <name>를 함선의 선원으로 받을까요?^gray;\n\n^white;직업:^gray; <role>\n^white;랭크:^gray; <rank>\n^white;상태:^gray; <status> "
+        "path": "/title",
+        "value": "당신의 선원을 늘리기"
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "당신의 선원을 늘리기"
+        "path": "/message",
+        "value": "^yellow;1 금화^white;를 대가로 <name>를 함선의 선원으로 받을까요?^gray;\n\n^white;직업:^gray; <role>\n^white;랭크:^gray; <rank>\n^white;상태:^gray; <status> "
     },
     {
         "op": "replace",

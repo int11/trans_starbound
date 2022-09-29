@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 광석 (Tungsten Ore)"
+        "path": "/description",
+        "value": "텅스텐 광석이다. 제련해서 사용할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "텅스텐 광석이다. 제련해서 사용할 수 있다."
+        "path": "/shortdescription",
+        "value": "텅스텐 광석 (Tungsten Ore)"
     }
 ]

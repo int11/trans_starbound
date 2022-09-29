@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "외계에서 온 바위 같아 보인다."
+        "path": "/description",
+        "value": "이 이상한 바위는 외계에서 왔다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "외계 바위"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "외계 바위"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "이 이상한 바위는 외계에서 왔다."
+        "path": "/novakidDescription",
+        "value": "외계에서 온 바위 같아 보인다."
     }
 ]

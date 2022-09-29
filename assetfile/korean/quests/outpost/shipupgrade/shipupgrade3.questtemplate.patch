@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "^green;팔콘 함선 업그레이드"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "축하합니다 - 여섯 명의 선원이 있어 팔콘 라이센스를 받을 자격이 있습니다! ^orange;6개의 업그레이드 모듈^reset;을 가지고 ^green;전초기지에 있는 펭귄 피트를 만나서^reset; 함선을 업그레이드 하세요."
     },
@@ -16,17 +21,12 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "^green;팔콘 함선 업그레이드"
+        "path": "/scriptConfig/turnInDescription",
+        "value": "提供^orange;升级模块^reset;给位于^orange;前哨站的^reset;^orange;企鹅皮特^reset;。"
     },
     {
         "op": "replace",
         "path": "/scriptConfig/conditions/0/description",
         "value": "^orange;<itemName>^reset;을 : ^green;<current> / <required>^reset;개 획득"
-    },
-    {
-        "op": "replace",
-        "path": "/scriptConfig/turnInDescription",
-        "value": "提供^orange;升级模块^reset;给位于^orange;前哨站的^reset;^orange;企鹅皮特^reset;。"
     }
 ]

@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "요리를 위한 가장 편리한 기게"
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "전자레인지"
+        "path": "/description",
+        "value": "아주 편리한 요리를 현실화시켜주는 기게이다."
     },
     {
         "op": "replace",
@@ -16,8 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아주 편리한 요리를 현실화시켜주는 기게이다."
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "전자레인지"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "요리를 위한 가장 편리한 기게"
     },
     {
         "op": "replace",

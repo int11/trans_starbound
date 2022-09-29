@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "강하식 미끼"
+        "path": "/description",
+        "value": "빠르게 가라앉는 무거운 미끼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빠르게 가라앉는 무거운 미끼이다."
+        "path": "/shortdescription",
+        "value": "강하식 미끼"
     },
     {
         "op": "replace",

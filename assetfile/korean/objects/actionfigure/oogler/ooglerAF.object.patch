@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오글러 모형"
+        "path": "/description",
+        "value": "\"처음 보는 생물과 만나면 혼란스러워 한다. 그를 도와줄 수는 없지만, 관찰될 수는 있다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"처음 보는 생물과 만나면 혼란스러워 한다. 그를 도와줄 수는 없지만, 관찰될 수는 있다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "오글러 모형"
     }
 ]

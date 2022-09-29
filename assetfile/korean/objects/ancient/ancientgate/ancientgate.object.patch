@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나한테 좀 지나가달라고 간청하는 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "기념적인 구조물이, 어렴풋이 내 위로 떠올랐다. 어디로 나를 이끌 것인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "불가사의한 기원의 문."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이상하고 신기한 의문투성이 고대 관문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "어딘가로 가는 신비로운 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 이 문의 기원을 알 수 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 어떤 섕명체가 이거 만들었는지 궁금하다."
+        "path": "/description",
+        "value": "신비로운 고대의 문이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신비로운 고대의 문이다."
+        "path": "/apexDescription",
+        "value": "어딘가로 가는 신비로운 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "불가사의한 기원의 문."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 어떤 섕명체가 이거 만들었는지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 문의 기원을 알 수 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이상하고 신기한 의문투성이 고대 관문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "기념적인 구조물이, 어렴풋이 내 위로 떠올랐다. 어디로 나를 이끌 것인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나한테 좀 지나가달라고 간청하는 문이다."
     }
 ]

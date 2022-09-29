@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "회복 II 목줄"
+        "path": "/description",
+        "value": "애완동물를 어느정도 회복시키는 목줄이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "애완동물를 어느정도 회복시키는 목줄이다."
+        "path": "/shortdescription",
+        "value": "회복 II 목줄"
     },
     {
         "op": "replace",

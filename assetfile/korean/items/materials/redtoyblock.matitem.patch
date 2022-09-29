@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "쌓아올릴 수 있는 큰 장난감 블록이다."
+        "path": "/shortdescription",
+        "value": "빨간 장난감 블록"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "빨간 장난감 블록"
+        "path": "/description",
+        "value": "쌓아올릴 수 있는 큰 장난감 블록이다."
     },
     {
         "op": "replace",

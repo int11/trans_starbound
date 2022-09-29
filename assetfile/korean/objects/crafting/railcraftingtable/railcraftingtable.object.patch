@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "레일 제작 탁자"
+        "path": "/description",
+        "value": "레일과 그 부속품들을 만들 수 있게 한다."
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "레일과 그 부속품들을 만들 수 있게 한다."
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "레일 제작 탁자"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "돌 화살"
+        "path": "/description",
+        "value": "무거운 돌로된 화살,  당기기엔 뻣뻣하다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무거운 돌로된 화살,  당기기엔 뻣뻣하다"
+        "path": "/shortdescription",
+        "value": "돌 화살"
     }
 ]

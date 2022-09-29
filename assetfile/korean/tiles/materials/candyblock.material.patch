@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "단단한 사탕의 크고 오래된 조각이다."
+        "path": "/description",
+        "value": "달콤한 향기가 나는 단단한 사탕!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "사탕 블럭"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사탕 블럭"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "달콤한 향기가 나는 단단한 사탕!"
+        "path": "/novakidDescription",
+        "value": "단단한 사탕의 크고 오래된 조각이다."
     }
 ]

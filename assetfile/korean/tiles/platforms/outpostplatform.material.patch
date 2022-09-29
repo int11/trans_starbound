@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "꽤 낮설어보이는 금속 플랫폼인데."
+        "path": "/shortdescription",
+        "value": "관문기지 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단순한 조명 플랫폼은 일반적으로 원격 관문기지에서 발견된다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단순한 조명 플랫폼은 일반적으로 원격 관문기지에서 발견된다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "관문기지 플랫폼"
+        "path": "/novakidDescription",
+        "value": "꽤 낮설어보이는 금속 플랫폼인데."
     }
 ]

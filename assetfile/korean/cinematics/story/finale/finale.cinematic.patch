@@ -1,18 +1,8 @@
 [
     {
-        "op": "add",
-        "path": "/panels/46/fontSize",
-        "value": 12.5
-    },
-    {
         "op": "replace",
         "path": "/panels/46/text",
         "value": "…不应该是这样…"
-    },
-    {
-        "op": "add",
-        "path": "/panels/48/fontSize",
-        "value": 12.5
     },
     {
         "op": "replace",
@@ -20,19 +10,9 @@
         "value": "守护者…不要重蹈在你之前无数灵魂的覆辙。"
     },
     {
-        "op": "add",
-        "path": "/panels/49/fontSize",
-        "value": 12.5
-    },
-    {
         "op": "replace",
         "path": "/panels/49/text",
         "value": "尽管连我都屈服于祸的力量…我在与祸战斗时，被震成了几乎无数碎片…"
-    },
-    {
-        "op": "add",
-        "path": "/panels/50/fontSize",
-        "value": 12.5
     },
     {
         "op": "replace",
@@ -40,19 +20,9 @@
         "value": "我的碎片，很多都丢失了，古老的、野生的碎片分离出来，自行组合变成了其他新的事物…\n我最后一点碎片则留在这里注视着后来的事。"
     },
     {
-        "op": "add",
-        "path": "/panels/51/fontSize",
-        "value": 12.5
-    },
-    {
         "op": "replace",
         "path": "/panels/51/text",
         "value": "你集齐了我的神器，守护者。我所恩赐的六个种族现在团结起来了。"
-    },
-    {
-        "op": "add",
-        "path": "/panels/52/fontSize",
-        "value": 12.5
     },
     {
         "op": "replace",
@@ -60,19 +30,9 @@
         "value": "你所种下的和平种子将会生长并扩散到宇宙的每个角落。"
     },
     {
-        "op": "add",
-        "path": "/panels/53/fontSize",
-        "value": 12.5
-    },
-    {
         "op": "replace",
         "path": "/panels/53/text",
         "value": "祸被完全消灭了，宇宙得救了，但同样还有很多事要做。"
-    },
-    {
-        "op": "add",
-        "path": "/panels/54/fontSize",
-        "value": 12.5
     },
     {
         "op": "replace",
@@ -83,5 +43,45 @@
         "op": "replace",
         "path": "/panels/82/text",
         "value": "\nSAYTER\nSEIGA\nSMOOTH MCGROOVE\nSUIKA IBUKI\nTANZNUKETERROR\nTATTERDEMALION\nTHE SUIT\nTOBY FOX\nTOMSERVO\nTRAMSAN\nYEN\nYMEDRON\n星核汉化组\n"
+    },
+    {
+        "op": "add",
+        "path": "/panels/46/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/48/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/49/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/50/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/51/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/52/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/53/fontSize",
+        "value": 12.5
+    },
+    {
+        "op": "add",
+        "path": "/panels/54/fontSize",
+        "value": 12.5
     }
 ]

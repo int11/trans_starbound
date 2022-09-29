@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 돌 플랫폼들을 조각하려면 평생 똥꼬빨고 조각해야할 삘이여"
+        "path": "/shortdescription",
+        "value": "돌 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "돌로 조각된 플랫폼이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "돌로 조각된 플랫폼이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "돌 플랫폼"
+        "path": "/novakidDescription",
+        "value": "이 돌 플랫폼들을 조각하려면 평생 똥꼬빨고 조각해야할 삘이여"
     }
 ]

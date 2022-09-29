@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "발전기"
+        "path": "/description",
+        "value": "유용한 발전기이다. 바람으로 작동하는듯 하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유용한 발전기이다. 바람으로 작동하는듯 하다."
+        "path": "/shortdescription",
+        "value": "발전기"
     },
     {
         "op": "replace",

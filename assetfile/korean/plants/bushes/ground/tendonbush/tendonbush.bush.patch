@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "소름끼친다. 끔찍한 살점조각."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "살저어어엄"
+        "path": "/description",
+        "value": "끔찍한 살점 조각이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "끔찍한 살점 조각이다."
+        "path": "/floranDescription",
+        "value": "살저어어엄"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "소름끼친다. 끔찍한 살점조각."
     }
 ]

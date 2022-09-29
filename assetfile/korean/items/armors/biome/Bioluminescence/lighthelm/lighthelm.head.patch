@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "형광 핼맷"
+        "path": "/description",
+        "value": "걸어다디는 전구 처럼 보이게 만들지만, 모습보다는 실용성이 중요한거야!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "걸어다디는 전구 처럼 보이게 만들지만, 모습보다는 실용성이 중요한거야!"
+        "path": "/shortdescription",
+        "value": "형광 핼맷"
     }
 ]

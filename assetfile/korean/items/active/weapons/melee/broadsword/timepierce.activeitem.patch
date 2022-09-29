@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/altAbility/name",
-        "value": "시간 정지"
+        "path": "/description",
+        "value": "이 칼날로 물질 그 자체를 멈추게 해버릴 수 있다."
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 칼날로 물질 그 자체를 멈추게 해버릴 수 있다."
+        "path": "/altAbility/name",
+        "value": "시간 정지"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구운 갈비"
+        "path": "/description",
+        "value": "바베큐 소스를 달라고!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바베큐 소스를 달라고!"
+        "path": "/shortdescription",
+        "value": "구운 갈비"
     }
 ]

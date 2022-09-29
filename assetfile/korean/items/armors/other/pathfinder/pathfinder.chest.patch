@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "길잡이의 상의"
+        "path": "/description",
+        "value": "황폐한 환경을 탐험하는데 적합한, 전형적인 정찰용 갑옷이다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "황폐한 환경을 탐험하는데 적합한, 전형적인 정찰용 갑옷이다"
+        "path": "/shortdescription",
+        "value": "길잡이의 상의"
     }
 ]

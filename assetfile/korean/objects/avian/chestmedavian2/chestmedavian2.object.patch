@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이런 상자라면 얼마든지 쑤셔넣을 수 있을 지도."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "커다란 상자다. 안에 들어가는 양도 엄청날 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이런 상자들은 장식을 해놓는 대신 내용물 보호를 위해 엄청 튼튼하게 만들어놓는다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "상자깡, 포착 완료."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "튼튼한 상자다. 뭐가 들었을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "간절. 시간낭비 말지, 안에 좋은 게 들어있단 말야!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "엄청 큰 샹자! 안에 먹을 거 있을 거다!"
+        "path": "/description",
+        "value": "커다랗고 오래 된 상자다. 나무와 철로 장식되었다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다랗고 오래 된 상자다. 나무와 철로 장식되었다."
+        "path": "/apexDescription",
+        "value": "튼튼한 상자다. 뭐가 들었을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 상자들은 장식을 해놓는 대신 내용물 보호를 위해 엄청 튼튼하게 만들어놓는다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "엄청 큰 샹자! 안에 먹을 거 있을 거다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "간절. 시간낭비 말지, 안에 좋은 게 들어있단 말야!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "상자깡, 포착 완료."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "커다란 상자다. 안에 들어가는 양도 엄청날 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이런 상자라면 얼마든지 쑤셔넣을 수 있을 지도."
     }
 ]

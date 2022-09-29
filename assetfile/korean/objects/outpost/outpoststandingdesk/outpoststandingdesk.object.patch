@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고정식 책상"
+        "path": "/description",
+        "value": "자세잡기엔 돟은 고정식 책상이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자세잡기엔 돟은 고정식 책상이다."
+        "path": "/shortdescription",
+        "value": "고정식 책상"
     },
     {
         "op": "replace",

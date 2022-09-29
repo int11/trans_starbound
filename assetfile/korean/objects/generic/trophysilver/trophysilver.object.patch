@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사냥꾼의 우승컵"
+        "path": "/description",
+        "value": "\"자연의 힘에 도전할 수 있는 자에게 수여한다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"자연의 힘에 도전할 수 있는 자에게 수여한다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "사냥꾼의 우승컵"
     },
     {
         "op": "replace",

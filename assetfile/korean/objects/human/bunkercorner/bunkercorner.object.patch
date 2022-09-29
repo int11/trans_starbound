@@ -1,12 +1,17 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "지지용 철근이다."
+        "path": "/description",
+        "value": "경고 줄무니가 그려진 보조 기둥이다. 머리 조심!"
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
+        "path": "/shortdescription",
+        "value": "금속 보조 기둥"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
         "value": "지지용 철근이다."
     },
     {
@@ -16,13 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "지지용 철근이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "지지용 철근이다."
+        "path": "/floranDescription",
+        "value": "지지대."
     },
     {
         "op": "replace",
@@ -31,17 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "지지대."
+        "path": "/humanDescription",
+        "value": "지지용 철근이다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금속 보조 기둥"
+        "path": "/hylotlDescription",
+        "value": "지지용 철근이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "경고 줄무니가 그려진 보조 기둥이다. 머리 조심!"
+        "path": "/novakidDescription",
+        "value": "지지용 철근이다."
     }
 ]

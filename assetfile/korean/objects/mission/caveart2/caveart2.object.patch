@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "고대의 것으로 보이는 사냥꾼 그림이다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사냥중인 것 같다.헛다리 짚은 게 아니라면."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "플로란이 그려낸 허접한 그림이 더 있네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "비율이 엉망이다. 내가 더 잘 그리겠네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 활을 든 사람이 그려져있다. 플로란 사냥꾼인 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 샤냥꾼."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "고대 사냥꾼의 그림이다."
+        "path": "/description",
+        "value": "사냥꾼을 묘사한 동굴벽화다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사냥꾼을 묘사한 동굴벽화다."
+        "path": "/apexDescription",
+        "value": "고대 사냥꾼의 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "고대의 것으로 보이는 사냥꾼 그림이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샤냥꾼."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 활을 든 사람이 그려져있다. 플로란 사냥꾼인 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "비율이 엉망이다. 내가 더 잘 그리겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란이 그려낸 허접한 그림이 더 있네."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사냥중인 것 같다.헛다리 짚은 게 아니라면."
     }
 ]

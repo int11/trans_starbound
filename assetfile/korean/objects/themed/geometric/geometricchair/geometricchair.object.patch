@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "거의 하이로틀에 맞먹게 고귀하다. 여기에 앉으면 상당한 만족감이 몰려온다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "쉬어가기 겁나 좋은 곳이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "앉아가기 아주 좋은 곳이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "아주 부드러운 의자다. 꼭 집에 있는 기분이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "아주 편안한 의자다. 행복하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "휴식. 글리치에게 유난히 편안한 의자다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 의자 앉아셔 샤냥 섕각한다."
+        "path": "/description",
+        "value": "유난히 편안한 기하학적 의자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유난히 편안한 기하학적 의자다."
+        "path": "/apexDescription",
+        "value": "아주 편안한 의자다. 행복하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "앉아가기 아주 좋은 곳이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 의자 앉아셔 샤냥 섕각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "휴식. 글리치에게 유난히 편안한 의자다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아주 부드러운 의자다. 꼭 집에 있는 기분이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "거의 하이로틀에 맞먹게 고귀하다. 여기에 앉으면 상당한 만족감이 몰려온다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "쉬어가기 겁나 좋은 곳이다."
     }
 ]

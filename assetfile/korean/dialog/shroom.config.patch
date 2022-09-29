@@ -1,394 +1,104 @@
 [
     {
         "op": "replace",
-        "path": "/hail/floran/floran/6",
-        "value": "나무 훔! 쪽상판 무기 좋아졌다!?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/floran/7",
-        "value": "훔. 훔 나무. 찌르지 말아주쉬룸, 제발?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/default/0",
-        "value": "훔! 버섯 집 들쑤슈!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/0",
-        "value": "훔! 고기 패 놈 안 좋다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/3",
-        "value": "훔마! 털러 오고있슈룸 위험!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/1",
-        "value": "훔 고기. 이상 걷기하!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/2",
-        "value": "안녕훔 뺀질이! 배 지도 까리하다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/4",
-        "value": "훔! 안녕하쉬룸!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/5",
-        "value": "할마, 가시 고리 장식 이상다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/6",
-        "value": "훔 고기! 집 턴다 들쑤썬다?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/human/7",
-        "value": "할할훔! 촉수굄 환영 안 한 고기."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/avian/0",
-        "value": "어이.파닥! 날지못하슈룸, 클루엑슈룸이 이상하브섯!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/avian/2",
-        "value": "할할훔, 땅에 만다 파닥이."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/avian/3",
-        "value": "훔메이, 파닥! 마침내 짭부리 배졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/avian/4",
-        "value": "하바 훔, 파닥이! 히히히! 이상젓기!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/avian/5",
-        "value": "훔! 훔 훔! 털지 마라 평화 안 쪽 다!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/avian/6",
-        "value": "훔 파닥파닥 안된다, 쪼기장식?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/avian/7",
-        "value": "훔? 가려워 나랑 안다?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/0",
-        "value": "허 허 훔? 말랑생선..."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/1",
-        "value": "안! 안!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/2",
-        "value": "안 돕싸움, 말랑고기! 집에서 안 만난, 빨!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/3",
-        "value": "쪽상판 안 무섭단 말랑고기 썰기. 위협!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/4",
-        "value": "찍. 훔 아니다."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/5",
-        "value": "훔. 배짱 죽라, 말랑고기."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/6",
-        "value": "납납납납납납."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/hylotl/7",
-        "value": "안 된다 집, 말랑고기! 안 안 안."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/0",
-        "value": "훔. 반갑다 털뭉치."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/1",
-        "value": "훔파. 털뭉치 썰기 안 무섭쉬룸."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/2",
-        "value": "훔! 큰 털뭉치 안 썬다. 울고있쉬룸?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/3",
-        "value": "할룸, 털뭉치. 안 부술거쉬룸 제발."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/4",
-        "value": "훔. 털뭉치 털상판 깎아 나무집."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/5",
-        "value": "반갑쉬룸, 슈룸 일한다!"
-    },
-    {
-        "op": "replace",
-        "path": "/rent/default/default/0",
-        "value": "품품 제발 물건사쉬룸!"
-    },
-    {
-        "op": "replace",
-        "path": "/beacon/default/default/0",
-        "value": "딸랑?"
-    },
-    {
-        "op": "replace",
-        "path": "/final/default/default/0",
-        "value": "어이 훔. "
-    },
-    {
-        "op": "replace",
-        "path": "/severe/default/default/0",
-        "value": "어이, 딸랑이! 어이 부탁한다쉬룸!"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/default/default/0",
-        "value": "냐이 쉬룸집 고친다!"
-    },
-    {
-        "op": "replace",
-        "path": "/tout/default/default/0",
-        "value": "딸랑!"
-    },
-    {
-        "op": "replace",
-        "path": "/tout/default/default/1",
-        "value": "베자 최고자!"
-    },
-    {
-        "op": "replace",
-        "path": "/welcome/default/default/0",
-        "value": "안녕훔, 딸랑이! 픽셀 가져 바꾸쉬룸! 딸랑이를 베쟈!"
-    },
-    {
-        "op": "replace",
-        "path": "/welcome/default/default/1",
-        "value": "안녕하쉬룸. 왕딸랑이. 베고, 또 베고쉬룸, 일하쉬룸!"
-    },
-    {
-        "op": "replace",
-        "path": "/follow/default/default/1",
-        "value": "안 짤랑, 훔 와서 물건사팔!"
-    },
-    {
-        "op": "replace",
-        "path": "/safe/default/default/1",
-        "value": "할할흄!"
-    },
-    {
-        "op": "replace",
-        "path": "/helpthem/default/default/0",
-        "value": "춉!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/floran/0",
-        "value": "훔! 훔 훔 슈룸! 나무 쪽상판!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/floran/1",
-        "value": "훔! 안 무섭다 나무!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/floran/2",
-        "value": "훔. 도움 환영한다. 안 된다 털기."
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/floran/3",
-        "value": "쪽상판 나무! 안 돕는다 말랑고기! 하하하하하하!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/floran/5",
-        "value": "어이어이어이! 거기 피래미,  떡갈나무로 죽인다. "
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/6",
-        "value": "어이. 이상합섯, 내가 털복슝이를 다치게 해버렸섯. 어서옵셧!"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/floran/apex/7",
-        "value": "어이! 어이어이! 털복슝이!  피래미 좋아하슈룸?"
-    },
-    {
-        "op": "replace",
-        "path": "/hail/default/default/0",
-        "value": "어이! 이거슨! 머슈룸집이 아닌갑섯!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/default/default/0",
-        "value": "무기, 도둑슈룸! 강도답섯! 죽여랍섯!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/default/default/1",
-        "value": "강도다! 버섯!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/default/default/2",
-        "value": "강도답섯!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/0",
-        "value": "도둑슈룸은 마을에 들어오지 맙섯!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/1",
-        "value": "도둑슈룸하고 흉기는 반기지 않겠버섯."
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/2",
-        "value": "어이, 도둑슈룸은 쳐버셔버리겠섯."
-    },
-    {
-        "op": "replace",
         "path": "/accuse/default/default",
         "value": [
-            "不偷蘑菇习俗！",
-            "小偷武不吼蘑菇！",
-            "哈呼不偷小蘑菇锤！"
+            "도둑슈룸은 마을에 들어오지 맙섯!",
+            "도둑슈룸하고 흉기는 반기지 않겠버섯.",
+            "어이, 도둑슈룸은 쳐버셔버리겠섯."
         ]
     },
     {
         "op": "replace",
         "path": "/alert/default/default",
         "value": [
-            "小蘑菇锤小偷！捶！",
-            "小偷不怕！",
-            "小蘑菇锤小偷！"
+            "무기, 도둑슈룸! 강도답섯! 죽여랍섯!",
+            "강도다! 버섯!",
+            "강도답섯!"
         ]
     },
     {
         "op": "replace",
         "path": "/hail/default/default",
         "value": [
-            "吼！来感受蘑菇族的习俗！"
+            "어이! 이거슨! 머슈룸집이 아닌갑섯!"
         ]
     },
     {
         "op": "replace",
         "path": "/hail/floran/default",
         "value": [
-            "吼！来感受蘑菇族的习俗！"
+            "훔! 버섯 집 들쑤슈!"
         ]
     },
     {
         "op": "replace",
         "path": "/hail/floran/human",
         "value": [
-            "吼！哈勃人的肉要炒来用！",
-            "吼这肉。看起来压得怪异！",
-            "哈吼-吴克！剪掉毯在头的来画图！",
-            "吼呀！有关部门跳起用小蘑菇锤更危险！",
-            "吼！哈吼！",
-            "哈尔玛，秒杀圆形和怪异！",
-            "肉吼！享受能打爆屋子的小蘑菇锤吗？",
-            "哈哈吼！我们的建材不含肉。"
+            "훔! 고기 패 놈 안 좋다!",
+            "훔 고기. 이상 걷기하!",
+            "안녕훔 뺀질이! 배 지도 까리하다!",
+            "훔마! 털러 오고있슈룸 위험!",
+            "훔! 안녕하쉬룸!",
+            "할마, 가시 고리 장식 이상다!",
+            "훔 고기! 집 턴다 들쑤썬다?",
+            "할할훔! 촉수굄 환영 안 한 고기."
         ]
     },
     {
         "op": "replace",
         "path": "/hail/floran/avian",
         "value": [
-            "吼翼！扭曲版神奇女侠不是克鲁西斯的小孩！",
-            "哈吼 傻啄。能粉碎小蘑菇锤的不是屋子。",
-            "哈哈吼, 你的波纹攻击不会成为云驱逐舰。",
-            "啊吼，翼片！修好蓬松的啄。嘶哩！",
-            "哈巴吼，愚蠢的翼片！呵呵呵！俯冲！",
-            "吼！吼吼！小蘑菇锤的砍击不是和平的接吻！",
-            "吼哈巴 翼片，想不要啄？",
-            "吼？想要跟食物来个磨擦拥抱？"
+            "Hoom flap! Bizarra no Kluex fry!",
+            "Halhoom sillypeck. Choka smashroom nab house.",
+            "Halhalhoom, weepa cantara swoop nab cloudchaser.",
+            "Hoomay, flap! Halberdeen habble fluffy peck. Shree!",
+            "Haba hoom, sillyflap! Hehehe! swoop bizarra!",
+            "Hoom! Hoom hoom! Chop smashroom nab peace kisser!",
+            "Hoom habba flap flap, deka nab peck?",
+            "Hoom? Scratchy mesti cuddle?"
         ]
     },
     {
         "op": "replace",
         "path": "/hail/floran/floran",
         "value": [
-            "吼！吼吼菇！植物天然吻脸！",
-            "哈吼！不是草是植物！",
-            "吼。半数抓去粉碎室当建材。",
-            "吻脸植物！不止半数嘎吱鱼！哇哈哈哈哈哈！",
-            "哈哈哈吼，鯉魚屋炒植物！看起來是。",
-            "哈哈吼嘎吱鱼，没有橡木　菇　哈蜜瓜 ！",
-            "植物吼！吻臉減慢長大，一半！？",
-            "吼。吼植物。先知秒杀剪刀菇，遗传？"
+            "Hoom! Hoom hoom shroom! Plant naturra kissface!",
+            "Halhoom! Nab feara deka plant!",
+            "Hoom. Halb weepa nab smashroom.",
+            "Kissface plant! Nab halb squishfish! Hahahahahaha!",
+            "Halhalhalhoom, carpa house fry plant! Seemingly.",
+            "Habahoom squishfish, nab oaken smashroom cantaloupe!",
+            "Plant hoom! Kissface chop growa, halb!?",
+            "Hoom. Hoom plant. Nabi spike cutshroom, plesta?"
         ]
     },
     {
         "op": "replace",
         "path": "/hail/floran/apex",
         "value": [
-            "吼。发物。",
-            "吼呼。发物砍不是草。",
-            "吼！不要砍巨大的发物。懂不？",
-            "哈吼，发物。请不要砍蘑菇。",
-            "吼。发物发脸鲤鱼木菇。",
-            "请唱，菇人工作最好！",
-            "吼。不要砍发物。哈吼！",
-            "吼！跳砍，发物！一半嘎吱鱼？"
+            "훔. 반갑다 털뭉치.",
+            "훔파. 털뭉치 썰기 안 무섭쉬룸.",
+            "훔! 큰 털뭉치 안 썬다. 울고있쉬룸?",
+            "할룸, 털뭉치. 안 부술거쉬룸 제발.",
+            "훔. 털뭉치 털상판 깎아 나무집.",
+            "반갑쉬룸, 슈룸 일한다!",
+            "어이. 이상합섯, 내가 털복슝이를 다치게 해버렸섯. 어서옵셧!",
+            "어이! 어이어이! 털복슝이!  피래미 좋아하슈룸?"
         ]
     },
     {
         "op": "replace",
         "path": "/hail/floran/hylotl",
         "value": [
-            "哈哈吼?嘎吱鱼…",
-            "不！不！",
-            "没一半蘑菇，嘎吱鱼！没有屋子，砍！",
-            "吻脸植物不要剪刀菇，嘎吱鱼。威胁！",
-            "吱。吼不要。",
-            "吼。正在追捕某品牌，嘎吱鱼。",
-            "不不不不不不不。",
-            "没屋，嘎吱鱼！没没没。"
+            "허 허 훔? 말랑생선...",
+            "안! 안!",
+            "안 돕싸움, 말랑고기! 집에서 안 만난, 빨!",
+            "쪽상판 안 무섭단 말랑고기 썰기. 위협!",
+            "찍. 훔 아니다.",
+            "훔. 배짱 죽라, 말랑고기.",
+            "납납납납납납.",
+            "안 된다 집, 말랑고기! 안 안 안."
         ]
     },
     {
@@ -416,7 +126,7 @@
         "op": "replace",
         "path": "/helpthem/default/default",
         "value": [
-            "砍！"
+            "춉!"
         ]
     },
     {
@@ -430,8 +140,8 @@
         "op": "replace",
         "path": "/safe/default/default",
         "value": [
-            "哈吼老熟料！",
-            "哈哈吼！"
+            "Halhoom megaclinker!",
+            "Halhalhoom!"
         ]
     },
     {
@@ -475,24 +185,24 @@
         "op": "replace",
         "path": "/follow/default/default",
         "value": [
-            "不要哈呼！来碰杯！",
-            "不要碰杯，來吼蘑菇。"
+            "Nay halhoom clink! Come!",
+            "Nab clink, come hoom shropshroom!"
         ]
     },
     {
         "op": "replace",
         "path": "/welcome/default/default",
         "value": [
-            "哈哈呼，熟料！交换像素！砍碰杯！",
-            "哈吼老熟料。哈比砍砍最好！"
+            "안녕훔, 딸랑이! 픽셀 가져 바꾸쉬룸! 딸랑이를 베쟈!",
+            "안녕하쉬룸. 왕딸랑이. 베고, 또 베고쉬룸, 일하쉬룸!"
         ]
     },
     {
         "op": "replace",
         "path": "/tout/default/default",
         "value": [
-            "碰杯！",
-            "砍最好！"
+            "딸랑!",
+            "베자 최고자!"
         ]
     },
     {
@@ -506,7 +216,7 @@
         "op": "replace",
         "path": "/enclosedArea/default/default",
         "value": [
-            "不要修！"
+            "냐이 쉬룸집 고친다!"
         ]
     },
     {
@@ -520,28 +230,28 @@
         "op": "replace",
         "path": "/severe/default/default",
         "value": [
-            "不要碰！不然不理！"
+            "어이, 딸랑이! 어이 부탁한다쉬룸!"
         ]
     },
     {
         "op": "replace",
         "path": "/final/default/default",
         "value": [
-            "不要玩，女娲蘑菇家不要！"
+            "어이 훔. "
         ]
     },
     {
         "op": "replace",
         "path": "/beacon/default/default",
         "value": [
-            "碰杯？"
+            "딸랑?"
         ]
     },
     {
         "op": "replace",
         "path": "/rent/default/default",
         "value": [
-            "呼呼多谢这家！"
+            "품품 제발 물건사쉬룸!"
         ]
     }
 ]

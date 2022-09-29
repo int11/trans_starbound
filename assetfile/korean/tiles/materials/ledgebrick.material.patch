@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "굉장히 오래되 보이는 벽돌이군."
+        "path": "/description",
+        "value": "작은 선반달린 계단 벽돌이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선반 벽돌"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선반 벽돌"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "작은 선반달린 계단 벽돌이다."
+        "path": "/novakidDescription",
+        "value": "굉장히 오래되 보이는 벽돌이군."
     }
 ]

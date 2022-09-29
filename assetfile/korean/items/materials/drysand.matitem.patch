@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "건조한 모래"
+        "path": "/description",
+        "value": "단단하고 잘 부서지는 모래."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단단하고 잘 부서지는 모래."
+        "path": "/shortdescription",
+        "value": "건조한 모래"
     },
     {
         "op": "replace",

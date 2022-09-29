@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "NPC 저격 소총"
+        "path": "/description",
+        "value": "강력한 위력과 긴 사정거리로 무장한 총이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강력한 위력과 긴 사정거리로 무장한 총이다."
+        "path": "/shortdescription",
+        "value": "NPC 저격 소총"
     }
 ]

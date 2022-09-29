@@ -16,8 +16,11 @@
     },
     {
         "op": "replace",
-        "path": "/handednessLabel/position/0",
-        "value": 70
+        "path": "/handednessLabel/position",
+        "value": [
+            70,
+            128
+        ]
     },
     {
         "op": "replace",

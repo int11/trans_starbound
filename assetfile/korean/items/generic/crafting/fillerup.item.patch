@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "연료 만땅"
+        "path": "/description",
+        "value": "우주선의 연료를 가득 채운다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "우주선의 연료를 가득 채운다."
+        "path": "/shortdescription",
+        "value": "연료 만땅"
     }
 ]

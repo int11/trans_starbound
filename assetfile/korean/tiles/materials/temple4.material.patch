@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "누군가 죽고나면 많은 그림을 이 벽돌에 새겨 넣지."
+        "path": "/shortdescription",
+        "value": "간단한 사원 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "오래되고 형편없이 제작된 블록, 대강 그림이 돌에 새겨저 있다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오래되고 형편없이 제작된 블록, 대강 그림이 돌에 새겨저 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "간단한 사원 블록"
+        "path": "/novakidDescription",
+        "value": "누군가 죽고나면 많은 그림을 이 벽돌에 새겨 넣지."
     }
 ]

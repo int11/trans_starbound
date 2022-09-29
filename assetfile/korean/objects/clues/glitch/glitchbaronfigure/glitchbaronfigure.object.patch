@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "즐거움. 글리치 의복을 완벽히 재현했다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "요 쪼만한 피규어 귀엽네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "손재주는 좀 조악하지만, 그 나름의 맛이 있네."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "매력적인 피규어다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "매력적인 조각이다. 벨벳으로 녹색 망토도 만들어놨네!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "누가 이런 걸 왜 만들었는 지 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이거 장난감?"
+        "path": "/description",
+        "value": "글리치 귀족의 모형이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "글리치 귀족의 모형이다."
+        "path": "/apexDescription",
+        "value": "누가 이런 걸 왜 만들었는 지 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "매력적인 피규어다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이거 장난감?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 글리치 의복을 완벽히 재현했다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "매력적인 조각이다. 벨벳으로 녹색 망토도 만들어놨네!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "손재주는 좀 조악하지만, 그 나름의 맛이 있네."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "요 쪼만한 피규어 귀엽네."
     }
 ]

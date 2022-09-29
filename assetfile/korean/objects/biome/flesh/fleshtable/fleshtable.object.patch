@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "뭐 이리 밥맛 떨어지는 탁자가 다 있다냐."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "여태까지 본 것중 제일 비범한 물건이 이거 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "누가 여기서 밥을 먹을 생각을 할까?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "구역질. 누가 여기 앉아서 밥 먹은 흔적이 있잖아."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 실슈로 탁자 쓔셨다."
+        "path": "/description",
+        "value": "살덩이 탁자다. 식인종에게 안성맞춤이다."
     },
     {
         "op": "replace",
@@ -31,8 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "살덩이 탁자다. 식인종에게 안성맞춤이다."
+        "path": "/apexDescription",
+        "value": "누가 여기서 밥을 먹을 생각을 할까?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "뭐 이리 밥맛 떨어지는 탁자가 다 있다냐."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 실슈로 탁자 쓔셨다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "구역질. 누가 여기 앉아서 밥 먹은 흔적이 있잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여태까지 본 것중 제일 비범한 물건이 이거 같다."
     },
     {
         "op": "replace",

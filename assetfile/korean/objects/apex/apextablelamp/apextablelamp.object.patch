@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "괴상한 녹색빛."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 장비, 단순 발광이 진짜 목적은 아닌 것 같은데."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 장비는 자연스럽지 않은 녹색 빛을 뿜는다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "전등 치고는 꽤 무겁다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 전등은 내가 한창 어릴 때 지정부가 거저 준 것이다. 여러 에이펙스 가정에서 자주 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 물체는 근처 유기체 생물들의 생물학적 데이터를 포함하고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "녹섁 빛이 플로란 고향 마을 떠올린다."
+        "path": "/description",
+        "value": "이 이상한 램프는 약한 녹색 빛을 방출한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 이상한 램프는 약한 녹색 빛을 방출한다."
+        "path": "/apexDescription",
+        "value": "이 전등은 내가 한창 어릴 때 지정부가 거저 준 것이다. 여러 에이펙스 가정에서 자주 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 장비는 자연스럽지 않은 녹색 빛을 뿜는다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "녹섁 빛이 플로란 고향 마을 떠올린다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 물체는 근처 유기체 생물들의 생물학적 데이터를 포함하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "전등 치고는 꽤 무겁다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 장비, 단순 발광이 진짜 목적은 아닌 것 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "괴상한 녹색빛."
     }
 ]

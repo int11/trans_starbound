@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "청산에가리"
+        "path": "/description",
+        "value": "눈깔레몬과 고름자두로 만든 음료. 맛있다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈깔레몬과 고름자두로 만든 음료. 맛있다!"
+        "path": "/shortdescription",
+        "value": "청산에가리"
     }
 ]

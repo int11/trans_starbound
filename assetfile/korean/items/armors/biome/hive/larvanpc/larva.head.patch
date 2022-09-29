@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "애벌레 가면"
+        "path": "/description",
+        "value": "거대한 곤충을 인상시키는 가면이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거대한 곤충을 인상시키는 가면이다."
+        "path": "/shortdescription",
+        "value": "애벌레 가면"
     }
 ]

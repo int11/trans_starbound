@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "프랜치 토스트"
+        "path": "/description",
+        "value": "주름지고 푹신한!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "주름지고 푹신한!"
+        "path": "/shortdescription",
+        "value": "프랜치 토스트"
     }
 ]

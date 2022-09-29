@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "철 문"
+        "path": "/description",
+        "value": "기본적인 철 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기본적인 철 문이다."
+        "path": "/shortdescription",
+        "value": "철 문"
     },
     {
         "op": "replace",

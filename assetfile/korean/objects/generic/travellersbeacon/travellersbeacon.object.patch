@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 잡동사니들은 다 뭐래?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "매료. 이 장치는 이 근방의 대기 레벨을 측정하고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "빛냐고 죠금씩 움직여. 지루해!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 장치로 클루엑스의 말씀을 별들에게 전파하는 건가?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 조잡한 기계는 행성 정보를 기록할 때 쓴다나 봐."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "지질학적 통계를 기록하는 조악하게 만들어진 장치."
+        "path": "/description",
+        "value": "여행자들이 지질학 정보를 기록할 때 사용하는 기계."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여행자들이 지질학 정보를 기록할 때 사용하는 기계."
+        "path": "/apexDescription",
+        "value": "지질학적 통계를 기록하는 조악하게 만들어진 장치."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 장치로 클루엑스의 말씀을 별들에게 전파하는 건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "빛냐고 죠금씩 움직여. 지루해!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료. 이 장치는 이 근방의 대기 레벨을 측정하고 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 조잡한 기계는 행성 정보를 기록할 때 쓴다나 봐."
     },
     {
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "一台构造粗劣的机器。鲛人收集类似信息的话会探索自然。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 잡동사니들은 다 뭐래?"
     }
 ]

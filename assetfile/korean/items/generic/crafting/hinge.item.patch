@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "철 경첩"
+        "path": "/description",
+        "value": "철 경첩 하나."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "철 경첩 하나."
+        "path": "/shortdescription",
+        "value": "철 경첩"
     }
 ]

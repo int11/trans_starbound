@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "어둡고, 매끄러운 돌 블럭."
+        "path": "/shortdescription",
+        "value": "어두운 매끄러운 돌"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "어두운 매끄러운 돌"
+        "path": "/description",
+        "value": "어둡고, 매끄러운 돌 블럭."
     },
     {
         "op": "replace",

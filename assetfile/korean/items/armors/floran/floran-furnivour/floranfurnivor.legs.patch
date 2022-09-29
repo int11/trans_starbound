@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "모피식자 다리 장식"
+        "path": "/description",
+        "value": "사냥에서 구한 동물의 모피로 치장되어 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사냥에서 구한 동물의 모피로 치장되어 있다."
+        "path": "/shortdescription",
+        "value": "모피식자 다리 장식"
     }
 ]

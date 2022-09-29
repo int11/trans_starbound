@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "반짝이는 듀라스틸 패널."
+        "path": "/description",
+        "value": "고강도강 패널,  고압 환경을 견디도록 특별히 설계되었다"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "압축된 고강도강"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "압축된 고강도강"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "고강도강 패널,  고압 환경을 견디도록 특별히 설계되었다"
+        "path": "/novakidDescription",
+        "value": "반짝이는 듀라스틸 패널."
     }
 ]

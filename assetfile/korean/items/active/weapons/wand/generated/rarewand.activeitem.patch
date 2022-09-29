@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "희귀한 마술봉"
+        "path": "/description",
+        "value": "충분할 만큼 차세대 기술을 보여준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "충분할 만큼 차세대 기술을 보여준다."
+        "path": "/shortdescription",
+        "value": "희귀한 마술봉"
     }
 ]

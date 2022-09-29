@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "벽 조정 모니터"
+        "path": "/description",
+        "value": "모니터로 모니터링해보자!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "모니터로 모니터링해보자!"
+        "path": "/shortdescription",
+        "value": "벽 조정 모니터"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "유리 커피 머그잔"
+        "path": "/description",
+        "value": "유리로 만들어진 커피 머그잔이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유리로 만들어진 커피 머그잔이다."
+        "path": "/shortdescription",
+        "value": "유리 커피 머그잔"
     }
 ]

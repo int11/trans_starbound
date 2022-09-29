@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 독성 식물이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 독을 간식으로 먹어! 그리고... 으앙 주금"
+        "path": "/description",
+        "value": "독성 식물 일지도?"
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "독성 식물 일지도?"
+        "path": "/floranDescription",
+        "value": "플로란은 독을 간식으로 먹어! 그리고... 으앙 주금"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 독성 식물이군."
     }
 ]

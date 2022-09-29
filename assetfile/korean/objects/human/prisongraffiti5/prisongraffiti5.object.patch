@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "극적이군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "동정. 바라는 것을 조금 더 고려해 보았어야 할 터인데."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 그 사람 돌아왔다고 믿는다. 아마 행복한 이야기다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "누구도 믿어서는 안 될 일이지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "쓴 사람이 불쌍하네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "공포영화에서 튀어나온 것 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 낙서가 누구를 뜻하는지 궁금하군."
+        "path": "/description",
+        "value": "낙서. 쓴 사람이 초조했던 모양이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "낙서. 쓴 사람이 초조했던 모양이다."
+        "path": "/apexDescription",
+        "value": "이 낙서가 누구를 뜻하는지 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "쓴 사람이 불쌍하네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 그 사람 돌아왔다고 믿는다. 아마 행복한 이야기다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "동정. 바라는 것을 조금 더 고려해 보았어야 할 터인데."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "공포영화에서 튀어나온 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "누구도 믿어서는 안 될 일이지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "극적이군."
     }
 ]

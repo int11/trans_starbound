@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "해골. 경고의 뜻이거나... 여기 해적이 있다는 뜻이거나!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "해골. 경고인가?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "또다른 놀라운 길거리 예술이군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주의. 허투로 그린 인간의 두개골이로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이 그림 좋다. 좋은 예슐가다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 예술가는 정말 여기에 안 어울렸겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "인간의 두개골 같군."
+        "path": "/description",
+        "value": "대충 그린 해골. 즐거워 보인다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "대충 그린 해골. 즐거워 보인다."
+        "path": "/apexDescription",
+        "value": "인간의 두개골 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "해골. 경고인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 그림 좋다. 좋은 예슐가다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 허투로 그린 인간의 두개골이로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "또다른 놀라운 길거리 예술이군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 예술가는 정말 여기에 안 어울렸겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "해골. 경고의 뜻이거나... 여기 해적이 있다는 뜻이거나!"
     }
 ]

@@ -1,88 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/panels/31/text",
-        "value": "다른 행성들도 지구처럼 되기전에, 우리는 반드시 이것들을 찾아서 파멸을 파괴해야 한단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/30/text",
-        "value": "이 유물은 온 성운에 퍼져있고, 난 그것들을 혼자선 찾을 수 없단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/29/text",
-        "value": "이 일은 시간이 많이 걸릴거란다. 얘야. 게다가 네게는 너무나도 큰 부탁이겠지... 하지만 난 네 도움이 필요하단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/26/text",
-        "value": "이 봉인은 약해지고 있단다. 우린 반드시 이 유물을 모아서, 파멸에 도달하고, 그것을 파괴해야만 해."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/25/text",
-        "value": "이 여섯 유물이 한데 뭉치게 되면, 파멸로 향하는 문을 여는 열쇠가 된단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/23/text",
-        "value": "마지막 에너지가 사라지기 전에, 구축자는 여섯 개의 종족에 소중한 유물을 선물했지."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/21/text",
-        "value": "하지만 이 것으로 인해, 구축자는 힘을 다 써버렸단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/20/text",
-        "value": "구축자는 파멸에 맞서 싸웠고, 파멸을 봉인하는데 성공했지."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/18/text",
-        "value": "파멸은 모든 생명을 없애버리려고 했고, 성공할 수도 있었지만, 구축자의 희생으로 끝내 실패했어."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/17/text",
-        "value": "파멸은 우주에 어떠한 생명체도 존재하는 것을 원치 않았고, 전 우주를 파괴하길 원했단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/16/text",
-        "value": "그러나 이 평온함은 하나의 증오와 파괴의 존재가 나타나며 유한함이 입증되었지. 그것은 바로 파멸이였단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/14/text",
-        "value": "그들의 영향으로, 조화를 이루어 우주를 다스렸고, 수백억년간 지속되었단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/13/text",
-        "value": "오래전에, 구축자라고 불리우는 알 수 없는 세력이 있었지, 그들은 온 우주의 균형을 유지했단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/10/text",
-        "value": "과거에 무거운 짐을 지고 있을때는 잊고 있었던 것을 발견해냈지."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/9/text",
-        "value": "나는 몇년전에 연합을 탈퇴하는 힘든 결정을 내렸지; 하지만 내 연구에 소홀하진 않았단다."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/8/text",
-        "value": "내 이름은 ^orange;에스더 브라이트^white;란다. 지금은 은퇴했지만 대 수호자였지."
-    },
-    {
-        "op": "replace",
-        "path": "/panels/7/text",
-        "value": "불행히도 그 사건으로 인해 우리가 이렇게 만나게 되었지..."
+        "path": "/panels/5/text",
+        "value": "반갑구나, 얘야! 혹시 네가 들고 있는 그것은 물질 조작기이니? 훌륭해. 그렇다면 넌 수호자로구나."
     },
     {
         "op": "replace",
@@ -91,8 +11,88 @@
     },
     {
         "op": "replace",
-        "path": "/panels/5/text",
-        "value": "반갑구나, 얘야! 혹시 네가 들고 있는 그것은 물질 조작기이니? 훌륭해. 그렇다면 넌 수호자로구나."
+        "path": "/panels/7/text",
+        "value": "불행히도 그 사건으로 인해 우리가 이렇게 만나게 되었지..."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/8/text",
+        "value": "내 이름은 ^orange;에스더 브라이트^white;란다. 지금은 은퇴했지만 대 수호자였지."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/9/text",
+        "value": "나는 몇년전에 연합을 탈퇴하는 힘든 결정을 내렸지; 하지만 내 연구에 소홀하진 않았단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/10/text",
+        "value": "과거에 무거운 짐을 지고 있을때는 잊고 있었던 것을 발견해냈지."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/13/text",
+        "value": "오래전에, 구축자라고 불리우는 알 수 없는 세력이 있었지, 그들은 온 우주의 균형을 유지했단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/14/text",
+        "value": "그들의 영향으로, 조화를 이루어 우주를 다스렸고, 수백억년간 지속되었단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/16/text",
+        "value": "그러나 이 평온함은 하나의 증오와 파괴의 존재가 나타나며 유한함이 입증되었지. 그것은 바로 파멸이였단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/17/text",
+        "value": "파멸은 우주에 어떠한 생명체도 존재하는 것을 원치 않았고, 전 우주를 파괴하길 원했단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/18/text",
+        "value": "파멸은 모든 생명을 없애버리려고 했고, 성공할 수도 있었지만, 구축자의 희생으로 끝내 실패했어."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/20/text",
+        "value": "구축자는 파멸에 맞서 싸웠고, 파멸을 봉인하는데 성공했지."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/21/text",
+        "value": "하지만 이 것으로 인해, 구축자는 힘을 다 써버렸단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/23/text",
+        "value": "마지막 에너지가 사라지기 전에, 구축자는 여섯 개의 종족에 소중한 유물을 선물했지."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/25/text",
+        "value": "이 여섯 유물이 한데 뭉치게 되면, 파멸로 향하는 문을 여는 열쇠가 된단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/26/text",
+        "value": "이 봉인은 약해지고 있단다. 우린 반드시 이 유물을 모아서, 파멸에 도달하고, 그것을 파괴해야만 해."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/29/text",
+        "value": "이 일은 시간이 많이 걸릴거란다. 얘야. 게다가 네게는 너무나도 큰 부탁이겠지... 하지만 난 네 도움이 필요하단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/30/text",
+        "value": "이 유물은 온 성운에 퍼져있고, 난 그것들을 혼자선 찾을 수 없단다."
+    },
+    {
+        "op": "replace",
+        "path": "/panels/31/text",
+        "value": "다른 행성들도 지구처럼 되기전에, 우리는 반드시 이것들을 찾아서 파멸을 파괴해야 한단다."
     },
     {
         "op": "add",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "덤불 소품 2"
+        "path": "/description",
+        "value": "바다 행성에서 온 덤불이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바다 행성에서 온 덤불이다."
+        "path": "/shortdescription",
+        "value": "덤불 소품 2"
     }
 ]

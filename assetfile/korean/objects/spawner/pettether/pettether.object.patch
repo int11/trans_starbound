@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "애완동물 전시장치"
+        "path": "/description",
+        "value": "애완동물이 든 포획 장치를 올려두면 애완동물이 나와 돌아다닌다. 일정거리 내에서만 활동할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "애완동물이 든 포획 장치를 올려두면 애완동물이 나와 돌아다닌다. 일정거리 내에서만 활동할 수 있다."
+        "path": "/shortdescription",
+        "value": "애완동물 전시장치"
     },
     {
         "op": "replace",

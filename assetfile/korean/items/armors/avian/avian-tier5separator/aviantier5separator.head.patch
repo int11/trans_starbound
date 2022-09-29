@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "불사조 투구"
+        "path": "/description",
+        "value": "찬란하고 순수한 바이올리움으로 제작된 빛나는 전투 투구다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "찬란하고 순수한 바이올리움으로 제작된 빛나는 전투 투구다."
+        "path": "/shortdescription",
+        "value": "불사조 투구"
     }
 ]

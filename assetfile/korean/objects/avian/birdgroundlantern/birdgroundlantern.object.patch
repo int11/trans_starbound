@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 횃불은 세지도 약하지도 않지만, 요리하기엔 영 좋지 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하이로틀은 횃불을 쓰지 않는다. 바다 속에서는 산소가 꽤나 귀중하니까."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안 사원은 자연광으로만 빛난다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오래되어보이는 횃불이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 횃불에서 꽤 부드러운 빛이 나온다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "안심. 이 횃불에서 나오는 빛이 이곳을 은은히 비춘다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "불 때문에 플로란 긴장된다."
+        "path": "/description",
+        "value": "깜빡이는 횃불로부터 짙은 그림자가 뻗어나온다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "깜빡이는 횃불로부터 짙은 그림자가 뻗어나온다."
+        "path": "/apexDescription",
+        "value": "이 횃불에서 꽤 부드러운 빛이 나온다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안 사원은 자연광으로만 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "불 때문에 플로란 긴장된다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "안심. 이 횃불에서 나오는 빛이 이곳을 은은히 비춘다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래되어보이는 횃불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하이로틀은 횃불을 쓰지 않는다. 바다 속에서는 산소가 꽤나 귀중하니까."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 횃불은 세지도 약하지도 않지만, 요리하기엔 영 좋지 않다."
     }
 ]

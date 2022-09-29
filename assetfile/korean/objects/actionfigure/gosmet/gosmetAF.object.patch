@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고스멧 모형"
+        "path": "/description",
+        "value": "\"이 생명체는 위험할 때 갑옷 안에 들어갈 수 있는 부드러운 몸을 갖고 있다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"이 생명체는 위험할 때 갑옷 안에 들어갈 수 있는 부드러운 몸을 갖고 있다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "고스멧 모형"
     }
 ]

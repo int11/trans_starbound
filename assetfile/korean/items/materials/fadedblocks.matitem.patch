@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부드러운 벽돌"
+        "path": "/description",
+        "value": "색바랜 부드러운 벽돌이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "색바랜 부드러운 벽돌이다."
+        "path": "/shortdescription",
+        "value": "부드러운 벽돌"
     },
     {
         "op": "replace",

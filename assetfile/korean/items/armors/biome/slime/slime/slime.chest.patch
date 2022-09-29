@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "슬라임 상의"
+        "path": "/description",
+        "value": "오붓하게 들러 붙을줄 알았냐?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오붓하게 들러 붙을줄 알았냐?"
+        "path": "/shortdescription",
+        "value": "슬라임 상의"
     }
 ]

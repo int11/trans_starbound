@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹슨 레일"
+        "path": "/description",
+        "value": "좀 낡아보이긴 하지만 작동하는 레일이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "좀 낡아보이긴 하지만 작동하는 레일이다."
+        "path": "/shortdescription",
+        "value": "녹슨 레일"
     },
     {
         "op": "replace",

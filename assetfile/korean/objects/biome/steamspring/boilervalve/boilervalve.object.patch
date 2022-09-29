@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여기 이 밸브를 돌리려면 힘 깨나 써야겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 낡은 바퀴는 유체의 유동량을 조절하는 데 쓰인다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이거 돌리면 무슨 일이 생길까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "밸브 없이는 스팀도 없다!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "삐걱대는 황동 밸브다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 밸브엔 페인트 자국이 잔뜩 묻어있다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 바퀴 샹대방에게 던지고 싶다."
+        "path": "/description",
+        "value": "황동 밸브다. 수 년동안 쓰여 녹이 슬었다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "황동 밸브다. 수 년동안 쓰여 녹이 슬었다."
+        "path": "/apexDescription",
+        "value": "삐걱대는 황동 밸브다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이거 돌리면 무슨 일이 생길까?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 바퀴 샹대방에게 던지고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 밸브엔 페인트 자국이 잔뜩 묻어있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "밸브 없이는 스팀도 없다!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 낡은 바퀴는 유체의 유동량을 조절하는 데 쓰인다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여기 이 밸브를 돌리려면 힘 깨나 써야겠다."
     }
 ]

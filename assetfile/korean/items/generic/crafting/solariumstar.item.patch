@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "솔라리움 별 (Solarium Star)"
+        "path": "/description",
+        "value": "솔라리움 별을 만드는데 쓰이는 광석은 대부분 불타는 항성을 공전하는 행성에서 발견된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "솔라리움 별을 만드는데 쓰이는 광석은 대부분 불타는 항성을 공전하는 행성에서 발견된다."
+        "path": "/shortdescription",
+        "value": "솔라리움 별 (Solarium Star)"
     }
 ]

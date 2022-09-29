@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "꽤 고전적인 장식인데... 왜 이렇게 한건진 모르겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀람. 면밀한 분석결과 이것은 인의적으로 자연물을 따라한것으로 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이건 좀 뻔뻔하기 짝이 없어보이는데. 안그래?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "명확하게 인공적이고 조작한 장식이야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 상스러운 장식은 뭐야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "벽걸이 사슴뿔은 자원의 낭비다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 샤냥 보샹 좋다고 봐"
+        "path": "/description",
+        "value": "뚜렷한 사슴뿔 장식이다. 이거 어느 동물의 뿔인거지?"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "뚜렷한 사슴뿔 장식이다. 이거 어느 동물의 뿔인거지?"
+        "path": "/apexDescription",
+        "value": "벽걸이 사슴뿔은 자원의 낭비다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 상스러운 장식은 뭐야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샤냥 보샹 좋다고 봐"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 면밀한 분석결과 이것은 인의적으로 자연물을 따라한것으로 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "꽤 고전적인 장식인데... 왜 이렇게 한건진 모르겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "명확하게 인공적이고 조작한 장식이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이건 좀 뻔뻔하기 짝이 없어보이는데. 안그래?"
     }
 ]

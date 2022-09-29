@@ -6,6 +6,11 @@
     },
     {
         "op": "replace",
+        "path": "/charCreationTooltip/subTitle",
+        "value": "이들만이 알고있다..."
+    },
+    {
+        "op": "replace",
         "path": "/charCreationTooltip/description",
         "value": "여기에 뭐라 써야할 지 모르겠다"
     },
@@ -24,10 +29,5 @@
             "인간",
             "성격"
         ]
-    },
-    {
-        "op": "replace",
-        "path": "/charCreationTooltip/subTitle",
-        "value": "이들만이 알고있다..."
     }
 ]

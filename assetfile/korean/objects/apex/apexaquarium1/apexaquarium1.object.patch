@@ -1,28 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "공감. 이건 구속된 삶이야."
+        "path": "/description",
+        "value": "봐봐! 물고기들이야!"
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "우리 인간네 골동품이 떠오르네."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "물고기가 하나. 친구가 필요하지 않을까?"
+        "path": "/shortdescription",
+        "value": "나무 수족관"
     },
     {
         "op": "replace",
         "path": "/apexDescription",
         "value": "고향에선 탱크안에 녹색 물고기와 친구가 있었다. 그는 오래가지 못했지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "형제여, 언젠가 꼭 풀어주겠다."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 수족관"
+        "path": "/glitchDescription",
+        "value": "공감. 이건 구속된 삶이야."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "봐봐! 물고기들이야!"
+        "path": "/humanDescription",
+        "value": "우리 인간네 골동품이 떠오르네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "형제여, 언젠가 꼭 풀어주겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "물고기가 하나. 친구가 필요하지 않을까?"
     }
 ]

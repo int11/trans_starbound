@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "심플하면서도 치명적이지. 내가 좋아하는 종류야."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "이 함정은 침략자를 저지하기 위해 불꽃을 분출한다."
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "겁남. 이건 자그마한 불꽃 함정이로군, 아무것도 이겨낼 수 없는 것도 있는법이지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "날쌘 전사는 불꽃을 두려워하지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아야! 불이랑 날개랑 닿으면 안돼!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "믿어봐, 확실하게 불꽃 함정이야."
+        "path": "/shortdescription",
+        "value": "고대의 불꽃 함정"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "아야! 불이랑 날개랑 닿으면 안돼!"
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "불꽃 함정은 플로란의 최악의 적이야!"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고대의 불꽃 함정"
+        "path": "/glitchDescription",
+        "value": "겁남. 이건 자그마한 불꽃 함정이로군, 아무것도 이겨낼 수 없는 것도 있는법이지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "믿어봐, 확실하게 불꽃 함정이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "날쌘 전사는 불꽃을 두려워하지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "심플하면서도 치명적이지. 내가 좋아하는 종류야."
     }
 ]

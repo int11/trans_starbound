@@ -6,23 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "다른 텔레포트를 찾았다면 난 그곳으로 바로 돌아갈수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "텔레포터네. 다른 텔레포터 포인트를 반견해 뒀다면 바로 돌아갈수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "작동하는 텔레포터다! 어디든지 내가 포인트를 저장해두면 그곳으로 돌아갈수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "텔레포터다. 내가 원하는 아무때나 다른 포인트로 돌아갈수 있다."
+        "path": "/shortdescription",
+        "value": "2-스탑 텔레포터"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "열정. 텔레포터를 만들어두면 언제든지 돌아갈수 있지!"
+        "path": "/avianDescription",
+        "value": "작동하는 텔레포터다! 어디든지 내가 포인트를 저장해두면 그곳으로 돌아갈수 있어."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "2-스탑 텔레포터"
+        "path": "/glitchDescription",
+        "value": "열정. 텔레포터를 만들어두면 언제든지 돌아갈수 있지!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "텔레포터다. 내가 원하는 아무때나 다른 포인트로 돌아갈수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "텔레포터네. 다른 텔레포터 포인트를 반견해 뒀다면 바로 돌아갈수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "다른 텔레포트를 찾았다면 난 그곳으로 바로 돌아갈수 있다."
     }
 ]

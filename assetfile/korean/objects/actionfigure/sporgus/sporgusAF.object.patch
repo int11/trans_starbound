@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스포어구스 모형"
+        "path": "/description",
+        "value": "\"생장이 빠른, 따뜻하고 습한 기후를 선호한다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"생장이 빠른, 따뜻하고 습한 기후를 선호한다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "스포어구스 모형"
     }
 ]

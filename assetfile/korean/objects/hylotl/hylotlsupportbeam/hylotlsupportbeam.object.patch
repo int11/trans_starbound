@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가압 지지대"
+        "path": "/description",
+        "value": "심해 압력을 견딜 수 있는 건축 보강 기둥이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "심해 압력을 견딜 수 있는 건축 보강 기둥이다."
+        "path": "/shortdescription",
+        "value": "가압 지지대"
     },
     {
         "op": "replace",

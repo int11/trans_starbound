@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "화석을 위한 전시대다."
+    },
+    {
+        "op": "replace",
         "path": "/subtitle",
         "value": "화석 전시대"
     },
@@ -8,11 +13,6 @@
         "op": "replace",
         "path": "/shortdescription",
         "value": "화석 전시대"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "화석을 위한 전시대다."
     },
     {
         "op": "replace",

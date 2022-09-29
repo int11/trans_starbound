@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "좀 오래되고 먼지낀 벽돌이네."
+        "path": "/shortdescription",
+        "value": "무덤 벽돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "먼지가 낀 고대의 벽돌이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "먼지가 낀 고대의 벽돌이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "무덤 벽돌"
+        "path": "/novakidDescription",
+        "value": "좀 오래되고 먼지낀 벽돌이네."
     }
 ]

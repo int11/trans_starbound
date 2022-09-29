@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "알이 새겨진 조작기"
+        "path": "/description",
+        "value": "기반에 알이 아로새겨진 접속 판이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기반에 알이 아로새겨진 접속 판이다."
+        "path": "/shortdescription",
+        "value": "알이 새겨진 조작기"
     },
     {
         "op": "replace",

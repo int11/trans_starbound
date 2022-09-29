@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 나무 상자는 재미있어 보여."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 붉은 샹자 안을 보고싶다."
+        "path": "/description",
+        "value": "무지개 나무로 만들어진 상자다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "무지개 나무 상자"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "무지개 나무로 만들어진 상자다."
     },
     {
         "op": "replace",
@@ -28,6 +18,11 @@
         "op": "replace",
         "path": "/avianDescription",
         "value": "这个箱子很红。这似乎需要关注一下。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 붉은 샹자 안을 보고싶다."
     },
     {
         "op": "replace",
@@ -43,5 +38,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "一个用五彩缤纷的木头精心制作的箱子。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 나무 상자는 재미있어 보여."
     }
 ]

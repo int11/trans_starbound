@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "진주콩 팬케이크"
+        "path": "/description",
+        "value": "평범한 팬케이크같지만, 뒷맛이 걸쭉한 완두콩 맛이 난다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "평범한 팬케이크같지만, 뒷맛이 걸쭉한 완두콩 맛이 난다."
+        "path": "/shortdescription",
+        "value": "진주콩 팬케이크"
     }
 ]

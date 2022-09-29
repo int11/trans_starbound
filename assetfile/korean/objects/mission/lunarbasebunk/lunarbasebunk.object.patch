@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달 기지 침대"
+        "path": "/description",
+        "value": "이 아늑한 침대는 다른 침대 위에 쌓을 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 아늑한 침대는 다른 침대 위에 쌓을 수 있다."
+        "path": "/shortdescription",
+        "value": "달 기지 침대"
     },
     {
         "op": "replace",

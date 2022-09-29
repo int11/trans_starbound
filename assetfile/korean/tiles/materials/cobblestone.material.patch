@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이런 조약돌을 발견하는게 드문일은 아니지."
+        "path": "/shortdescription",
+        "value": "조약돌"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "단단한 조약돌, 만지면 매끄럽다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단단한 조약돌, 만지면 매끄럽다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "조약돌"
+        "path": "/novakidDescription",
+        "value": "이런 조약돌을 발견하는게 드문일은 아니지."
     }
 ]

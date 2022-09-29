@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선함 지지 블럭"
+        "path": "/description",
+        "value": "이 벽은 선함의 구조물을 지지하는게 사용된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 벽은 선함의 구조물을 지지하는게 사용된다."
+        "path": "/shortdescription",
+        "value": "선함 지지 블럭"
     },
     {
         "op": "replace",

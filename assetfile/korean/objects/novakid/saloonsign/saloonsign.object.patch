@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 간판"
+        "path": "/description",
+        "value": "나무 표지에 술집이라고 칠했다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나무 표지에 술집이라고 칠했다."
+        "path": "/shortdescription",
+        "value": "술집 간판"
     },
     {
         "op": "replace",

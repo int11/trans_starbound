@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "갈대 문"
+        "path": "/description",
+        "value": "나무와 갈대로 만들어진 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나무와 갈대로 만들어진 문이다."
+        "path": "/shortdescription",
+        "value": "갈대 문"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 탁자"
+        "path": "/description",
+        "value": "과거 서부에 어울리는 얼룩묻은 화려한 탁자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "과거 서부에 어울리는 얼룩묻은 화려한 탁자다."
+        "path": "/shortdescription",
+        "value": "술집 탁자"
     },
     {
         "op": "replace",

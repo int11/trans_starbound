@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹슨 레일 플랫폼"
+        "path": "/description",
+        "value": "레일을 따라 움직이는 플랫폼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "레일을 따라 움직이는 플랫폼이다."
+        "path": "/shortdescription",
+        "value": "녹슨 레일 플랫폼"
     }
 ]

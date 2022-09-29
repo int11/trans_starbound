@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "설탕 덩어리 음료를 파는 자판기."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "맛있는 간식들"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "자판기이다. 바나나 맛 간식은 없다, 슬프게도."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "선택 장애. 무엇을 사야할 지 결정할 수 없음."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란에게 음식을 주는 똑똑한 기계."
-    },
-    {
-        "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "자판기"
+        "path": "/description",
+        "value": "으, 뭘 고를까?"
     },
     {
         "op": "replace",
@@ -36,13 +11,23 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "으, 뭘 고를까?"
+        "path": "/apexDescription",
+        "value": "자판기이다. 바나나 맛 간식은 없다, 슬프게도."
     },
     {
         "op": "replace",
         "path": "/avianDescription",
         "value": "能填饱肚子是极好的。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란에게 음식을 주는 똑똑한 기계."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "선택 장애. 무엇을 사야할 지 결정할 수 없음."
     },
     {
         "op": "replace",
@@ -53,5 +38,20 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "一个贩卖苏打饮料的机器。售货机总有这个。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "설탕 덩어리 음료를 파는 자판기."
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "자판기"
+    },
+    {
+        "op": "replace",
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "맛있는 간식들"
     }
 ]

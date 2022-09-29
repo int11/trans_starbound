@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/altAbility/name",
-        "value": "촉수 파열"
+        "path": "/description",
+        "value": "이 총엔 꿈틀거리는 변종 외계 지렁이들이 떼거지로 함유되어 있다."
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 총엔 꿈틀거리는 변종 외계 지렁이들이 떼거지로 함유되어 있다."
+        "path": "/altAbility/name",
+        "value": "촉수 파열"
     },
     {
         "op": "replace",

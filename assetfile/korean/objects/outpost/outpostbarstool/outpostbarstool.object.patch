@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "도시 술집 의자"
+        "path": "/description",
+        "value": "낡아 흔들리는 술집 의자이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "낡아 흔들리는 술집 의자이다."
+        "path": "/shortdescription",
+        "value": "도시 술집 의자"
     },
     {
         "op": "replace",

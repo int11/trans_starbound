@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 구체 상자"
+        "path": "/description",
+        "value": "얼어붙은, 구형의 상자다. 보물 또는 얼음 조각을 만들기 완벽하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼어붙은, 구형의 상자다. 보물 또는 얼음 조각을 만들기 완벽하다."
+        "path": "/shortdescription",
+        "value": "얼음 구체 상자"
     },
     {
         "op": "replace",

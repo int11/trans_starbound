@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사물함이야. 고치기 전엔 못 쓰겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "사물함. 지금은 작동하지 않아."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "사물함, 유용한 물건들을 많이 보관할 수 있다. 지금 당장은 부서져있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "아비안 창고 출입문. 작동하지 않게 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "아비안 사물함. 지금은 기능하지 않는다"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "곤경스럽다. 이 함선의 저장 체계는 제대로 되어있지가 않는다네"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "샤물함. 쓸슈 없어."
+        "path": "/description",
+        "value": "사물함이다. 어떤 사물을 저장한다, 왜 안하겠어?"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사물함이다. 어떤 사물을 저장한다, 왜 안하겠어?"
+        "path": "/apexDescription",
+        "value": "아비안 사물함. 지금은 기능하지 않는다"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "사물함, 유용한 물건들을 많이 보관할 수 있다. 지금 당장은 부서져있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샤물함. 쓸슈 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "곤경스럽다. 이 함선의 저장 체계는 제대로 되어있지가 않는다네"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아비안 창고 출입문. 작동하지 않게 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "사물함. 지금은 작동하지 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사물함이야. 고치기 전엔 못 쓰겠어."
     }
 ]

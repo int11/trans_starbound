@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바위 가면"
+        "path": "/description",
+        "value": "얼굴에 바위질을 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "얼굴에 바위질을 한다."
+        "path": "/shortdescription",
+        "value": "바위 가면"
     }
 ]

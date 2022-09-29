@@ -1,11 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "평평한 침대. 지루해."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "传说如果你用它过夜将不得清醒。"
     },
@@ -23,6 +18,11 @@
         "op": "replace",
         "path": "/avianDescription",
         "value": "床，看起来很舒服。"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "평평한 침대. 지루해."
     },
     {
         "op": "replace",

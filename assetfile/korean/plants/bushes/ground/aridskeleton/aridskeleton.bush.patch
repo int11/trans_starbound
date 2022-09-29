@@ -6,8 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "설명. 뼈"
+        "path": "/shortdescription",
+        "value": "뼈"
     },
     {
         "op": "replace",
@@ -16,7 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "뼈"
+        "path": "/glitchDescription",
+        "value": "설명. 뼈"
     }
 ]

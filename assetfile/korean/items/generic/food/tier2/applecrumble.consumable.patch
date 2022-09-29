@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사과 크럼블"
+        "path": "/description",
+        "value": "금빛 크럼블 담요가 달콤하고 진한 사과를 덮는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "금빛 크럼블 담요가 달콤하고 진한 사과를 덮는다."
+        "path": "/shortdescription",
+        "value": "사과 크럼블"
     }
 ]

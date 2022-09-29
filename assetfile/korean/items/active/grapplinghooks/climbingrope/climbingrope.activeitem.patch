@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "로프"
+        "path": "/description",
+        "value": "긴 로프,  어딘가 올라갈때 같이쓰면 좋다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "긴 로프,  어딘가 올라갈때 같이쓰면 좋다!"
+        "path": "/shortdescription",
+        "value": "로프"
     }
 ]

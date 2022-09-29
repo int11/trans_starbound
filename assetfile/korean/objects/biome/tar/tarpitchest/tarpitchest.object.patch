@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타르갱 상자"
+        "path": "/description",
+        "value": "타르식의 상자"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "타르식의 상자"
+        "path": "/shortdescription",
+        "value": "타르갱 상자"
     },
     {
         "op": "replace",

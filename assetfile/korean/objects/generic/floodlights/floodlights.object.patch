@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "커다란 램프들이 여름 태양처럼 빛나네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하일로틀도 바다 밑을 밝히기 위해 비슷한 빛을 쓰지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이렇게 밝으면 밤도 낮처럼 바뀌겠어!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "플러드 라이트는 딱 자기 이름에 맞게 지내지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "탈듯이 빛나는 조명."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 밝은 빛이 선명히 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "눈부신 빛이 플로란 눈꺌 샤냥한댜악."
+        "path": "/description",
+        "value": "이 빛을 오랫동안 쳐다보면 실명하겠지."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 빛을 오랫동안 쳐다보면 실명하겠지."
+        "path": "/apexDescription",
+        "value": "탈듯이 빛나는 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이렇게 밝으면 밤도 낮처럼 바뀌겠어!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "눈부신 빛이 플로란 눈꺌 샤냥한댜악."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 밝은 빛이 선명히 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "플러드 라이트는 딱 자기 이름에 맞게 지내지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하일로틀도 바다 밑을 밝히기 위해 비슷한 빛을 쓰지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "커다란 램프들이 여름 태양처럼 빛나네."
     }
 ]

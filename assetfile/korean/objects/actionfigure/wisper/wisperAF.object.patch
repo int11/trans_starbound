@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "위스퍼 모형"
+        "path": "/description",
+        "value": "\"누군가는 위스퍼들이 길잃은 정령들이라 믿는다. 그들은 밤에 빛을내며 당신을 잘못된 길로 안내할것이다.\"라고 적혀잇다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"누군가는 위스퍼들이 길잃은 정령들이라 믿는다. 그들은 밤에 빛을내며 당신을 잘못된 길로 안내할것이다.\"라고 적혀잇다."
+        "path": "/shortdescription",
+        "value": "위스퍼 모형"
     }
 ]

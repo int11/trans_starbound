@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "겁나 큰 쓰레기통."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "쓰레기통이다. 더럽지만 필수불가결이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
+        "path": "/description",
         "value": "쓰레기통이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "쓰레기통 다이빙 요새도 하나?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "표준 쓰레기통."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "경탄. 쓰레기통이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "쓰레기통."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/apexDescription",
+        "value": "표준 쓰레기통."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
         "value": "쓰레기통이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쓰레기통."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경탄. 쓰레기통이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "쓰레기통 다이빙 요새도 하나?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "쓰레기통이다. 더럽지만 필수불가결이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "겁나 큰 쓰레기통."
     }
 ]

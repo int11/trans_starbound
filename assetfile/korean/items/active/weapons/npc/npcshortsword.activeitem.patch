@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "NPC 소검"
+        "path": "/description",
+        "value": "튼튼한 한손 검이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "튼튼한 한손 검이다."
+        "path": "/shortdescription",
+        "value": "NPC 소검"
     }
 ]

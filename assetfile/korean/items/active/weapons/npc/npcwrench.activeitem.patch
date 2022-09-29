@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "NPC 렌치"
+        "path": "/description",
+        "value": "역시 고장난 기계는 한대 쳐서 고쳐야지, 애플 III 도 그랬다고 하잖아."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "역시 고장난 기계는 한대 쳐서 고쳐야지, 애플 III 도 그랬다고 하잖아."
+        "path": "/shortdescription",
+        "value": "NPC 렌치"
     }
 ]

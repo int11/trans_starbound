@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "기다란, 스탠드등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 전등이면 꽤 큰 방도 다 밝힐 수 있겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "키다리 전등이다. 어떻게 작동하는 거지? 수정도 없는데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "키 크고 밝은 전등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "표준 규격."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "만족. 빛 가는 데는 안전이 따라간다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "키 큰 전등, 밝은 빛."
+        "path": "/description",
+        "value": "점박이 전등갓이 쓰인 긴 목제 전등이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "점박이 전등갓이 쓰인 긴 목제 전등이다."
+        "path": "/apexDescription",
+        "value": "표준 규격."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "키다리 전등이다. 어떻게 작동하는 거지? 수정도 없는데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "키 큰 전등, 밝은 빛."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 빛 가는 데는 안전이 따라간다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "키 크고 밝은 전등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 전등이면 꽤 큰 방도 다 밝힐 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "기다란, 스탠드등이다."
     }
 ]

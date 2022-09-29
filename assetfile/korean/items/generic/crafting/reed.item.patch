@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "갈대"
+        "path": "/description",
+        "value": "갈대 한다발을 잘라낸것이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "갈대 한다발을 잘라낸것이다."
+        "path": "/shortdescription",
+        "value": "갈대"
     }
 ]

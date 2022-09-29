@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹색 네온 블럭"
+        "path": "/description",
+        "value": "중간에 이상한 녹색 글리프가 새겨져있는 타일."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "중간에 이상한 녹색 글리프가 새겨져있는 타일."
+        "path": "/shortdescription",
+        "value": "녹색 네온 블럭"
     },
     {
         "op": "replace",

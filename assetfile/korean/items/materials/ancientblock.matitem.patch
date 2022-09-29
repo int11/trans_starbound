@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고대의 블럭"
+        "path": "/description",
+        "value": "이 블럭들은 분명 시간과의 싸움에서 살아남았을 것이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 블럭들은 분명 시간과의 싸움에서 살아남았을 것이다."
+        "path": "/shortdescription",
+        "value": "고대의 블럭"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "크립링 마스크"
+        "path": "/description",
+        "value": "이 눈이 얼마나 오싹한지 봐봐!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 눈이 얼마나 오싹한지 봐봐!"
+        "path": "/shortdescription",
+        "value": "크립링 마스크"
     }
 ]

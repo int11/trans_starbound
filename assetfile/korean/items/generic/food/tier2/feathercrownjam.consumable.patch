@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "깃털관 잼"
+        "path": "/description",
+        "value": "아비안들 이 귀중하게 여기는 달고 풍미깊은 설탕 조림이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아비안들 이 귀중하게 여기는 달고 풍미깊은 설탕 조림이다."
+        "path": "/shortdescription",
+        "value": "깃털관 잼"
     }
 ]

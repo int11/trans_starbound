@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "목표 더미"
+        "path": "/description",
+        "value": "불쌍한 더미, 프레디라는 이름을 줄거야!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "불쌍한 더미, 프레디라는 이름을 줄거야!"
+        "path": "/shortdescription",
+        "value": "목표 더미"
     },
     {
         "op": "replace",

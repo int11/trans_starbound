@@ -1,21 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "청왕성은 지구의 고대 하늘 신의 이름을 사용해. 그 전설은 아비안 하늘 신 보다는 창백한거 같더라."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "매료 인류 태양계에서 가장 추운 행성이네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "천왕셩 인간 태양계의 일곱번째 행셩이다. 얇은 고리있다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "태양계의 천왕성을 본뜬 천장걸이 모형이다."
     },
@@ -28,6 +13,21 @@
         "op": "replace",
         "path": "/apexDescription",
         "value": "天王星的自转轴倾斜了超过97度。"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "청왕성은 지구의 고대 하늘 신의 이름을 사용해. 그 전설은 아비안 하늘 신 보다는 창백한거 같더라."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "천왕셩 인간 태양계의 일곱번째 행셩이다. 얇은 고리있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "매료 인류 태양계에서 가장 추운 행성이네."
     },
     {
         "op": "replace",

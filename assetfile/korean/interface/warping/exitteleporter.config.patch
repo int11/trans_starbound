@@ -1,22 +1,14 @@
 [
     {
         "op": "replace",
-        "path": "/destinations/0/name",
-        "value": "함선으로 귀환"
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/0/planetName",
-        "value": "이곳을 떠나기"
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/0",
-        "value": {
-            "name": "함선으로 귀환",
-            "planetName": "이곳을 떠나기",
-            "warpAction": "OwnShip",
-            "icon": "beamup"
-        }
+        "path": "/destinations",
+        "value": [
+            {
+                "name": "함선으로 귀환",
+                "planetName": "이곳을 떠나기",
+                "warpAction": "OwnShip",
+                "icon": "beamup"
+            }
+        ]
     }
 ]

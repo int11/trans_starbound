@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "내가 아는 어떤 놈은 이걸 살인 횟수를 세아릴때 사용했어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "간단하지만 효과적인 집계법이지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "누군가가 계산을 한듯하지만 어째서?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "누군가가 날을 세아렸던걸까 아니면 울타리를 그린걸까. 진짜 모르겠는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "지정부 감옥에 이런게 종종 발견되곤 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "궁금. 이건 25개의 사건이 터졌음을 의미해... 그리고 우린 그게 뭔지 알지 못하겠지만."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이런건 죽인 슈 적을때 쓴다."
+        "path": "/description",
+        "value": "25까지 셀수 없었던 누군가의 기록인듯하다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "25까지 셀수 없었던 누군가의 기록인듯하다."
+        "path": "/apexDescription",
+        "value": "지정부 감옥에 이런게 종종 발견되곤 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "누군가가 계산을 한듯하지만 어째서?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이런건 죽인 슈 적을때 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "궁금. 이건 25개의 사건이 터졌음을 의미해... 그리고 우린 그게 뭔지 알지 못하겠지만."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "누군가가 날을 세아렸던걸까 아니면 울타리를 그린걸까. 진짜 모르겠는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "간단하지만 효과적인 집계법이지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "내가 아는 어떤 놈은 이걸 살인 횟수를 세아릴때 사용했어."
     }
 ]

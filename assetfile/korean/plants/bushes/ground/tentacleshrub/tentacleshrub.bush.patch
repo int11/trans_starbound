@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "소름. 괴기한 촉수군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "슈샹한 숀이다."
+        "path": "/description",
+        "value": "괴기한 촉수다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "괴기한 촉수다."
+        "path": "/floranDescription",
+        "value": "슈샹한 숀이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "소름. 괴기한 촉수군."
     }
 ]

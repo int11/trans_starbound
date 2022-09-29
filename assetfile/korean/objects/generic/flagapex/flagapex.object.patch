@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 에이펙스 깃발에 부착된 위치 모듈을 이용하면 텔레포트 북마크를 설정할 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 에이펙스 깃발로 빠르게 텔레포트할 곳을 즐겨찾기 할 수 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 에이펙스 깃발은 웨이포인트로 쓸 수 있어. 텔레포터를 써서 이 곳으로 돌아올 수 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "내 우주선 텔레포터를 쓸 때 이 에이펙스 깃발로 목적지를 즐겨찾기 할 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 에이펙스 깃발로 내 텔레포터에 위치를 저장할 수 있지. 그 다음부턴 언제든지 이 곳에 올 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "에이펙스 깃발. 텔레포트할 목적지를 지정할 때 쓴다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "에이펙스 깃발 텔레포트로 돌아가기 좋은 곳 만들 때 쓴다!"
+        "path": "/description",
+        "value": "에이펙스 깃발. 미니크녹 문장이다. ^green;[E]^white; 텔레포트 지역을 즐겨찾기할 때 쓴다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "에이펙스 깃발. 미니크녹 문장이다. ^green;[E]^white; 텔레포트 지역을 즐겨찾기할 때 쓴다."
+        "path": "/apexDescription",
+        "value": "에이펙스 깃발. 텔레포트할 목적지를 지정할 때 쓴다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "내 우주선 텔레포터를 쓸 때 이 에이펙스 깃발로 목적지를 즐겨찾기 할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "에이펙스 깃발 텔레포트로 돌아가기 좋은 곳 만들 때 쓴다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 에이펙스 깃발에 부착된 위치 모듈을 이용하면 텔레포트 북마크를 설정할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 에이펙스 깃발로 내 텔레포터에 위치를 저장할 수 있지. 그 다음부턴 언제든지 이 곳에 올 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 에이펙스 깃발은 웨이포인트로 쓸 수 있어. 텔레포터를 써서 이 곳으로 돌아올 수 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 에이펙스 깃발로 빠르게 텔레포트할 곳을 즐겨찾기 할 수 있지."
     }
 ]

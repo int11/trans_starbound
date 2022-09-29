@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부리씨 씨앗"
+        "path": "/description",
+        "value": "바삭 바삭한 부리씨가 자란다. 콧부분이 가장 맛있다고 한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바삭 바삭한 부리씨가 자란다. 콧부분이 가장 맛있다고 한다."
+        "path": "/shortdescription",
+        "value": "부리씨 씨앗"
     },
     {
         "op": "replace",

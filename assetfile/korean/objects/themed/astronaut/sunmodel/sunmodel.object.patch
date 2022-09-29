@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "아카데미에서 한참이나 태양을 보곤 했었지. 그리울거야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "슬픔. 내눈으로 태양을 다시 볼 수 있을까 궁금하군."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "내 고향 별, 태양. 난 여전히 지구에서 석양을 본게 생각나..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "해다. 지구 부셔져도 여전히 빛난다."
+        "path": "/description",
+        "value": "지구에게 생명을 준 밝은 항성인 인류 태양계의 태양을 본뜬 천장걸이 모형이다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "태양 모형"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "지구에게 생명을 준 밝은 항성인 인류 태양계의 태양을 본뜬 천장걸이 모형이다."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "해다. 지구 부셔져도 여전히 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "슬픔. 내눈으로 태양을 다시 볼 수 있을까 궁금하군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "내 고향 별, 태양. 난 여전히 지구에서 석양을 본게 생각나..."
+    },
+    {
+        "op": "replace",
         "path": "/hylotlDescription",
         "value": "太阳系中心的恒星，一个G类主序星。在公认的星际标准中，太阳的质量也被用作计算其他天体质量的标准计量单位。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "아카데미에서 한참이나 태양을 보곤 했었지. 그리울거야."
     }
 ]

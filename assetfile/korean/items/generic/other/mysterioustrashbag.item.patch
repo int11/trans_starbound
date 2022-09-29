@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "의문스러운 쓰래기 봉투"
+        "path": "/description",
+        "value": "만져보면 익숙한 느낌으로 이상하게 부드럽다. 도대채 무엇이 들어있는걸까."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "만져보면 익숙한 느낌으로 이상하게 부드럽다. 도대채 무엇이 들어있는걸까."
+        "path": "/shortdescription",
+        "value": "의문스러운 쓰래기 봉투"
     }
 ]

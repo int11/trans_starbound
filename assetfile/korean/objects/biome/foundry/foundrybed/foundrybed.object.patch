@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주조 공장 침대"
+        "path": "/description",
+        "value": "상당히 열을 방출하는 큰 램프가 달린 침대다. "
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "상당히 열을 방출하는 큰 램프가 달린 침대다. "
+        "path": "/shortdescription",
+        "value": "주조 공장 침대"
     },
     {
         "op": "replace",

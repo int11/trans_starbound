@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "진주콩 리조또"
+        "path": "/description",
+        "value": "마음이 담긴 이 리조또엔 아주 잘 익은 진주콩이 어울린다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "마음이 담긴 이 리조또엔 아주 잘 익은 진주콩이 어울린다."
+        "path": "/shortdescription",
+        "value": "진주콩 리조또"
     }
 ]

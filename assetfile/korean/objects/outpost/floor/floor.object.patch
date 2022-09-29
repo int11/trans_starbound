@@ -1,22 +1,17 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상식. 바닥 표시다."
+        "path": "/description",
+        "value": "\"Floor\" 표시다."
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "바닥 표시."
+        "path": "/shortdescription",
+        "value": "\"Floor\" 단어"
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "바닥 표시다! 아싸!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
+        "path": "/apexDescription",
         "value": "바닥 표시다."
     },
     {
@@ -26,22 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "바닥 표시."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상식. 바닥 표시다."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "바닥 표시다."
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
+        "path": "/hylotlDescription",
         "value": "바닥 표시다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "\"Floor\" 단어"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "\"Floor\" 표시다."
+        "path": "/novakidDescription",
+        "value": "바닥 표시다! 아싸!"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "긴 나무 승강기"
+        "path": "/description",
+        "value": "这个简易的木制电梯是以滑轮系统运行的。"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "这个简易的木制电梯是以滑轮系统运行的。"
+        "path": "/shortdescription",
+        "value": "긴 나무 승강기"
     },
     {
         "op": "replace",

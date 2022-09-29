@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보호국 게임 제어기"
+        "path": "/description",
+        "value": "당신이 미루고 싶을때를 위한 것이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "당신이 미루고 싶을때를 위한 것이다."
+        "path": "/shortdescription",
+        "value": "보호국 게임 제어기"
     },
     {
         "op": "replace",

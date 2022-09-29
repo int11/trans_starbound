@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "소도둑 짧은 청바지"
+        "path": "/description",
+        "value": "바위산을 오를 동안에도 시원함과 편안함을 유지시켜준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바위산을 오를 동안에도 시원함과 편안함을 유지시켜준다."
+        "path": "/shortdescription",
+        "value": "소도둑 짧은 청바지"
     }
 ]

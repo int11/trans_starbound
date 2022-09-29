@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "개폐식 나무 문"
+        "path": "/description",
+        "value": "가벼운 나무로 만든 출입문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가벼운 나무로 만든 출입문이다."
+        "path": "/shortdescription",
+        "value": "개폐식 나무 문"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "저-음정 마이크"
+        "path": "/description",
+        "value": "마이크다. 얼마나 낮게 소리낼 수 있을까?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "마이크다. 얼마나 낮게 소리낼 수 있을까?"
+        "path": "/shortdescription",
+        "value": "저-음정 마이크"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 화려한 타일이 쓰인 곳은 정말 우아하겠는데."
+        "path": "/description",
+        "value": "섬세하고 화려한 지붕 타일"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 타일"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "섬세하고 화려한 지붕 타일"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "화려한 타일"
+        "path": "/novakidDescription",
+        "value": "이 화려한 타일이 쓰인 곳은 정말 우아하겠는데."
     }
 ]

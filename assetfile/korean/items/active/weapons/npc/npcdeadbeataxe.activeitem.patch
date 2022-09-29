@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "NPC 데드비트 도끼"
+        "path": "/description",
+        "value": "자르는데 특화되도록 설계 되었다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자르는데 특화되도록 설계 되었다."
+        "path": "/shortdescription",
+        "value": "NPC 데드비트 도끼"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "AA 건전지 팩"
+        "path": "/description",
+        "value": "언제든 활력적으로 보일수있도록!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "언제든 활력적으로 보일수있도록!"
+        "path": "/shortdescription",
+        "value": "AA 건전지 팩"
     }
 ]

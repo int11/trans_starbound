@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "독무 씨"
+        "path": "/description",
+        "value": "유독해보이는 과일이지만... 하지만 진짜로 그렇게 나쁠까?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유독해보이는 과일이지만... 하지만 진짜로 그렇게 나쁠까?"
+        "path": "/shortdescription",
+        "value": "독무 씨"
     },
     {
         "op": "replace",

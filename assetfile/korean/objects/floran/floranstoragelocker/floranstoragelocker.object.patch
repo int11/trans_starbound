@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "벽 속에 있는 보관함이다."
+        "path": "/description",
+        "value": "깔끔하고 공간을 절약할 수 있는, 벽에 장착하는 보관 수단."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "개인 물품을 보관하는 곳이다."
+        "path": "/shortdescription",
+        "value": "플로란의 보관함"
     },
     {
         "op": "replace",
@@ -21,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "공산품으로 보이는 보관함이다."
+        "path": "/floranDescription",
+        "value": "플로란 보관함에 물건 넣을 슈 있다."
     },
     {
         "op": "replace",
@@ -31,17 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 보관함에 물건 넣을 슈 있다."
+        "path": "/humanDescription",
+        "value": "공산품으로 보이는 보관함이다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "플로란의 보관함"
+        "path": "/hylotlDescription",
+        "value": "개인 물품을 보관하는 곳이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "깔끔하고 공간을 절약할 수 있는, 벽에 장착하는 보관 수단."
+        "path": "/novakidDescription",
+        "value": "벽 속에 있는 보관함이다."
     }
 ]

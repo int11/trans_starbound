@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "큐피드의 날개"
+        "path": "/description",
+        "value": "큐피드의 날개는 체중을 버틸만큼 튼튼하지 않는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "큐피드의 날개는 체중을 버틸만큼 튼튼하지 않는다."
+        "path": "/shortdescription",
+        "value": "큐피드의 날개"
     }
 ]

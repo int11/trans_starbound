@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "질은 낮지만서도 이 배너를 만들 때 상당히 즐겁게 짠 걸 알 수 있다. 보기만 해도 마음이 따뜻해진다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "색깔들좀 봐. 이거 만들기 재밌겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 배너엔 힘세고 강한 재봉술이 들어갔는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이런 무늬 배너들은 배교자들중에서 가장 실력이 부족한 이들이 만든다. 하지만 다수가 걸리고 나면 색채의 물결을 만들어낸다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "아비안 무늬 배너라. 무늬는 조악하지만 재질은 생기넘친다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "즐거움. 훌륭한 색상이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "밝은 섁깔에 웃긴 무늬."
+        "path": "/description",
+        "value": "화려한 비단으로 만들어진 아비안 배너다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화려한 비단으로 만들어진 아비안 배너다."
+        "path": "/apexDescription",
+        "value": "아비안 무늬 배너라. 무늬는 조악하지만 재질은 생기넘친다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 무늬 배너들은 배교자들중에서 가장 실력이 부족한 이들이 만든다. 하지만 다수가 걸리고 나면 색채의 물결을 만들어낸다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "밝은 섁깔에 웃긴 무늬."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "즐거움. 훌륭한 색상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "색깔들좀 봐. 이거 만들기 재밌겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "질은 낮지만서도 이 배너를 만들 때 상당히 즐겁게 짠 걸 알 수 있다. 보기만 해도 마음이 따뜻해진다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 배너엔 힘세고 강한 재봉술이 들어갔는걸."
     }
 ]

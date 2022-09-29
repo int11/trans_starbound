@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "우수한 두뇌"
+        "path": "/description",
+        "value": "이 두뇌는 실험 에 딱 맞는 것 같군."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 두뇌는 실험 에 딱 맞는 것 같군."
+        "path": "/shortdescription",
+        "value": "우수한 두뇌"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "갈대 씨"
+        "path": "/description",
+        "value": "크고 우거진 갈대."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "크고 우거진 갈대."
+        "path": "/shortdescription",
+        "value": "갈대 씨"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "해적 판탈롱"
+        "path": "/description",
+        "value": "해적의 판탈롱, 다리를 위한 구멍이 나있다. (아니면 목발이라던지...)"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "해적의 판탈롱, 다리를 위한 구멍이 나있다. (아니면 목발이라던지...)"
+        "path": "/shortdescription",
+        "value": "해적 판탈롱"
     }
 ]

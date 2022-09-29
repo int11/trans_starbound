@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이런 문은 문을 망가트리려는 사람들을 단념시킨다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "꽤 빡세보이는 철창살이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "튼튼한 강철이다. 모습보단 기능을 중시했다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이거 닫힐 때 아래에 끼어있으면 진짜 싫겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 철문은 위로 열리는 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "자만. 글리치는 이런 문 정도는 훨씬 크게 만든다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "문 무겁다. 날카로운 금쇽 대못으로 문 만들었다."
+        "path": "/description",
+        "value": "무거운 내리닫이 쇠창살문은 위로 열린다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무거운 내리닫이 쇠창살문은 위로 열린다."
+        "path": "/apexDescription",
+        "value": "이 철문은 위로 열리는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 문은 문을 망가트리려는 사람들을 단념시킨다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "문 무겁다. 날카로운 금쇽 대못으로 문 만들었다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "자만. 글리치는 이런 문 정도는 훨씬 크게 만든다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이거 닫힐 때 아래에 끼어있으면 진짜 싫겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "튼튼한 강철이다. 모습보단 기능을 중시했다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "꽤 빡세보이는 철창살이다."
     }
 ]

@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "매끈한 미닫이 문이야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "어느 문화에선 영혼없는 존재에게 문이 반응을 하지 않는다는 미신이 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이렇게 노크를 하고 기다려도 문이 열리질 않더라."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "미는 문. 훌륭한데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "홀림. 문의 움직임이 너무 매혹적이야."
+        "path": "/description",
+        "value": "마치 공상과학 게임 속에 있는것처럼 느끼게 해준다."
     },
     {
         "op": "replace",
@@ -31,17 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "마치 공상과학 게임 속에 있는것처럼 느끼게 해준다."
+        "path": "/apexDescription",
+        "value": "미는 문. 훌륭한데."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이런 방식의 문이 좋더라."
+        "path": "/avianDescription",
+        "value": "어느 문화에선 영혼없는 존재에게 문이 반응을 하지 않는다는 미신이 있지."
     },
     {
         "op": "replace",
         "path": "/floranDescription",
         "value": "스르륵하고 미는 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "홀림. 문의 움직임이 너무 매혹적이야."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이렇게 노크를 하고 기다려도 문이 열리질 않더라."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "매끈한 미닫이 문이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이런 방식의 문이 좋더라."
     }
 ]

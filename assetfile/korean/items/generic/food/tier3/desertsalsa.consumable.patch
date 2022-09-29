@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사막 살사 소스"
+        "path": "/description",
+        "value": "사막 작물로 만든 신선한 살사 소스다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사막 작물로 만든 신선한 살사 소스다."
+        "path": "/shortdescription",
+        "value": "사막 살사 소스"
     }
 ]

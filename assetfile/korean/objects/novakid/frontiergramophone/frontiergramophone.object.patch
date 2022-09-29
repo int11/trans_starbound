@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 간단한 기계가 원반을 돌리면서 노래를 만들잖아. 흥미로워!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "옛날 옛날의 축음기잖아! 모여라, 얘들아!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "레코드 재생기의 음악이 나에게 영감을 주고 있군. 흥미진진한 느낌이야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 기계가 원반을 돌리면서 뭐라 할 수 없는 즐거운 노래를 내고 있어."
+        "path": "/description",
+        "value": "매력직인 레코드 재생기이다. 오래된 곡이 들린다."
     },
     {
         "op": "replace",
@@ -26,13 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매력직인 레코드 재생기이다. 오래된 곡이 들린다."
+        "path": "/apexDescription",
+        "value": "레코드 재생기의 음악이 나에게 영감을 주고 있군. 흥미진진한 느낌이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 간단한 기계가 원반을 돌리면서 노래를 만들잖아. 흥미로워!"
     },
     {
         "op": "replace",
         "path": "/floranDescription",
         "value": "叶族人喜喜喜欢音乐，声声声音可以掩盖叶族人行行行动的动静。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 기계가 원반을 돌리면서 뭐라 할 수 없는 즐거운 노래를 내고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "옛날 옛날의 축음기잖아! 모여라, 얘들아!"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 의자"
+        "path": "/description",
+        "value": "간단한 텅스텐 의자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단한 텅스텐 의자다."
+        "path": "/shortdescription",
+        "value": "텅스텐 의자"
     },
     {
         "op": "replace",

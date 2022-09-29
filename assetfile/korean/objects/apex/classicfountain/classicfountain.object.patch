@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 물은 받아놓거나 재사용한 물이 아니다. 끔찍한 물낭비다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "깃털들아 경배해라, 드디어 목욕하는 날이다!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 물은 다 어디서 끌어오는 걸까? 재사용하는 물은 아닌 것 같은데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "분수대의 물 맛이... 에이펙스 가정집에 공급되는 물보다 깔끔하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 스캔 결과 이 물은 매우 순수하다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 물 좋다. 물은 셩장과 샮의 원동력이다."
+        "path": "/description",
+        "value": "화려한 분수대다. 대부분의 물은 다 낭비되는 것 같다."
     },
     {
         "op": "replace",
@@ -36,8 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화려한 분수대다. 대부분의 물은 다 낭비되는 것 같다."
+        "path": "/apexDescription",
+        "value": "분수대의 물 맛이... 에이펙스 가정집에 공급되는 물보다 깔끔하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "깃털들아 경배해라, 드디어 목욕하는 날이다!"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 물 좋다. 물은 셩장과 샮의 원동력이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 스캔 결과 이 물은 매우 순수하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 물은 다 어디서 끌어오는 걸까? 재사용하는 물은 아닌 것 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 물은 받아놓거나 재사용한 물이 아니다. 끔찍한 물낭비다."
     },
     {
         "op": "replace",

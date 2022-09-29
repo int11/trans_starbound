@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정동석 가면"
+        "path": "/description",
+        "value": "내 눈을 빛나게 만들어 줄 정동석 보석 가면이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "내 눈을 빛나게 만들어 줄 정동석 보석 가면이다."
+        "path": "/shortdescription",
+        "value": "정동석 가면"
     }
 ]

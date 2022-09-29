@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "티타늄 조명"
+        "path": "/description",
+        "value": "빛나는 티타늄 조명이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빛나는 티타늄 조명이다."
+        "path": "/shortdescription",
+        "value": "티타늄 조명"
     },
     {
         "op": "replace",

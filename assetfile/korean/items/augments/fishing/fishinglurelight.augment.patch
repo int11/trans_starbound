@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조광 미끼"
+        "path": "/description",
+        "value": "밤에 낚시 할때 적합한 환하게 빛나는 미끼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "밤에 낚시 할때 적합한 환하게 빛나는 미끼이다."
+        "path": "/shortdescription",
+        "value": "조광 미끼"
     },
     {
         "op": "replace",

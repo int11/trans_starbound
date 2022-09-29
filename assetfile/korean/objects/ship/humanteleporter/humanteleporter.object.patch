@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텔레포터"
+        "path": "/description",
+        "value": "值得信赖的传送器，没有你我们该怎么办？"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "值得信赖的传送器，没有你我们该怎么办？"
+        "path": "/shortdescription",
+        "value": "텔레포터"
     },
     {
         "op": "replace",

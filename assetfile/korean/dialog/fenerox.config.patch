@@ -1,649 +1,179 @@
 [
     {
         "op": "replace",
-        "path": "/converse/default/glitch/0",
-        "value": "새로운 사람. 강철같음. 많이 신기함."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/glitch/1",
-        "value": "이상한 사람. 다행히 친함. 신중함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/glitch/2",
-        "value": "이상한 사람. 페네록스 아님. 예의 바르게함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/glitch/3",
-        "value": "낮선사람 만남. 친해짐. 새로운 경혐."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/glitch/4",
-        "value": "이상한 사람. 안녕말함. 페네록스아님?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/glitch/5",
-        "value": "친근한 낮선사람. 어색한 느낌임. 신중하게 긍정적!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/0",
-        "value": "새로운 사람. 꽃냄새. 아주 흥미로움."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/1",
-        "value": "이상한 사람. 다행히 친함. 신중함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/2",
-        "value": "이상한 사람. 페네록스 아님. 예의 바르게함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/3",
-        "value": "낮선사람 만남. 친해짐. 새로운 경험임!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/4",
-        "value": "이상한 사람. 안녕말함. 페네록스 아님?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/5",
-        "value": "친근한 낮선사람. 어색한 느낌. 신중한 낙관주의자!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/6",
-        "value": "새로운 낮선사람. 자신감 없음. 안녕말함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/floran/7",
-        "value": "모르는 사람. 나뭇잎 몸임. 소름끼치는 웃음..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/0",
-        "value": "새로운 사람. 이상한 냄새. 아주 흥미로움!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/1",
-        "value": "이상한 사람. 다행히 친함. 신중함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/2",
-        "value": "이상한 사람. 페네록스 아님. 예의 바르게함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/3",
-        "value": "낮선사람 만남. 친해짐. 새로운 경험!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/4",
-        "value": "이상한 사람. 안녕말함. 페네록스 아님?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/5",
-        "value": "친근한 낮선사람. 어색한 느낌임. 신중한 낙관주의자!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/6",
-        "value": "새로운 낮선사람. 자신감 없음. 안녕말함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/7",
-        "value": "모르는 사람. 털 많지 않음. 기묘해 보임."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/1",
-        "value": "이상한 사람. 다행히 친함. 신중함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/2",
-        "value": "이상한 사람. 페네록스 아님. 예의 바르게함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/3",
-        "value": "낮선사람 만남. 친해짐. 새로운 경험!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/4",
-        "value": "이상한 사람. 안녕말함. 페네록스 아님?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/5",
-        "value": "친근한 낮선사람. 어색함. 신중한 낙관주의자!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/6",
-        "value": "새로운 낮선사람. 자신감 없음. 안녕말함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/7",
-        "value": "모르는 사람. 불꽃 사람. 얼굴 없음?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/0",
-        "value": "새로운 사람. 새 얼굴임. 아주 흥미로움!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/1",
-        "value": "이상한 사람. 다행히 친함. 신중함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/2",
-        "value": "이상한 사람. 페네록스 아님. 예의 바르게함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/3",
-        "value": "낮선사람 만남. 친해짐. 새로운 경험임!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/4",
-        "value": "이상한 사람. 안녕말함. 페네록스 아님?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/5",
-        "value": "친근한 낮선사람. 어색한 느낌. 신중한 낙관주의자!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/6",
-        "value": "새로운 낮선사람. 자신감 없음. 안녕말함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/0",
-        "value": "새로운 사람. 물고기 냄새남. 아주 흥미로움!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/1",
-        "value": "이상한 사람. 다행히 친함. 신중함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/2",
-        "value": "기묘한 사람. 페네록스 아님. 예의 바르게함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/3",
-        "value": "낮선사람 만남. 친해짐. 새로운 경험!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/4",
-        "value": "이상한 사람. 안녕말함. 페네록스 아님?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/5",
-        "value": "친근한 낮선사람. 어색함. 신중한 낙관주의자!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/6",
-        "value": "새로운 낮선사람. 자신감 없음. 안녕말함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/hylotl/7",
-        "value": "모르는 사람. 고무 피부임. 이상해 보임."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/0",
-        "value": "새로운 사람. 이상한 냄새. 아주 흥미로움!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/1",
-        "value": "이상한 사람. 다행히 친함. 신중함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/2",
-        "value": "이상한 사람. 페네록스 아님. 예의 바르게함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/3",
-        "value": "낮선사람 만남. 친해짐. 새로운 경험!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/4",
-        "value": "이상한 사람. 안녕말함. 페네록스 아님?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/5",
-        "value": "친근한 낮선사람. 어색한 느낌. 신중한 낙관주의자!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/6",
-        "value": "새로운 낮선사람. 자신감 없음. 안녕말함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/apex/7",
-        "value": "모르는 사람. 많은 머리칼. 멋진 수염임!"
-    },
-    {
-        "op": "replace",
-        "path": "/rent/default/default/0",
-        "value": "감사함. 선물 있음. 좋아하길 바람!"
-    },
-    {
-        "op": "replace",
-        "path": "/rent/default/default/1",
-        "value": "만족함. 선물 가져옴. 선물 받음!"
-    },
-    {
-        "op": "replace",
-        "path": "/rent/default/default/2",
-        "value": "굉장히 만족. 멋진 집. 선물 받음!"
-    },
-    {
-        "op": "replace",
-        "path": "/beacon/default/default/0",
-        "value": "불려옴. 친근한 기분. 대화함!"
-    },
-    {
-        "op": "replace",
-        "path": "/beacon/default/default/1",
-        "value": "나 필요함. 이야기함. 대화함!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/default/default/0",
-        "value": "진짜 화남. 당장 나감. 실망스러운 경험!"
-    },
-    {
-        "op": "replace",
-        "path": "/final/default/default/1",
-        "value": "지금 나감. 무시당함. 거지같은 집!"
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/default/default/0",
-        "value": "다른 증서. 무례함. 안 기쁨."
-    },
-    {
-        "op": "replace",
-        "path": "/otherDeed/default/default/1",
-        "value": "두 번째 증서. 내 집. 안 기쁨."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/default/default/0",
-        "value": "매우 화남. 무시당함. 떠나버릴 거임."
-    },
-    {
-        "op": "replace",
-        "path": "/severe/default/default/1",
-        "value": "용납할 수 없는 환경. 무시당함. 크게 불만 표출!"
-    },
-    {
-        "op": "replace",
-        "path": "/severe/default/default/2",
-        "value": "나쁜 환경. 무시당함. 이주 고려중."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/default/default/0",
-        "value": "벽 망가짐. 수리 필요. 꽤 걱정됨."
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/default/default/1",
-        "value": "집 망가짐. 수리 필요. 화남!"
-    },
-    {
-        "op": "replace",
-        "path": "/enclosedArea/default/default/2",
-        "value": "집 망가짐. 벽 부서짐. 수리 필요!"
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/default/default/0",
-        "value": "집 바뀜. 꽤 실망. 안 기쁨."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/default/default/1",
-        "value": "뭔가 빠졌음. 집 바뀜. 꽤 화남."
-    },
-    {
-        "op": "replace",
-        "path": "/tagCriteria/default/default/2",
-        "value": "뭔가 빠졌음. 집 다름. 잘못 된 기분."
-    },
-    {
-        "op": "replace",
-        "path": "/safe/default/default/0",
-        "value": "위험 사라짐. 피곤함. 무서운 경험!"
-    },
-    {
-        "op": "replace",
-        "path": "/safe/default/default/1",
-        "value": "위협 끝남. 살아남음. 아직도 떨림!"
-    },
-    {
-        "op": "replace",
-        "path": "/safe/default/default/2",
-        "value": "위험 지나감. 안 죽음. 좋은 결과!"
-    },
-    {
-        "op": "replace",
-        "path": "/safe/default/default/3",
-        "value": "안 죽음. 위험 끝남. 휴식 필요!"
-    },
-    {
-        "op": "replace",
-        "path": "/encourage/default/default/0",
-        "value": "페네록스 도움. 도와주는 중. 전투 이겨라!"
-    },
-    {
-        "op": "replace",
-        "path": "/encourage/default/default/1",
-        "value": "급한 도우미. 조언 줌. 싸움 이겨라!"
-    },
-    {
-        "op": "replace",
-        "path": "/encourage/default/default/2",
-        "value": "급함. 지원하는 중. 싸움 이겨라!"
-    },
-    {
-        "op": "replace",
-        "path": "/helpthem/default/default/0",
-        "value": "공격 목격함. 못 도와줌. 도움 필요!"
-    },
-    {
-        "op": "replace",
-        "path": "/helpthem/default/default/1",
-        "value": "공격 벌어짐. 무장 안 함. 누군가 도움!"
-    },
-    {
-        "op": "replace",
-        "path": "/helpme/default/default/0",
-        "value": "무기 없음. 방어력 없음. 공격 받음!"
-    },
-    {
-        "op": "replace",
-        "path": "/helpme/default/default/2",
-        "value": "많이 취약. 위협 받음. 튀어야 함!"
-    },
-    {
-        "op": "replace",
-        "path": "/helpme/default/default/3",
-        "value": "위험. 다쳤음. 도망쳐야 함!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/default/default/0",
-        "value": "도둑질 끔찍함. 멈춰야 함. 경비에게 알림!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/default/default/1",
-        "value": "훔치기 나쁨. 도움 필요함. 경비 찾음!"
-    },
-    {
-        "op": "replace",
-        "path": "/alert/default/default/2",
-        "value": "훔치기 잘못됨. 지원 요청. 경비 찾음!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/0",
-        "value": "낮선사람 훔침. 안 괜찮음. 매우 걱정됨!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/1",
-        "value": "놀라운 발견. 도둑질 벌어짐. 소름 돋음!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/2",
-        "value": "강도질 목격함. 매우 염려됨. 끔찍한 짓!"
-    },
-    {
-        "op": "replace",
-        "path": "/accuse/default/default/3",
-        "value": "도둑 절도중. 무례함. 오히려 열받음."
-    },
-    {
-        "op": "replace",
-        "path": "/helpme/default/default/1",
-        "value": "무장 안 됨. 공격 받음. 도움 필요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/avian/7",
-        "value": "모르는 사람. 깃털투성이. 많이 이상함."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/glitch/6",
-        "value": "새로운 낮선사람. 자신감 없음. 안녕말함!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/glitch/7",
-        "value": "모르는 사람. 빛나는 눈. 강철 피부?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/novakid/0",
-        "value": "새로운 사람. 밝게 빛남. 아주 흥미로움!"
-    },
-    {
-        "op": "replace",
         "path": "/converse/default/default",
         "value": [
-            "结识新人。与众不同。激动人心！",
-            "古怪大咖。善意待之。小心谨慎！",
-            "怪异陌客。非吾族类。待之以礼！",
-            "萍水相逢。保持友善。增长阅历！",
-            "怪异之人。道声你好。非吾族类？",
-            "友善生人。有点尴尬。审慎乐观！",
-            "他乡之客。鼓起勇气。打个招呼！",
-            "素不相识。尔无长毛。面貌可疑。"
+            "새로운 사람. 이상한 냄새. 아주 흥미로움!",
+            "이상한 사람. 다행히 친함. 신중함!",
+            "이상한 사람. 페네록스 아님. 예의 바르게함!",
+            "낮선사람 만남. 친해짐. 새로운 경험!",
+            "이상한 사람. 안녕말함. 페네록스 아님?",
+            "친근한 낮선사람. 어색한 느낌임. 신중한 낙관주의자!",
+            "새로운 낮선사람. 자신감 없음. 안녕말함!",
+            "모르는 사람. 털 많지 않음. 기묘해 보임."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/default/apex",
         "value": [
-            "结识新人。与众不同。激动人心！",
-            "古怪大咖。善意待之。小心谨慎！",
-            "怪异陌客。非吾族类。待之以礼！",
-            "萍水相逢。保持友善。增长阅历！",
-            "怪异之人。道声你好。非吾族类？",
-            "友善生人。有点尴尬。审慎乐观！",
-            "他乡之客。鼓起勇气。打个招呼！",
-            "素不相识。毛发旺盛。络腮胡子！"
+            "새로운 사람. 이상한 냄새. 아주 흥미로움!",
+            "이상한 사람. 다행히 친함. 신중함!",
+            "이상한 사람. 페네록스 아님. 예의 바르게함!",
+            "낮선사람 만남. 친해짐. 새로운 경험!",
+            "이상한 사람. 안녕말함. 페네록스 아님?",
+            "친근한 낮선사람. 어색한 느낌. 신중한 낙관주의자!",
+            "새로운 낮선사람. 자신감 없음. 안녕말함!",
+            "모르는 사람. 많은 머리칼. 멋진 수염임!"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/default/avian",
         "value": [
-            "结识新人。鸟类脸蛋。兴高采烈！",
-            "古怪大咖。善意待之。小心谨慎！",
-            "怪异陌客。非吾族类。待之以礼！",
-            "萍水相逢。保持友善。增长阅历！",
-            "怪异之人。道声你好。非吾族类？",
-            "友善生人。有点尴尬。审慎乐观！",
-            "他乡之客。鼓起勇气。打个招呼！",
-            "素不相识。全身羽毛。真是怪异。"
+            "새로운 사람. 새 얼굴임. 아주 흥미로움!",
+            "이상한 사람. 다행히 친함. 신중함!",
+            "이상한 사람. 페네록스 아님. 예의 바르게함!",
+            "낮선사람 만남. 친해짐. 새로운 경험임!",
+            "이상한 사람. 안녕말함. 페네록스 아님?",
+            "친근한 낮선사람. 어색한 느낌. 신중한 낙관주의자!",
+            "새로운 낮선사람. 자신감 없음. 안녕말함!",
+            "모르는 사람. 깃털투성이. 많이 이상함."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/default/glitch",
         "value": [
-            "结识新人。金属制造。大感兴趣！",
-            "古怪大咖。善意待之。小心谨慎！",
-            "怪异陌客。非吾族类。待之以礼！",
-            "萍水相逢。保持友善。增长阅历！",
-            "怪异之人。道声你好。非吾族类？",
-            "友善生人。有点尴尬。审慎乐观！",
-            "他乡之客。鼓起勇气。打个招呼！",
-            "素不相识。眼睛发光。金属皮肤？"
+            "새로운 사람. 강철같음. 많이 신기함.",
+            "이상한 사람. 다행히 친함. 신중함!",
+            "이상한 사람. 페네록스 아님. 예의 바르게함!",
+            "낮선사람 만남. 친해짐. 새로운 경혐.",
+            "이상한 사람. 안녕말함. 페네록스아님?",
+            "친근한 낮선사람. 어색한 느낌임. 신중하게 긍정적!",
+            "새로운 낮선사람. 자신감 없음. 안녕말함!",
+            "모르는 사람. 빛나는 눈. 강철 피부?"
         ]
     },
     {
         "op": "replace",
         "path": "/converse/default/floran",
         "value": [
-            "结识新人。花香扑鼻。心旷神怡！",
-            "古怪大咖。善意待之。小心谨慎！",
-            "怪异陌客。非吾族类。待之以礼！",
-            "萍水相逢。保持友善。增长阅历！",
-            "怪异之人。道声你好。非吾族类？",
-            "友善生人。有点尴尬。审慎乐观！",
-            "他乡之客。鼓起勇气。打个招呼！",
-            "素不相识。植物身躯。笑里藏刀…"
+            "새로운 사람. 꽃냄새. 아주 흥미로움.",
+            "이상한 사람. 다행히 친함. 신중함!",
+            "이상한 사람. 페네록스 아님. 예의 바르게함!",
+            "낮선사람 만남. 친해짐. 새로운 경험임!",
+            "이상한 사람. 안녕말함. 페네록스 아님?",
+            "친근한 낮선사람. 어색한 느낌. 신중한 낙관주의자!",
+            "새로운 낮선사람. 자신감 없음. 안녕말함!",
+            "모르는 사람. 나뭇잎 몸임. 소름끼치는 웃음..."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/default/hylotl",
         "value": [
-            "结识新人。大海之子。心潮澎湃！",
-            "古怪大咖。善意待之。小心谨慎！",
-            "怪异陌客。非吾族类。待之以礼！",
-            "萍水相逢。保持友善。增长阅历！",
-            "怪异之人。道声你好。非吾族类？",
-            "友善生人。有点尴尬。审慎乐观！",
-            "他乡之客。鼓起勇气。打个招呼！",
-            "素不相识。皮肤坚韧。真是怪异。"
+            "새로운 사람. 물고기 냄새남. 아주 흥미로움!",
+            "이상한 사람. 다행히 친함. 신중함!",
+            "기묘한 사람. 페네록스 아님. 예의 바르게함!",
+            "낮선사람 만남. 친해짐. 새로운 경험!",
+            "이상한 사람. 안녕말함. 페네록스 아님?",
+            "친근한 낮선사람. 어색함. 신중한 낙관주의자!",
+            "새로운 낮선사람. 자신감 없음. 안녕말함!",
+            "모르는 사람. 고무 피부임. 이상해 보임."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/default/novakid",
         "value": [
-            "结识新人。闪闪发光。令人着迷！",
-            "古怪大咖。善意待之。小心谨慎！",
-            "怪异陌客。非吾族类。待之以礼！",
-            "萍水相逢。保持友善。增长阅历！",
-            "怪异之人。道声你好。非吾族类？",
-            "友善生人。有点尴尬。审慎乐观！",
-            "他乡之客。鼓起勇气。打个招呼！",
-            "素不相识。性情急躁。无脸之人？"
+            "새로운 사람. 밝게 빛남. 아주 흥미로움!",
+            "이상한 사람. 다행히 친함. 신중함!",
+            "이상한 사람. 페네록스 아님. 예의 바르게함!",
+            "낮선사람 만남. 친해짐. 새로운 경험!",
+            "이상한 사람. 안녕말함. 페네록스 아님?",
+            "친근한 낮선사람. 어색함. 신중한 낙관주의자!",
+            "새로운 낮선사람. 자신감 없음. 안녕말함!",
+            "모르는 사람. 불꽃 사람. 얼굴 없음?"
         ]
     },
     {
         "op": "replace",
         "path": "/accuse/default/default",
         "value": [
-            "偷窃之徒。不可接受。我很担忧！",
-            "顺手牵羊。抓个正着。令我惊骇！",
-            "目睹盗窃。伤我之心。可耻之举！",
-            "窃贼盗物。不讲规矩。我很不安。"
+            "낮선사람 훔침. 안 괜찮음. 매우 걱정됨!",
+            "놀라운 발견. 도둑질 벌어짐. 소름 돋음!",
+            "강도질 목격함. 매우 염려됨. 끔찍한 짓!",
+            "도둑 절도중. 무례함. 오히려 열받음."
         ]
     },
     {
         "op": "replace",
         "path": "/alert/default/default",
         "value": [
-            "小偷小摸。必须阻止。通知警卫！",
-            "鼠窃狗偷。需要支援。去找警卫！",
-            "手脚不净。召唤后援。警卫来了！"
+            "도둑질 끔찍함. 멈춰야 함. 경비에게 알림!",
+            "훔치기 나쁨. 도움 필요함. 경비 찾음!",
+            "훔치기 잘못됨. 지원 요청. 경비 찾음!"
         ]
     },
     {
         "op": "replace",
         "path": "/tagCriteria/default/default",
         "value": [
-            "今非昔比。让我沮丧。闷闷不乐。",
-            "若有所失。物是人非。黯然神伤。",
-            "遗失物品。家有瑕疵。垂头丧气。"
+            "집 바뀜. 꽤 실망. 안 기쁨.",
+            "뭔가 빠졌음. 집 바뀜. 꽤 화남.",
+            "뭔가 빠졌음. 집 다름. 잘못 된 기분."
         ]
     },
     {
         "op": "replace",
         "path": "/enclosedArea/default/default",
         "value": [
-            "墙壁破损。急需修缮。我很着急！",
-            "一片狼藉。等待整理。感到不安！",
-            "房屋破烂。墙壁漏风。需要修理！"
+            "벽 망가짐. 수리 필요. 꽤 걱정됨.",
+            "집 망가짐. 수리 필요. 화남!",
+            "집 망가짐. 벽 부서짐. 수리 필요!"
         ]
     },
     {
         "op": "replace",
         "path": "/otherDeed/default/default",
         "value": [
-            "非法入侵。相当粗鲁。我不高兴。",
-            "闯入私宅。这是我家。我很不爽。"
+            "다른 증서. 무례함. 안 기쁨.",
+            "두 번째 증서. 내 집. 안 기쁨."
         ]
     },
     {
         "op": "replace",
         "path": "/severe/default/default",
         "value": [
-            "惴惴不安。缺乏关爱。可能离开。",
-            "不能忍受。无人关心。积怨已久！",
-            "不毛之地。被人忽视。考虑搬家。"
+            "매우 화남. 무시당함. 떠나버릴 거임.",
+            "용납할 수 없는 환경. 무시당함. 크게 불만 표출!",
+            "나쁜 환경. 무시당함. 이주 고려중."
         ]
     },
     {
         "op": "replace",
         "path": "/final/default/default",
         "value": [
-            "提心吊胆。现在就走。糟糕体验！",
-            "远走高飞。不够上心。穷屋陋室！ "
+            "진짜 화남. 당장 나감. 실망스러운 경험!",
+            "지금 나감. 무시당함. 거지같은 집!"
         ]
     },
     {
         "op": "replace",
         "path": "/beacon/default/default",
         "value": [
-            "受到召唤。感到欢迎。来谈谈吧！",
-            "我被需要。展开谈话。同我聊聊！"
+            "불려옴. 친근한 기분. 대화함!",
+            "나 필요함. 이야기함. 대화함!"
         ]
     },
     {
         "op": "replace",
         "path": "/rent/default/default",
         "value": [
-            "感恩戴德。小小礼品。望您喜欢！",
-            "心满意足。给予礼物。拿去看看！",
-            "心情愉快。不错的家。礼物拿去！"
+            "감사함. 선물 있음. 좋아하길 바람!",
+            "만족함. 선물 가져옴. 선물 받음!",
+            "굉장히 만족. 멋진 집. 선물 받음!"
         ]
     },
     {
@@ -717,37 +247,37 @@
         "op": "replace",
         "path": "/helpme/default/default",
         "value": [
-            "手无寸铁。毫无防备。遭受攻击！",
-            "赤手空拳。遭受攻击。需要帮助！",
-            "弱不禁风。受到威胁。必须逃走！",
-            "危在旦夕。奄奄一息。保命要紧！"
+            "무기 없음. 방어력 없음. 공격 받음!",
+            "무장 안 됨. 공격 받음. 도움 필요!",
+            "많이 취약. 위협 받음. 튀어야 함!",
+            "위험. 다쳤음. 도망쳐야 함!"
         ]
     },
     {
         "op": "replace",
         "path": "/helpthem/default/default",
         "value": [
-            "路见不平。爱莫能助。请求支援！",
-            "光天化日。肆意妄为。来人帮忙！"
+            "공격 목격함. 못 도와줌. 도움 필요!",
+            "공격 벌어짐. 무장 안 함. 누군가 도움!"
         ]
     },
     {
         "op": "replace",
         "path": "/encourage/default/default",
         "value": [
-            "狐人赶到。提供支援。打个胜仗！",
-            "团结协助。共商计策。赢得胜利！",
-            "热血沸腾。戮力齐心。战胜敌人！"
+            "페네록스 도움. 도와주는 중. 전투 이겨라!",
+            "급한 도우미. 조언 줌. 싸움 이겨라!",
+            "급함. 지원하는 중. 싸움 이겨라!"
         ]
     },
     {
         "op": "replace",
         "path": "/safe/default/default",
         "value": [
-            "转危为安。精疲力竭。心惊胆战！",
-            "远离险境。死里逃生。瑟瑟发抖！",
-            "度过难关。大难不死。必有后福！",
-            "虎口余生。暂时安全，需要休息！"
+            "위험 사라짐. 피곤함. 무서운 경험!",
+            "위협 끝남. 살아남음. 아직도 떨림!",
+            "위험 지나감. 안 죽음. 좋은 결과!",
+            "안 죽음. 위험 끝남. 휴식 필요!"
         ]
     }
 ]

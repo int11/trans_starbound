@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "번쩍펄쩍이 1호 모형"
+        "path": "/description",
+        "value": "\"화염 방사기의 팔과 기압주먹을 휘두르는, 실험 펭귄 기계화\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"화염 방사기의 팔과 기압주먹을 휘두르는, 실험 펭귄 기계화\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "번쩍펄쩍이 1호 모형"
     }
 ]

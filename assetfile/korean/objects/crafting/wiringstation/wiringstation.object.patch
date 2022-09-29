@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "전선 작업을 위한 모든 것"
+        "path": "/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "전선 작업대"
     },
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "전선 작업대"
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "전선 작업을 위한 모든 것"
     },
     {
         "op": "replace",

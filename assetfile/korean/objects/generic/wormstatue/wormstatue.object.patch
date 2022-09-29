@@ -6,28 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이게 대체 뭐람?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "충격. 뇌 기생충의 동상을 발견."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "안녕하신가, 내 돌로된 벌레 친구."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "맛있어 보이는 벌레의 동상이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "벌레가 너무 커서 고래를 잡아도 되겠어."
+        "path": "/shortdescription",
+        "value": "벌레 석상"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "맛있어 보이는 벌레의 동상이다."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "플로란은 벌레 먹는거 좋아해."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "벌레 석상"
+        "path": "/glitchDescription",
+        "value": "충격. 뇌 기생충의 동상을 발견."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "벌레가 너무 커서 고래를 잡아도 되겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안녕하신가, 내 돌로된 벌레 친구."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이게 대체 뭐람?"
     }
 ]

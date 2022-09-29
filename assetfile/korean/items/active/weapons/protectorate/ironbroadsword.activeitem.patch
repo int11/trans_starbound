@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "철 장검"
+        "path": "/description",
+        "value": "조잡하게 만들어진 장검이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조잡하게 만들어진 장검이다."
+        "path": "/shortdescription",
+        "value": "철 장검"
     }
 ]

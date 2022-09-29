@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/completeSetDescriptions/description",
-        "value": "화석이 된 글리치. 내부 배선은 거의 남아있지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/completeSetDescriptions/shortdescription",
-        "value": "글리치 화석"
+        "path": "/description",
+        "value": "부식된 글리치의 머리다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부식된 글리치의 머리다."
+        "path": "/completeSetDescriptions/shortdescription",
+        "value": "글리치 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/completeSetDescriptions/description",
+        "value": "화석이 된 글리치. 내부 배선은 거의 남아있지 않는다."
     }
 ]

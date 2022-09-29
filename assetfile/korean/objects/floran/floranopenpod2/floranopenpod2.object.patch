@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이샹한 꼬투리 냄섀 맡았어. 익슉한 냄섀야. 플로란은 무셔워."
+        "path": "/description",
+        "value": "기묘한 꼬투리의 일종이다. 부화한 것으로 보인다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "천박한 짐승아. 나는 싸울 준비가 되었다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 꼬투리에서 무언가가 부화한거 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "여기서 기어나온 녀석을 만나고 싶진 않은데."
+        "path": "/shortdescription",
+        "value": "열린 균류 꼬투리"
     },
     {
         "op": "replace",
@@ -26,8 +16,13 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기묘한 꼬투리의 일종이다. 부화한 것으로 보인다."
+        "path": "/avianDescription",
+        "value": "이 꼬투리에서 무언가가 부화한거 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이샹한 꼬투리 냄섀 맡았어. 익슉한 냄섀야. 플로란은 무셔워."
     },
     {
         "op": "replace",
@@ -36,12 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "요 말썽꾸러기 녀석. 난 싸울 준비 됐다."
+        "path": "/humanDescription",
+        "value": "여기서 기어나온 녀석을 만나고 싶진 않은데."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "열린 균류 꼬투리"
+        "path": "/hylotlDescription",
+        "value": "천박한 짐승아. 나는 싸울 준비가 되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "요 말썽꾸러기 녀석. 난 싸울 준비 됐다."
     }
 ]

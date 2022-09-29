@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고대의 난간"
+        "path": "/description",
+        "value": "기술적으로 제작된 바위로 이루어진 고대의 난간입니다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기술적으로 제작된 바위로 이루어진 고대의 난간입니다."
+        "path": "/shortdescription",
+        "value": "고대의 난간"
     },
     {
         "op": "replace",

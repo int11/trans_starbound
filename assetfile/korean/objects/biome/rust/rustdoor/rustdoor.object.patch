@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹슨 문"
+        "path": "/description",
+        "value": "녹슨 문이다. 소름끼치는 지하로 연결된것으로 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "녹슨 문이다. 소름끼치는 지하로 연결된것으로 보인다."
+        "path": "/shortdescription",
+        "value": "녹슨 문"
     },
     {
         "op": "replace",

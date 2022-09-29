@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "단단한 차크람"
+        "path": "/description",
+        "value": "견고하고 무겁다, 그리고 잔인할 정도로 효과적이다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "견고하고 무겁다, 그리고 잔인할 정도로 효과적이다"
+        "path": "/shortdescription",
+        "value": "단단한 차크람"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "^orange;조종 부속 장치^white;"
+        "path": "/description",
+        "value": "이 장치를 복제기에 장착하면 첨단 기술의 전투 장비들을 복사할 수 있게 된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 장치를 복제기에 장착하면 첨단 기술의 전투 장비들을 복사할 수 있게 된다."
+        "path": "/shortdescription",
+        "value": "^orange;조종 부속 장치^white;"
     },
     {
         "op": "replace",

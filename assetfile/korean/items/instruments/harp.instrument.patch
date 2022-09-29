@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하프"
+        "path": "/description",
+        "value": "멋진 하프다. 한번 연주해볼까?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "멋진 하프다. 한번 연주해볼까?"
+        "path": "/shortdescription",
+        "value": "하프"
     }
 ]

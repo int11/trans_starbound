@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다이아몬드 전시대"
+        "path": "/description",
+        "value": "큰 다이아몬드를 위한 전시대다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "큰 다이아몬드를 위한 전시대다."
+        "path": "/shortdescription",
+        "value": "다이아몬드 전시대"
     },
     {
         "op": "replace",

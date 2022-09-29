@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "간단한 침대. 제 역할을 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이렇게 추한 것에 둘러쌓일 때 하나 하나의 눈을 감고 무엇을 하지?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안의 가구는 돌과 밀짚뿐이라 이렇게 편안한건 별로 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "어떤 매력도 없는 단순한 침대야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 배터리를 재충전하는데 유용한 시설이라네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "우리 에이펙스는 완전히 다른 종류의 침대 벌레들을 무서워하지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이런 불편한 침대. 플로란 피부에 맞지 않다."
+        "path": "/description",
+        "value": "싸게 제조된 침대다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "싸게 제조된 침대다."
+        "path": "/apexDescription",
+        "value": "우리 에이펙스는 완전히 다른 종류의 침대 벌레들을 무서워하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안의 가구는 돌과 밀짚뿐이라 이렇게 편안한건 별로 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이런 불편한 침대. 플로란 피부에 맞지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 배터리를 재충전하는데 유용한 시설이라네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "어떤 매력도 없는 단순한 침대야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이렇게 추한 것에 둘러쌓일 때 하나 하나의 눈을 감고 무엇을 하지?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "간단한 침대. 제 역할을 한다."
     }
 ]

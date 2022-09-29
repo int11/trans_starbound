@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 민들레"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 이럴 시간에 무언가 찌이르고 싶어."
+        "path": "/description",
+        "value": "민들레다. 소원을 빌자."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "민들레다. 소원을 빌자."
+        "path": "/floranDescription",
+        "value": "플로란은 이럴 시간에 무언가 찌이르고 싶어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 민들레"
     }
 ]

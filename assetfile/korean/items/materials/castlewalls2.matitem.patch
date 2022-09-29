@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 돌 벽돌"
+        "path": "/description",
+        "value": "작은 돌 석판, 섬세한 세부를 꾸미는데 사용하기 좋다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 돌 석판, 섬세한 세부를 꾸미는데 사용하기 좋다."
+        "path": "/shortdescription",
+        "value": "작은 돌 벽돌"
     },
     {
         "op": "replace",

@@ -6,18 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 경보 장치 덕분에 물건 훔치기는 힘들겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "경광등. 경비원들의 주의를 끄는 데 쓰인다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "뭔가 안 좋은 일이 벌어지면 이 반짝이는 조명이 알리겠지."
+        "path": "/shortdescription",
+        "value": "경광등"
     },
     {
         "op": "replace",
@@ -26,13 +16,18 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주의. 이것이 수많은 사람들의 관심을 끌 것이니 조심해야겠군."
+        "path": "/avianDescription",
+        "value": "뭔가 안 좋은 일이 벌어지면 이 반짝이는 조명이 알리겠지."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "경광등"
+        "path": "/floranDescription",
+        "value": "이건 모든 경비들의 주의를 끌 거다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 이것이 수많은 사람들의 관심을 끌 것이니 조심해야겠군."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "이건 모든 경비들의 주의를 끌 거다."
+        "path": "/hylotlDescription",
+        "value": "경광등. 경비원들의 주의를 끄는 데 쓰인다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 경보 장치 덕분에 물건 훔치기는 힘들겠군."
     }
 ]

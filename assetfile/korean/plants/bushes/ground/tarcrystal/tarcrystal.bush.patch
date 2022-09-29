@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정의. 결정화된 타르."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "뾰족 끈적하다."
+        "path": "/description",
+        "value": "결정화된 타르다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "결정화된 타르다."
+        "path": "/floranDescription",
+        "value": "뾰족 끈적하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "정의. 결정화된 타르."
     }
 ]

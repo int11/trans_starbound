@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "산호크리프"
+        "path": "/description",
+        "value": "산호크리프는 가열하면 랍스타처럼 빨간색이 된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "산호크리프는 가열하면 랍스타처럼 빨간색이 된다."
+        "path": "/shortdescription",
+        "value": "산호크리프"
     }
 ]

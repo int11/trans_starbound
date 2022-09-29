@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "NPC 광신도 소검"
+        "path": "/description",
+        "value": "광신도가 소속감을 느끼게 해주는 소검이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "광신도가 소속감을 느끼게 해주는 소검이다."
+        "path": "/shortdescription",
+        "value": "NPC 광신도 소검"
     }
 ]

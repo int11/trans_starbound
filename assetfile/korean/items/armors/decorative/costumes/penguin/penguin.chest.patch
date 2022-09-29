@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "팽귄 가슴 슈트"
+        "path": "/description",
+        "value": "팽귄 슈트의 가슴 파트다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "팽귄 슈트의 가슴 파트다."
+        "path": "/shortdescription",
+        "value": "팽귄 가슴 슈트"
     }
 ]

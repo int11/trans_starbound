@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "야외 의자"
+        "path": "/description",
+        "value": "의자다, 비바람에 견딜 수 있게 만들어졌다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "의자다, 비바람에 견딜 수 있게 만들어졌다."
+        "path": "/shortdescription",
+        "value": "야외 의자"
     },
     {
         "op": "replace",

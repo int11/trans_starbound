@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "스스로의 목숨을 희생한 자를 위한 동상이다. 원해서 그랬을까?"
+        "path": "/description",
+        "value": "과학에 '몸을 바친' 과학자 같다."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "과학자다. 별관측자들은 이따금 과학에 내재된 위험성을 경고하곤 했다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "질문. '자신의 몸을 과학에 바친' 과학자. 다른 선택지가 없었던 건 아닐까?"
+        "path": "/shortdescription",
+        "value": "에이펙스 과학자 동상"
     },
     {
         "op": "replace",
@@ -21,13 +16,18 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "과학자다. 별관측자들은 이따금 과학에 내재된 위험성을 경고하곤 했다."
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "자기 몸 과학에 바친 멍청한 에이펙스. 신션한 고기 아깝다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "자결은 하이로틀 사회에서도 명예로운 일이지만, 선의를 가졌을 때만 그렇다."
+        "path": "/glitchDescription",
+        "value": "질문. '자신의 몸을 과학에 바친' 과학자. 다른 선택지가 없었던 건 아닐까?"
     },
     {
         "op": "replace",
@@ -36,12 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "과학에 '몸을 바친' 과학자 같다."
+        "path": "/hylotlDescription",
+        "value": "자결은 하이로틀 사회에서도 명예로운 일이지만, 선의를 가졌을 때만 그렇다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에이펙스 과학자 동상"
+        "path": "/novakidDescription",
+        "value": "스스로의 목숨을 희생한 자를 위한 동상이다. 원해서 그랬을까?"
     }
 ]

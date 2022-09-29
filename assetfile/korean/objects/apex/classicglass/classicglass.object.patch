@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안에겐 이런 방식으로 수정을 깎을 방법이 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "수정을 이리 깎으려면 손재주가 뛰어나야 하는데."
+        "path": "/description",
+        "value": "과일 주스의 부드러운 향이 난다."
     },
     {
         "op": "replace",
@@ -16,18 +11,13 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "열대과일주스가 생각나는 냄새다."
-    },
-    {
-        "op": "replace",
         "path": "/apexDescription",
         "value": "주스잔이라. 이런 잔에 담아마시는 주스는 다 금지였지."
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "분석. 과일주스를 담은 잔이다."
+        "path": "/avianDescription",
+        "value": "아비안에겐 이런 방식으로 수정을 깎을 방법이 없다."
     },
     {
         "op": "replace",
@@ -36,8 +26,18 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "과일 주스의 부드러운 향이 난다."
+        "path": "/glitchDescription",
+        "value": "분석. 과일주스를 담은 잔이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "열대과일주스가 생각나는 냄새다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "수정을 이리 깎으려면 손재주가 뛰어나야 하는데."
     },
     {
         "op": "replace",

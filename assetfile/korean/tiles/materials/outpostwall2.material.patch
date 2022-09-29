@@ -6,8 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그 무엇도 이 두꺼운 벽을 옴기진 못해."
+        "path": "/shortdescription",
+        "value": "관문기지 두꺼운 벽"
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "관문기지 두꺼운 벽"
+        "path": "/novakidDescription",
+        "value": "그 무엇도 이 두꺼운 벽을 옴기진 못해."
     }
 ]

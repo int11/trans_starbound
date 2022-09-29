@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다이아몬드 곡괭이"
+        "path": "/description",
+        "value": "오래 가진 않겠지만, 땅을 빠르게 팔 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "오래 가진 않겠지만, 땅을 빠르게 팔 수 있다."
+        "path": "/shortdescription",
+        "value": "다이아몬드 곡괭이"
     }
 ]

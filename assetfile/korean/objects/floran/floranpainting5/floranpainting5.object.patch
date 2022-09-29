@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "여러 추상화중 하나인 것 같다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "플로란이 생각하는 추상화다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하이로틀이 추상화를 이용한 실험을 잠깐 진행했던 적도 있었지만. 이젠 아니지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "오만. 아주 멋진 추상화로군. 딱 전형적인 그림이야."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 일출 그리려고 했다."
     },
     {
         "op": "replace",
@@ -31,8 +11,23 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "추상화인 것 같다."
+    },
+    {
+        "op": "replace",
         "path": "/avianDescription",
         "value": "여러 특징이 나타난 추상화다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 일출 그리려고 했다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "오만. 아주 멋진 추상화로군. 딱 전형적인 그림이야."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "추상화인 것 같다."
+        "path": "/hylotlDescription",
+        "value": "하이로틀이 추상화를 이용한 실험을 잠깐 진행했던 적도 있었지만. 이젠 아니지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "여러 추상화중 하나인 것 같다."
     }
 ]

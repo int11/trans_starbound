@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정동석"
+        "path": "/description",
+        "value": "안쪽에 어떤 광물질이 숨겨져있다. 깨서 확인해보자"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "안쪽에 어떤 광물질이 숨겨져있다. 깨서 확인해보자"
+        "path": "/shortdescription",
+        "value": "정동석"
     }
 ]

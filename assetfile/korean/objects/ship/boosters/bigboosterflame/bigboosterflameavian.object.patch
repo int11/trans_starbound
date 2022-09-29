@@ -1,18 +1,18 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "부스터다. 고장과 폭발이 있었지."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "이게 얼마나 빨리 햄버거를 구워낼수 있을지 궁금한데."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "추진체."
+        "path": "/shortdescription",
+        "value": "부스터 플레임."
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "부스터다. 고장과 폭발이 있었지."
     },
     {
         "op": "replace",
@@ -21,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "연료를 먹어치우고 있군."
+        "path": "/floranDescription",
+        "value": "무셔운 불."
     },
     {
         "op": "replace",
@@ -31,12 +31,12 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "무셔운 불."
+        "path": "/humanDescription",
+        "value": "연료를 먹어치우고 있군."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부스터 플레임."
+        "path": "/hylotlDescription",
+        "value": "추진체."
     }
 ]

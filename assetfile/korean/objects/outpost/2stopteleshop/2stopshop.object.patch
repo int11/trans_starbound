@@ -1,6 +1,41 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "다양한 생김새의 텔레포터들을 팔고 있는 개인 상점이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "2-스탑 텔레포터 상점"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "텔레포터를 파는 상점. 유용하게 쓸수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "오!, 텔레포트 디바이스를 판매하는 상점이다! 아주 유용하겠군"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 텔레포터 여기서 샬 슈 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미, 순간이동 장치를 파는 상인이라니!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "모든 텔레포트를 파는 상점이다. 도망갈때 아주 좋겠군."
+    },
+    {
+        "op": "replace",
         "path": "/hylotlDescription",
         "value": "텔레포터를 파는 상점. 탐색 해야될거 같다."
     },
@@ -11,47 +46,12 @@
     },
     {
         "op": "replace",
-        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "A점 에서 B 점까지 걸리는거 없이 다닐 수 있습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "오!, 텔레포트 디바이스를 판매하는 상점이다! 아주 유용하겠군"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "모든 텔레포트를 파는 상점이다. 도망갈때 아주 좋겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "텔레포터를 파는 상점. 유용하게 쓸수 있겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미, 순간이동 장치를 파는 상인이라니!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 텔레포터 여기서 샬 슈 있다."
-    },
-    {
-        "op": "replace",
         "path": "/interactData/paneLayoutOverride/windowtitle/title",
         "value": "2 스탑 텔레포터 상점"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "2-스탑 텔레포터 상점"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "다양한 생김새의 텔레포터들을 팔고 있는 개인 상점이다."
+        "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "A점 에서 B 점까지 걸리는거 없이 다닐 수 있습니다."
     }
 ]

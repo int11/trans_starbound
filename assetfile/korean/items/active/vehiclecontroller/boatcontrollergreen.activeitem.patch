@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹색 보트 조종기"
+        "path": "/description",
+        "value": "저장된 나노머신으로 녹색 항해용 보트를 만든다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "저장된 나노머신으로 녹색 항해용 보트를 만든다."
+        "path": "/shortdescription",
+        "value": "녹색 보트 조종기"
     }
 ]

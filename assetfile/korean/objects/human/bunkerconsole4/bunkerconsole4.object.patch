@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "걱정. 이 조작기를 이용하던 가장 최근의 사용자는 미쳐돌아버린 것 같다. 경고 메시지가 상당수 떠있다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "문워킹을 금지하자는 탄원서다. 그 뒤에는 양파 수프 조리법이 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "한 팀이 저주받은 유물을 발굴하러 나갔다가 다시는 돌아오지 않았다. 다른 길로 샜나?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "행성의 바다를 싹 말려버리자는 계획도 보인다. 다행히도 실행되진 않았다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오오오, 기밀 정보다. 내 귀에 도청장치가 있다니! 누가 알았겠어?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 행성은 원래 폭발할 행성이었다는 것 같다. 거짓 경보인 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "샤냥... 잔치... 플로란 샤냥 잔치 연다."
+        "path": "/description",
+        "value": "화면에  최상위 비밀 임무 정보가 가득 차 보인다... 지루해."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화면에  최상위 비밀 임무 정보가 가득 차 보인다... 지루해."
+        "path": "/apexDescription",
+        "value": "이 행성은 원래 폭발할 행성이었다는 것 같다. 거짓 경보인 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "한 팀이 저주받은 유물을 발굴하러 나갔다가 다시는 돌아오지 않았다. 다른 길로 샜나?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샤냥... 잔치... 플로란 샤냥 잔치 연다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 이 조작기를 이용하던 가장 최근의 사용자는 미쳐돌아버린 것 같다. 경고 메시지가 상당수 떠있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오오오, 기밀 정보다. 내 귀에 도청장치가 있다니! 누가 알았겠어?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "행성의 바다를 싹 말려버리자는 계획도 보인다. 다행히도 실행되진 않았다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "문워킹을 금지하자는 탄원서다. 그 뒤에는 양파 수프 조리법이 있다."
     }
 ]

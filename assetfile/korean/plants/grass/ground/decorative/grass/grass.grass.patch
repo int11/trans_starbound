@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상태. 풀."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "훌륭한 잔디야."
+        "path": "/description",
+        "value": "풀. 그저 풀이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "풀. 그저 풀이다."
+        "path": "/floranDescription",
+        "value": "훌륭한 잔디야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 풀."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈알 문"
+        "path": "/description",
+        "value": "눈알로 뒤덮힌 문이다. 깜빡이지 않는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈알로 뒤덮힌 문이다. 깜빡이지 않는다."
+        "path": "/shortdescription",
+        "value": "눈알 문"
     },
     {
         "op": "replace",

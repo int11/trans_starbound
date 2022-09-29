@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "바닷속에 금이 있네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아름다운 산호종의 일종이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "밝고 우아한 산호다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이렇게 빛나는 산호면 뜨겁지 않으려나."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "금빛으로 빛나는 산호다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "탐욕. 황금 산호 덤불이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "바샥하다."
+        "path": "/description",
+        "value": "파삭거리는 산호 덤불이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "파삭거리는 산호 덤불이다."
+        "path": "/apexDescription",
+        "value": "금빛으로 빛나는 산호다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "밝고 우아한 산호다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바샥하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "탐욕. 황금 산호 덤불이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이렇게 빛나는 산호면 뜨겁지 않으려나."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아름다운 산호종의 일종이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "바닷속에 금이 있네."
     }
 ]

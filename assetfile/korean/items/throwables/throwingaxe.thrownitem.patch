@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "먼 곳을 잘라 버리기 위해 던지는 무기이다."
+        "path": "/shortdescription",
+        "value": "투척용 도끼"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "투척용 도끼"
+        "path": "/description",
+        "value": "먼 곳을 잘라 버리기 위해 던지는 무기이다."
     }
 ]

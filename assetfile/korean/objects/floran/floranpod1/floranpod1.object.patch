@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "엄청 이상한 일이 일어났구만."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "플로란이 이번엔 또 무슨 짓을 한거야?!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 꼬투리에서 무언가가 잉태되고 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "으으, 역겨워!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 끔찍하게 자라난 건 뭐지?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "분석, 이 꼬투리는 플로란의 것으로 보이지만... 뭔가 잘못됐다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이상한 꼬투리 냄섀 맡았어. 익숙한 냄섀야. 플로란 무셔워."
+        "path": "/description",
+        "value": "기묘한 꼬투리의 일종이다.뭔가가 자라나고 있다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기묘한 꼬투리의 일종이다.뭔가가 자라나고 있다."
+        "path": "/apexDescription",
+        "value": "이 끔찍하게 자라난 건 뭐지?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 꼬투리에서 무언가가 잉태되고 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이상한 꼬투리 냄섀 맡았어. 익숙한 냄섀야. 플로란 무셔워."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분석, 이 꼬투리는 플로란의 것으로 보이지만... 뭔가 잘못됐다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "으으, 역겨워!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란이 이번엔 또 무슨 짓을 한거야?!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "엄청 이상한 일이 일어났구만."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아비안 상반신 화석 (Avian Torso)"
+        "path": "/description",
+        "value": "화석이 된 아비안의 상반신이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화석이 된 아비안의 상반신이다."
+        "path": "/shortdescription",
+        "value": "아비안 상반신 화석 (Avian Torso)"
     }
 ]

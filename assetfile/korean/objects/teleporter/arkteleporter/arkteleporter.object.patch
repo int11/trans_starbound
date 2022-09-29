@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "손쉽게 방주로 돌아가서 다음 모험을 떠나보실까!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 텔레포터라면 방주의 폐허로 갈 수 있겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 텔레포터는 방주로 향하는 지름길인 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "아무래도 방주랑 연결된 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "분석. 이 텔레포터는 방주의 폐허로 연결되는 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이거 플로란 곧장 폐허로 데려다준다."
+        "path": "/description",
+        "value": "사용자를 방주로 보내는 텔레포터다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사용자를 방주로 보내는 텔레포터다."
+        "path": "/apexDescription",
+        "value": "아무래도 방주랑 연결된 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 텔레포터는 방주로 향하는 지름길인 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이거 플로란 곧장 폐허로 데려다준다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "분석. 이 텔레포터는 방주의 폐허로 연결되는 것 같다."
     },
     {
         "op": "replace",
         "path": "/humanDescription",
         "value": "생김새를 보아하니 방주로 연결되는 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 텔레포터라면 방주의 폐허로 갈 수 있겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "손쉽게 방주로 돌아가서 다음 모험을 떠나보실까!"
     }
 ]

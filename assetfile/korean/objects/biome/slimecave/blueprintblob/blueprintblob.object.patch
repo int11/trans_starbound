@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이건좀 현실적인거 같진 않은데"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "설계도가 저안에 들어있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 설계도가 들어있는듯하다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "설계도 들어있네?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "내가 볼땐 플로란이 그들에겐 멋질 훌륭한 보관대를 찾은듯 하군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "참도 친절하게 설계도를 넣어놓으셨네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "불쾌한 점액속에 설계도라니."
+        "path": "/description",
+        "value": "설계도가 불쾌한 점액 속에 들어가 있다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "설계도가 불쾌한 점액 속에 들어가 있다."
+        "path": "/apexDescription",
+        "value": "불쾌한 점액속에 설계도라니."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "참도 친절하게 설계도를 넣어놓으셨네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "설계도 들어있네?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 설계도가 들어있는듯하다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "설계도가 저안에 들어있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "내가 볼땐 플로란이 그들에겐 멋질 훌륭한 보관대를 찾은듯 하군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이건좀 현실적인거 같진 않은데"
     }
 ]

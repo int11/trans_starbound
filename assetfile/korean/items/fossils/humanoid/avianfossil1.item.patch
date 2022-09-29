@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아비안 머리뼈 화석 (Avian Skull)"
+        "path": "/description",
+        "value": "화석이 된 아비안의 머리뼈다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화석이 된 아비안의 머리뼈다."
+        "path": "/shortdescription",
+        "value": "아비안 머리뼈 화석 (Avian Skull)"
     },
     {
         "op": "replace",

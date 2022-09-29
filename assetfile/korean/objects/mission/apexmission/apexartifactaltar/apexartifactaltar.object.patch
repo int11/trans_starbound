@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에이펙스 유물 제단"
+        "path": "/description",
+        "value": "무언가 중요한걸 담아두기 위해 만들어진것 같다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무언가 중요한걸 담아두기 위해 만들어진것 같다."
+        "path": "/shortdescription",
+        "value": "에이펙스 유물 제단"
     }
 ]

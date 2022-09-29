@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 자연스럽게 고인 용암인듯 하오."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "불타는 뜨거운 액체에에."
+        "path": "/description",
+        "value": "자연스럽게 고인 용암."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자연스럽게 고인 용암."
+        "path": "/floranDescription",
+        "value": "불타는 뜨거운 액체에에."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 자연스럽게 고인 용암인듯 하오."
     }
 ]

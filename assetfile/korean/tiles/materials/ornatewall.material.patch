@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 진짜 화려해보이는 벽이네."
+        "path": "/description",
+        "value": "전통적으로 보이는 벽."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 벽"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전통적으로 보이는 벽."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "화려한 벽"
+        "path": "/novakidDescription",
+        "value": "이거 진짜 화려해보이는 벽이네."
     }
 ]

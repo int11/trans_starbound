@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "쌀"
+        "path": "/description",
+        "value": "양질의 곡식이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "양질의 곡식이다."
+        "path": "/shortdescription",
+        "value": "쌀"
     }
 ]

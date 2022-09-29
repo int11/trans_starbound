@@ -1,6 +1,11 @@
 [
     {
         "op": "replace",
+        "path": "/title",
+        "value": "^orange;점프-시동 개발 시작"
+    },
+    {
+        "op": "replace",
         "path": "/text",
         "value": "번에 새로 제작하는 기술은 바로 사용자가 공기중에서 한번 더 도약 할 수 있는 기술이야. 꽤나 높이 올라가는거지! 불행히, 이번에도 주요 요소가 없어서 완성하지 못하고있어.날 위해 ^orange;10개의 은 주괴^green;를 가져다 줄 수 있겠니^white;?"
     },
@@ -18,11 +23,6 @@
         "op": "replace",
         "path": "/scriptConfig/portraits/questComplete/title",
         "value": "엘리엇"
-    },
-    {
-        "op": "replace",
-        "path": "/title",
-        "value": "^orange;점프-시동 개발 시작"
     },
     {
         "op": "replace",

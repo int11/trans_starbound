@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "가끔씩, 플로란 먹을게 바닥나면 탁자도 먹어."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뼈 가구를 좋아하진 않지만, 튼튼해 보이긴 해."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "플로란들의 탁자 취향은 특이하네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 뼈 탁자는 부드럽고 차가워."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "뼈로 만들어진 탁자다. 여기 위생관념에 의문이 가는데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀람. 이 탁자는 세균을 죽이기 위해 열처리가 된 것으로 보이는군."
+        "path": "/description",
+        "value": "테이블 전체가 커다란 하나의 뼈를 조각해 만들어졌다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "테이블 전체가 커다란 하나의 뼈를 조각해 만들어졌다."
+        "path": "/apexDescription",
+        "value": "뼈로 만들어진 탁자다. 여기 위생관념에 의문이 가는데."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "플로란들의 탁자 취향은 특이하네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "가끔씩, 플로란 먹을게 바닥나면 탁자도 먹어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "놀람. 이 탁자는 세균을 죽이기 위해 열처리가 된 것으로 보이는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 뼈 탁자는 부드럽고 차가워."
     },
     {
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "이런 테이블을 먹는다면 위장이 뒤틀어질거야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뼈 가구를 좋아하진 않지만, 튼튼해 보이긴 해."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "카모 바지"
+        "path": "/description",
+        "value": "무릎 보호대가 아주 두툼한 바지"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무릎 보호대가 아주 두툼한 바지"
+        "path": "/shortdescription",
+        "value": "카모 바지"
     }
 ]

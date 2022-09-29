@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "골판지 모자"
+        "path": "/description",
+        "value": "도대체 누가 화려한 모자에 돈을 날리는 거지?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "도대체 누가 화려한 모자에 돈을 날리는 거지?"
+        "path": "/shortdescription",
+        "value": "골판지 모자"
     }
 ]

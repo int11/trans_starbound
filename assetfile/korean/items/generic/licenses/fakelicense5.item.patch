@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가짜 콘도르 면허"
+        "path": "/description",
+        "value": "함선을 영구히 더 큰 콘도르급 드레드노트함으로 업그레이드 하게 허용해준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "함선을 영구히 더 큰 콘도르급 드레드노트함으로 업그레이드 하게 허용해준다."
+        "path": "/shortdescription",
+        "value": "가짜 콘도르 면허"
     }
 ]

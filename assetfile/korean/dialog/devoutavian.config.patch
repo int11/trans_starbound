@@ -1,2174 +1,409 @@
 [
     {
         "op": "replace",
-        "path": "/converse/avian/floran/14",
-        "value": "풀잎도 예쁘지만 전 클루엑스께서 내리신 깃털이 더 좋아요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/0",
-        "value": "어, 음 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/1",
-        "value": "그대도 영혼이 있나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/15",
-        "value": "클루엑스가 그대와 함께 하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/21",
-        "value": "은총의 날이 되길 빌어요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/22",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/28",
-        "value": "환영해요. 방문자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/29",
-        "value": "클루엑스가 그대를 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/3",
-        "value": "쇠로 된 자여, 그대도 클루엑스를 섬기시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/4",
-        "value": "글리치한테도 신이란 게 있나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/5",
-        "value": "글리치도 클루엑스교로 개종할 수 있을까요? 별관측자에게 물어봐야겠네요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/6",
-        "value": "글리치가 천계탑에서 뛰어내린다면 그냥 곤두박질치겠죠?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/7",
-        "value": "그대는 강하네요! 좋은 전사임이 분명해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/8",
-        "value": "별관측자를 만나보셨어요? 그들이 그대를 보면 뭐라 할 지 모르겠네요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/9",
-        "value": "그대가 클루엑스를 섬겼다면 그분께서 영혼을 주셨을 지도 몰라요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/10",
-        "value": "아보스크립트에 로봇 얘기는 없었는데..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/11",
-        "value": "그대 때문에 조금 불편하네요. 그대를 만든 이가 누군 지는 몰라도 신을 흉내내려하다니."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/12",
-        "value": "그대도 클루엑스교로 개종할 수 있을까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/13",
-        "value": "그대에겐 강철 날개가 필요하겠네요..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/14",
-        "value": "그대의 길에 클루엑스 빛이 드리우길, 강철인간."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/15",
-        "value": "클루엑스가 그대와 함께하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/16",
-        "value": "친절한 이방인이로군요! 클루엑스께 감사를."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/17",
-        "value": "클루엑스의 가호가 있길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/18",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/19",
-        "value": "우리 마을에 오신것을 환영합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/20",
-        "value": "별 관측자를 만나보신적 있나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/21",
-        "value": "축복받은 하루가 되길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/22",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/23",
-        "value": "그대의 삶이 빛으로 채워지길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/24",
-        "value": "그대에게 축복을."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/25",
-        "value": "그대도 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/26",
-        "value": "반갑습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/27",
-        "value": "잘 지내시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/28",
-        "value": "환영합니다. 여행자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/29",
-        "value": "클루엑스가 그대를 이끄시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/30",
-        "value": "클루엑스의 빛을 발견하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/31",
-        "value": "신성한 땅 아보스이시여. 만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/32",
-        "value": "걱정하지마세요. 지금은 공양의 시기가 아니니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/33",
-        "value": "클루엑스의 날개이시여! 방문자이시군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/34",
-        "value": "클루엑스께서 그의 날개로 그대를 보호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/35",
-        "value": "클루엑스께서 그대에게 힘을 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/36",
-        "value": "클루엑스께서 그대를 승리로 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/37",
-        "value": "위대한 클루엑스가 그대를 수호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/38",
-        "value": "만나서 반갑습니다. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/39",
-        "value": "클루엑스가 그대의 여행을 인도하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/40",
-        "value": "클루엑스가 그대에게 힘을 내려주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/41",
-        "value": "클루엑스의 곁으로 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/42",
-        "value": "클루엑스의 빛을 걸으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/43",
-        "value": "안녕하세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/44",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/45",
-        "value": "그대와 친분을 쌓게되서 좋아요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/46",
-        "value": "반가워요. 여행자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/47",
-        "value": "좋은 하루 보내시길 바랄게요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/48",
-        "value": "오, 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/49",
-        "value": "좋은 날이군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/0",
-        "value": "파릇파릇한 이여, 그대도 클루엑스를 찬미하나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/1",
-        "value": "플로란의 강함만큼은 인정할 수밖에 없죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/2",
-        "value": "언젠가 그대과 사냥을 나가보고 싶네요. 클루엑스께서도 괜찮다고 여기실 거에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/3",
-        "value": "플로란은 땅의 창조물이지만, 우리 아비안은 하늘의 창조물이죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/4",
-        "value": "배교자들은 우리들을 욕하겠죠. 뭐 저도 기꺼이 그들을 욕하니까요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/5",
-        "value": "클루엑스는 결투의 신이면서, 생명, 죽음, 사계와 농경의 신이기도 하죠. 그는 전능해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/6",
-        "value": "우리가 플로란을 바쳐본 적이 있는지 모르겠네요. 그대 종족도 피를 흘리나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/7",
-        "value": "그대의 사냥에 가호가 있길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/8",
-        "value": "클루엑스가 제게 거하시니, 플로란은 두렵지 않아요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/9",
-        "value": "그대가 천계탑에서 뛰어내린다면 나뭇잎처럼 팔랑팔랑 떨어지지 않을까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/10",
-        "value": "그럴 일은 없겠지만, 클루엑스가 다른 종족도 받아들인다면 그건 플로란이 되지 않을까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/11",
-        "value": "그대에게 좋은날이군요, 플로란 . 클루엑스가 그대의 칼날을 인도하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/12",
-        "value": "축복을, 어여쁜 이여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/13",
-        "value": "원예가들이 별관측자들을 좋아할까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/15",
-        "value": "클루엑스가 그대와 함께 하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/16",
-        "value": "친절한 이방인이다! 감사합니다. 클루엑스시여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/17",
-        "value": "클루엑스가 그대를 축복하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/18",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/19",
-        "value": "우리 마을에 오신걸 환영해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/20",
-        "value": "별관측자는 만나보셨나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/21",
-        "value": "축복받은 날이 되었으면 하네요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/22",
-        "value": "만나서 반갑습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/23",
-        "value": "그대의 삶에 빛이 가득하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/24",
-        "value": "그대에게 축복을."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/25",
-        "value": "그대도 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/26",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/27",
-        "value": "잘 지내십니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/28",
-        "value": "환영합니다. 방문자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/29",
-        "value": "클루엑스가 그대를 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/30",
-        "value": "클루엑스의 빛을 찾으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/31",
-        "value": "아보스의 성지여. 만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/32",
-        "value": "걱정마요, 지금은 공양의 시기가 아니니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/33",
-        "value": "클루엑스의 날개이시여! 방문자이시군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/34",
-        "value": "클루엑스가 날개 아래 그대를 품어주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/35",
-        "value": "클루엑스가 그대를 굳세게 해주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/36",
-        "value": "클루엑스께서 그대의 전투를 이끌어 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/37",
-        "value": "전능하신 클루엑스께서 그대를 보호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/38",
-        "value": "만나서 반가워요. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/39",
-        "value": "클루엑스께서 그대의 여행을 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/40",
-        "value": "클루엑스께서 그대에게 힘을 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/41",
-        "value": "클루엑스의 곁으로 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/42",
-        "value": "클루엑스의 빛을 따라 걸으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/43",
-        "value": "안녕하세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/44",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/45",
-        "value": "그대를 만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/46",
-        "value": "안녕하세요. 여행자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/47",
-        "value": "그대가 좋은 하루를 보내길 바래요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/48",
-        "value": "오, 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/floran/49",
-        "value": "좋은 날이군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/1",
-        "value": "클루엑스의 빛이 당신을 인도하길!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/2",
-        "value": "클루엑스가 보내신 분인가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/3",
-        "value": "그대는 아볼라이트처럼 빛나네요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/4",
-        "value": "그대는 클루엑스의 피조물임이 분명해요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/5",
-        "value": "별관측자들이라면 그대들의 얘기를 들어봤을 거에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/6",
-        "value": "정말 아름다워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/7",
-        "value": "빛으로 빚어진 클루엑스의 전사로군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/8",
-        "value": "당신, 노바키드 맞죠?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/9",
-        "value": "그 찬란함, 당신은 천국에서 온 게 분명해요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/10",
-        "value": "클루엑스가 내린 빛나는 이여!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/11",
-        "value": "아름다운 천상의 빛이네요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/12",
-        "value": "당신같은 이는 당연히 클루엑스의 작품이겠죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/13",
-        "value": "클루엑스께 감사를, 정말 아름다운 천사에요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/14",
-        "value": "만나서 영광이에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/15",
-        "value": "클루엑스가 그대와 함께 하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/16",
-        "value": "친절한 이방인이다! 감사합니다. 클루엑스시여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/17",
-        "value": "클루엑스가 그대를 축복하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/18",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/19",
-        "value": "우리 마을에 오신걸 환영해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/20",
-        "value": "별관측자는 만나보셨나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/21",
-        "value": "은총의 날을 보냈으면 좋겠어요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/22",
-        "value": "만나서 반갑습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/23",
-        "value": "그대의 삶에 빛이 가득하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/24",
-        "value": "그대에게 축복을."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/25",
-        "value": "그대도 날아오르시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/26",
-        "value": "반갑습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/27",
-        "value": "잘 시내시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/28",
-        "value": "환영해요. 방문자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/29",
-        "value": "클루엑스가 그대를 이끄시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/30",
-        "value": "클루엑스의 광명을 찾으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/31",
-        "value": "신성한 땅 아보스이시여. 만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/32",
-        "value": "걱정마요, 지금은 공양의 시기가 아니니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/33",
-        "value": "클루엑스의 날개이시여! 방문자이시군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/34",
-        "value": "클루엑스께서 날개로 그대를 거두시기를."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/35",
-        "value": "클루엑스가 그대를 굳세게 해주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/36",
-        "value": "클루엑스께서 그대를 승리로 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/37",
-        "value": "전능하신 클루엑스께서 그대를 보호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/38",
-        "value": "만나서 반가워요. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/39",
-        "value": "그대의 여행에 클루엑스의 인도가 함께하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/40",
-        "value": "클루엑스가 그대에게 힘을 가져다주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/41",
-        "value": "클루엑스의 곁으로 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/42",
-        "value": "클루엑스의 빛을 걸으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/43",
-        "value": "안녕하세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/44",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/45",
-        "value": "그대과 친분을 쌓게되서 좋아요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/46",
-        "value": "반갑습니다. 여행자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/47",
-        "value": "그대가 좋은 하루를 보내길 바래요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/48",
-        "value": "오, 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/49",
-        "value": "좋은 날이에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/default/0",
-        "value": "클루엑스의 빛이 그대를 인도하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/0",
-        "value": "그대 별에서의 일은 유감이에요. 그대가 기운을 내도록 클루엑스에게 빌게요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/1",
-        "value": "지구의 재앙도 클루엑스의 뜻이겠죠..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/2",
-        "value": "인간에겐 여러 신이 있지 않나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/4",
-        "value": "슬프게도, 클루엑스는 깃털이 없는 자들을 환영하지 않아요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/5",
-        "value": "지구에 클루엑스 사원이 있나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/6",
-        "value": "클루엑스는 보호국에 대해 어떻게 생각할지 모르겠군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/7",
-        "value": "우린 반 년 전에 인간 몇 명을 클루엑스에게 바쳤죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/8",
-        "value": "깃털이 한 개도 없어요? 클루엑스가 그대를 측은히 여길거에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/9",
-        "value": "인간 치곤 강해보이시네요. 클루엑스는 강한 이들을 우대하죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/10",
-        "value": "인간도 날아오를 수 있을까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/11",
-        "value": "인간 전사들은 아비안 전사들에게 잽도 안 될 거에요. 그도 그럴 것이 우리는 클루엑스께서 보살펴주시니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/12",
-        "value": "좋은 하루에요. 깃털 없는 자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/13",
-        "value": "별관측자를 너무 두려워하지 말아요 인간이여. 무서워보이긴 해도 가슴엔 우리들의 최선의 가치를 품고 있죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/14",
-        "value": "배교자들을 보았나요? 가련한 영혼들이죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/16",
-        "value": "친절한 이방인이다! 감사합니다. 클루엑스시여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/17",
-        "value": "클루엑스가 그대를 축복하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/18",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/19",
-        "value": "우리 마을에 오신걸 환영해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/20",
-        "value": "별관측자는 만나보셨나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/21",
-        "value": "은총의 하루가 되길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/22",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/23",
-        "value": "그대의 삶이 빛으로 채워지길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/24",
-        "value": "그대에게 축복을."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/25",
-        "value": "그대도 날아오르시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/26",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/27",
-        "value": "잘 지내십니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/28",
-        "value": "환영합시다. 방문자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/29",
-        "value": "클루엑스가 그대를 이끄시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/30",
-        "value": "클루엑스의 빛을 찾으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/31",
-        "value": "아보스의 성지여. 만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/32",
-        "value": "걱정하지마세요. 지금은 공양의 시기가 아니니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/33",
-        "value": "클루엑스의 날개이시여! 방문자이시군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/34",
-        "value": "클루엑스가 날개 아래 그대를 품어주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/35",
-        "value": "클루엑스께서 그대에게 힘을 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/36",
-        "value": "클루엑스께서 그대의 전투를 이끌어 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/37",
-        "value": "위대한 클루엑스가 그대를 수호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/38",
-        "value": "만나서 반갑습니다. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/39",
-        "value": "클루엑스가 그대의 여행을 인도하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/40",
-        "value": "클루엑스께서 그대에게 힘을 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/41",
-        "value": "클루엑스의 곁으로 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/42",
-        "value": "클루엑스의 빛을 따라 걸으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/43",
-        "value": "안녕하세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/44",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/45",
-        "value": "그대과 친분을 쌓게되서 좋아요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/46",
-        "value": "반가워요. 여행자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/47",
-        "value": "좋은 하루 보내시길 바랄게요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/48",
-        "value": "오, 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/49",
-        "value": "좋은 날이에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/1",
-        "value": "어쩌면 그대는 별관측자와 상담이 필요할지도 모르죠. 그대를 바른길로 인도해줄거에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/2",
-        "value": "그대가ㄲ 꾸준히 모험을 떠나면서 신앙을 찾고 있길 바라요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/3",
-        "value": "그대도 클루엑스를 섬기죠. 아닌가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/4",
-        "value": "배교자들의 사상에 빠진 건 아니겠죠?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/5",
-        "value": "천계탑에 올라서서 깃털을 스치는 바람을 느껴보는 건 어때요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/6",
-        "value": "보호국에 가입했다구요? 클루엑스교를 전도하는 데 도움이 될까요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/7",
-        "value": "신성한 희생 의식을 목도한 지 얼마나 되었나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/8",
-        "value": "그대가 여행할 때 클루엑스의 빛을 전파할 기회가 있나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/9",
-        "value": "강인해보이시네요! 언젠가 승천자가 되실 수도 있겠어요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/10",
-        "value": "그대는 전사인가요? 잘됐네요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/11",
-        "value": "배교자들이 좀 우려되는군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/12",
-        "value": "아보스크립트 사본 들고 다니시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/13",
-        "value": "제가 다음 순환때 승천자가 될 수 있었음 좋겠어요! 라고 매 순환마다 빌 뿐이죠..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/14",
-        "value": "그대, 강한 전사처럼 보이는군요. 가족이 분명 자랑스러워 할 거에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/15",
-        "value": "클루엑스가 그대와 함께 하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/16",
-        "value": "친절한 이방인이다! 감사합니다. 클루엑스시여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/17",
-        "value": "클루엑스가 그대를 축복하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/18",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/19",
-        "value": "우리 마을에 오신걸 환영해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/20",
-        "value": "별관측자는 만나보셨나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/24",
-        "value": "그대에게 축복을."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/25",
-        "value": "그대도 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/26",
-        "value": "반갑습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/27",
-        "value": "잘 지내시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/28",
-        "value": "환영합니다. 방문자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/29",
-        "value": "클루엑스가 그대를 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/30",
-        "value": "클루엑스의 광명을 찾으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/31",
-        "value": "아보스의 성지여. 만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/32",
-        "value": "걱정마요, 지금은 공양의 시기가 아니니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/33",
-        "value": "클루엑스의 날개이시여! 방문자이시군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/34",
-        "value": "클루엑스가 그대를 그의 날개로 데려가길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/35",
-        "value": "클루엑스께서 그대에게 힘을 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/36",
-        "value": "클루엑스께서 그대의 전투를 이끌어 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/37",
-        "value": "전능하신 클루엑스가 그대를 지켜주길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/38",
-        "value": "만나서 반가워요. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/39",
-        "value": "그대의 여행에 클루엑스의 인도가 함께하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/40",
-        "value": "클루엑스가 그대에게 힘을 가져다주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/41",
-        "value": "클루엑스의 곁으로 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/42",
-        "value": "클루엑스의 빛을 걸으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/43",
-        "value": "안녕하세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/44",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/45",
-        "value": "그대를 알게되어 기뻐요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/46",
-        "value": "안녕하세요. 여행자님."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/47",
-        "value": "그대가 좋은 하루를 보내길 바래요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/48",
-        "value": "오, 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/49",
-        "value": "좋은 날이에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/0",
-        "value": "별관측자는 아비안이 가장 고귀해요. 하지만, 그대도 미천하게는 보이지 않는군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/1",
-        "value": "하이로틀은 싸움을 허락치 않지만, 아비안은 모든 싸움을 클루엑스에게 기린답니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/2",
-        "value": "축축한 이여, 그대도 클루엑스를 섬기시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/3",
-        "value": "클루엑스라도 그대 종족의 평화주의는 허락치 않으실 것 같네요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/4",
-        "value": "하이로틀은 물의 종족이죠. 우리 아비안은 공기의 종족이고요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/5",
-        "value": "그대들은 영적인 민족이라 들었는데, 신은 믿지 않는다니... 헷갈리네요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/6",
-        "value": "그대도 아보스크립트를 읽어보셔야 해요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/7",
-        "value": "우리의 천계탑과 신전들도 하이로틀 건물에 뒤지지 않는다고 생각해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/8",
-        "value": "좋은 하루입니다. 깃없는 이여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/9",
-        "value": "제가 읽어본 책은 딱 하나 뿐이에요. 아보스크립트. 그래도 엄청 많이 읽어봤답니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/10",
-        "value": "축복이 함께하길, 그대가 힘을 찾길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/11",
-        "value": "천계탑에 올라가본 적 있어요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/12",
-        "value": "평화주의라니, 재미있는 개념이네요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/13",
-        "value": "하이로틀은 공양을 그리 좋아하진 않겠네요..."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/14",
-        "value": "아보스크립트에 몇 구절이나 들어있는 지 아세요? 진짜 엄청 많거든요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/15",
-        "value": "클루엑스가 그대와 함께 하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/16",
-        "value": "친절한 이방인이다! 감사합니다. 클루엑스시여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/17",
-        "value": "클루엑스가 그대를 축복하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/18",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/19",
-        "value": "우리 마을에 오신걸 환영해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/20",
-        "value": "별관측자는 만나보셨나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/21",
-        "value": "그대가 좋은 하루를 보냈으면 좋겠어요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/22",
-        "value": "만나서 반갑습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/23",
-        "value": "그대의 삶이 빛으로 채워지길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/24",
-        "value": "그대에게 축복을."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/25",
-        "value": "그대도 날아오르시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/26",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/27",
-        "value": "잘 지내시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/30",
-        "value": "클루엑스의 광명을 찾으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/31",
-        "value": "신성한 땅 아보스이시여. 만나서 반갑습니다!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/32",
-        "value": "걱정하지마세요. 지금은 공양의 시기가 아니니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/33",
-        "value": "클루엑스의 날개이시여! 방문자이시군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/34",
-        "value": "클루엑스께서 그의 날개로 그대를 보호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/35",
-        "value": "클루엑스가 그대를 굳세게 해주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/36",
-        "value": "클루엑스께서 그대의 전투를 이끌어 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/37",
-        "value": "위대한 클루엑스께서 그대를 보호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/38",
-        "value": "만나서 반갑습니다. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/39",
-        "value": "클루엑스께서 그대의 여행을 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/40",
-        "value": "클루엑스께서 그대에게 힘을 주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/41",
-        "value": "클루엑스의 곁으로 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/42",
-        "value": "클루엑스의 빛을 따라 걸으시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/43",
-        "value": "안녕하세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/44",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/45",
-        "value": "그대과 친분을 쌓게되서 좋아요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/46",
-        "value": "반갑습니다. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/47",
-        "value": "좋은 하루 보내시길 바랄게요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/48",
-        "value": "오, 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/hylotl/49",
-        "value": "좋은 날이군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/1",
-        "value": "복실하신 분, 그대도 클루엑스를 섬기시나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/2",
-        "value": "에이펙스는 강한 싸움꾼들이죠. 존중의 뜻이에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/3",
-        "value": "우리 주신은 그대의 지도자들 만큼 야만적이지 않으실 거에요. 빅 에이프 얘기는 끔찍한걸요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/4",
-        "value": "그대들은 단순히 강하다는 이유 만으로 빅 에이프를 존중했고, 지도자로 삼았네요. 클루엑스랑 비슷한걸요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/5",
-        "value": "안녕하세요 영장류 사람! 천계탑에 올라보신 적 있나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/6",
-        "value": "바나나도 클루엑스께서 만드셨다구요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/7",
-        "value": "지정부에 맞서 싸우는 에이펙스 반군이 있지 않던가요? 왜 그대는 같이 싸우지 않죠?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/8",
-        "value": "다른 이들에겐 절대 말 못 하지만, 전 가끔 클루엑스가 그리 대단치 않은 것 같기도 해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/9",
-        "value": "전 클루엑스가 좋아요, 영장류 사람!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/10",
-        "value": "아보스크립트 읽어보신 적 있으신가요? 에이펙스한테라도 꽤 재밌을 거라 생각해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/11",
-        "value": "에이펙스는 무신교인가요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/12",
-        "value": "에이펙스의 종교는 과학인 것 같네요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/13",
-        "value": "클루엑스의 가르침을 받고 싶으시다면 별관측자를 찾아가보세요. 우리 지도자에요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/14",
-        "value": "에이펙스도 사람을 공양하나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/15",
-        "value": "배교자들은 우리들을 욕하겠죠. 뭐 저도 기꺼이 그들을 욕하니까요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/16",
-        "value": "클루엑스가 그대와 함께 하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/17",
-        "value": "친절한 이방인이다! 감사합니다. 클루엑스시여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/18",
-        "value": "클루엑스가 그대를 축복하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/19",
-        "value": "안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/20",
-        "value": "우리 마을에 오신걸 환영해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/21",
-        "value": "별관측자는 만나보셨나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/22",
-        "value": "그대가 좋은 하루를 보냈으면 좋겠어요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/23",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/24",
-        "value": "그대의 삶이 빛으로 채워지길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/25",
-        "value": "그대에게 축복을."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/26",
-        "value": "그대도 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/27",
-        "value": "반갑습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/28",
-        "value": "잘 지내십니까?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/29",
-        "value": "환영해요. 방문자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/30",
-        "value": "클루엑스가 그대를 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/31",
-        "value": "클루엑스의 빛을 발견하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/32",
-        "value": "아보스의 성지여, 만나서 반가워요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/33",
-        "value": "걱정하지마세요. 지금은 공양의 시기가 아니니까요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/34",
-        "value": "클루엑스의 날개이시여! 방문자이시군요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/35",
-        "value": "클루엑스께서 날개로 그대를 거두시기를."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/36",
-        "value": "클루엑스가 그대를 굳세게 해주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/37",
-        "value": "클루엑스께서 그대를 승리로 인도하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/38",
-        "value": "위대한 클루엑스가 그대를 수호하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/39",
-        "value": "만나서 반가워요. 여행자여"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/40",
-        "value": "그대의 여행에 클루엑스의 인도가 함께하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/41",
-        "value": "클루엑스가 그대에게 힘을 가져다주시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/42",
-        "value": "클루엑스의 곁으로 승천하시길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/43",
-        "value": "클루엑스의 빛을 걷길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/44",
-        "value": "안녕하세요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/45",
-        "value": "만나서 반가워요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/46",
-        "value": "그대과 알게되서 기뻐요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/47",
-        "value": "안녕하세요. 여행자여."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/48",
-        "value": "좋은 하루 보내시길 바랄게요!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/49",
-        "value": "오, 안녕하세요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/50",
-        "value": "좋은 날이군요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/default/default/0",
-        "value": "클루엑스의 빛이 그대를 인도하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/0",
-        "value": "오... 음, 그러니까, 클루엑스를 믿나요?"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/avian/23",
-        "value": "그대의 삶에 빛이 가득하길."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/glitch/2",
-        "value": "그대를 공양하는 건 좋은 생각이 아닌 것 같아요. 제단이 기름범벅이 되겠죠."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/apex/0",
-        "value": "지정부에 대한 끔찍한 소문을 들은 적 있어요. 클루엑스께서 그들을 내치셨으면 해요."
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/novakid/0",
-        "value": "그대는 천사인건가요?!"
-    },
-    {
-        "op": "replace",
-        "path": "/converse/avian/human/3",
-        "value": "인간이라도 본인이 원한다면 클루엑스로 개종할 수 있을 거에요. 별관측자에게 물어보세요."
-    },
-    {
-        "op": "replace",
         "path": "/converse/default/default",
         "value": [
-            "愿克鲁西斯的光辉指引你！"
+            "클루엑스의 빛이 그대를 인도하길."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/default",
         "value": [
-            "愿克鲁西斯的光辉指引你！"
+            "클루엑스의 빛이 그대를 인도하길."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/human",
         "value": [
-            "听到关于你们的世界的事情我很抱歉。我会祈祷克鲁西斯赐予你们力量。",
-            "我想地球的毁灭可能是克鲁西斯的意志…",
-            "难道人类没有许多神吗？",
-            "我相信如果想要的话，一个人类也可以转而信仰克鲁西斯。你应该跟观星者谈谈。",
-            "很抱歉，克鲁西斯不欢迎没有羽毛的朋友。",
-            "地球上有克鲁西斯的神庙吗？",
-            "我不确定克鲁西斯对于大地守护团是什么感觉。",
-            "两个季度之前，我们向克鲁西斯献祭了几个人类。",
-            "完全没有羽毛？克鲁西斯同情你们。",
-            "对于人类而言，你看起来很强壮。克鲁西斯喜欢强壮的人。",
-            "人类能够升华吗？",
-            "我怀疑人类战士不太匹配翼族战士。另一方面，克鲁西斯与我们同在。",
-            "日安，没有羽毛的朋友。",
-            "别害怕观星者，人类。他们可能很严厉，但是会把我们的最高利益放在心上。",
-            "你见过折翼者吗，人类？他们都是可怜的迷失的灵魂。",
-            "克鲁西斯与你同在。",
-            "一个友善的陌生人！感谢克鲁西斯。",
-            "克鲁西斯祝福你。",
-            "你好。",
-            "欢迎来到我们的村庄。",
-            "你见过观星者了吗？",
-            "祝你幸福的每一天。",
-            "很高兴见到你。",
-            "愿你的生命充满光芒。",
-            "祝福你。",
-            "愿你升华。",
-            "你好啊。",
-            "你好吗？",
-            "欢迎您，来访者。",
-            "克鲁西斯指引你。",
-            "愿你找到克鲁西斯的光辉。",
-            "在阿沃斯神圣的土地之上，很高兴见到你！",
-            "别担心，现在不是献祭时间。",
-            "克鲁西斯之翼啊！一个访客！",
-            "愿克鲁西斯的羽翼庇佑你。",
-            "愿克鲁西斯使你强大。",
-            "愿克鲁西斯在战斗中指引你的手。",
-            "愿伟大的克鲁西斯保护你。",
-            "很高兴见到你，旅行者。",
-            "让克鲁西斯指引你的旅途。",
-            "愿克鲁西斯带给你力量。",
-            "愿你升华到克鲁西斯身边。",
-            "愿你步入克鲁西斯的光辉之中。",
-            "嗨！",
-            "很高兴见到你。",
-            "很高兴认识你！",
-            "你好，旅行者。",
-            "希望你有个美好的一天！",
-            "喂，你好。",
-            "日安。"
+            "그대 별에서의 일은 유감이에요. 그대가 기운을 내도록 클루엑스에게 빌게요.",
+            "지구의 재앙도 클루엑스의 뜻이겠죠...",
+            "인간에겐 여러 신이 있지 않나요?",
+            "인간이라도 본인이 원한다면 클루엑스로 개종할 수 있을 거에요. 별관측자에게 물어보세요.",
+            "슬프게도, 클루엑스는 깃털이 없는 자들을 환영하지 않아요.",
+            "지구에 클루엑스 사원이 있나요?",
+            "클루엑스는 보호국에 대해 어떻게 생각할지 모르겠군요.",
+            "우린 반 년 전에 인간 몇 명을 클루엑스에게 바쳤죠.",
+            "깃털이 한 개도 없어요? 클루엑스가 그대를 측은히 여길거에요.",
+            "인간 치곤 강해보이시네요. 클루엑스는 강한 이들을 우대하죠.",
+            "인간도 날아오를 수 있을까요?",
+            "인간 전사들은 아비안 전사들에게 잽도 안 될 거에요. 그도 그럴 것이 우리는 클루엑스께서 보살펴주시니까요.",
+            "좋은 하루에요. 깃털 없는 자여.",
+            "별관측자를 너무 두려워하지 말아요 인간이여. 무서워보이긴 해도 가슴엔 우리들의 최선의 가치를 품고 있죠.",
+            "배교자들을 보았나요? 가련한 영혼들이죠.",
+            "클루엑스가 그대와 함께 하길.",
+            "친절한 이방인이다! 감사합니다. 클루엑스시여.",
+            "클루엑스가 그대를 축복하길.",
+            "안녕하세요.",
+            "우리 마을에 오신걸 환영해요.",
+            "별관측자는 만나보셨나요?",
+            "은총의 하루가 되길.",
+            "만나서 반가워요.",
+            "그대의 삶이 빛으로 채워지길.",
+            "그대에게 축복을.",
+            "그대도 날아오르시길.",
+            "안녕하세요.",
+            "잘 지내십니까?",
+            "환영합시다. 방문자여",
+            "클루엑스가 그대를 이끄시길.",
+            "클루엑스의 빛을 찾으시길.",
+            "아보스의 성지여. 만나서 반가워요!",
+            "걱정하지마세요. 지금은 공양의 시기가 아니니까요.",
+            "클루엑스의 날개이시여! 방문자이시군요!",
+            "클루엑스가 날개 아래 그대를 품어주시길.",
+            "클루엑스께서 그대에게 힘을 주시길.",
+            "클루엑스께서 그대의 전투를 이끌어 주시길.",
+            "위대한 클루엑스가 그대를 수호하시길.",
+            "만나서 반갑습니다. 여행자여",
+            "클루엑스가 그대의 여행을 인도하길.",
+            "클루엑스께서 그대에게 힘을 주시길.",
+            "클루엑스의 곁으로 승천하시길.",
+            "클루엑스의 빛을 따라 걸으시길.",
+            "안녕하세요!",
+            "만나서 반가워요.",
+            "그대과 친분을 쌓게되서 좋아요!",
+            "반가워요. 여행자여.",
+            "좋은 하루 보내시길 바랄게요!",
+            "오, 안녕하세요.",
+            "좋은 날이에요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/avian",
         "value": [
-            "噢…嗯，那么，你相信克鲁西斯吗？",
-            "也许你该和观星者谈谈，他们会助你回归正途。",
-            "我希望你能在冒险活动之余找个时间重拾下你的信仰。",
-            "你崇拜克鲁西斯，不是吗？",
-            "你还没被折翼者的宣传洗脑，对吧？",
-            "何不攀登星界之塔，感受你羽毛中的风呢？",
-            "你加入了大地守护团？这有助于对克鲁西斯的信仰吗？",
-            "你上一次见证神圣的献祭有多久了？",
-            "你在旅行的时候，有没有找机会传播克鲁西斯的光辉？",
-            "你看起来很强大。也许有一天你会成为一个升华者。",
-            "你是战士的一种吗？非常好。",
-            "我很担心折翼者。",
-            "你身上带着《阿沃斯经典》吗？",
-            "我希望成为下一轮的升华者！每一轮我都是这么想的…",
-            "你看起来是个强大的战士，你的家人一定很自豪。",
-            "克鲁西斯与你同在。",
-            "一个友善的陌生人！感谢克鲁西斯。",
-            "克鲁西斯祝福你。",
-            "你好。",
-            "欢迎来到我们的村庄。",
-            "你见过观星者了吗？",
-            "祝你幸福的每一天。",
-            "很高兴见到你。",
-            "愿你的生命充满光芒。",
-            "祝福你。",
-            "愿你升华。",
-            "你好啊。",
-            "你好吗？",
-            "欢迎您，来访者。",
-            "克鲁西斯指引你。",
-            "愿你找到克鲁西斯的光辉。",
-            "在阿沃斯神圣的土地之上，很高兴见到你！",
-            "别担心，现在不是献祭时间。",
-            "克鲁西斯之翼啊！一个访客！",
-            "愿克鲁西斯的羽翼庇佑你。",
-            "愿克鲁西斯使你强大。",
-            "愿克鲁西斯在战斗中指引你的手。",
-            "愿伟大的克鲁西斯保护你。",
-            "很高兴见到你，旅行者。",
-            "让克鲁西斯指引你的旅途。",
-            "愿克鲁西斯带给你力量。",
-            "愿你升华到克鲁西斯身边。",
-            "愿你步入克鲁西斯的光辉之中。",
-            "嗨！",
-            "很高兴见到你。",
-            "很高兴认识你！",
-            "你好，旅行者。",
-            "希望你有个美好的一天！",
-            "喂，你好。",
-            "日安。"
+            "오... 음, 그러니까, 클루엑스를 믿나요?",
+            "어쩌면 그대는 별관측자와 상담이 필요할지도 모르죠. 그대를 바른길로 인도해줄거에요.",
+            "그대가ㄲ 꾸준히 모험을 떠나면서 신앙을 찾고 있길 바라요.",
+            "그대도 클루엑스를 섬기죠. 아닌가요?",
+            "배교자들의 사상에 빠진 건 아니겠죠?",
+            "천계탑에 올라서서 깃털을 스치는 바람을 느껴보는 건 어때요?",
+            "보호국에 가입했다구요? 클루엑스교를 전도하는 데 도움이 될까요?",
+            "신성한 희생 의식을 목도한 지 얼마나 되었나요?",
+            "그대가 여행할 때 클루엑스의 빛을 전파할 기회가 있나요?",
+            "강인해보이시네요! 언젠가 승천자가 되실 수도 있겠어요!",
+            "그대는 전사인가요? 잘됐네요!",
+            "배교자들이 좀 우려되는군요.",
+            "아보스크립트 사본 들고 다니시나요?",
+            "제가 다음 순환때 승천자가 될 수 있었음 좋겠어요! 라고 매 순환마다 빌 뿐이죠...",
+            "그대, 강한 전사처럼 보이는군요. 가족이 분명 자랑스러워 할 거에요.",
+            "클루엑스가 그대와 함께 하길.",
+            "친절한 이방인이다! 감사합니다. 클루엑스시여.",
+            "클루엑스가 그대를 축복하길.",
+            "안녕하세요.",
+            "우리 마을에 오신걸 환영해요.",
+            "별관측자는 만나보셨나요?",
+            "은총의 날이 되길 빌어요.",
+            "만나서 반가워요.",
+            "그대의 삶에 빛이 가득하길.",
+            "그대에게 축복을.",
+            "그대도 승천하시길.",
+            "반갑습니다.",
+            "잘 지내시나요?",
+            "환영합니다. 방문자여.",
+            "클루엑스가 그대를 인도하시길.",
+            "클루엑스의 광명을 찾으시길.",
+            "아보스의 성지여. 만나서 반가워요!",
+            "걱정마요, 지금은 공양의 시기가 아니니까요.",
+            "클루엑스의 날개이시여! 방문자이시군요!",
+            "클루엑스가 그대를 그의 날개로 데려가길.",
+            "클루엑스께서 그대에게 힘을 주시길.",
+            "클루엑스께서 그대의 전투를 이끌어 주시길.",
+            "전능하신 클루엑스가 그대를 지켜주길.",
+            "만나서 반가워요. 여행자여",
+            "그대의 여행에 클루엑스의 인도가 함께하길.",
+            "클루엑스가 그대에게 힘을 가져다주시길.",
+            "클루엑스의 곁으로 승천하시길.",
+            "클루엑스의 빛을 걸으시길.",
+            "안녕하세요!",
+            "만나서 반가워요.",
+            "그대를 알게되어 기뻐요.",
+            "안녕하세요. 여행자님.",
+            "그대가 좋은 하루를 보내길 바래요!",
+            "오, 안녕하세요.",
+            "좋은 날이에요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/floran",
         "value": [
-            "你信仰克鲁西斯吗，长着叶子的朋友？",
-            "我不由自主地敬佩叶族人的强大。",
-            "我很乐意改天与您一同狩猎。我想克鲁西斯会赞同这项活动。",
-            "叶族人是属于大地的生物，但我们翼族人是属于天空的生物。",
-            "我预计折翼者会说我们的坏话。好吧，很高兴我也要说他们的坏话！",
-            "克鲁西斯执掌战斗，但同时也司生命、死亡、季节以及收获。他是全能之神。",
-            "我不确定我们这里是否层献祭过叶族人。即使流血你也会继续保持友善吗？",
-            "愿克鲁西斯祝福你的狩猎。",
-            "我不怕你，叶族人，这并非因为克鲁西斯与我同在。",
-            "如果你从星界之塔跳下，你会像树叶一样飘下来吗？",
-            "如果克鲁西斯能够接纳我们以外的种族的话，我猜会是叶族人。但是他不会。",
-            "日安，叶族人。愿克鲁西斯指引你的刀刃。",
-            "祝福你，可爱的朋友。",
-            "绿手指像观星者一样吗？",
-            "叶子非常美丽，但我更喜欢克鲁西斯赐予我的羽毛。",
-            "克鲁西斯与你同在。",
-            "一个友善的陌生人！感谢克鲁西斯。",
-            "克鲁西斯祝福你。",
-            "你好。",
-            "欢迎来到我们的村庄。",
-            "你见过观星者了吗？",
-            "祝你幸福的每一天。",
-            "很高兴见到你。",
-            "愿你的生命充满光芒。",
-            "祝福你。",
-            "愿你升华。",
-            "你好啊。",
-            "你好吗？",
-            "欢迎您，来访者。",
-            "克鲁西斯指引你。",
-            "愿你找到克鲁西斯的光辉。",
-            "在阿沃斯神圣的土地之上，很高兴见到你！",
-            "别担心，现在不是献祭时间。",
-            "克鲁西斯之翼啊！一个访客！",
-            "愿克鲁西斯的羽翼庇佑你。",
-            "愿克鲁西斯使你强大。",
-            "愿克鲁西斯在战斗中指引你的手。",
-            "愿伟大的克鲁西斯保护你。",
-            "很高兴见到你，旅行者。",
-            "让克鲁西斯指引你的旅途。",
-            "愿克鲁西斯带给你力量。",
-            "愿你升华到克鲁西斯身边。",
-            "愿你步入克鲁西斯的光辉之中。",
-            "嗨！",
-            "很高兴见到你。",
-            "很高兴认识你！",
-            "你好，旅行者。",
-            "希望你有个美好的一天！",
-            "喂，你好。",
-            "日安。"
+            "파릇파릇한 이여, 그대도 클루엑스를 찬미하나요?",
+            "플로란의 강함만큼은 인정할 수밖에 없죠.",
+            "언젠가 그대과 사냥을 나가보고 싶네요. 클루엑스께서도 괜찮다고 여기실 거에요.",
+            "플로란은 땅의 창조물이지만, 우리 아비안은 하늘의 창조물이죠.",
+            "배교자들은 우리들을 욕하겠죠. 뭐 저도 기꺼이 그들을 욕하니까요!",
+            "클루엑스는 결투의 신이면서, 생명, 죽음, 사계와 농경의 신이기도 하죠. 그는 전능해요.",
+            "우리가 플로란을 바쳐본 적이 있는지 모르겠네요. 그대 종족도 피를 흘리나요?",
+            "그대의 사냥에 가호가 있길.",
+            "클루엑스가 제게 거하시니, 플로란은 두렵지 않아요.",
+            "그대가 천계탑에서 뛰어내린다면 나뭇잎처럼 팔랑팔랑 떨어지지 않을까요?",
+            "그럴 일은 없겠지만, 클루엑스가 다른 종족도 받아들인다면 그건 플로란이 되지 않을까요?",
+            "그대에게 좋은날이군요, 플로란 . 클루엑스가 그대의 칼날을 인도하길.",
+            "축복을, 어여쁜 이여.",
+            "원예가들이 별관측자들을 좋아할까요?",
+            "풀잎도 예쁘지만 전 클루엑스께서 내리신 깃털이 더 좋아요.",
+            "클루엑스가 그대와 함께 하길.",
+            "친절한 이방인이다! 감사합니다. 클루엑스시여.",
+            "클루엑스가 그대를 축복하길.",
+            "안녕하세요.",
+            "우리 마을에 오신걸 환영해요.",
+            "별관측자는 만나보셨나요?",
+            "축복받은 날이 되었으면 하네요.",
+            "만나서 반갑습니다.",
+            "그대의 삶에 빛이 가득하길.",
+            "그대에게 축복을.",
+            "그대도 승천하시길.",
+            "안녕하세요.",
+            "잘 지내십니까?",
+            "환영합니다. 방문자여",
+            "클루엑스가 그대를 인도하시길.",
+            "클루엑스의 빛을 찾으시길.",
+            "아보스의 성지여. 만나서 반가워요!",
+            "걱정마요, 지금은 공양의 시기가 아니니까요.",
+            "클루엑스의 날개이시여! 방문자이시군요!",
+            "클루엑스가 날개 아래 그대를 품어주시길.",
+            "클루엑스가 그대를 굳세게 해주시길.",
+            "클루엑스께서 그대의 전투를 이끌어 주시길.",
+            "전능하신 클루엑스께서 그대를 보호하시길.",
+            "만나서 반가워요. 여행자여",
+            "클루엑스께서 그대의 여행을 인도하시길.",
+            "클루엑스께서 그대에게 힘을 주시길.",
+            "클루엑스의 곁으로 승천하시길.",
+            "클루엑스의 빛을 따라 걸으시길.",
+            "안녕하세요!",
+            "만나서 반가워요.",
+            "그대를 만나서 반가워요!",
+            "안녕하세요. 여행자여.",
+            "그대가 좋은 하루를 보내길 바래요!",
+            "오, 안녕하세요.",
+            "좋은 날이군요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/apex",
         "value": [
-            "我听说过关于科技发展部的可怕的事情，愿克鲁西斯毁灭他们。",
-            "你信仰克鲁西斯吗，毛茸茸的朋友？",
-            "猿人是强大的战士，这代表着尊重。",
-            "我觉得我们的神不像你们的领袖那般专横。大猿人听起来很糟糕！",
-            "你的族人应该尊敬大猿人，他很强大，又是你们的领袖。他就像克鲁西斯一样。",
-            "你好，猿人！你攀登过星界之塔了吗？",
-            "你知道，克鲁西斯创造了香蕉。",
-            "猿人叛军不是在对抗科技发展部吗？你怎么不参加战斗?",
-            "你千万别告诉别人，有时我觉得克鲁西斯也并没那么伟大。",
-            "我爱克鲁西斯，猿人！",
-            "你读过《阿沃斯经典》吗？我想它对于猿人也会很有启发性。",
-            "猿人主张无神论吗？",
-            "我觉得科学是猿人的宗教。",
-            "如果你对学习克鲁西斯感兴趣，你可以找个观星者。他们是我们的领袖。",
-            "猿人曾经献祭族人吗？",
-            "我预计折翼者会说我们的坏话。好吧，很高兴我也要说他们的坏话！",
-            "克鲁西斯与你同在。",
-            "一个友善的陌生人！感谢克鲁西斯。",
-            "克鲁西斯祝福你。",
-            "你好。",
-            "欢迎来到我们的村庄。",
-            "你见过观星者了吗？",
-            "祝你幸福的每一天。",
-            "很高兴见到你。",
-            "愿你的生命充满光芒。",
-            "祝福你。",
-            "愿你升华。",
-            "你好啊。",
-            "你好吗？",
-            "欢迎您，来访者。",
-            "克鲁西斯指引你。",
-            "愿你找到克鲁西斯的光辉。",
-            "在阿沃斯神圣的土地之上，很高兴见到你！",
-            "别担心，现在不是献祭时间。",
-            "克鲁西斯之翼啊！一个访客！",
-            "愿克鲁西斯的羽翼庇佑你。",
-            "愿克鲁西斯使你强大。",
-            "愿克鲁西斯在战斗中指引你的手。",
-            "愿伟大的克鲁西斯保护你。",
-            "很高兴见到你，旅行者。",
-            "让克鲁西斯指引你的旅途。",
-            "愿克鲁西斯带给你力量。",
-            "愿你升华到克鲁西斯身边。",
-            "愿你步入克鲁西斯的光辉之中。",
-            "嗨！",
-            "很高兴见到你。",
-            "很高兴认识你！",
-            "你好，旅行者。",
-            "希望你有个美好的一天！",
-            "喂，你好。",
-            "日安。"
+            "지정부에 대한 끔찍한 소문을 들은 적 있어요. 클루엑스께서 그들을 내치셨으면 해요.",
+            "복실하신 분, 그대도 클루엑스를 섬기시나요?",
+            "에이펙스는 강한 싸움꾼들이죠. 존중의 뜻이에요.",
+            "우리 주신은 그대의 지도자들 만큼 야만적이지 않으실 거에요. 빅 에이프 얘기는 끔찍한걸요!",
+            "그대들은 단순히 강하다는 이유 만으로 빅 에이프를 존중했고, 지도자로 삼았네요. 클루엑스랑 비슷한걸요.",
+            "안녕하세요 영장류 사람! 천계탑에 올라보신 적 있나요?",
+            "바나나도 클루엑스께서 만드셨다구요.",
+            "지정부에 맞서 싸우는 에이펙스 반군이 있지 않던가요? 왜 그대는 같이 싸우지 않죠?",
+            "다른 이들에겐 절대 말 못 하지만, 전 가끔 클루엑스가 그리 대단치 않은 것 같기도 해요.",
+            "전 클루엑스가 좋아요, 영장류 사람!",
+            "아보스크립트 읽어보신 적 있으신가요? 에이펙스한테라도 꽤 재밌을 거라 생각해요.",
+            "에이펙스는 무신교인가요?",
+            "에이펙스의 종교는 과학인 것 같네요.",
+            "클루엑스의 가르침을 받고 싶으시다면 별관측자를 찾아가보세요. 우리 지도자에요.",
+            "에이펙스도 사람을 공양하나요?",
+            "배교자들은 우리들을 욕하겠죠. 뭐 저도 기꺼이 그들을 욕하니까요!",
+            "클루엑스가 그대와 함께 하길.",
+            "친절한 이방인이다! 감사합니다. 클루엑스시여.",
+            "클루엑스가 그대를 축복하길.",
+            "안녕하세요.",
+            "우리 마을에 오신걸 환영해요.",
+            "별관측자는 만나보셨나요?",
+            "그대가 좋은 하루를 보냈으면 좋겠어요.",
+            "만나서 반가워요.",
+            "그대의 삶이 빛으로 채워지길.",
+            "그대에게 축복을.",
+            "그대도 승천하시길.",
+            "반갑습니다.",
+            "잘 지내십니까?",
+            "환영해요. 방문자여",
+            "클루엑스가 그대를 인도하시길.",
+            "클루엑스의 빛을 발견하시길.",
+            "아보스의 성지여, 만나서 반가워요!",
+            "걱정하지마세요. 지금은 공양의 시기가 아니니까요.",
+            "클루엑스의 날개이시여! 방문자이시군요!",
+            "클루엑스께서 날개로 그대를 거두시기를.",
+            "클루엑스가 그대를 굳세게 해주시길.",
+            "클루엑스께서 그대를 승리로 인도하시길.",
+            "위대한 클루엑스가 그대를 수호하시길.",
+            "만나서 반가워요. 여행자여",
+            "그대의 여행에 클루엑스의 인도가 함께하길.",
+            "클루엑스가 그대에게 힘을 가져다주시길.",
+            "클루엑스의 곁으로 승천하시길.",
+            "클루엑스의 빛을 걷길.",
+            "안녕하세요!",
+            "만나서 반가워요.",
+            "그대과 알게되서 기뻐요!",
+            "안녕하세요. 여행자여.",
+            "좋은 하루 보내시길 바랄게요!",
+            "오, 안녕하세요.",
+            "좋은 날이군요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/hylotl",
         "value": [
-            "观星者宣扬翼族人是最高等的种族，但是你看起来并不低等。",
-            "鲛人可能不提倡战斗，但是我们翼族人的每一场战斗都是对克鲁西斯的奉献。",
-            "你信仰克鲁西斯吗？潮湿的朋友。",
-            "我想克鲁西斯不会赞同你们的和平主义。",
-            "鲛人是属于水的生物，但是我们翼族人是属于空气的生物。",
-            "你的族人被形容成精神性的，但是你们却没有任何神…这让我有点混乱。",
-            "你应该读读《阿沃斯经典》。",
-            "我觉得鲛人的建筑完全比不上我们翼族人的神庙和星界之塔。",
-            "日安，没有羽毛朋友。",
-            "我只读过一本书：《阿沃斯经典》，但是我读了很多很多遍。",
-            "祝福你，愿你找到力量。",
-            "你尝试攀登星界之塔了吗？",
-            "这个“和平主义”是个有趣的概念。",
-            "我猜鲛人确实不喜欢献祭…",
-            "你知道《阿沃斯经典》里有多少诗歌吗？当然是非常多。",
-            "克鲁西斯与你同在。",
-            "一个友善的陌生人！感谢克鲁西斯。",
-            "克鲁西斯祝福你。",
-            "你好。",
-            "欢迎来到我们的村庄。",
-            "你见过观星者了吗？",
-            "祝你幸福的每一天。",
-            "很高兴见到你。",
-            "愿你的生命充满光芒。",
-            "祝福你。",
-            "愿你升华。",
-            "你好啊。",
-            "你好吗？",
-            "欢迎您，来访者。",
-            "克鲁西斯指引你。",
-            "愿你找到克鲁西斯的光辉。",
-            "在阿沃斯神圣的土地之上，很高兴见到你！",
-            "别担心，现在不是献祭时间。",
-            "克鲁西斯之翼啊！一个访客！",
-            "愿克鲁西斯的羽翼庇佑你。",
-            "愿克鲁西斯使你强大。",
-            "愿克鲁西斯在战斗中指引你的手。",
-            "愿伟大的克鲁西斯保护你。",
-            "很高兴见到你，旅行者。",
-            "让克鲁西斯指引你的旅途。",
-            "愿克鲁西斯带给你力量。",
-            "愿你升华到克鲁西斯身边。",
-            "愿你步入克鲁西斯的光辉之中。",
-            "嗨！",
-            "很高兴见到你。",
-            "很高兴认识你！",
-            "你好，旅行者。",
-            "希望你有个美好的一天！",
-            "喂，你好。",
-            "日安。"
+            "별관측자는 아비안이 가장 고귀해요. 하지만, 그대도 미천하게는 보이지 않는군요.",
+            "하이로틀은 싸움을 허락치 않지만, 아비안은 모든 싸움을 클루엑스에게 기린답니다.",
+            "축축한 이여, 그대도 클루엑스를 섬기시나요?",
+            "클루엑스라도 그대 종족의 평화주의는 허락치 않으실 것 같네요.",
+            "하이로틀은 물의 종족이죠. 우리 아비안은 공기의 종족이고요.",
+            "그대들은 영적인 민족이라 들었는데, 신은 믿지 않는다니... 헷갈리네요.",
+            "그대도 아보스크립트를 읽어보셔야 해요!",
+            "우리의 천계탑과 신전들도 하이로틀 건물에 뒤지지 않는다고 생각해요.",
+            "좋은 하루입니다. 깃없는 이여.",
+            "제가 읽어본 책은 딱 하나 뿐이에요. 아보스크립트. 그래도 엄청 많이 읽어봤답니다!",
+            "축복이 함께하길, 그대가 힘을 찾길.",
+            "천계탑에 올라가본 적 있어요?",
+            "평화주의라니, 재미있는 개념이네요.",
+            "하이로틀은 공양을 그리 좋아하진 않겠네요...",
+            "아보스크립트에 몇 구절이나 들어있는 지 아세요? 진짜 엄청 많거든요.",
+            "클루엑스가 그대와 함께 하길.",
+            "친절한 이방인이다! 감사합니다. 클루엑스시여.",
+            "클루엑스가 그대를 축복하길.",
+            "안녕하세요.",
+            "우리 마을에 오신걸 환영해요.",
+            "별관측자는 만나보셨나요?",
+            "그대가 좋은 하루를 보냈으면 좋겠어요.",
+            "만나서 반갑습니다.",
+            "그대의 삶이 빛으로 채워지길.",
+            "그대에게 축복을.",
+            "그대도 날아오르시길.",
+            "안녕하세요.",
+            "잘 지내시나요?",
+            "환영해요. 방문자여",
+            "클루엑스가 그대를 인도하시길.",
+            "클루엑스의 광명을 찾으시길.",
+            "신성한 땅 아보스이시여. 만나서 반갑습니다!",
+            "걱정하지마세요. 지금은 공양의 시기가 아니니까요.",
+            "클루엑스의 날개이시여! 방문자이시군요!",
+            "클루엑스께서 그의 날개로 그대를 보호하시길.",
+            "클루엑스가 그대를 굳세게 해주시길.",
+            "클루엑스께서 그대의 전투를 이끌어 주시길.",
+            "위대한 클루엑스께서 그대를 보호하시길.",
+            "만나서 반갑습니다. 여행자여",
+            "클루엑스께서 그대의 여행을 인도하시길.",
+            "클루엑스께서 그대에게 힘을 주시길.",
+            "클루엑스의 곁으로 승천하시길.",
+            "클루엑스의 빛을 따라 걸으시길.",
+            "안녕하세요!",
+            "만나서 반가워요.",
+            "그대과 친분을 쌓게되서 좋아요!",
+            "반갑습니다. 여행자여",
+            "좋은 하루 보내시길 바랄게요!",
+            "오, 안녕하세요.",
+            "좋은 날이군요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/glitch",
         "value": [
-            "哦，嗯，你好。",
-            "你有灵魂吗？",
-            "你不会是个好祭品的，只会搞得祭坛都是油。",
-            "你信仰克鲁西斯吗，金属的朋友？",
-            "电子人有神灵吗？",
-            "电子人能成为克鲁西斯的信徒吗？我需要问问观星者。",
-            "如果电子人从星界之塔跳下来，他会直接砸下来。",
-            "你很强大。我想你是一个很棒的战士。",
-            "你遇见过观星者了吗？我不确定他们会拿你怎么办？",
-            "也许你如果信仰克鲁西斯他会给你一个灵魂？",
-            "《阿沃斯经典》没提到机器人…",
-            "你让我有点不舒服，无论是谁发明了你，他都是在尝试扮演神灵的角色。",
-            "我在想你能不能成为克鲁西斯的信徒。",
-            "你或许可以造出金属的翅膀…",
-            "愿克鲁西斯照亮你的道路，金属人。",
-            "克鲁西斯与你同在。",
-            "一个友善的陌生人！感谢克鲁西斯。",
-            "克鲁西斯祝福你。",
-            "你好。",
-            "欢迎来到我们的村庄。",
-            "你见过观星者了吗？",
-            "祝你幸福的每一天。",
-            "很高兴见到你。",
-            "愿你的生命充满光芒。",
-            "祝福你。",
-            "愿你升华。",
-            "你好啊。",
-            "你好吗？",
-            "欢迎您，来访者。",
-            "克鲁西斯指引你。",
-            "愿你找到克鲁西斯的光辉。",
-            "在阿沃斯神圣的土地之上，很高兴见到你！",
-            "别担心，现在不是献祭时间。",
-            "克鲁西斯之翼啊！一个访客！",
-            "愿克鲁西斯的羽翼庇佑你。",
-            "愿克鲁西斯使你强大。",
-            "愿克鲁西斯在战斗中指引你的手。",
-            "愿伟大的克鲁西斯保护你。",
-            "很高兴见到你，旅行者。",
-            "让克鲁西斯指引你的旅途。",
-            "愿克鲁西斯带给你力量。",
-            "愿你升华到克鲁西斯身边。",
-            "愿你步入克鲁西斯的光辉之中。",
-            "嗨！",
-            "很高兴见到你。",
-            "很高兴认识你！",
-            "你好，旅行者。",
-            "希望你有个美好的一天！",
-            "喂，你好。",
-            "日安。"
+            "어, 음 안녕하세요.",
+            "그대도 영혼이 있나요?",
+            "그대를 공양하는 건 좋은 생각이 아닌 것 같아요. 제단이 기름범벅이 되겠죠.",
+            "쇠로 된 자여, 그대도 클루엑스를 섬기시나요?",
+            "글리치한테도 신이란 게 있나요?",
+            "글리치도 클루엑스교로 개종할 수 있을까요? 별관측자에게 물어봐야겠네요.",
+            "글리치가 천계탑에서 뛰어내린다면 그냥 곤두박질치겠죠?",
+            "그대는 강하네요! 좋은 전사임이 분명해요.",
+            "별관측자를 만나보셨어요? 그들이 그대를 보면 뭐라 할 지 모르겠네요.",
+            "그대가 클루엑스를 섬겼다면 그분께서 영혼을 주셨을 지도 몰라요.",
+            "아보스크립트에 로봇 얘기는 없었는데...",
+            "그대 때문에 조금 불편하네요. 그대를 만든 이가 누군 지는 몰라도 신을 흉내내려하다니.",
+            "그대도 클루엑스교로 개종할 수 있을까요?",
+            "그대에겐 강철 날개가 필요하겠네요...",
+            "그대의 길에 클루엑스 빛이 드리우길, 강철인간.",
+            "클루엑스가 그대와 함께하길.",
+            "친절한 이방인이로군요! 클루엑스께 감사를.",
+            "클루엑스의 가호가 있길.",
+            "안녕하세요.",
+            "우리 마을에 오신것을 환영합니다.",
+            "별 관측자를 만나보신적 있나요?",
+            "축복받은 하루가 되길.",
+            "만나서 반가워요.",
+            "그대의 삶이 빛으로 채워지길.",
+            "그대에게 축복을.",
+            "그대도 승천하시길.",
+            "반갑습니다.",
+            "잘 지내시나요?",
+            "환영합니다. 여행자여.",
+            "클루엑스가 그대를 이끄시길.",
+            "클루엑스의 빛을 발견하시길.",
+            "신성한 땅 아보스이시여. 만나서 반가워요!",
+            "걱정하지마세요. 지금은 공양의 시기가 아니니까요.",
+            "클루엑스의 날개이시여! 방문자이시군요!",
+            "클루엑스께서 그의 날개로 그대를 보호하시길.",
+            "클루엑스께서 그대에게 힘을 주시길.",
+            "클루엑스께서 그대를 승리로 인도하시길.",
+            "위대한 클루엑스가 그대를 수호하시길.",
+            "만나서 반갑습니다. 여행자여",
+            "클루엑스가 그대의 여행을 인도하길.",
+            "클루엑스가 그대에게 힘을 내려주시길.",
+            "클루엑스의 곁으로 승천하시길.",
+            "클루엑스의 빛을 걸으시길.",
+            "안녕하세요!",
+            "만나서 반가워요.",
+            "그대와 친분을 쌓게되서 좋아요!",
+            "반가워요. 여행자여.",
+            "좋은 하루 보내시길 바랄게요!",
+            "오, 안녕하세요.",
+            "좋은 날이군요."
         ]
     },
     {
         "op": "replace",
         "path": "/converse/avian/novakid",
         "value": [
-            "一个神使！？",
-            "克鲁西斯之光啊！",
-            "你是克鲁西斯送来的吗？",
-            "你如阿沃斯之光般闪耀！",
-            "你肯定是克鲁西斯的作品！",
-            "观星者必须要得知你的存在！",
-            "你太美了！",
-            "克鲁西斯送来的光之战士！",
-            "你是个星之子，不是吗？",
-            "这般闪耀，你一定是在天堂诞生的！",
-            "克鲁西斯送来的一个发光的人！",
-            "看看你那天界的闪光！",
-            "你一定的克鲁西斯的杰作。",
-            "感谢克鲁西斯，一个美丽的神使！",
-            "我很荣幸见到你。",
-            "克鲁西斯与你同在。",
-            "一个友善的陌生人！感谢克鲁西斯。",
-            "克鲁西斯祝福你。",
-            "你好。",
-            "欢迎来到我们的村庄。",
-            "你见过观星者了吗？",
-            "祝你幸福的每一天。",
-            "很高兴见到你。",
-            "愿你的生命充满光芒。",
-            "祝福你。",
-            "愿你升华。",
-            "你好啊。",
-            "你好吗？",
-            "欢迎您，来访者。",
-            "克鲁西斯指引你。",
-            "愿你找到克鲁西斯的光辉。",
-            "在阿沃斯神圣的土地之上，很高兴见到你！",
-            "别担心，现在不是献祭时间。",
-            "克鲁西斯之翼啊！一个访客！",
-            "愿克鲁西斯的羽翼庇佑你。",
-            "愿克鲁西斯使你强大。",
-            "愿克鲁西斯在战斗中指引你的手。",
-            "愿伟大的克鲁西斯保护你。",
-            "很高兴见到你，旅行者。",
-            "让克鲁西斯指引你的旅途。",
-            "愿克鲁西斯带给你力量。",
-            "愿你升华到克鲁西斯身边。",
-            "愿你步入克鲁西斯的光辉之中。",
-            "嗨！",
-            "很高兴见到你。",
-            "很高兴认识你！",
-            "你好，旅行者。",
-            "希望你有个美好的一天！",
-            "喂，你好。",
-            "日安。"
+            "그대는 천사인건가요?!",
+            "클루엑스의 빛이 당신을 인도하길!",
+            "클루엑스가 보내신 분인가요?",
+            "그대는 아볼라이트처럼 빛나네요!",
+            "그대는 클루엑스의 피조물임이 분명해요!",
+            "별관측자들이라면 그대들의 얘기를 들어봤을 거에요!",
+            "정말 아름다워요!",
+            "빛으로 빚어진 클루엑스의 전사로군요!",
+            "당신, 노바키드 맞죠?",
+            "그 찬란함, 당신은 천국에서 온 게 분명해요!",
+            "클루엑스가 내린 빛나는 이여!",
+            "아름다운 천상의 빛이네요!",
+            "당신같은 이는 당연히 클루엑스의 작품이겠죠.",
+            "클루엑스께 감사를, 정말 아름다운 천사에요!",
+            "만나서 영광이에요.",
+            "클루엑스가 그대와 함께 하길.",
+            "친절한 이방인이다! 감사합니다. 클루엑스시여.",
+            "클루엑스가 그대를 축복하길.",
+            "안녕하세요.",
+            "우리 마을에 오신걸 환영해요.",
+            "별관측자는 만나보셨나요?",
+            "은총의 날을 보냈으면 좋겠어요.",
+            "만나서 반갑습니다.",
+            "그대의 삶에 빛이 가득하길.",
+            "그대에게 축복을.",
+            "그대도 날아오르시길.",
+            "반갑습니다.",
+            "잘 시내시나요?",
+            "환영해요. 방문자여",
+            "클루엑스가 그대를 이끄시길.",
+            "클루엑스의 광명을 찾으시길.",
+            "신성한 땅 아보스이시여. 만나서 반가워요!",
+            "걱정마요, 지금은 공양의 시기가 아니니까요.",
+            "클루엑스의 날개이시여! 방문자이시군요!",
+            "클루엑스께서 날개로 그대를 거두시기를.",
+            "클루엑스가 그대를 굳세게 해주시길.",
+            "클루엑스께서 그대를 승리로 인도하시길.",
+            "전능하신 클루엑스께서 그대를 보호하시길.",
+            "만나서 반가워요. 여행자여",
+            "그대의 여행에 클루엑스의 인도가 함께하길.",
+            "클루엑스가 그대에게 힘을 가져다주시길.",
+            "클루엑스의 곁으로 승천하시길.",
+            "클루엑스의 빛을 걸으시길.",
+            "안녕하세요!",
+            "만나서 반가워요.",
+            "그대과 친분을 쌓게되서 좋아요!",
+            "반갑습니다. 여행자여.",
+            "그대가 좋은 하루를 보내길 바래요!",
+            "오, 안녕하세요.",
+            "좋은 날이에요."
         ]
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "먼지 낀 나무 탁자"
+        "path": "/description",
+        "value": "먼지가 낀 나무 탁자다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "먼지가 낀 나무 탁자다."
+        "path": "/shortdescription",
+        "value": "먼지 낀 나무 탁자"
     },
     {
         "op": "replace",

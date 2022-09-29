@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "병 안의 액체는 가연성을 가지고 있습니다."
+        "path": "/shortdescription",
+        "value": "화염병"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화염병"
+        "path": "/description",
+        "value": "병 안의 액체는 가연성을 가지고 있습니다."
     }
 ]

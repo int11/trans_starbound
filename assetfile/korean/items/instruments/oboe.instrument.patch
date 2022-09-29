@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "오보에"
+        "path": "/description",
+        "value": "먼지가 풀풀 날리는 오보에다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "먼지가 풀풀 날리는 오보에다."
+        "path": "/shortdescription",
+        "value": "오보에"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화살집"
+        "path": "/description",
+        "value": "화살을 모아놓은 작은 통이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화살을 모아놓은 작은 통이다."
+        "path": "/shortdescription",
+        "value": "화살집"
     }
 ]

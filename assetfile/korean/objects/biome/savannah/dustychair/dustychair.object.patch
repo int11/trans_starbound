@@ -6,23 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "먼지가 다 나쁜 건 아냐."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "산전수전 다 겪어온 의자같다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "건초로를 채운 의자다. 꽤 마음에 들겠는데!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "조금 망가진 것 같다. 앉아도 괜찮을라나..."
+        "path": "/shortdescription",
+        "value": "먼지 쌓인 의자"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 일부러 이리 보이게 만든 가구인가?"
+        "path": "/avianDescription",
+        "value": "건초로를 채운 의자다. 꽤 마음에 들겠는데!"
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "먼지 쌓인 의자"
+        "path": "/glitchDescription",
+        "value": "혼란. 일부러 이리 보이게 만든 가구인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "조금 망가진 것 같다. 앉아도 괜찮을라나..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "산전수전 다 겪어온 의자같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "먼지가 다 나쁜 건 아냐."
     }
 ]

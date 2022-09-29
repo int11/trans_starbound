@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "다소 끈적해 보이는 살이네."
+        "path": "/description",
+        "value": "이 살 덩이는 어떤 생물의 위 조각처럼 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "위장 내벽"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "위장 내벽"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "이 살 덩이는 어떤 생물의 위 조각처럼 보인다."
+        "path": "/novakidDescription",
+        "value": "다소 끈적해 보이는 살이네."
     }
 ]

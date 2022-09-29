@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼음 폭탄 목줄"
+        "path": "/description",
+        "value": "애완동물이 패배했을때 폭발하도록 만드는 목줄이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "애완동물이 패배했을때 폭발하도록 만드는 목줄이다."
+        "path": "/shortdescription",
+        "value": "얼음 폭탄 목줄"
     },
     {
         "op": "replace",

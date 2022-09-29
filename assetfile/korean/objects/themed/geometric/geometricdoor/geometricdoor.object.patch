@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "엄청 튼튼한 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "간단하지만 강한 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "튼튼한 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "강하고 끝내주는 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "튼튼한 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "침착. 매우 강한 문이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "문짝!"
+        "path": "/description",
+        "value": "기하학적 문이다. 튼튼해!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "기하학적 문이다. 튼튼해!"
+        "path": "/apexDescription",
+        "value": "튼튼한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "튼튼한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "문짝!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "침착. 매우 강한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "강하고 끝내주는 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "간단하지만 강한 문이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "엄청 튼튼한 문이다."
     }
 ]

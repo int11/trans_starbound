@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "반역자의 후드"
+        "path": "/description",
+        "value": "이 후드와 가면은 착용자에게 반항적인 모습을 준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 후드와 가면은 착용자에게 반항적인 모습을 준다."
+        "path": "/shortdescription",
+        "value": "반역자의 후드"
     }
 ]

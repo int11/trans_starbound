@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "커다란 선박 컨테이너"
+        "path": "/description",
+        "value": "선박에 실어 나르는 컨테이다. 작은 개인 함선따위에 들어가진 않아"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "선박에 실어 나르는 컨테이다. 작은 개인 함선따위에 들어가진 않아"
+        "path": "/shortdescription",
+        "value": "커다란 선박 컨테이너"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "해저에선 이런 도구들은 쓸모가 없지."
+        "path": "/description",
+        "value": "用来完成各种繁重农活的铲子、耙子和扫帚。"
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "여러 도구들이 달려있네.  음, 이건 삽인가?"
+        "path": "/shortdescription",
+        "value": "耕作工具"
     },
     {
         "op": "replace",
@@ -16,13 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "用来完成各种繁重农活的铲子、耙子和扫帚。"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "耕作工具"
+        "path": "/avianDescription",
+        "value": "여러 도구들이 달려있네.  음, 이건 삽인가?"
     },
     {
         "op": "replace",
@@ -38,6 +33,11 @@
         "op": "replace",
         "path": "/humanDescription",
         "value": "耕作工具。但是地球上的农业基本上都是自动化的。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "해저에선 이런 도구들은 쓸모가 없지."
     },
     {
         "op": "replace",

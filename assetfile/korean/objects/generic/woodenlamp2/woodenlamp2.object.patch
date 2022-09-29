@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "좋은 램프야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "예쁜 스탠드 조명."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "전기로 작동하는 높은 나무 조명."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "기쁨. 심플한 스탠드 조명."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "긴 나무 램프 은은히 빛난다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "아늑한 느낌이 나는 높은 나무 조명. "
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "좋은 스탠드 조명이야."
+        "path": "/shortdescription",
+        "value": "나무 스탠드 조명"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 스탠드 조명"
+        "path": "/avianDescription",
+        "value": "전기로 작동하는 높은 나무 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "긴 나무 램프 은은히 빛난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 심플한 스탠드 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "좋은 스탠드 조명이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "예쁜 스탠드 조명."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "좋은 램프야."
     }
 ]

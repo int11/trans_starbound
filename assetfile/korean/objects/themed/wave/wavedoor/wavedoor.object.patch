@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파동 문"
+        "path": "/description",
+        "value": "매우 튼튼한 파동 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매우 튼튼한 파동 문이다."
+        "path": "/shortdescription",
+        "value": "파동 문"
     },
     {
         "op": "replace",

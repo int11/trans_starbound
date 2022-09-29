@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다이아몬드 (Diamond)"
+        "path": "/description",
+        "value": "아름답게 가공된 다이아몬드다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아름답게 가공된 다이아몬드다."
+        "path": "/shortdescription",
+        "value": "다이아몬드 (Diamond)"
     }
 ]

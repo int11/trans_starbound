@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "버섯구이"
+        "path": "/description",
+        "value": "버섯은 구워야 진정한 맛이 우러나온다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "버섯은 구워야 진정한 맛이 우러나온다."
+        "path": "/shortdescription",
+        "value": "버섯구이"
     }
 ]

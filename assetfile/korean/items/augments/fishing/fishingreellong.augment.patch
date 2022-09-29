@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "대용량 릴"
+        "path": "/description",
+        "value": "더 큰 스풀을 장비해서 긴 실 길이를 자랑하는 릴이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "더 큰 스풀을 장비해서 긴 실 길이를 자랑하는 릴이다."
+        "path": "/shortdescription",
+        "value": "대용량 릴"
     },
     {
         "op": "replace",

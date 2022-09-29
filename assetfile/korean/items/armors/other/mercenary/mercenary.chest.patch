@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "용병의 흉갑"
+        "path": "/description",
+        "value": "장식이 없는 견고한 흉갑"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "장식이 없는 견고한 흉갑"
+        "path": "/shortdescription",
+        "value": "용병의 흉갑"
     }
 ]

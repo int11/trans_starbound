@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "왠만하면 이 상자 안에 뭐가 있는지 알고싶지 않아. "
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "플로란이 이 상자 안에 무얼 보관해 놨을지 상상하기 두렵군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "나무와 뼈로 평범한 상자를 만들었어."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 보잘것 없는 상자에 값진것이 들어있을 확률이 얼마나 될까."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 남는 뼈 조각과 나무로 샹자 만들어."
+        "path": "/description",
+        "value": "가공하지 않은 나무와 뼈로 만든 저장고다."
     },
     {
         "op": "replace",
@@ -31,17 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가공하지 않은 나무와 뼈로 만든 저장고다."
-    },
-    {
-        "op": "replace",
         "path": "/apexDescription",
         "value": "나무와 뼈로 만든 평범한 상자야."
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "나무와 뼈로 평범한 상자를 만들었어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 남는 뼈 조각과 나무로 샹자 만들어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 보잘것 없는 상자에 값진것이 들어있을 확률이 얼마나 될까."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "뼈로 된 모서리 부분이 땅에서 끌고다니기 쉽게 만들어줘."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "플로란이 이 상자 안에 무얼 보관해 놨을지 상상하기 두렵군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "왠만하면 이 상자 안에 뭐가 있는지 알고싶지 않아. "
     }
 ]

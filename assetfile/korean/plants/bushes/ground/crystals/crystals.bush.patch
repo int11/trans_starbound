@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "상태. 수정이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "반짝이는 슈정."
+        "path": "/description",
+        "value": "수정이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수정이다."
+        "path": "/floranDescription",
+        "value": "반짝이는 슈정."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "상태. 수정이다."
     }
 ]

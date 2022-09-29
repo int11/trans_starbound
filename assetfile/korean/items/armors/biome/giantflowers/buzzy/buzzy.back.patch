@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "윙윙날개"
+        "path": "/description",
+        "value": "착용식 곤충날개. 유감스럽게도 날수 없습니다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "착용식 곤충날개. 유감스럽게도 날수 없습니다."
+        "path": "/shortdescription",
+        "value": "윙윙날개"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "정수기"
+        "path": "/description",
+        "value": "수다떠는 녀석들 찾기에는 안성맞춤이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수다떠는 녀석들 찾기에는 안성맞춤이다."
+        "path": "/shortdescription",
+        "value": "정수기"
     },
     {
         "op": "replace",

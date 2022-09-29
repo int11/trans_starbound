@@ -6,8 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "꿈틀거리는 작은 벌레가 돌 안에 있다."
+        "path": "/shortdescription",
+        "value": "끔찍한 돌"
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "끔찍한 돌"
+        "path": "/novakidDescription",
+        "value": "꿈틀거리는 작은 벌레가 돌 안에 있다."
     }
 ]

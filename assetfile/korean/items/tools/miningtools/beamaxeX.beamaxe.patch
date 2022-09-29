@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "물질 조작기"
+        "path": "/description",
+        "value": "무슨 물질이든지 조작이 가능한 물건. ^green;[R] 키로 빠르게 선택하자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무슨 물질이든지 조작이 가능한 물건. ^green;[R] 키로 빠르게 선택하자."
+        "path": "/shortdescription",
+        "value": "물질 조작기"
     }
 ]

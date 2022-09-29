@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부서진 장검"
+        "path": "/description",
+        "value": "한때 훌륭한 검이었지만, 지금은 상태가 안 좋아 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "한때 훌륭한 검이었지만, 지금은 상태가 안 좋아 보인다."
+        "path": "/shortdescription",
+        "value": "부서진 장검"
     }
 ]

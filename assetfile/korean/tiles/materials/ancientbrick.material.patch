@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "단단하고 오래되어 보이는 벽돌이다."
+        "path": "/description",
+        "value": "이 새김벽돌은 측정할 수 없을 만큼 오래 되었다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "고대 벽돌"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 새김벽돌은 측정할 수 없을 만큼 오래 되었다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "고대 벽돌"
+        "path": "/novakidDescription",
+        "value": "단단하고 오래되어 보이는 벽돌이다."
     }
 ]

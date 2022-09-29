@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "버섯 방패"
+        "path": "/description",
+        "value": "경화시킨 버섯으로 두꺼운 원판을 만들어 구성됬다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "경화시킨 버섯으로 두꺼운 원판을 만들어 구성됬다."
+        "path": "/shortdescription",
+        "value": "버섯 방패"
     }
 ]

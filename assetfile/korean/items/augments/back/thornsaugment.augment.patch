@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가시 확장 부품"
+        "path": "/description",
+        "value": "EPP에 끼울 수 있는 확장 부품으로 피해를 받으면 그만큼 다시 피해를 준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "EPP에 끼울 수 있는 확장 부품으로 피해를 받으면 그만큼 다시 피해를 준다."
+        "path": "/shortdescription",
+        "value": "가시 확장 부품"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금지 문"
+        "path": "/description",
+        "value": "두꺼운 금속 막대로 만든 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "두꺼운 금속 막대로 만든 문이다."
+        "path": "/shortdescription",
+        "value": "금지 문"
     },
     {
         "op": "replace",

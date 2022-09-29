@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "원격 유탄 발사기"
+        "path": "/description",
+        "value": "유탄을 발사한 후 직접 기폭시킬 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유탄을 발사한 후 직접 기폭시킬 수 있다."
+        "path": "/shortdescription",
+        "value": "원격 유탄 발사기"
     }
 ]

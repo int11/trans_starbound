@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바다 살사 소스"
+        "path": "/description",
+        "value": "열대 바다 과일로 만든 몸에 좋은 살사 소스이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "열대 바다 과일로 만든 몸에 좋은 살사 소스이다."
+        "path": "/shortdescription",
+        "value": "바다 살사 소스"
     }
 ]

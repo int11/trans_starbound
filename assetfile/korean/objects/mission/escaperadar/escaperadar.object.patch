@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "탈출 전파 탐지기"
+        "path": "/description",
+        "value": "너네 텔레비전 보라고 있는거 아니다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "너네 텔레비전 보라고 있는거 아니다."
+        "path": "/shortdescription",
+        "value": "탈출 전파 탐지기"
     },
     {
         "op": "replace",

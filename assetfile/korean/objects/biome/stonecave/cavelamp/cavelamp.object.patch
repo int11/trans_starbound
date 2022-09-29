@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "안전해 보이진 않지만, 아무튼 조명이 되어주는군."
+        "path": "/description",
+        "value": "빛나는 종유석이다."
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "저게 내 머리위로 떨어지지 않으면 좋겠어."
+        "path": "/shortdescription",
+        "value": "종유석 램프"
     },
     {
         "op": "replace",
@@ -16,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 어떻게 종유석 안에 빛을 넣은 것인가?"
+        "path": "/avianDescription",
+        "value": "저거 밑에 서있다는건 그리 안전하지 않아보여"
     },
     {
         "op": "replace",
@@ -26,22 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빛나는 종유석이다."
+        "path": "/glitchDescription",
+        "value": "호기심. 어떻게 종유석 안에 빛을 넣은 것인가?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저게 내 머리위로 떨어지지 않으면 좋겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안전해 보이진 않지만, 아무튼 조명이 되어주는군."
     },
     {
         "op": "replace",
         "path": "/novakidDescription",
         "value": "빛나는 종유석이네."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "저거 밑에 서있다는건 그리 안전하지 않아보여"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "종유석 램프"
     }
 ]

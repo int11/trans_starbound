@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "호흡 EPP"
+        "path": "/description",
+        "value": "호흡할 수 있는 공기를 만들어낸다. ^red;숨을 쉴 수 없는 곳^reset;을 갈 때 유용하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "호흡할 수 있는 공기를 만들어낸다. ^red;숨을 쉴 수 없는 곳^reset;을 갈 때 유용하다."
+        "path": "/shortdescription",
+        "value": "호흡 EPP"
     },
     {
         "op": "add",

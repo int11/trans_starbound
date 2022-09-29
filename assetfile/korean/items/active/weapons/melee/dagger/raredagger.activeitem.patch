@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "희귀한 단검"
+        "path": "/description",
+        "value": "면도칼 처럼 날카롭고 빛처럼 빠르다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "면도칼 처럼 날카롭고 빛처럼 빠르다."
+        "path": "/shortdescription",
+        "value": "희귀한 단검"
     }
 ]

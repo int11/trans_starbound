@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "밧줄 채찍"
+        "path": "/description",
+        "value": "밧줄 식으로 만들어진 채찍이다. 찰싹!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "밧줄 식으로 만들어진 채찍이다. 찰싹!"
+        "path": "/shortdescription",
+        "value": "밧줄 채찍"
     },
     {
         "op": "replace",

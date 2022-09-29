@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "운동 에너지 가득한 강력한 투창. 사냥에 적합하다."
+        "path": "/shortdescription",
+        "value": "에너지 투창"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에너지 투창"
+        "path": "/description",
+        "value": "운동 에너지 가득한 강력한 투창. 사냥에 적합하다."
     }
 ]

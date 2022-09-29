@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 매달려 있는 얼음 가시."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "얼린 가아시야."
+        "path": "/description",
+        "value": "매달려 있는 얼음 가시다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매달려 있는 얼음 가시다."
+        "path": "/floranDescription",
+        "value": "얼린 가아시야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 매달려 있는 얼음 가시."
     }
 ]

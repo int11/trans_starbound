@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "대나무가 바람에 흔들리며 좋은 쇼리가 나."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나무 차임이야. 아린 소리가 나."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "빈 대나무는 차분한 소리를 만들어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "빈 대나무는 이 풍경이 고운 소리를 내게 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "빈 대나무는 이 풍경이 고운 소리를 내게 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "대나무 풍경. 바람에 달가닥거린다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "유쾌. 풍경이 랜덤하게 만들어내는 소리는 즐겁다."
+        "path": "/description",
+        "value": "텅 빈 대나무를 묶어 만든 풍경."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "텅 빈 대나무를 묶어 만든 풍경."
+        "path": "/apexDescription",
+        "value": "대나무 풍경. 바람에 달가닥거린다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "빈 대나무는 이 풍경이 고운 소리를 내게 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "대나무가 바람에 흔들리며 좋은 쇼리가 나."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "유쾌. 풍경이 랜덤하게 만들어내는 소리는 즐겁다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "빈 대나무는 이 풍경이 고운 소리를 내게 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "빈 대나무는 차분한 소리를 만들어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무 차임이야. 아린 소리가 나."
     }
 ]

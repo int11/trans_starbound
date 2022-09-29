@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "평범한 개수대다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "개수대다. 손좀 씻어야겠는걸..."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 개수대다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "첨벙첨벙 개슈대."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "수영하기엔 많이 작다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "개수대."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "평범한 개수대다."
+        "path": "/description",
+        "value": "화장실 개수대다. 손 씻자!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화장실 개수대다. 손 씻자!"
+        "path": "/apexDescription",
+        "value": "평범한 개수대다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "개수대."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "첨벙첨벙 개슈대."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 개수대다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "개수대다. 손좀 씻어야겠는걸..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "수영하기엔 많이 작다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "평범한 개수대다."
     }
 ]

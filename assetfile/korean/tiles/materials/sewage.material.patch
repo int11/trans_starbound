@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나한테는 다소 오물 같아 보이는데. 냄새는 땡볕아래 변소 같아."
+        "path": "/description",
+        "value": "오물의 역겨운 더미다. 사랑스럽다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "생 오물"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "생 오물"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "오물의 역겨운 더미다. 사랑스럽다."
+        "path": "/novakidDescription",
+        "value": "나한테는 다소 오물 같아 보이는데. 냄새는 땡볕아래 변소 같아."
     }
 ]

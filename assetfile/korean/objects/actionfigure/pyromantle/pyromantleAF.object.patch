@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "파이로맨틀 모형"
+        "path": "/description",
+        "value": "\"뜨거운 중심부에서 끊임없이 용암을 생성한다. 주먹을 잘 휘두른다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"뜨거운 중심부에서 끊임없이 용암을 생성한다. 주먹을 잘 휘두른다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "파이로맨틀 모형"
     }
 ]

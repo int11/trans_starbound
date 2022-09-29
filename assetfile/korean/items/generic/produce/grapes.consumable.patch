@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "포도"
+        "path": "/description",
+        "value": "자연의 간식이지."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자연의 간식이지."
+        "path": "/shortdescription",
+        "value": "포도"
     }
 ]

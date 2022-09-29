@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "해군 바지"
+        "path": "/description",
+        "value": "에이펙스 해군을 위한 표준 규격의 바지이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "에이펙스 해군을 위한 표준 규격의 바지이다."
+        "path": "/shortdescription",
+        "value": "해군 바지"
     }
 ]

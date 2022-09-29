@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "쉬다 가기 좋은 귀엽고 작은 벤치."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 벤치는 자연의 웅장함에 대해 경의를 표하고 있다."
+        "path": "/description",
+        "value": "아름다운 소박한 벤치다."
     },
     {
         "op": "replace",
@@ -16,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "멋진 벤치다. 제작자의 기술이 조금 부족하긴 하지만."
+        "path": "/apexDescription",
+        "value": "이 벤치는 자연의 웅장함에 대해 경의를 표하고 있다."
     },
     {
         "op": "replace",
@@ -26,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "수제인가. 아주 보기 좋은데."
+        "path": "/floranDescription",
+        "value": "벤치에셔 좋은 나무 냄섀 난다. 잘 자랐다."
     },
     {
         "op": "replace",
@@ -36,12 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "벤치에셔 좋은 나무 냄섀 난다. 잘 자랐다."
+        "path": "/humanDescription",
+        "value": "수제인가. 아주 보기 좋은데."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아름다운 소박한 벤치다."
+        "path": "/hylotlDescription",
+        "value": "멋진 벤치다. 제작자의 기술이 조금 부족하긴 하지만."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "쉬다 가기 좋은 귀엽고 작은 벤치."
     }
 ]

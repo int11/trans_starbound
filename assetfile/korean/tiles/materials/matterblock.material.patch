@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이상해 보이는 결정이야."
+        "path": "/description",
+        "value": "물질 블록. 블록이 저 물질이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "물질 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "물질 블록. 블록이 저 물질이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "물질 블록"
+        "path": "/novakidDescription",
+        "value": "이상해 보이는 결정이야."
     }
 ]

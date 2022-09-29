@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "까붐. 포도는 좋은 간식이지만, 좋은 발사체 이기도 하지!"
+        "path": "/description",
+        "value": "자연이 내린 최고의 간식."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "포도 씨앗"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "자연이 내린 최고의 간식."
     },
     {
         "op": "replace",
@@ -28,6 +23,11 @@
         "op": "replace",
         "path": "/floranDescription",
         "value": "葡萄饱饱饱满多汁，像紫色的眼球球球一样。"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "까붐. 포도는 좋은 간식이지만, 좋은 발사체 이기도 하지!"
     },
     {
         "op": "replace",

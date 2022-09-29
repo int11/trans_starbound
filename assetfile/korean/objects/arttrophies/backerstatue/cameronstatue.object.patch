@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "카메론 요크 조각상"
+        "path": "/description",
+        "value": "카메론 \"KyeTheShy\" 요크의 조각상이다. 모험을 좋아했으나, 우주 저 멀리 떠나가버리고 말았다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "카메론 \"KyeTheShy\" 요크의 조각상이다. 모험을 좋아했으나, 우주 저 멀리 떠나가버리고 말았다."
+        "path": "/shortdescription",
+        "value": "카메론 요크 조각상"
     }
 ]

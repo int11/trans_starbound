@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "일종의 으스러진 생물로 만들어진 벌집인가."
+        "path": "/description",
+        "value": "떨어진 생물의 잔해로 만든 끈적이는 벌집."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "벌집돌"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "떨어진 생물의 잔해로 만든 끈적이는 벌집."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "벌집돌"
+        "path": "/novakidDescription",
+        "value": "일종의 으스러진 생물로 만들어진 벌집인가."
     }
 ]

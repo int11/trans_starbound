@@ -1,33 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "직접 키우는 수정! 이제야 말이 좀 통하네!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "영광스러이 빛나는 수정을 싹틔우는 식물이라."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "수정이 자라는 식물이다. 마술이냐!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "우려. 이 식물들을 무더기로 기르다간 경제에 타격을 줄 것 같다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "수정 식물. 그런데 땅 파면 돈 나오냐는 말이 실제로 일어났습니다."
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "내가 어릴 적엔 항상 돈나무를 기르고 싶었는데, 이건 그 다음으로 좋다."
+        "path": "/shortdescription",
+        "value": "수정 식물 씨앗"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "수정이 자라는 식물이다. 마술이냐!"
+    },
+    {
+        "op": "replace",
         "path": "/floranDescription",
         "value": "플로란 반짝이는 식물 때문에 알쑝달쑝하다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "수정 식물 씨앗"
+        "path": "/glitchDescription",
+        "value": "우려. 이 식물들을 무더기로 기르다간 경제에 타격을 줄 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "내가 어릴 적엔 항상 돈나무를 기르고 싶었는데, 이건 그 다음으로 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "영광스러이 빛나는 수정을 싹틔우는 식물이라."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "직접 키우는 수정! 이제야 말이 좀 통하네!"
     }
 ]

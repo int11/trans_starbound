@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼어붙은 왕관"
+        "path": "/description",
+        "value": "이 왕관만 있다면 지배하기에 최적이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 왕관만 있다면 지배하기에 최적이다."
+        "path": "/shortdescription",
+        "value": "얼어붙은 왕관"
     }
 ]

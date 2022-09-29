@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거친 돌"
+        "path": "/description",
+        "value": "거칠고 자연그대로인 돌이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거칠고 자연그대로인 돌이다."
+        "path": "/shortdescription",
+        "value": "거친 돌"
     },
     {
         "op": "replace",

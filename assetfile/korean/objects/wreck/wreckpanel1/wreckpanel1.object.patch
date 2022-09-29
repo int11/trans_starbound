@@ -1,36 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 낡아빠진 건 이제 써먹지도 못하겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 입력패널은 철이 지난것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "입력 패널이지만, 완벽하게 죽었어."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "더럽고 고장난 입력 패널. 안 움직일 거 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "곤혹. 이 입력 패널은 완벽하게 죽었다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 패널 엄청 망가졌어."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "낡은 입력 패널.  키 하나는 떨어졌다."
     },
@@ -43,5 +13,35 @@
         "op": "replace",
         "path": "/apexDescription",
         "value": "이 입력 패널은 작동하지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "입력 패널이지만, 완벽하게 죽었어."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 패널 엄청 망가졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "곤혹. 이 입력 패널은 완벽하게 죽었다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "더럽고 고장난 입력 패널. 안 움직일 거 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 입력패널은 철이 지난것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 낡아빠진 건 이제 써먹지도 못하겠어."
     }
 ]

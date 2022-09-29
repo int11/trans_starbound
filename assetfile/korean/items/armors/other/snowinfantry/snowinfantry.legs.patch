@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "설원 보병 바지"
+        "path": "/description",
+        "value": "발 얼지말라고 절연처리되어있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "발 얼지말라고 절연처리되어있다."
+        "path": "/shortdescription",
+        "value": "설원 보병 바지"
     }
 ]

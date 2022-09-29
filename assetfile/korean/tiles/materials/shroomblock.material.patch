@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뭔가 좀 아냐. 이 블록은 버섯으로 만들어 졌어."
+        "path": "/description",
+        "value": "부드러운 버섯으로 만든 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "버섯 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "버섯 블록"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "부드러운 버섯으로 만든 블록이다."
+        "path": "/novakidDescription",
+        "value": "뭔가 좀 아냐. 이 블록은 버섯으로 만들어 졌어."
     }
 ]

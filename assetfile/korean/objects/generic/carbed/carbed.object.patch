@@ -1,6 +1,36 @@
 [
     {
         "op": "replace",
+        "path": "/description",
+        "value": "자동차 모양의 침대, 어린이 취향저격용."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "자동차 침대"
+    },
+    {
+        "op": "replace",
+        "path": "/apexDescription",
+        "value": "지구의 골동품 차량 처럼 만들어진 평안한 침대다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "인간의 탈것 처럼 꾸민 침대야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이게 뭔지 모르겠는데... 차야 침대야?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 기계처럼 생겼지만 실재질은 나무인 침대이다."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "차모양 침대다! 어렸을적 부터 원하던 것중 하나였는데."
     },
@@ -11,37 +41,7 @@
     },
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이게 뭔지 모르겠는데... 차야 침대야?"
-    },
-    {
-        "op": "replace",
         "path": "/novakidDescription",
         "value": "침대 앞 부분에 발광 도색을 했네. 하지만 조명이랑 경광등은 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "인간의 탈것 처럼 꾸민 침대야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "지구의 골동품 차량 처럼 만들어진 평안한 침대다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 기계처럼 생겼지만 실재질은 나무인 침대이다."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "자동차 모양의 침대, 어린이 취향저격용."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "자동차 침대"
     }
 ]

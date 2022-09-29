@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타르 조작기"
+        "path": "/description",
+        "value": "타르로 만들어진 컴퓨터 조작기다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "타르로 만들어진 컴퓨터 조작기다."
+        "path": "/shortdescription",
+        "value": "타르 조작기"
     },
     {
         "op": "replace",

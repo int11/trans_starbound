@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "휴식의 기운"
+        "path": "/description",
+        "value": "크리스마스의 순수한 정수 그 자채다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "크리스마스의 순수한 정수 그 자채다."
+        "path": "/shortdescription",
+        "value": "휴식의 기운"
     }
 ]

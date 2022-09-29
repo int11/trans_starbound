@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "크고 낡은 모니터군. 무진장 늙은 에이프 빼곤 아무 것도 안 보여주네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "혹시 이 야수가 에이펙스 정권을 책임지는 건가? "
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "진짜 큰 원숭이네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "저게 악명높은 빅 에이프인가 뭔가 하는 그건가?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이거 빅 에이프인가? 실제로 본 사람은 한 명도 만나본 적 없는데..."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "주의. 저게 날 보진 못 하겠지?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "진짜 큰 TV다."
+        "path": "/description",
+        "value": "빅 에이프가 쳐다보고 있는 것 같다..."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "빅 에이프가 쳐다보고 있는 것 같다..."
+        "path": "/apexDescription",
+        "value": "이거 빅 에이프인가? 실제로 본 사람은 한 명도 만나본 적 없는데..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "진짜 큰 원숭이네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "진짜 큰 TV다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "주의. 저게 날 보진 못 하겠지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저게 악명높은 빅 에이프인가 뭔가 하는 그건가?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "혹시 이 야수가 에이펙스 정권을 책임지는 건가? "
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "크고 낡은 모니터군. 무진장 늙은 에이프 빼곤 아무 것도 안 보여주네."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달 기지 발판"
+        "path": "/description",
+        "value": "잘 만들어진 금속 발판이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "잘 만들어진 금속 발판이다."
+        "path": "/shortdescription",
+        "value": "달 기지 발판"
     },
     {
         "op": "replace",

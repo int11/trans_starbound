@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "은 바위"
+        "path": "/description",
+        "value": "은으로 가득한 금이간 바위다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "은으로 가득한 금이간 바위다."
+        "path": "/shortdescription",
+        "value": "은 바위"
     },
     {
         "op": "replace",

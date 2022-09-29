@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타르 랜턴"
+        "path": "/description",
+        "value": "타르로 만들어진 랜턴이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "타르로 만들어진 랜턴이다."
+        "path": "/shortdescription",
+        "value": "타르 랜턴"
     },
     {
         "op": "replace",

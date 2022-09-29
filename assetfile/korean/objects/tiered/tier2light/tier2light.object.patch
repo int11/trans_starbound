@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 조명"
+        "path": "/description",
+        "value": "간단한 텅스텐 램프다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간단한 텅스텐 램프다."
+        "path": "/shortdescription",
+        "value": "텅스텐 조명"
     },
     {
         "op": "replace",

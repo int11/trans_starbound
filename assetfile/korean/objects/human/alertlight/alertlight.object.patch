@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "조명이 관심을 열망하고 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "투박한 무용 조명이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "새처럼 울어재끼는 기계다. "
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "저건 위험하다고 고함을 지르는군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이런 경보기는 언제나 받아들이지 못할 짓에 관해 알려주어야 하는 에이펙스 거주설계에서는 흔하다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "애매. 착색 조명이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "쇼용돌이치는 조명. 병안에든 반딧불이 같아."
+        "path": "/description",
+        "value": "깜빡이는 빛은 긴급 사태의 어떤 종류가 있다는 신호를 의미한다..."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "깜빡이는 빛은 긴급 사태의 어떤 종류가 있다는 신호를 의미한다..."
+        "path": "/apexDescription",
+        "value": "이런 경보기는 언제나 받아들이지 못할 짓에 관해 알려주어야 하는 에이펙스 거주설계에서는 흔하다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "새처럼 울어재끼는 기계다. "
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "쇼용돌이치는 조명. 병안에든 반딧불이 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "애매. 착색 조명이군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저건 위험하다고 고함을 지르는군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "투박한 무용 조명이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "조명이 관심을 열망하고 있다."
     }
 ]

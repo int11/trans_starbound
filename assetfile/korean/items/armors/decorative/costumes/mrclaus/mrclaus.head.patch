@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "산타클로스의 모자"
+        "path": "/description",
+        "value": "산타클로스의 크리스마스 모자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "산타클로스의 크리스마스 모자."
+        "path": "/shortdescription",
+        "value": "산타클로스의 모자"
     }
 ]

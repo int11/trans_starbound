@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;가구, 상자, 블럭"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "기본적인 목공예를 하는 데에 딱 맞는 탁자다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "공업 작업대"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "value": "^#b9b5b2;가구, 상자, 블럭"
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-        "value": "나무 작업대"
+        "path": "/description",
+        "value": "탁자, 침대, 문, 의자 와 같은 가구에서 부터 전등이나 블럭까지 각종 건축 자재들을 만들 수 있다."
     },
     {
         "op": "replace",
@@ -31,23 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-        "value": "^orange;나무 작업대^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-        "value": "^orange;나무작업대^white; "
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "탁자, 침대, 문, 의자 와 같은 가구에서 부터 전등이나 블럭까지 각종 건축 자재들을 만들 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/upgradeStages/1/itemSpawnParameters/description",
-        "value": "탁자, 침대, 문, 의자 와 같은 가구에서 부터 전등이나 블럭까지 각종 건축 자재들을 만들 수 있다."
+        "path": "/apexDescription",
+        "value": "기본적인 목공예를 하는 데에 딱 맞는 탁자다."
     },
     {
         "op": "replace",
@@ -86,6 +51,11 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+        "value": "^orange;나무작업대^white; "
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
         "value": "一个适合进行基础木匠活的合成台。"
     },
@@ -121,6 +91,26 @@
     },
     {
         "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "나무 작업대"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;가구, 상자, 블럭"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/description",
+        "value": "탁자, 침대, 문, 의자 와 같은 가구에서 부터 전등이나 블럭까지 각종 건축 자재들을 만들 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+        "value": "^orange;나무 작업대^white; "
+    },
+    {
+        "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
         "value": "一个适合进行基础木匠活的合成台。"
     },
@@ -148,6 +138,16 @@
         "op": "replace",
         "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
         "value": "你所要做的就是将一个房子打造成一个家。"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+        "value": "공업 작업대"
+    },
+    {
+        "op": "replace",
+        "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "value": "^#b9b5b2;가구, 상자, 블럭"
     },
     {
         "op": "replace",

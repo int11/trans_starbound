@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "돌 문"
+        "path": "/description",
+        "value": "조약돌로 만든 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조약돌로 만든 문이다."
+        "path": "/shortdescription",
+        "value": "돌 문"
     },
     {
         "op": "replace",

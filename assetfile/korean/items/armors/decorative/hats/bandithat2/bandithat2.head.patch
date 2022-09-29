@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "강도의 후드"
+        "path": "/description",
+        "value": "착용자의 얼굴을 가려주는 후드. 비밀 임무용으로 적당하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "착용자의 얼굴을 가려주는 후드. 비밀 임무용으로 적당하다."
+        "path": "/shortdescription",
+        "value": "강도의 후드"
     }
 ]

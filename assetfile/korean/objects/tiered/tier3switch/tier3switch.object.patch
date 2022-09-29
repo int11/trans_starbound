@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "티타늄 조작기"
+        "path": "/description",
+        "value": "티타늄 제어 조작기다. 모든 버튼을 눌러!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "티타늄 제어 조작기다. 모든 버튼을 눌러!"
+        "path": "/shortdescription",
+        "value": "티타늄 조작기"
     },
     {
         "op": "replace",

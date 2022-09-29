@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 블록들은 철로 공들여 만들어졌다."
+        "path": "/description",
+        "value": "단단한 철 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "철 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "철 블록"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "단단한 철 블록."
+        "path": "/novakidDescription",
+        "value": "이 블록들은 철로 공들여 만들어졌다."
     }
 ]

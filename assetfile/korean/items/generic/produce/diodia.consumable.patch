@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다이오디아"
+        "path": "/description",
+        "value": "구리 맛이 난다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "구리 맛이 난다."
+        "path": "/shortdescription",
+        "value": "다이오디아"
     }
 ]

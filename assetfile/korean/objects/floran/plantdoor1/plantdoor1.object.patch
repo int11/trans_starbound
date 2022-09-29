@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "덩쿨 나무"
+        "path": "/description",
+        "value": "엉킨 덩쿨로 만든 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "엉킨 덩쿨로 만든 문이다."
+        "path": "/shortdescription",
+        "value": "덩쿨 나무"
     },
     {
         "op": "replace",

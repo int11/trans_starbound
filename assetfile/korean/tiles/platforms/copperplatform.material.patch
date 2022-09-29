@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 발판은 구리로 만든게 분명해."
+        "path": "/shortdescription",
+        "value": "구리 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "구리로 만든 플랫폼이다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구리 플랫폼"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "구리로 만든 플랫폼이다."
+        "path": "/novakidDescription",
+        "value": "이 발판은 구리로 만든게 분명해."
     }
 ]

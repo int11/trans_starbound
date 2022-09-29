@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "도약 확장 부품"
+        "path": "/description",
+        "value": "점프 높이를 올려주는 EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "점프 높이를 올려주는 EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "도약 확장 부품"
     },
     {
         "op": "replace",

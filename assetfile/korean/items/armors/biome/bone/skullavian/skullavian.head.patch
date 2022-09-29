@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아비안 머리뼈 가면"
+        "path": "/description",
+        "value": "아비안 머리뼈 인거 같다. 머리에 쓰기 딱이구만!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아비안 머리뼈 인거 같다. 머리에 쓰기 딱이구만!"
+        "path": "/shortdescription",
+        "value": "아비안 머리뼈 가면"
     }
 ]

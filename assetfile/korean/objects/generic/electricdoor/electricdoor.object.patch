@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "전기 장벽"
+        "path": "/description",
+        "value": "전기 장벽의 일종이다. 위험해 보여..."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전기 장벽의 일종이다. 위험해 보여..."
+        "path": "/shortdescription",
+        "value": "전기 장벽"
     },
     {
         "op": "replace",

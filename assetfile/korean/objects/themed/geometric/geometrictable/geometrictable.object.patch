@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "별로 튼튼해보이진 않지만, 튼튼하네!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "내 입맛에 맞는 탁자는 아니지만, 꽤 놀라운 물건이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "대단히 튼튼한 기하학적 탁자다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "끝내주는 기하학적 탁자다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "되게 폼나는 기하학적 탁자다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "인정. 아주 잘 만든 기하학적 탁자다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "탁자 플로란 고기 쎨어도 될 정도로 좋다."
+        "path": "/description",
+        "value": "아주 잘 만들어진 기하학적 탁자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아주 잘 만들어진 기하학적 탁자다."
+        "path": "/apexDescription",
+        "value": "되게 폼나는 기하학적 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "대단히 튼튼한 기하학적 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "탁자 플로란 고기 쎨어도 될 정도로 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "인정. 아주 잘 만든 기하학적 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "끝내주는 기하학적 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "내 입맛에 맞는 탁자는 아니지만, 꽤 놀라운 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "별로 튼튼해보이진 않지만, 튼튼하네!"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "건조하고 먼지투성이인 달바위네."
+        "path": "/description",
+        "value": "거칠고, 꺼끌한 달바위."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "달바위"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "달바위"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "거칠고, 꺼끌한 달바위."
+        "path": "/novakidDescription",
+        "value": "건조하고 먼지투성이인 달바위네."
     }
 ]

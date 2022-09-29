@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부리씨"
+        "path": "/description",
+        "value": "바삭 바삭 부리씨."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바삭 바삭 부리씨."
+        "path": "/shortdescription",
+        "value": "부리씨"
     }
 ]

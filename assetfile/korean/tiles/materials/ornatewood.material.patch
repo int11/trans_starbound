@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 나무는 뭔가로 처리되어있는걸로 보이는걸."
+        "path": "/description",
+        "value": "전문적으로 처리된 화려한 나무."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "화려한 나무"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전문적으로 처리된 화려한 나무."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "화려한 나무"
+        "path": "/novakidDescription",
+        "value": "이 나무는 뭔가로 처리되어있는걸로 보이는걸."
     }
 ]

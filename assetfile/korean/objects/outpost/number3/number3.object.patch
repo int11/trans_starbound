@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "숫자 \"3\""
+        "path": "/description",
+        "value": "숫자 \"3\" 을 벽에 새긴다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "숫자 \"3\" 을 벽에 새긴다."
+        "path": "/shortdescription",
+        "value": "숫자 \"3\""
     },
     {
         "op": "replace",

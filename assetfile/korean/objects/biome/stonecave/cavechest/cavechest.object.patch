@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "매우 간단한 디자인의 상자야. 하지만 잘 만들었는걸."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "간단해보이지만 재물을 넣어두기엔 좋아보이네"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "그냥 바위라고 해도 믿겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "보통의 바위로 만든 상자다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뚜껑 디게 무겁네."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감명. 매우 훌륭한 위장 상자로군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "물건 넣기에 정말 딱 좋아 보여."
+        "path": "/description",
+        "value": "바위를 깍아 만든 상자다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "바위를 깍아 만든 상자다."
+        "path": "/apexDescription",
+        "value": "보통의 바위로 만든 상자다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "간단해보이지만 재물을 넣어두기엔 좋아보이네"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "물건 넣기에 정말 딱 좋아 보여."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감명. 매우 훌륭한 위장 상자로군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "그냥 바위라고 해도 믿겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "매우 간단한 디자인의 상자야. 하지만 잘 만들었는걸."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뚜껑 디게 무겁네."
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "강철로 만든 튼튼해보이는 벽이다."
+        "path": "/description",
+        "value": "고정된 금속 벽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "강철 난간"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고정된 금속 벽이다."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "강철 난간"
+        "path": "/novakidDescription",
+        "value": "강철로 만든 튼튼해보이는 벽이다."
     }
 ]

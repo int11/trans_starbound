@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "비평. 나는 사이키델릭 로데오 난투에 4/10점을 줬다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사이키델릭 로데오 난투? 이건 진짜 로데오랑은 전혀 다르군..."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "사이키델릭 로데오 난투의 본질은 성장 이야기라 생각한다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "사이키델릭 로데오 난투는 사실 치유물 게임이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "제목만 봐서는 모르겠지만 사이키델릭 로데오 난투는 꽤 심오한 게임이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "사이키델릭 로데오 난투는 참으로 내 눈을 뜨게 해줬다. 이젠 모든 것이 다르게 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이 게임 샤이코틱 로데오 난투인줄 알고 신났다. 응 아니다."
+        "path": "/description",
+        "value": "이 기계는 '사이키델릭 로데오 난투'라는 게임을 가동한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 기계는 '사이키델릭 로데오 난투'라는 게임을 가동한다."
+        "path": "/apexDescription",
+        "value": "사이키델릭 로데오 난투는 참으로 내 눈을 뜨게 해줬다. 이젠 모든 것이 다르게 보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "사이키델릭 로데오 난투는 사실 치유물 게임이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 게임 샤이코틱 로데오 난투인줄 알고 신났다. 응 아니다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "비평. 나는 사이키델릭 로데오 난투에 4/10점을 줬다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "제목만 봐서는 모르겠지만 사이키델릭 로데오 난투는 꽤 심오한 게임이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "사이키델릭 로데오 난투의 본질은 성장 이야기라 생각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사이키델릭 로데오 난투? 이건 진짜 로데오랑은 전혀 다르군..."
     }
 ]

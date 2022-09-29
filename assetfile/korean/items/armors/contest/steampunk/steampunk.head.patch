@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스팀펑크 투구"
+        "path": "/description",
+        "value": "이 장식된 투구는 머리와 눈을 보호한다. 그외엔 없어. 뭘 더 바래?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 장식된 투구는 머리와 눈을 보호한다. 그외엔 없어. 뭘 더 바래?"
+        "path": "/shortdescription",
+        "value": "스팀펑크 투구"
     }
 ]

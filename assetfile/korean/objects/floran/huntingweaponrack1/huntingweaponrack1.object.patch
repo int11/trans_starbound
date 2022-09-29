@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나무 진열대에 창들이 걸려있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "무기걸이로 디자인된 진열대."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 창들은 별 가치 없는 거 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "무기 진열대에 걸린 플로란 창."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "신중. 여차할 때 바로 쥐여나갈 준비가 되어있는 날카로운 창이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "세로로 걸린 창들."
+        "path": "/description",
+        "value": "一个武器架。不出所料，大部分武器都不见了。"
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "一个武器架。不出所料，大部分武器都不见了。"
+        "path": "/apexDescription",
+        "value": "무기 진열대에 걸린 플로란 창."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "무기걸이로 디자인된 진열대."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "세로로 걸린 창들."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "신중. 여차할 때 바로 쥐여나갈 준비가 되어있는 날카로운 창이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 창들은 별 가치 없는 거 같아."
     },
     {
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "一个暴力行为的无耻展架。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무 진열대에 창들이 걸려있어."
     }
 ]

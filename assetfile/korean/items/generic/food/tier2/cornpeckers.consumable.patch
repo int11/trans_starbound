@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "옥수수 부리"
+        "path": "/description",
+        "value": "새부리씨앗과 마른 옥수수.에이비안 트레일이나 아침용 시리얼로 주로 먹는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "새부리씨앗과 마른 옥수수.에이비안 트레일이나 아침용 시리얼로 주로 먹는다."
+        "path": "/shortdescription",
+        "value": "옥수수 부리"
     }
 ]

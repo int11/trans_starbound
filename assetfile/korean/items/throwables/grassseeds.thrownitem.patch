@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "경작된 축축한 땅에  뿌려서 잔디를 키워라."
+        "path": "/shortdescription",
+        "value": "잔디 씨앗"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "잔디 씨앗"
+        "path": "/description",
+        "value": "경작된 축축한 땅에  뿌려서 잔디를 키워라."
     }
 ]

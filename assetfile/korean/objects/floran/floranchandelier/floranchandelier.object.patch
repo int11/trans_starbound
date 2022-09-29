@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "어린 나무에 횃불을 묶은 뒤 거꾸로 걸어놓은 것처럼 보여."
+        "path": "/description",
+        "value": "멋진 샹들리에를 대신해 묘목에 횃불들이 붙어있다."
     },
     {
         "op": "replace",
@@ -11,18 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이건 플로란 공예품 중 뼈로 만들지 않은 것이로군. 잠깐... 횃불을 붙잡고 있는 저건 뭐지?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "즐거움. 작은 나무가 천장에 매달린 것으로 보이는군."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나무에 횃불들을 묶어 놓은것 같아. 투박한 분위기가 좋네.."
+        "path": "/apexDescription",
+        "value": "어린 나무에 횃불을 묶은 뒤 거꾸로 걸어놓은 것처럼 보여."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "멋진 샹들리에를 대신해 묘목에 횃불들이 붙어있다."
+        "path": "/glitchDescription",
+        "value": "즐거움. 작은 나무가 천장에 매달린 것으로 보이는군."
     },
     {
         "op": "replace",
         "path": "/humanDescription",
         "value": "플로란들이 샹들리에를 만들 때 묘목을 사용한 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이건 플로란 공예품 중 뼈로 만들지 않은 것이로군. 잠깐... 횃불을 붙잡고 있는 저건 뭐지?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무에 횃불들을 묶어 놓은것 같아. 투박한 분위기가 좋네.."
     }
 ]

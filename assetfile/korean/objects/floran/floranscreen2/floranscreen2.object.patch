@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 칸막이 뒤에서 준비한 요리로 다른 플로란 놀래켜 줘. 더 많이 놀래켜 줄슈록 친구도 많아져."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 칸막이엔 피와 내장 냄새가 짙게 배여있어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "사생활이든 뭐든간에 지정부 법에선 칸막이가 불법이야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "역겨움. 칸막이에 피가 얼룩진 것이 이걸 식사 준비를 가리는데 썼음을 보여주는군."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "플로란이 식사를 준비할 때 쓰인 가죽 칸막이이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 가죽 칸막이 뒷편에서 어떤 끔찍한 도살이 일어난거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 칸막이의 가죽은 아주 많은 피를 빨아들였던 것 같다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
+        "path": "/apexDescription",
+        "value": "사생활이든 뭐든간에 지정부 법에선 칸막이가 불법이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 칸막이의 가죽은 아주 많은 피를 빨아들였던 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 칸막이 뒤에서 준비한 요리로 다른 플로란 놀래켜 줘. 더 많이 놀래켜 줄슈록 친구도 많아져."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "역겨움. 칸막이에 피가 얼룩진 것이 이걸 식사 준비를 가리는데 썼음을 보여주는군."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "在这屏风后面有着一些装在袋子中的动物残骸。"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 가죽 칸막이 뒷편에서 어떤 끔찍한 도살이 일어난거야?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 칸막이엔 피와 내장 냄새가 짙게 배여있어."
     }
 ]

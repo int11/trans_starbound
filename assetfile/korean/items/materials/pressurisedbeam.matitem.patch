@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가압 보강대"
+        "path": "/description",
+        "value": "가압적 환경에 적합한 보강대다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가압적 환경에 적합한 보강대다."
+        "path": "/shortdescription",
+        "value": "가압 보강대"
     },
     {
         "op": "replace",

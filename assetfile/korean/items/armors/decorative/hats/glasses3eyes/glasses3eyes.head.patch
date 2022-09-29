@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "세눈 안경 "
+        "path": "/description",
+        "value": "현미경 시야를 가진 사람에게 적합한 안경이다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "현미경 시야를 가진 사람에게 적합한 안경이다!"
+        "path": "/shortdescription",
+        "value": "세눈 안경 "
     }
 ]

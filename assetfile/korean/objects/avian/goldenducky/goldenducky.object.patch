@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "황금 새끼오리"
+        "path": "/description",
+        "value": "황금 오리다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "황금 오리다!"
+        "path": "/shortdescription",
+        "value": "황금 새끼오리"
     },
     {
         "op": "replace",

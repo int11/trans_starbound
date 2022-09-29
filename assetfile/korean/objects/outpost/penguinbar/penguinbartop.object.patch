@@ -1,48 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/chatOptions/1",
-        "value": "너 내 문제 들어줄라고 온거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/chatOptions/0",
-        "value": "요즘 장사가 영 시원찮단 말야..."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "술 파는 척도 안하네, 이 낡은 바는."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "정말 저렴하게 생겨먹은 가게야. 바텐더는 실제론 아무 것도 안 파는 것 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "바에 술은 많은데 바텐더는 아무 것도 안 팔 것같아..."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "간신히 바의 모습을 하고 있군. 여기서 어떤 마실 거리도 팔 생각이 없다는 건 확실하네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 펭귄 바는 제대로 갖춰지지 않았어. 여기서 마실 걸 판다는 확신도 안 서는군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "의심. 바텐더가 병은 잡고 있어도 술을 팔 것 같지는 않아 보이는군..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "바가 아무한테도 슐을 안 판다!"
+        "path": "/description",
+        "value": "펭귄 맞춤 사이즈 판매대."
     },
     {
         "op": "replace",
@@ -51,15 +11,45 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "펭귄 맞춤 사이즈 판매대."
+        "path": "/apexDescription",
+        "value": "이 펭귄 바는 제대로 갖춰지지 않았어. 여기서 마실 걸 판다는 확신도 안 서는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "바에 술은 많은데 바텐더는 아무 것도 안 팔 것같아..."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "바가 아무한테도 슐을 안 판다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "의심. 바텐더가 병은 잡고 있어도 술을 팔 것 같지는 않아 보이는군..."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "간신히 바의 모습을 하고 있군. 여기서 어떤 마실 거리도 팔 생각이 없다는 건 확실하네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "정말 저렴하게 생겨먹은 가게야. 바텐더는 실제론 아무 것도 안 파는 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "술 파는 척도 안하네, 이 낡은 바는."
     },
     {
         "op": "replace",
         "path": "/chatOptions",
         "value": [
-            "最近生意不怎么样…",
-            "你来这是帮我解决问题的，啊哈？"
+            "요즘 장사가 영 시원찮단 말야...",
+            "너 내 문제 들어줄라고 온거지?"
         ]
     }
 ]

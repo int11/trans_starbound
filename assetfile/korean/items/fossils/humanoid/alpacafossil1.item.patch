@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "알파카 머리뼈 화석 (Alpaca Skull)"
+        "path": "/description",
+        "value": "화석이 된 알파카의 머리뼈다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화석이 된 알파카의 머리뼈다."
+        "path": "/shortdescription",
+        "value": "알파카 머리뼈 화석 (Alpaca Skull)"
     },
     {
         "op": "replace",

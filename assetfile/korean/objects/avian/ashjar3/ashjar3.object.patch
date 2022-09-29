@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뭔놈의 생물이 이렇게 생겼다냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이상한 생물이군."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "야 저거 꼭 생긴게..."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 단지 되게 익숙하게 생겼다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이런 생물체는 본 적이 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이 섕물 무슨 맛일지 궁금하다."
+        "path": "/description",
+        "value": "익숙하게 생긴 단지. 화난 것 같고 부술 수 있을 것 같다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "익숙하게 생긴 단지. 화난 것 같고 부술 수 있을 것 같다."
+        "path": "/apexDescription",
+        "value": "이 단지 되게 익숙하게 생겼다."
     },
     {
         "op": "replace",
         "path": "/avianDescription",
         "value": "이런 단지는 본 적이 없는데. 아마 유머감각이 있는 누군가의 유해가 들어있는 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이 섕물 무슨 맛일지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이런 생물체는 본 적이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "야 저거 꼭 생긴게..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이상한 생물이군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "뭔놈의 생물이 이렇게 생겼다냐?"
     }
 ]

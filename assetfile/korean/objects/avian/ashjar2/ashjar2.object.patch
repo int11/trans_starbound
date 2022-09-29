@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 단지에 든 잿더미는 부끄럽게 죽은 아비안의 유해다. 토끼 표시는 안에 든 아비안이 영계에서 영원히 날개를 갖지 못 할 것을 의미한다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사격 연습용으로 딱 좋아보이는 단지다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "왜 아비안이 망자들의 유해를 이런 단지에 담아뒀을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "토끼 단지다. 유해로 가득 차있다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "단지 안에 잿더미가 가득하다. 유해일 지도 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 이 재는 아비안에게서 나왔지만, 왜 단지는 이런 모양새일까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "이거 아비안 재야 아니면 다른 섕물 재야?"
+        "path": "/description",
+        "value": "잿더미로 가득찬 토끼 모양 단지다. 부숴볼까."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "잿더미로 가득찬 토끼 모양 단지다. 부숴볼까."
+        "path": "/apexDescription",
+        "value": "단지 안에 잿더미가 가득하다. 유해일 지도 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 단지에 든 잿더미는 부끄럽게 죽은 아비안의 유해다. 토끼 표시는 안에 든 아비안이 영계에서 영원히 날개를 갖지 못 할 것을 의미한다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "이거 아비안 재야 아니면 다른 섕물 재야?"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 이 재는 아비안에게서 나왔지만, 왜 단지는 이런 모양새일까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "토끼 단지다. 유해로 가득 차있다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "왜 아비안이 망자들의 유해를 이런 단지에 담아뒀을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사격 연습용으로 딱 좋아보이는 단지다."
     }
 ]

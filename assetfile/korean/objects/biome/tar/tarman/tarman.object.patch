@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "타르사람"
+        "path": "/description",
+        "value": "눈사람같다, 하지만 끈끈해."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈사람같다, 하지만 끈끈해."
+        "path": "/shortdescription",
+        "value": "타르사람"
     },
     {
         "op": "replace",

@@ -6,8 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 금속 대들보는 강력해 보인다."
+        "path": "/shortdescription",
+        "value": "압력 대들보"
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "압력 대들보"
+        "path": "/novakidDescription",
+        "value": "이 금속 대들보는 강력해 보인다."
     }
 ]

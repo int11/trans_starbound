@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "물곡이 (아이템 안나옴)"
+        "path": "/description",
+        "value": "물곡이 한방이면... 너도, 나도, 블럭들도..."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "물곡이 한방이면... 너도, 나도, 블럭들도..."
+        "path": "/shortdescription",
+        "value": "물곡이 (아이템 안나옴)"
     }
 ]

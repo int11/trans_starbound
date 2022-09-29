@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "은밀한 기슐이다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이거 버튼이야? 조심해야겠네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "속임수 한 번 거창하군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "동상에 이상한 점이 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "동상에 달린 버튼 썩 잘 숨기지도 않았네."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "동상에 표시가 되어있다. 누를 수 있어보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "조사. 이 동상에 뭔가 숨겨진 장치가 있다."
+        "path": "/description",
+        "value": "신성한 과일! 모두 거대 바나나를 찬양하라!"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신성한 과일! 모두 거대 바나나를 찬양하라!"
+        "path": "/apexDescription",
+        "value": "동상에 표시가 되어있다. 누를 수 있어보인다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "동상에 이상한 점이 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "은밀한 기슐이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "조사. 이 동상에 뭔가 숨겨진 장치가 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "동상에 달린 버튼 썩 잘 숨기지도 않았네."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "속임수 한 번 거창하군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이거 버튼이야? 조심해야겠네."
     }
 ]

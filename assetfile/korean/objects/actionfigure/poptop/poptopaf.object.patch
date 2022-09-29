@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "팝탑 모형"
+        "path": "/description",
+        "value": "\"팝탑은 먹이를 혼란스럽게 하기위해 아름답게 흥얼 거린다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"팝탑은 먹이를 혼란스럽게 하기위해 아름답게 흥얼 거린다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "팝탑 모형"
     }
 ]

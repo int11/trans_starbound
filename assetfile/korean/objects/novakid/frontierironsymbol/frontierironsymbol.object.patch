@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이게 뭘 상징한다는 거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "의미가 있는거야? 아님 그냥 장식용인거야?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 철 문양, 벽에 걸어두는군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "흥미. 이 벽 장식품이 어떤 깊은 뜻이 있는거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이 벽걸이 효과적인 무기인지 궁금해."
+        "path": "/description",
+        "value": "장식용 철 문양이다."
     },
     {
         "op": "replace",
@@ -31,8 +11,28 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "장식용 철 문양이다."
+        "path": "/apexDescription",
+        "value": "이 철 문양, 벽에 걸어두는군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이게 뭘 상징한다는 거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이 벽걸이 효과적인 무기인지 궁금해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "흥미. 이 벽 장식품이 어떤 깊은 뜻이 있는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "의미가 있는거야? 아님 그냥 장식용인거야?"
     },
     {
         "op": "replace",

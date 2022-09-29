@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "강력한 철제 도리"
+        "path": "/description",
+        "value": "튼튼해 보이는 철제 도리"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "도리"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "튼튼해 보이는 철제 도리"
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "도리"
+        "path": "/novakidDescription",
+        "value": "강력한 철제 도리"
     }
 ]

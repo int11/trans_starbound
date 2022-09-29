@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조잡한 두뇌"
+        "path": "/description",
+        "value": "두뇌 세포의 낭비."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "두뇌 세포의 낭비."
+        "path": "/shortdescription",
+        "value": "조잡한 두뇌"
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "S.A.I.L"
+        "path": "/description",
+        "value": "함선-기반 인공 지능 비서,혹은 짧게 S.A.I.L."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "함선-기반 인공 지능 비서,혹은 짧게 S.A.I.L."
+        "path": "/shortdescription",
+        "value": "S.A.I.L"
     },
     {
         "op": "replace",

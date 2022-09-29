@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이런 무덤들은 아비안 가족들이 죽은 자가 가게 될 곳을 꾸민 거야. 판화들은 천국을 그려놓은 거지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "무덤을 좀 더 밝게 꾸미려고 했나봐. 별반 소용 없는 거 같지만."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이건 누군가의 휴식처야. 장식으로 보건데 꽤나 좋아했을 거 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "무덤의 장식 모양들은 아마도 아비안 사후세계인 것같군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "누가 판화로 죽은 자의 명예를 기리려 시도한 모습이야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 무덤은 서투른 손으로 장식했군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 무덤에서 썩는 거 싫어한다."
+        "path": "/description",
+        "value": "천국의 모습이 새겨진 아비안 무덤."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "천국의 모습이 새겨진 아비안 무덤."
+        "path": "/apexDescription",
+        "value": "무덤의 장식 모양들은 아마도 아비안 사후세계인 것같군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이런 무덤들은 아비안 가족들이 죽은 자가 가게 될 곳을 꾸민 거야. 판화들은 천국을 그려놓은 거지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 무덤에서 썩는 거 싫어한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 이 무덤은 서투른 손으로 장식했군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "무덤을 좀 더 밝게 꾸미려고 했나봐. 별반 소용 없는 거 같지만."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "누가 판화로 죽은 자의 명예를 기리려 시도한 모습이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이건 누군가의 휴식처야. 장식으로 보건데 꽤나 좋아했을 거 같군."
     }
 ]

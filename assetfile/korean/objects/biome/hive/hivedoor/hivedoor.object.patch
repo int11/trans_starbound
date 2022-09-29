@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "벌집 문"
+        "path": "/description",
+        "value": "유기 육각 포드로 만든 끈끈한 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유기 육각 포드로 만든 끈끈한 문이다."
+        "path": "/shortdescription",
+        "value": "벌집 문"
     },
     {
         "op": "replace",

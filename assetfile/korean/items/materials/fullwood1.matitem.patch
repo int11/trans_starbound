@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "칠이 된 목재"
+        "path": "/description",
+        "value": "막 잘려진 외형을 보존하도록 조심스레 칠해진 나무이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "막 잘려진 외형을 보존하도록 조심스레 칠해진 나무이다."
+        "path": "/shortdescription",
+        "value": "칠이 된 목재"
     },
     {
         "op": "replace",

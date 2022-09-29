@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "약초 물약"
+        "path": "/description",
+        "value": "자연물을 조합해 만들었다. 치유 효과가 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자연물을 조합해 만들었다. 치유 효과가 있다."
+        "path": "/shortdescription",
+        "value": "약초 물약"
     }
 ]

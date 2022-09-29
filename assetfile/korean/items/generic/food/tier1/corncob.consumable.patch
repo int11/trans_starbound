@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "버터 옥수수"
+        "path": "/description",
+        "value": "버터가 듬뿍 발린 옥수수이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "버터가 듬뿍 발린 옥수수이다."
+        "path": "/shortdescription",
+        "value": "버터 옥수수"
     }
 ]

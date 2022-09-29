@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "수상쩍어 보이는 상자. 안에 뭐가 들었을지 궁금한데?"
+        "path": "/description",
+        "value": "상점을 차리기 괜찮은 곳처럼 보인다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "문닫은 펭귄 베이"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "상점을 차리기 괜찮은 곳처럼 보인다."
     },
     {
         "op": "replace",
@@ -43,5 +38,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "这巨锚来自巨船？"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "수상쩍어 보이는 상자. 안에 뭐가 들었을지 궁금한데?"
     }
 ]

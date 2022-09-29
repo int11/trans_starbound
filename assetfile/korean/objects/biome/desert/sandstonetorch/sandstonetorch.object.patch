@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사암 횃불"
+        "path": "/description",
+        "value": "이 횃불은 부드럽게 깜박인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 횃불은 부드럽게 깜박인다."
+        "path": "/shortdescription",
+        "value": "사암 횃불"
     },
     {
         "op": "replace",

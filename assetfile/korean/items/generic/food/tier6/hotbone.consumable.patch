@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "매운골"
+        "path": "/description",
+        "value": "플로란이 대접하는, 고추와 함께 볶은 바삭하고 매운 골순이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "플로란이 대접하는, 고추와 함께 볶은 바삭하고 매운 골순이다."
+        "path": "/shortdescription",
+        "value": "매운골"
     }
 ]

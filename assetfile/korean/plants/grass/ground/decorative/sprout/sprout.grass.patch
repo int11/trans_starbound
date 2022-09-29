@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 작은 새싹."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "섀쌱."
+        "path": "/description",
+        "value": "작은 새싹."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 새싹."
+        "path": "/floranDescription",
+        "value": "섀쌱."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 작은 새싹."
     }
 ]

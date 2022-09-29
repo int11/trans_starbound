@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "할로겐 꾸러미"
+        "path": "/description",
+        "value": "할로겐 조명이 부착된 배낭. 매우 밝다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "할로겐 조명이 부착된 배낭. 매우 밝다!"
+        "path": "/shortdescription",
+        "value": "할로겐 꾸러미"
     }
 ]

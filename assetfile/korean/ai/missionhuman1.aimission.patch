@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/speciesText/default/repeatButtonText",
-        "value": "에르키우스 채굴 시설 다시 가기"
+        "path": "/speciesText/default/buttonText",
+        "value": "에르키우스 채굴 시설"
     },
     {
         "op": "replace",
-        "path": "/speciesText/default/buttonText",
-        "value": "에르키우스 채굴 시설"
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "에르키우스 채굴 시설 다시 가기"
     },
     {
         "op": "replace",

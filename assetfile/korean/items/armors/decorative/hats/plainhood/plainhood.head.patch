@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "평범한 후드"
+        "path": "/description",
+        "value": "신원을 가리려는 사람에게 유용."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신원을 가리려는 사람에게 유용."
+        "path": "/shortdescription",
+        "value": "평범한 후드"
     }
 ]

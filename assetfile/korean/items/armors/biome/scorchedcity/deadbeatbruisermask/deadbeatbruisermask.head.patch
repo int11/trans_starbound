@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하얗게 불태운 사나이의 가면"
+        "path": "/description",
+        "value": "지키기 위해 존재하는 것이 아닌, 도금된 가면."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "지키기 위해 존재하는 것이 아닌, 도금된 가면."
+        "path": "/shortdescription",
+        "value": "하얗게 불태운 사나이의 가면"
     }
 ]

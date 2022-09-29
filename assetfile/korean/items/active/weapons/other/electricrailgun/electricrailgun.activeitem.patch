@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "테슬라의 분노"
+        "path": "/description",
+        "value": "힘 쌔고 강력한 위력으로 장거리를 커버할수있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "힘 쌔고 강력한 위력으로 장거리를 커버할수있다."
+        "path": "/shortdescription",
+        "value": "테슬라의 분노"
     },
     {
         "op": "replace",

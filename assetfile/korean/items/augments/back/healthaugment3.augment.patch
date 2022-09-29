@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "체력 III 확장 부품"
+        "path": "/description",
+        "value": "체력을 많이 올려주는 EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "체력을 많이 올려주는 EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "체력 III 확장 부품"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "무거운 문"
+        "path": "/description",
+        "value": "종종 주조 공장에서 쓰이는 무거운 금속 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "종종 주조 공장에서 쓰이는 무거운 금속 문이다."
+        "path": "/shortdescription",
+        "value": "무거운 문"
     },
     {
         "op": "replace",

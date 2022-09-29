@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 인조 뿔은 뭐지? 뭐에 쓰이는지 짐작이 안가는데"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 인조 뿔, 윤기나서 반짝가려."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "오래된 뿔장식이라... 잠깐, 이거 진짜 뿔이 아니잖아!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "혼란. 인조 뿔이라니? 뭐에 쓰는거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 샤냥 포샹 인척하는거 별론거 같아."
+        "path": "/description",
+        "value": "놋쇠 뿔로 만든 장식이다."
     },
     {
         "op": "replace",
@@ -31,13 +11,33 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "놋쇠 뿔로 만든 장식이다."
+        "path": "/apexDescription",
+        "value": "第一眼看上去还以为是一套装好的兽角，但实际上这似乎是人工制造的。"
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "第一眼看上去还以为是一套装好的兽角，但实际上这似乎是人工制造的。"
+        "path": "/avianDescription",
+        "value": "이 인조 뿔, 윤기나서 반짝가려."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 샤냥 포샹 인척하는거 별론거 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "혼란. 인조 뿔이라니? 뭐에 쓰는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "오래된 뿔장식이라... 잠깐, 이거 진짜 뿔이 아니잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 인조 뿔은 뭐지? 뭐에 쓰이는지 짐작이 안가는데"
     },
     {
         "op": "replace",

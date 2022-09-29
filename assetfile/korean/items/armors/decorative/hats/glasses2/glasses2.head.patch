@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "외알 안경"
+        "path": "/description",
+        "value": "진짜 신사같이 보인다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "진짜 신사같이 보인다."
+        "path": "/shortdescription",
+        "value": "외알 안경"
     }
 ]

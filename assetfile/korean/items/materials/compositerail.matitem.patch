@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "복합 레일"
+        "path": "/description",
+        "value": "강하게 보강된 레일."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강하게 보강된 레일."
+        "path": "/shortdescription",
+        "value": "복합 레일"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "서류 정리함"
+        "path": "/description",
+        "value": "서류를 넣어두는 사물함이다. 잘 분류되어있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "서류를 넣어두는 사물함이다. 잘 분류되어있다."
+        "path": "/shortdescription",
+        "value": "서류 정리함"
     },
     {
         "op": "replace",

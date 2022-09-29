@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "멋진 패즈"
+        "path": "/description",
+        "value": "패즈는... 깔금하다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "패즈는... 깔금하다!"
+        "path": "/shortdescription",
+        "value": "멋진 패즈"
     }
 ]

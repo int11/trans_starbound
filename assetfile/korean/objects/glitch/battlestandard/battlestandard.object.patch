@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 깃발 아마 누군가에게 무슨 메시지를 전달하려는 것 같다."
+        "path": "/description",
+        "value": "엠블럼이 있는 체크무늬의 깃발이다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "옮겨다가 표지로 설치하는 깃발인 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "전장 깃발이다. 현대에선 아주 가-끔 쓰이는데."
+        "path": "/shortdescription",
+        "value": "전투 군기"
     },
     {
         "op": "replace",
@@ -21,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "정보. 글리치 전투 깃대. 이들은 전투중인 전장에 배치된다."
+        "path": "/avianDescription",
+        "value": "다채로운 깃발이다."
     },
     {
         "op": "replace",
@@ -31,17 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "엠블럼이 있는 체크무늬의 깃발이다."
+        "path": "/glitchDescription",
+        "value": "정보. 글리치 전투 깃대. 이들은 전투중인 전장에 배치된다."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "다채로운 깃발이다."
+        "path": "/humanDescription",
+        "value": "전장 깃발이다. 현대에선 아주 가-끔 쓰이는데."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "전투 군기"
+        "path": "/hylotlDescription",
+        "value": "옮겨다가 표지로 설치하는 깃발인 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 깃발 아마 누군가에게 무슨 메시지를 전달하려는 것 같다."
     }
 ]

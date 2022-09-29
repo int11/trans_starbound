@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 이 벽돌은 조약돌로 만든거로군."
+        "path": "/shortdescription",
+        "value": "조약돌 벽돌"
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "조약돌로 만든 벽돌이다."
+        "path": "/glitchDescription",
+        "value": "관찰. 이 벽돌은 조약돌로 만든거로군."
     },
     {
         "op": "replace",
@@ -21,7 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조약돌 벽돌"
+        "path": "/novakidDescription",
+        "value": "조약돌로 만든 벽돌이다."
     }
 ]

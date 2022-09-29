@@ -1,23 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 모피는 새끼의 것이야. 더더욱 걱정되는군."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아름답고 어린 짐승의 털가죽이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "걱정. 플로란에게 사냥당한 어린 동물의 모피다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "어린 눈짐승 모피 플로란한테 쇼중해."
+        "path": "/description",
+        "value": "눈 덮인 곳에 사는 작은 동물의 모피다."
     },
     {
         "op": "replace",
@@ -26,8 +11,23 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "예쁜 동물이야. 아니면 예쁜 동물이였거나."
+        "path": "/apexDescription",
+        "value": "이 털가죽은 새끼의 것 같군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아름답고 어린 짐승의 털가죽이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "어린 눈짐승 모피 플로란한테 쇼중해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "걱정. 플로란에게 사냥당한 어린 동물의 모피다."
     },
     {
         "op": "replace",
@@ -36,12 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "이 털가죽은 새끼의 것 같군."
+        "path": "/hylotlDescription",
+        "value": "이 모피는 새끼의 것이야. 더더욱 걱정되는군."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈 덮인 곳에 사는 작은 동물의 모피다."
+        "path": "/novakidDescription",
+        "value": "예쁜 동물이야. 아니면 예쁜 동물이였거나."
     }
 ]

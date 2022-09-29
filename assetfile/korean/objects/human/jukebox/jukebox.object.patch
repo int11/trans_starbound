@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 곡은 익숙하진 않지만, 나쁘진 않아. 정말이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "대박, 내가 제일 좋아하는 앨범이 있어! 우주는 지금 막 펑키해졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "기운찬 뮤직박스. 꼴랑 한 밴드 뿐이지만."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "멋짐. 이 음악은 "
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "시끄러운 샹자. 플로란은 이걸 왜 쓰는지 모르겠어!"
+        "path": "/description",
+        "value": "이 주크박스의 소리는 굉장하다! 매우 나쁜점은 단 한개의 트랙만 있다는 점."
     },
     {
         "op": "replace",
@@ -31,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 주크박스의 소리는 굉장하다! 매우 나쁜점은 단 한개의 트랙만 있다는 점."
+        "path": "/apexDescription",
+        "value": "기운찬 뮤직박스. 꼴랑 한 밴드 뿐이지만."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "시끄러운 샹자. 플로란은 이걸 왜 쓰는지 모르겠어!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "멋짐. 이 음악은 "
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "대박, 내가 제일 좋아하는 앨범이 있어! 우주는 지금 막 펑키해졌다."
+    },
+    {
+        "op": "replace",
         "path": "/hylotlDescription",
         "value": "与我们大鲛人相比，人类的音乐缺乏细微的音色变化。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 곡은 익숙하진 않지만, 나쁘진 않아. 정말이야."
     }
 ]

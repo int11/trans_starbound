@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "토마토 수프"
+        "path": "/description",
+        "value": "잘 익은 토마토로 만든 부드럽고 풍부한 수프다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "잘 익은 토마토로 만든 부드럽고 풍부한 수프다."
+        "path": "/shortdescription",
+        "value": "토마토 수프"
     }
 ]

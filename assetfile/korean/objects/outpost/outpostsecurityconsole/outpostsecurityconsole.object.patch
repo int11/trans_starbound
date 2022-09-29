@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고정식 보안 조작기"
+        "path": "/description",
+        "value": "안심하고 지키는데에는 이만한 장치가 없다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "안심하고 지키는데에는 이만한 장치가 없다."
+        "path": "/shortdescription",
+        "value": "고정식 보안 조작기"
     },
     {
         "op": "replace",

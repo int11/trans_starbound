@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "망가진 플랫폼"
+        "path": "/description",
+        "value": "녹슨 발판이다. 그리 안전해보이진 않는다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "녹슨 발판이다. 그리 안전해보이진 않는다."
+        "path": "/shortdescription",
+        "value": "망가진 플랫폼"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "동굴 탐지기"
+        "path": "/description",
+        "value": "주변 물질의 고유파장을 측정하여 표시되는 장치."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "주변 물질의 고유파장을 측정하여 표시되는 장치."
+        "path": "/shortdescription",
+        "value": "동굴 탐지기"
     }
 ]

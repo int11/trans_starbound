@@ -1,21 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/baseParameters/dialog/intro/default/default/0",
-        "value": "흐으으... 너 고집이 엄청난데? 에스터가 널 깊게도 세뇌했나보군... 쳐내볼까."
-    },
-    {
-        "op": "replace",
-        "path": "/baseParameters/dialog/death/default/default/1",
-        "value": "파멸은 곧 깨어날꺼다, 그리고 인간을 제외한 이우주의 모든 쓰래기들을 치울거다!"
-    },
-    {
-        "op": "replace",
-        "path": "/baseParameters/dialog/death/default/default/0",
-        "value": "아직도 정신을 못차린건가? 넌 아직 이기지 않았어!"
-    },
-    {
-        "op": "replace",
         "path": "/shortdescription",
         "value": " cultistbossend "
     },
@@ -23,15 +8,15 @@
         "op": "replace",
         "path": "/baseParameters/dialog/intro/default/default",
         "value": [
-            "嗯…你还真是固执到可笑，对不对？艾丝特真是把你给洗脑了…我想，是时候清除掉她的影响了。"
+            "흐으으... 너 고집이 엄청난데? 에스터가 널 깊게도 세뇌했나보군... 쳐내볼까."
         ]
     },
     {
         "op": "replace",
         "path": "/baseParameters/dialog/death/default/default",
         "value": [
-            "你还是不明白啊，是不？你还是没有赢！",
-            "祸依然会苏醒，他很快就会清理整个宇宙，只有人类能够留下！"
+            "아직도 정신을 못차린건가? 넌 아직 이기지 않았어!",
+            "파멸은 곧 깨어날꺼다, 그리고 인간을 제외한 이우주의 모든 쓰래기들을 치울거다!"
         ]
     }
 ]

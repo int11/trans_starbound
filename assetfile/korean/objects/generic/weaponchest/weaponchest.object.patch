@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "모든 종류의 무기를 안전하게 보관하는 상자."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "선물은 여전히 포장할 때가 가장 흥미로워."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 무기 상자는 내용을 보호하기 위해 강하게 만들어졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "무기 상자, 이제 그건 환영하는 구경거리야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "무기 상자다. 아마 저기 안에는 좋은 것이 있겠지?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "심함. 낭비할 시간이 없어, 어서 그것을 여시오!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "샹자를 열어보자! 아마도 내부에는 뾰족한 무기가 있을 거 같아. "
+        "path": "/description",
+        "value": "무기를 보관하는 무거운 의무를 가지고 있는 상자."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무기를 보관하는 무거운 의무를 가지고 있는 상자."
+        "path": "/apexDescription",
+        "value": "무기 상자다. 아마 저기 안에는 좋은 것이 있겠지?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 무기 상자는 내용을 보호하기 위해 강하게 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "샹자를 열어보자! 아마도 내부에는 뾰족한 무기가 있을 거 같아. "
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "심함. 낭비할 시간이 없어, 어서 그것을 여시오!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "무기 상자, 이제 그건 환영하는 구경거리야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "선물은 여전히 포장할 때가 가장 흥미로워."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "모든 종류의 무기를 안전하게 보관하는 상자."
     }
 ]

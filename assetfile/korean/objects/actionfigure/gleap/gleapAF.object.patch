@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "글립 모형"
+        "path": "/description",
+        "value": "\"이것은 탄력 물질로 만들어 졌다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"이것은 탄력 물질로 만들어 졌다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "글립 모형"
     }
 ]

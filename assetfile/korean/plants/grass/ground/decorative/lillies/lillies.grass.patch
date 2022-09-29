@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 매력적인 백합."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "예쁜 백하아압이야."
+        "path": "/description",
+        "value": "예쁜 백합이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "예쁜 백합이다."
+        "path": "/floranDescription",
+        "value": "예쁜 백하아압이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 매력적인 백합."
     }
 ]

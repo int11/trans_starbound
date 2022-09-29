@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈알 상자"
+        "path": "/description",
+        "value": "날카로운 눈으로 봉해져 있다. 내부를 볼만한 가치가 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "날카로운 눈으로 봉해져 있다. 내부를 볼만한 가치가 있다."
+        "path": "/shortdescription",
+        "value": "눈알 상자"
     },
     {
         "op": "replace",

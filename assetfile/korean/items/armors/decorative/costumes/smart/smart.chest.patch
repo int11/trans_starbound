@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스마트 상의"
+        "path": "/description",
+        "value": "이 고급 상의로 위엄있고 지능적인 이미지를 보여주자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 고급 상의로 위엄있고 지능적인 이미지를 보여주자."
+        "path": "/shortdescription",
+        "value": "스마트 상의"
     }
 ]

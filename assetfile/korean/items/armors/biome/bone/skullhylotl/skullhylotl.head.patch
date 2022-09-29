@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "하이로틀 머리뼈 가면"
+        "path": "/description",
+        "value": "하이로틀의 머리뼈다. 죽은 전사의 호흡이 느껴진다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "하이로틀의 머리뼈다. 죽은 전사의 호흡이 느껴진다."
+        "path": "/shortdescription",
+        "value": "하이로틀 머리뼈 가면"
     }
 ]

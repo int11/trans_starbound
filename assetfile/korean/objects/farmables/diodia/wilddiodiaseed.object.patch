@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "다이오디아 씨앗"
+        "path": "/description",
+        "value": "다이오디아, 구리맛이 나는 부드러운 뿌리 채소."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다이오디아, 구리맛이 나는 부드러운 뿌리 채소."
+        "path": "/shortdescription",
+        "value": "다이오디아 씨앗"
     },
     {
         "op": "replace",

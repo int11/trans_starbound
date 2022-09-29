@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/scriptConfig/descriptions/wakeSail",
-        "value": "함선의 컴퓨터를 가동하세요."
+        "path": "/title",
+        "value": "시스템 가동"
     },
     {
         "op": "replace",
@@ -16,7 +16,7 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "시스템 가동"
+        "path": "/scriptConfig/descriptions/wakeSail",
+        "value": "함선의 컴퓨터를 가동하세요."
     }
 ]

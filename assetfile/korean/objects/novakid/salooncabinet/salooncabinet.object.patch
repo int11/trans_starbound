@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "술집 보관장"
+        "path": "/description",
+        "value": "유리잔과 이상한 모양의 병이 보관된 술 보관장이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "유리잔과 이상한 모양의 병이 보관된 술 보관장이다."
+        "path": "/shortdescription",
+        "value": "술집 보관장"
     },
     {
         "op": "replace",

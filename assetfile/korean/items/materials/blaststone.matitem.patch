@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "블래스트스톤"
+        "path": "/description",
+        "value": "엄청난 열기의 폭발로 생성된 뾰족한 돌들이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "엄청난 열기의 폭발로 생성된 뾰족한 돌들이다."
+        "path": "/shortdescription",
+        "value": "블래스트스톤"
     },
     {
         "op": "replace",

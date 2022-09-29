@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "연약한 데이지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "하양은 하이로틀 평화의 색이야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 꽃 향기가 좋아."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "데이지가 좀 너무 자란 거 같은데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "살짝 창백한 꽃이군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "감탄. 순백색 꽃잎이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "꽃 냄섀 좋다."
+        "path": "/description",
+        "value": "화분에 담긴 하얀 꽃."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "화분에 담긴 하얀 꽃."
+        "path": "/apexDescription",
+        "value": "살짝 창백한 꽃이군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 꽃 향기가 좋아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "꽃 냄섀 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "감탄. 순백색 꽃잎이군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "데이지가 좀 너무 자란 거 같은데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "하양은 하이로틀 평화의 색이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "연약한 데이지."
     }
 ]

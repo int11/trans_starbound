@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "스케베런 모형"
+        "path": "/description",
+        "value": "\"부리 안이 정말로 흉측하게 생겼다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"부리 안이 정말로 흉측하게 생겼다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "스케베런 모형"
     }
 ]

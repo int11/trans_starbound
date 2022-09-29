@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "저런 건 안 만질란다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "안쪽에서 깬 유리다..."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "방해. 아무래도 누가 이 기계를 땅에서 파낸 모양이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "박샬 박샬 박샬... 어 이런."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이거 불길한데."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "아 세상에, 이거 예전에 봤던 영화 생각나잖아."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "여기서 뭔가... 빠져나갔어?"
+        "path": "/description",
+        "value": "박살난 통이다. 내부에는 말라붙은 점액으로 뒤덮여있다. 뭔가 안에서 이걸 뚫고 나갔나?"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "박살난 통이다. 내부에는 말라붙은 점액으로 뒤덮여있다. 뭔가 안에서 이걸 뚫고 나갔나?"
+        "path": "/apexDescription",
+        "value": "여기서 뭔가... 빠져나갔어?"
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이거 불길한데."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "박샬 박샬 박샬... 어 이런."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "방해. 아무래도 누가 이 기계를 땅에서 파낸 모양이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아 세상에, 이거 예전에 봤던 영화 생각나잖아."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안쪽에서 깬 유리다..."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "저런 건 안 만질란다."
     }
 ]

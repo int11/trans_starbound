@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바이올륨 장검"
+        "path": "/description",
+        "value": "단련된 바이올륨 자루가 투사기를 둘러싸서 기괴한 에너지 칼날을 만들어낸다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "단련된 바이올륨 자루가 투사기를 둘러싸서 기괴한 에너지 칼날을 만들어낸다."
+        "path": "/shortdescription",
+        "value": "바이올륨 장검"
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "맛나보이는 섀다."
+        "path": "/description",
+        "value": "작은 새 조각에서 거대한 깃털들이 펼쳐져있다."
     },
     {
         "op": "replace",
@@ -11,18 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 새 조각에서 거대한 깃털들이 펼쳐져있다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "겁나 이쁜 깃털 꽂아놓은 조각상이네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "조각상보다 깃털이 더 예쁘다."
+        "path": "/apexDescription",
+        "value": "이렇게 생긴 새한테서 떨어져나온 깃털인가?"
     },
     {
         "op": "replace",
@@ -31,17 +21,27 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "예쁜 새 조각상이다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이렇게 생긴 새한테서 떨어져나온 깃털인가?"
+        "path": "/floranDescription",
+        "value": "맛나보이는 섀다."
     },
     {
         "op": "replace",
         "path": "/glitchDescription",
         "value": "감격. 아름다운 깃털 조각상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "예쁜 새 조각상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "조각상보다 깃털이 더 예쁘다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "겁나 이쁜 깃털 꽂아놓은 조각상이네."
     }
 ]

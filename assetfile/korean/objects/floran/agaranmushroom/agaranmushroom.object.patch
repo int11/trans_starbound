@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 네 비밀 안다, 작은 버셧. 플로란 말 안 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 버섯이 뭐가 그렇게 특별한데?"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "유쾌. 현명하게 위장한 살아있는 아가란이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아가란 기원의 지독한 버섯. "
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 버섯이 무슨 용도인지 궁금하다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "애벌레가 더 필요하다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "아가란들보다 귀엽다."
+        "path": "/description",
+        "value": "아가란의 기원의 거대한 버섯."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아가란의 기원의 거대한 버섯."
+        "path": "/apexDescription",
+        "value": "아가란들보다 귀엽다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 버섯이 무슨 용도인지 궁금하다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 네 비밀 안다, 작은 버셧. 플로란 말 안 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "유쾌. 현명하게 위장한 살아있는 아가란이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "애벌레가 더 필요하다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아가란 기원의 지독한 버섯. "
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 버섯이 뭐가 그렇게 특별한데?"
     }
 ]

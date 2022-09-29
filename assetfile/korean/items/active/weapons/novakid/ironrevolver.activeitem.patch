@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "철 리볼버"
+        "path": "/description",
+        "value": "아프게 때리는 큰 권총."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아프게 때리는 큰 권총."
+        "path": "/shortdescription",
+        "value": "철 리볼버"
     }
 ]

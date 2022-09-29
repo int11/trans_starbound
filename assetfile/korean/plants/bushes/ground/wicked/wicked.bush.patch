@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 죽은 관목, 안타깝구려."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "죽은 관목."
+        "path": "/description",
+        "value": "죽인 관목이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "죽인 관목이다."
+        "path": "/floranDescription",
+        "value": "죽은 관목."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 죽은 관목, 안타깝구려."
     }
 ]

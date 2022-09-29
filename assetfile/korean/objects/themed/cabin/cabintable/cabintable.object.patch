@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 탁자에서 카드를 했으면 소원이 없겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "난 지금까지 쓰레기같은 탁자만 본 것 같아."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "여기다가 내 이름 새기고 싶은걸. 하지만 무례한 행동이지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "소풍 탁자로 보이는데, 누구 간식있는 사람?"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "이걸 만드는데 나무 4조각밖에 필요하지 않다니. 놀라워."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "기쁨. 이런 탁자야말로 정말 상당히 괜찮네."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 여기에 가시나무로 덮는거 좋아해."
+        "path": "/description",
+        "value": "고전적인 나무 탁자,  모든 환경에 적합하다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "고전적인 나무 탁자,  모든 환경에 적합하다."
+        "path": "/apexDescription",
+        "value": "이걸 만드는데 나무 4조각밖에 필요하지 않다니. 놀라워."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "여기다가 내 이름 새기고 싶은걸. 하지만 무례한 행동이지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 여기에 가시나무로 덮는거 좋아해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "기쁨. 이런 탁자야말로 정말 상당히 괜찮네."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "소풍 탁자로 보이는데, 누구 간식있는 사람?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "난 지금까지 쓰레기같은 탁자만 본 것 같아."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 탁자에서 카드를 했으면 소원이 없겠어."
     }
 ]

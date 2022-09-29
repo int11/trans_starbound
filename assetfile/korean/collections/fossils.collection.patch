@@ -6,198 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/collectables/sabertooth/title",
-        "value": "검치호 머리뼈"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/trilobite/title",
-        "value": "삼엽충"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/fern/title",
-        "value": "양치식물 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/egg/title",
-        "value": "알 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/penguin/title",
-        "value": "펭귄 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/avianSkeleton/title",
-        "value": "에이펙스 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/apexSkeleton/title",
-        "value": "아비안 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/humanSkeleton/title",
-        "value": "인간 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/avioscaleSkeleton/title",
-        "value": "아비오스캐일 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/ammonite/title",
-        "value": "암모나이트 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/glitchSkeleton/title",
-        "value": "글리치 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/alpacaSkeleton/title",
-        "value": "알파카 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/froggSkeleton/title",
-        "value": "프로그 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/trex/title",
-        "value": "티라노 사우르스 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/mysteriousSkeleton/title",
-        "value": "미지의 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/hylotlSkeleton/title",
-        "value": "하이로틀 화석"
-    },
-    {
-        "op": "replace",
         "path": "/collectables/amber/title",
         "value": "호박"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/ixodoom/title",
-        "value": "익소둠 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/track/title",
-        "value": "발자국 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/ophidaunt/title",
-        "value": "오피다운트 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/floranSkeleton/title",
-        "value": "플로란 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/mysteriousalien/title",
-        "value": "신비한 외계인 머리뼈"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/fish/title",
-        "value": "물고기 화석"
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/sabertooth/description",
-        "value": "검치호는 널리 알려진 화석으로, 긴 송곳니로 쉽게 식별할 수 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/trilobite/description",
-        "value": "삽엽충은 그 외골격 덕분에 상당히 잘 보전된 화석중 하나다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/fern/description",
-        "value": "화석화 된 양치 식물 잎은 천년 전의 유기 생물의 증거이다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/egg/description",
-        "value": "고대 생물의 알. 세상밖으로 나오기전, 이 생명체의 시간은 멈추고 말았다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/penguin/description",
-        "value": "화석화된 팽귄의 유골이다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/avianSkeleton/description",
-        "value": "화석화된 에이펙스의 유골. 강력한 이빨과 강조된 이마가 눈에 띈다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/apexSkeleton/description",
-        "value": "이 화석화 된 아비안의 가장 관심가져야 할 특징은 속이 빈 뼈와 짧고 유연한 부리다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/humanSkeleton/description",
-        "value": "화석이 된 인간, 지구의 지배 종족이다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/avioscaleSkeleton/description",
-        "value": "아비오스캐일은 거대한 눈구멍과 눈에 띄는 부리를 자랑한다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/ammonite/description",
-        "value": "암모나이트 화석은 매우 잘 알려진 화석으로, 거의 모든 생명이 있는 행성에 그 종이 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/glitchSkeleton/description",
-        "value": "화석이 된 글리치. 내부 배선은 거의 남아있지 않는다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/alpacaSkeleton/description",
-        "value": "죽은지 오래된 알파카의 단단한 고밀도 뼈다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/froggSkeleton/description",
-        "value": "화석화 된 프로그의 훌륭한 예시다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/trex/description",
-        "value": "지구 출신의 공룡으로, 과도하게 활동적인 과학자들에 의해 우주 전체로 퍼졌다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/mysteriousSkeleton/description",
-        "value": "과학자들을 혼란에 빠뜨린 생명채로, 그 근원과 연대는 아직도 측정이 되지 않았다고 한다."
-    },
-    {
-        "op": "replace",
-        "path": "/collectables/hylotlSkeleton/description",
-        "value": "이 화석화된 하이로틀 뼈대는 수중 생활에 적합한 적응이 시작되는걸 보여준다."
     },
     {
         "op": "replace",
@@ -206,23 +16,48 @@
     },
     {
         "op": "replace",
-        "path": "/collectables/ixodoom/description",
-        "value": "이 절지 동물의 두꺼운 외골격은 이 생물을 수백만 년 동안 살아남도록 도왔다."
+        "path": "/collectables/ammonite/title",
+        "value": "암모나이트 화석"
     },
     {
         "op": "replace",
-        "path": "/collectables/track/description",
-        "value": "이 발자국의 크기를 보면, 아마도 그 종의 성인 수놈 이 만든것이 아니였을까."
+        "path": "/collectables/ammonite/description",
+        "value": "암모나이트 화석은 매우 잘 알려진 화석으로, 거의 모든 생명이 있는 행성에 그 종이 있다."
     },
     {
         "op": "replace",
-        "path": "/collectables/ophidaunt/description",
-        "value": "이 스나운트의 먼 조상은 대지가 아니라 바다에서 사냥을 했다고 한다."
+        "path": "/collectables/egg/title",
+        "value": "알 화석"
     },
     {
         "op": "replace",
-        "path": "/collectables/floranSkeleton/description",
-        "value": "식물로 기반된 플로란은 뼈가 리그닌과 합쳐져서, 나무와도 같은 외관을 준다."
+        "path": "/collectables/egg/description",
+        "value": "고대 생물의 알. 세상밖으로 나오기전, 이 생명체의 시간은 멈추고 말았다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/fern/title",
+        "value": "양치식물 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/fern/description",
+        "value": "화석화 된 양치 식물 잎은 천년 전의 유기 생물의 증거이다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/fish/title",
+        "value": "물고기 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/fish/description",
+        "value": "물고기의 구조는 수세기가 지나도 별로 바뀐것이 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/mysteriousalien/title",
+        "value": "신비한 외계인 머리뼈"
     },
     {
         "op": "replace",
@@ -231,7 +66,172 @@
     },
     {
         "op": "replace",
-        "path": "/collectables/fish/description",
-        "value": "물고기의 구조는 수세기가 지나도 별로 바뀐것이 없다."
+        "path": "/collectables/penguin/title",
+        "value": "펭귄 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/penguin/description",
+        "value": "화석화된 팽귄의 유골이다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/sabertooth/title",
+        "value": "검치호 머리뼈"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/sabertooth/description",
+        "value": "검치호는 널리 알려진 화석으로, 긴 송곳니로 쉽게 식별할 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/track/title",
+        "value": "발자국 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/track/description",
+        "value": "이 발자국의 크기를 보면, 아마도 그 종의 성인 수놈 이 만든것이 아니였을까."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/trilobite/title",
+        "value": "삼엽충"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/trilobite/description",
+        "value": "삽엽충은 그 외골격 덕분에 상당히 잘 보전된 화석중 하나다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/apexSkeleton/title",
+        "value": "아비안 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/apexSkeleton/description",
+        "value": "이 화석화 된 아비안의 가장 관심가져야 할 특징은 속이 빈 뼈와 짧고 유연한 부리다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/avianSkeleton/title",
+        "value": "에이펙스 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/avianSkeleton/description",
+        "value": "화석화된 에이펙스의 유골. 강력한 이빨과 강조된 이마가 눈에 띈다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/floranSkeleton/title",
+        "value": "플로란 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/floranSkeleton/description",
+        "value": "식물로 기반된 플로란은 뼈가 리그닌과 합쳐져서, 나무와도 같은 외관을 준다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/glitchSkeleton/title",
+        "value": "글리치 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/glitchSkeleton/description",
+        "value": "화석이 된 글리치. 내부 배선은 거의 남아있지 않는다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/humanSkeleton/title",
+        "value": "인간 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/humanSkeleton/description",
+        "value": "화석이 된 인간, 지구의 지배 종족이다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/hylotlSkeleton/title",
+        "value": "하이로틀 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/hylotlSkeleton/description",
+        "value": "이 화석화된 하이로틀 뼈대는 수중 생활에 적합한 적응이 시작되는걸 보여준다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/alpacaSkeleton/title",
+        "value": "알파카 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/alpacaSkeleton/description",
+        "value": "죽은지 오래된 알파카의 단단한 고밀도 뼈다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/avioscaleSkeleton/title",
+        "value": "아비오스캐일 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/avioscaleSkeleton/description",
+        "value": "아비오스캐일은 거대한 눈구멍과 눈에 띄는 부리를 자랑한다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/froggSkeleton/title",
+        "value": "프로그 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/froggSkeleton/description",
+        "value": "화석화 된 프로그의 훌륭한 예시다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/mysteriousSkeleton/title",
+        "value": "미지의 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/mysteriousSkeleton/description",
+        "value": "과학자들을 혼란에 빠뜨린 생명채로, 그 근원과 연대는 아직도 측정이 되지 않았다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/ixodoom/title",
+        "value": "익소둠 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/ixodoom/description",
+        "value": "이 절지 동물의 두꺼운 외골격은 이 생물을 수백만 년 동안 살아남도록 도왔다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/ophidaunt/title",
+        "value": "오피다운트 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/ophidaunt/description",
+        "value": "이 스나운트의 먼 조상은 대지가 아니라 바다에서 사냥을 했다고 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/trex/title",
+        "value": "티라노 사우르스 화석"
+    },
+    {
+        "op": "replace",
+        "path": "/collectables/trex/description",
+        "value": "지구 출신의 공룡으로, 과도하게 활동적인 과학자들에 의해 우주 전체로 퍼졌다."
     }
 ]

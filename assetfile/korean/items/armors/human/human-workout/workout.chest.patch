@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "민소매 상의"
+        "path": "/description",
+        "value": "운동할 때 입을 만한 가볍고 통기성 좋은 옷이다. 얻는 만큼 잃는 법이지!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "운동할 때 입을 만한 가볍고 통기성 좋은 옷이다. 얻는 만큼 잃는 법이지!"
+        "path": "/shortdescription",
+        "value": "민소매 상의"
     }
 ]

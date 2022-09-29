@@ -6,28 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "컴퓨터다. 중요한 물건인 지는 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "타자 치고 쳐다보는 데 쓰는 컴퓨터다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "인간 컴퓨터다. 기술적으로 보면 꽤 놀라운 물건이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이게 뭘 작동중일지 궁금한데?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "컴퓨터다. 일정 시간마다 코드를 입력해달라는 프로그램을 구동중이다."
+        "path": "/shortdescription",
+        "value": "작은 컴퓨터"
     },
     {
         "op": "replace",
@@ -36,12 +16,32 @@
     },
     {
         "op": "replace",
+        "path": "/avianDescription",
+        "value": "이게 뭘 작동중일지 궁금한데?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "타자 치고 쳐다보는 데 쓰는 컴퓨터다."
+    },
+    {
+        "op": "replace",
         "path": "/glitchDescription",
         "value": "수심. 이 인간 컴퓨터에게서 동질감이 느껴진다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "작은 컴퓨터"
+        "path": "/humanDescription",
+        "value": "컴퓨터다. 일정 시간마다 코드를 입력해달라는 프로그램을 구동중이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "인간 컴퓨터다. 기술적으로 보면 꽤 놀라운 물건이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "컴퓨터다. 중요한 물건인 지는 모르겠다."
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "심해진미"
+        "path": "/description",
+        "value": "하이로틀 요리로, 바다에서 나온 수상한 재료가 잔뜩 들었다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "하이로틀 요리로, 바다에서 나온 수상한 재료가 잔뜩 들었다."
+        "path": "/shortdescription",
+        "value": "심해진미"
     }
 ]

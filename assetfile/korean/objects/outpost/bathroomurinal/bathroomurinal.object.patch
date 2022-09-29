@@ -6,33 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "더러워보이는 소변기다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "냉담. 소변기."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 저 의자 냄섀나서 못 앉겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "평범한 소변기."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이게 뭔지 잘 모르겠다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "소변기."
+        "path": "/shortdescription",
+        "value": "화장실 소변기"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "화장실 소변기"
+        "path": "/avianDescription",
+        "value": "이게 뭔지 잘 모르겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 저 의자 냄섀나서 못 앉겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "냉담. 소변기."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "소변기."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "평범한 소변기."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "더러워보이는 소변기다."
     }
 ]

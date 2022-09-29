@@ -1,28 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "무슨 탈것 같은데. 이건 아무 데도 못 가겠는걸!"
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "일종의 군용 차량이다. 작동하는 것 같지 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "망가진 군용 전차."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "경고. 박살난 전차."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "금쇽 샹자다."
+        "path": "/description",
+        "value": "박살난 전차다."
     },
     {
         "op": "replace",
@@ -31,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "박살난 전차다."
+        "path": "/apexDescription",
+        "value": "망가진 군용 전차."
     },
     {
         "op": "replace",
@@ -41,7 +21,27 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "금쇽 샹자다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경고. 박살난 전차."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
         "value": "전차다. 망가졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "일종의 군용 차량이다. 작동하는 것 같지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "무슨 탈것 같은데. 이건 아무 데도 못 가겠는걸!"
     }
 ]

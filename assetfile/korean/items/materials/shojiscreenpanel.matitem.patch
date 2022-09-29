@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "쇼지 스크린 패널"
+        "path": "/description",
+        "value": "전통적인 느낌의 스크린 패널."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전통적인 느낌의 스크린 패널."
+        "path": "/shortdescription",
+        "value": "쇼지 스크린 패널"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "중세 양변기"
+        "path": "/description",
+        "value": "아주 기본적인 변기다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "아주 기본적인 변기다."
+        "path": "/shortdescription",
+        "value": "중세 양변기"
     },
     {
         "op": "replace",

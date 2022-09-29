@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "자연적으로 언 부드러운 얼음."
+        "path": "/shortdescription",
+        "value": "부드러운 얼음"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "부드러운 얼음"
+        "path": "/description",
+        "value": "자연적으로 언 부드러운 얼음."
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "프리즘 문"
+        "path": "/description",
+        "value": "굴절 유리로 만든 부드러운 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "굴절 유리로 만든 부드러운 문이다."
+        "path": "/shortdescription",
+        "value": "프리즘 문"
     },
     {
         "op": "replace",

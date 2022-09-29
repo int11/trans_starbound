@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "월석 광석"
+        "path": "/description",
+        "value": "월석 광석으로, 달에서만 발견 할 수 있으며 FTL 엔진 건설에 주로 사용된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "월석 광석으로, 달에서만 발견 할 수 있으며 FTL 엔진 건설에 주로 사용된다."
+        "path": "/shortdescription",
+        "value": "월석 광석"
     }
 ]

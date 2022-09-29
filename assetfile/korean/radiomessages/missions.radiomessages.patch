@@ -1,18 +1,143 @@
 [
     {
         "op": "replace",
-        "path": "/hylotlmission05/text",
-        "value": "데이터를 분석해 본 결과, 저는 이 방에 살아서 도달하는 것은 불가능하다고 결론지었습니다. 당신의 근성과 인내를 축하드립니다!"
+        "path": "/lunarbase01/text",
+        "value": "생체 신호가 지면 아래에서 발견되었습니다. 신호 강도는... 추정하기 어렵습니다. 당신의 용기를 미리 칭찬드립니다."
     },
     {
         "op": "replace",
-        "path": "/avianmission04/text",
-        "value": "나는. 불이. 싫어."
+        "path": "/lunarbase02/text",
+        "value": "전역 봉쇄가 발동된 것으로 보입니다. 전력을 복구하기 위해 차단기를 찾아야 합니다. 내부가 어두우니 신중히 행동하시길 바랍니다."
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase03/text",
+        "value": "저 생명체는 에르키우스 분자와 인간의 DNA가 결합되어 생성된 것 같습니다. 공격적인 행동을 취할 확률이 높습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase04/text",
+        "value": "에르키우스 방사선 수치가 94 rad에 도달했습니다. 당신은 현재 위험한 상황에 있습니다. 당신의 위험 수준은 14,607 morts 입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase04a/text",
+        "value": "인공지능에 대해서는 미안하구나, 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase05/text",
+        "value": "저들을 보게나. 에르키우스 결정에 장기간 노출되어 심하게 변형되었군! 이 불쌍한 사람들은 자기 의식을 통제할 수 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase06/text",
+        "value": "에르키우스 방사선 수치가 101 rad에 도달했습니다. 당신의 위험 수준은 18,472 morts 입니다..."
     },
     {
         "op": "replace",
         "path": "/lunarbase06a/text",
         "value": "쉿! 자네는 전혀 도움이 되질 않고 있다네."
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase07/text",
+        "value": "일반적인 무기로는 에르키우스 결정을 0%의 확률로 손상시킬 것입니다. 결정을 공격할 다른 방법을 찾아야 합니다."
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase08/text",
+        "value": "잘했단다!"
+    },
+    {
+        "op": "replace",
+        "path": "/lunarbase08a/text",
+        "value": "이 정도의 에르키우스면 함선을 수리하는 데에는 충분할 겁니다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranmission101/text",
+        "value": "이 유적지는 아주 오래되었으며 플로란의 성역으로 보입니다. 제 데이터에 따르면 이곳은 어둡고 불길하다고 하네요."
+    },
+    {
+        "op": "replace",
+        "path": "/floranmission102/text",
+        "value": "이 터널에서 많은 생체 신호가 감지되며, 97%가 적대적입니다. 당신의 용기를 칭찬해드리죠."
+    },
+    {
+        "op": "replace",
+        "path": "/floranmission103/text",
+        "value": "정말 사나운 플로란들이구나! 내 어린 시절이 생각나는구나, 물론 나뭇잎은 덜 달려 있었지만."
+    },
+    {
+        "op": "replace",
+        "path": "/floranmission104/text",
+        "value": "이 플로란들이 하는 일이 무엇인지는 몰라도 그들의 무덤은 분명히 중요할 거야. 나보다도 벌레잡이를 못 하는구나! 조심해야 한단다. 얘야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranmission105/text",
+        "value": "이 물질은 유기적입니다. 분석을 해봐야 확실해지겠지만, 이 정도의 물질을 생산하려면 상당히 큰 생물이어야 할 것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranmission106/text",
+        "value": "조사에 따르면 이 생물들은 성체가 아닌 것으로 보입니다. 이들은 방금 부화했고, 당신은 그들의 둥지에 들어간 것으로 보입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission01/text",
+        "value": "아무래도 우리가 반군의 지정부 공격을 우연히 맞닥뜨린 것 같구나. 내 생각엔 이건 우리 양측 모두에게 유리할 것 같단다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission02/text",
+        "value": "스캔 결과 이 시설은 중무장한 경비병에 의해 방어되고 있으며, 모든 지역을 순찰하고 있습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission02a/text",
+        "value": "제 탐색기가 다른 경비병을 감지했습니다... 그리고 한 사람 더."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission03/text",
+        "value": "연동된 회로입니다. 이 방벽을 열면 대응하는 지상의 방벽도 열릴 것입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission03a/text",
+        "value": "보아하니 우리가 그간 억압되어 온 반란군의 전쟁에 긍정적인 영향을 미치고 있구나! 훌륭하다. 티끌 모아 태산이지."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission04/text",
+        "value": "이곳에는 또 다른 방벽이 별도의 발전기로 유지되고 있습니다. 당신이 이 보호막을 해제하고 전력을 차단하여 방벽을 무력화시켜야 할 것 같습니다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission04a/text",
+        "value": "근성과 용기를 가지고 복잡한 목표를 달성하려는 당신의 모습에 박수를 보냅니다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission05/text",
+        "value": "이 연구소의 지하에서 이상한 생체 신호가 감지됩니다."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission06/text",
+        "value": "이건 정말 잘 만들어진 지정부의 요새로구나... 나는 네가 세심하고 신중한 걸 알고 있단다, 얘야. 하지만 이번에는 특히나 조심해야 할 시간인 것 같구나."
+    },
+    {
+        "op": "replace",
+        "path": "/apexmission06a/text",
+        "value": "빅 에이프는 몹시 위험한 적이란다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianmission01/text",
+        "value": "그가 자는 동안 이 주변을 둘러보는게 가장 좋을 것 같구나. 그를 걱정시키고 싶지는 않을 테니까."
     },
     {
         "op": "replace",
@@ -26,13 +151,8 @@
     },
     {
         "op": "replace",
-        "path": "/apexmission04a/text",
-        "value": "근성과 용기를 가지고 복잡한 목표를 달성하려는 당신의 모습에 박수를 보냅니다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexmission03/text",
-        "value": "연동된 회로입니다. 이 방벽을 열면 대응하는 지상의 방벽도 열릴 것입니다."
+        "path": "/avianmission04/text",
+        "value": "나는. 불이. 싫어."
     },
     {
         "op": "replace",
@@ -41,178 +161,8 @@
     },
     {
         "op": "replace",
-        "path": "/hylotlmission03/text",
-        "value": "당신은 이제 최하층에 접근하고 있습니다. 측정 수치가 왜곡되고 있지만 원하신다면 위험 수준을 알려드릴 수 있습니다..."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase08/text",
-        "value": "잘했단다!"
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-destruction1/text",
-        "value": "네가 해냈어! ...하지만 뭔가 잘못되었어. 파멸이... 구조가 불안정해지고있어!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexmission01/text",
-        "value": "아무래도 우리가 반군의 지정부 공격을 우연히 맞닥뜨린 것 같구나. 내 생각엔 이건 우리 양측 모두에게 유리할 것 같단다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlmission04/text",
-        "value": "저 여자... 저 여자가 말한 게... 이 모든 게 끝나면, 정말 사실이 될까?"
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-bottom2/text",
-        "value": "SAIL이 맞습니다. 당신 발 밑에 빈 틈이 있어요. 당신과 이 유적의 중심 구조물 사이에 매우 큰 틈이 있습니다. 아래로 갈 수 있는 안전한 방법을 찾아내야 할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlmission02/text",
-        "value": "현재 외부 압력은 15 쿼시입니다. 검사 결과 이 건축물은 80 쿼시 이상의 압력을 버틸 수 있습니다. 생존 확률은 놀라울 정도로 높습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranmission105/text",
-        "value": "이 물질은 유기적입니다. 분석을 해봐야 확실해지겠지만, 이 정도의 물질을 생산하려면 상당히 큰 생물이어야 할 것입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchmission01/text",
-        "value": "이 구역을 지키는 자는 \"남작\"으로 알려진 글리치란다. 그는 은퇴한 영웅이지만, 다른 이들 말에 의하면 조금... 괴짜라고 알려져 있지..."
-    },
-    {
-        "op": "replace",
-        "path": "/floranmission104/text",
-        "value": "이 플로란들이 하는 일이 무엇인지는 몰라도 그들의 무덤은 분명히 중요할 거야. 나보다도 벌레잡이를 못 하는구나! 조심해야 한단다. 얘야."
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-destruction2/text",
-        "value": "곧 폭발할 거야! 빨리 나와!"
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase02/text",
-        "value": "전역 봉쇄가 발동된 것으로 보입니다. 전력을 복구하기 위해 차단기를 찾아야 합니다. 내부가 어두우니 신중히 행동하시길 바랍니다."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase05/text",
-        "value": "저들을 보게나. 에르키우스 결정에 장기간 노출되어 심하게 변형되었군! 이 불쌍한 사람들은 자기 의식을 통제할 수 없어."
-    },
-    {
-        "op": "replace",
         "path": "/avianmission06/text",
         "value": "이 장소는 아늑한 편에 속하는군요... 물론 저 위험한 가시를 빼면 말이죠. 그렇고말고요..."
-    },
-    {
-        "op": "replace",
-        "path": "/apexmission04/text",
-        "value": "이곳에는 또 다른 방벽이 별도의 발전기로 유지되고 있습니다. 당신이 이 보호막을 해제하고 전력을 차단하여 방벽을 무력화시켜야 할 것 같습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranmission103/text",
-        "value": "정말 사나운 플로란들이구나! 내 어린 시절이 생각나는구나, 물론 나뭇잎은 덜 달려 있었지만."
-    },
-    {
-        "op": "replace",
-        "path": "/apexmission06/text",
-        "value": "이건 정말 잘 만들어진 지정부의 요새로구나... 나는 네가 세심하고 신중한 걸 알고 있단다, 얘야. 하지만 이번에는 특히나 조심해야 할 시간인 것 같구나."
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-bossroom2/text",
-        "value": "클루엑스께서 인도해 주시기를."
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-arrived2/text",
-        "value": "너는 파멸의 근원 위에 서 있단다, 얘야. 표면에서는 많은 피해를 줄 수 없을 게야. 밑으로 내려갈 방법을 찾아보거라."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase08a/text",
-        "value": "이 정도의 에르키우스면 함선을 수리하는 데에는 충분할 겁니다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlmission03b/text",
-        "value": "걱정하지 마! 낯션 맹슈들은 네 주특기잖아!"
-    },
-    {
-        "op": "replace",
-        "path": "/glitchmission01a/text",
-        "value": "나사가 좀 빠진 사람이지만, 위험하지는 않단다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexmission02a/text",
-        "value": "제 탐색기가 다른 경비병을 감지했습니다... 그리고 한 사람 더."
-    },
-    {
-        "op": "replace",
-        "path": "/floranmission106/text",
-        "value": "조사에 따르면 이 생물들은 성체가 아닌 것으로 보입니다. 이들은 방금 부화했고, 당신은 그들의 둥지에 들어간 것으로 보입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-arrived/text",
-        "value": "판독 결과 이 구조물은 행성으로 보입니다. 사실 이 행성은 하나의 거대한 생물입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexmission06a/text",
-        "value": "빅 에이프는 몹시 위험한 적이란다."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase01/text",
-        "value": "생체 신호가 지면 아래에서 발견되었습니다. 신호 강도는... 추정하기 어렵습니다. 당신의 용기를 미리 칭찬드립니다."
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-bottom/text",
-        "value": "당신 근처에 넓고 매우 깊은 틈이 발견되었습니다. 제 생각엔 틈새를 피해 다니며 낙사를 피해야 할 것 같습니다."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase04/text",
-        "value": "에르키우스 방사선 수치가 94 rad에 도달했습니다. 당신은 현재 위험한 상황에 있습니다. 당신의 위험 수준은 14,607 morts 입니다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlmission03a/text",
-        "value": "이 광신도들에 대해 어디서 들은 적이 있는데, 조금밖에 모르지... 궁금해지는데...? 하지만 이런 걸 누가 알겠나."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase07/text",
-        "value": "일반적인 무기로는 에르키우스 결정을 0%의 확률로 손상시킬 것입니다. 결정을 공격할 다른 방법을 찾아야 합니다."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase04a/text",
-        "value": "인공지능에 대해서는 미안하구나, 얘야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianmission01/text",
-        "value": "그가 자는 동안 이 주변을 둘러보는게 가장 좋을 것 같구나. 그를 걱정시키고 싶지는 않을 테니까."
-    },
-    {
-        "op": "replace",
-        "path": "/lunarbase06/text",
-        "value": "에르키우스 방사선 수치가 101 rad에 도달했습니다. 당신의 위험 수준은 18,472 morts 입니다..."
-    },
-    {
-        "op": "replace",
-        "path": "/tentaclemission-destruction3/text",
-        "value": "쟤한테 명령하지 마, 생선대가리! 쟤들은 더 심한 꼴도 당했다고!"
     },
     {
         "op": "replace",
@@ -221,23 +171,53 @@
     },
     {
         "op": "replace",
-        "path": "/floranmission102/text",
-        "value": "이 터널에서 많은 생체 신호가 감지되며, 97%가 적대적입니다. 당신의 용기를 칭찬해드리죠."
+        "path": "/hylotlmission02/text",
+        "value": "현재 외부 압력은 15 쿼시입니다. 검사 결과 이 건축물은 80 쿼시 이상의 압력을 버틸 수 있습니다. 생존 확률은 놀라울 정도로 높습니다."
     },
     {
         "op": "replace",
-        "path": "/tentaclemission-bossroom/text",
-        "value": "유적의 심장에 도착했구나. 그것을 반드시 파괴해야 한단다."
+        "path": "/hylotlmission03/text",
+        "value": "당신은 이제 최하층에 접근하고 있습니다. 측정 수치가 왜곡되고 있지만 원하신다면 위험 수준을 알려드릴 수 있습니다..."
     },
     {
         "op": "replace",
-        "path": "/lunarbase03/text",
-        "value": "저 생명체는 에르키우스 분자와 인간의 DNA가 결합되어 생성된 것 같습니다. 공격적인 행동을 취할 확률이 높습니다."
+        "path": "/hylotlmission03a/text",
+        "value": "이 광신도들에 대해 어디서 들은 적이 있는데, 조금밖에 모르지... 궁금해지는데...? 하지만 이런 걸 누가 알겠나."
     },
     {
         "op": "replace",
-        "path": "/apexmission02/text",
-        "value": "스캔 결과 이 시설은 중무장한 경비병에 의해 방어되고 있으며, 모든 지역을 순찰하고 있습니다."
+        "path": "/hylotlmission03b/text",
+        "value": "걱정하지 마! 낯션 맹슈들은 네 주특기잖아!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlmission04/text",
+        "value": "저 여자... 저 여자가 말한 게... 이 모든 게 끝나면, 정말 사실이 될까?"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlmission05/text",
+        "value": "데이터를 분석해 본 결과, 저는 이 방에 살아서 도달하는 것은 불가능하다고 결론지었습니다. 당신의 근성과 인내를 축하드립니다!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchmission01/text",
+        "value": "이 구역을 지키는 자는 \"남작\"으로 알려진 글리치란다. 그는 은퇴한 영웅이지만, 다른 이들 말에 의하면 조금... 괴짜라고 알려져 있지..."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchmission01a/text",
+        "value": "나사가 좀 빠진 사람이지만, 위험하지는 않단다."
+    },
+    {
+        "op": "replace",
+        "path": "/tentaclemission-arrived/text",
+        "value": "판독 결과 이 구조물은 행성으로 보입니다. 사실 이 행성은 하나의 거대한 생물입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/tentaclemission-arrived2/text",
+        "value": "너는 파멸의 근원 위에 서 있단다, 얘야. 표면에서는 많은 피해를 줄 수 없을 게야. 밑으로 내려갈 방법을 찾아보거라."
     },
     {
         "op": "replace",
@@ -246,18 +226,38 @@
     },
     {
         "op": "replace",
-        "path": "/floranmission101/text",
-        "value": "이 유적지는 아주 오래되었으며 플로란의 성역으로 보입니다. 제 데이터에 따르면 이곳은 어둡고 불길하다고 하네요."
+        "path": "/tentaclemission-bottom/text",
+        "value": "당신 근처에 넓고 매우 깊은 틈이 발견되었습니다. 제 생각엔 틈새를 피해 다니며 낙사를 피해야 할 것 같습니다."
     },
     {
         "op": "replace",
-        "path": "/apexmission03a/text",
-        "value": "보아하니 우리가 그간 억압되어 온 반란군의 전쟁에 긍정적인 영향을 미치고 있구나! 훌륭하다. 티끌 모아 태산이지."
+        "path": "/tentaclemission-bottom2/text",
+        "value": "SAIL이 맞습니다. 당신 발 밑에 빈 틈이 있어요. 당신과 이 유적의 중심 구조물 사이에 매우 큰 틈이 있습니다. 아래로 갈 수 있는 안전한 방법을 찾아내야 할 겁니다."
     },
     {
         "op": "replace",
-        "path": "/apexmission05/text",
-        "value": "이 연구소의 지하에서 이상한 생체 신호가 감지됩니다."
+        "path": "/tentaclemission-bossroom/text",
+        "value": "유적의 심장에 도착했구나. 그것을 반드시 파괴해야 한단다."
+    },
+    {
+        "op": "replace",
+        "path": "/tentaclemission-bossroom2/text",
+        "value": "클루엑스께서 인도해 주시기를."
+    },
+    {
+        "op": "replace",
+        "path": "/tentaclemission-destruction1/text",
+        "value": "네가 해냈어! ...하지만 뭔가 잘못되었어. 파멸이... 구조가 불안정해지고있어!"
+    },
+    {
+        "op": "replace",
+        "path": "/tentaclemission-destruction2/text",
+        "value": "곧 폭발할 거야! 빨리 나와!"
+    },
+    {
+        "op": "replace",
+        "path": "/tentaclemission-destruction3/text",
+        "value": "쟤한테 명령하지 마, 생선대가리! 쟤들은 더 심한 꼴도 당했다고!"
     },
     {
         "op": "replace",

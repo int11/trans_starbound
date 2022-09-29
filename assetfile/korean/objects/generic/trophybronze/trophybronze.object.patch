@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "전사의 우승컵"
+        "path": "/description",
+        "value": "\"전체가 반짝이지 않는 금. 영웅적인 승자에게 수상한다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"전체가 반짝이지 않는 금. 영웅적인 승자에게 수상한다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "전사의 우승컵"
     },
     {
         "op": "replace",

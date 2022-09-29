@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼어붙은 화염 의자"
+        "path": "/description",
+        "value": "앉기엔 꽤 위험한 의자다"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "앉기엔 꽤 위험한 의자다"
+        "path": "/shortdescription",
+        "value": "얼어붙은 화염 의자"
     }
 ]

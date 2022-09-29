@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "거품 블라스터"
+        "path": "/description",
+        "value": "거품 총이다! 거품을 쏘아낼수있다. 야호!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "거품 총이다! 거품을 쏘아낼수있다. 야호!"
+        "path": "/shortdescription",
+        "value": "거품 블라스터"
     }
 ]

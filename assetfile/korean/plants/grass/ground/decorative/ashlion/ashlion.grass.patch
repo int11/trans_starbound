@@ -1,22 +1,22 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "어실리온."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "어실리온."
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "설명. 어실리온"
+        "path": "/shortdescription",
+        "value": "어실리온."
     },
     {
         "op": "replace",
         "path": "/floranDescription",
         "value": "불타는 꽃."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "설명. 어실리온"
     }
 ]

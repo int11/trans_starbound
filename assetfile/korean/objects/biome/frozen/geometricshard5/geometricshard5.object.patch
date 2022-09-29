@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "얼음조각이다. 완벽한 살인무기지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "단단한 얼음 조각이다. 속까지 아주 쌀쌀하다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "뾰족한 얼음덩이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "얼음장이다! 핥으면 혀가 달라붙을 지도 모른다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "얼음덩이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "중립. 언 물이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "셔릿발 얼음. 플로란 쌰늘하다."
+        "path": "/description",
+        "value": "큰 얼음덩이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "큰 얼음덩이다."
+        "path": "/apexDescription",
+        "value": "얼음덩이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "뾰족한 얼음덩이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "셔릿발 얼음. 플로란 쌰늘하다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "중립. 언 물이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "얼음장이다! 핥으면 혀가 달라붙을 지도 모른다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "단단한 얼음 조각이다. 속까지 아주 쌀쌀하다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "얼음조각이다. 완벽한 살인무기지."
     }
 ]

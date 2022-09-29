@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "내 장담하는데 여기 이 나무 엄청 오래됐을 거야."
+        "path": "/shortdescription",
+        "value": "목재 다리 블록"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "이 나무는 매우 오래되서 바람에 삐걱거린다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "목재 다리 블록"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "이 나무는 매우 오래되서 바람에 삐걱거린다."
+        "path": "/novakidDescription",
+        "value": "내 장담하는데 여기 이 나무 엄청 오래됐을 거야."
     }
 ]

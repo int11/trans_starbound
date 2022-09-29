@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "추구자의 가슴 보호대"
+        "path": "/description",
+        "value": "이 갑옷에 내장된 회로는 호흡량을 조절해주고 장비자의 정밀성을 보강해준다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 갑옷에 내장된 회로는 호흡량을 조절해주고 장비자의 정밀성을 보강해준다."
+        "path": "/shortdescription",
+        "value": "추구자의 가슴 보호대"
     }
 ]

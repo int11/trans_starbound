@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "전자 기타"
+        "path": "/description",
+        "value": "전자 기타, 내새우는걸 좋아하는 사람에게."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전자 기타, 내새우는걸 좋아하는 사람에게."
+        "path": "/shortdescription",
+        "value": "전자 기타"
     }
 ]

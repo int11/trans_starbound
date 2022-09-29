@@ -1,18 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "기쁘게도. 전체가 금으로 이루어진 블럭이오. "
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이야-하!!! 빛나는 금 블럭!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "븿나는 금 블력"
+        "path": "/description",
+        "value": "모든 금 블럭"
     },
     {
         "op": "replace",
@@ -21,7 +11,17 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "모든 금 블럭"
+        "path": "/glitchDescription",
+        "value": "기쁘게도. 전체가 금으로 이루어진 블럭이오. "
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "븿나는 금 블력"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이야-하!!! 빛나는 금 블럭!"
     }
 ]

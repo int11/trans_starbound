@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 글리프들이 이 돌을 덮고있다."
+        "path": "/shortdescription",
+        "value": "글리프 블럭"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "글리프 블럭"
+        "path": "/description",
+        "value": "작은 글리프들이 이 돌을 덮고있다."
     },
     {
         "op": "replace",

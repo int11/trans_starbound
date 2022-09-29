@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얇은 황금 꽃병"
+        "path": "/description",
+        "value": "호리호리한 황금 장식 꽃병."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "호리호리한 황금 장식 꽃병."
+        "path": "/shortdescription",
+        "value": "얇은 황금 꽃병"
     },
     {
         "op": "replace",

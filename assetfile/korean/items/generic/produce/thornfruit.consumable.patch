@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가시 과일"
+        "path": "/description",
+        "value": "가시가 관찰되고 맛있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가시가 관찰되고 맛있다."
+        "path": "/shortdescription",
+        "value": "가시 과일"
     }
 ]

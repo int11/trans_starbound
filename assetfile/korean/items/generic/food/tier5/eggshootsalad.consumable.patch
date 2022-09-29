@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "에그슛 샐러드"
+        "path": "/description",
+        "value": "간딴하지만 묵직함이 잘 살아있는 에그슛과 깃털관 의 샐러드다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "간딴하지만 묵직함이 잘 살아있는 에그슛과 깃털관 의 샐러드다."
+        "path": "/shortdescription",
+        "value": "에그슛 샐러드"
     }
 ]

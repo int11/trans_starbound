@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "추구자의 투구"
+        "path": "/description",
+        "value": "이 튼튼한 핼맷의 바이져는 착용자의 시야를 날카롭게 만들어주도록 디자인됬다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 튼튼한 핼맷의 바이져는 착용자의 시야를 날카롭게 만들어주도록 디자인됬다."
+        "path": "/shortdescription",
+        "value": "추구자의 투구"
     }
 ]

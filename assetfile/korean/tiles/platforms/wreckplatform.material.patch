@@ -1,11 +1,6 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 녹슨 플랫폼은 곧 부숴질 것 같다."
-    },
-    {
-        "op": "replace",
         "path": "/shortdescription",
         "value": "망가진 플랫폼"
     },
@@ -23,5 +18,10 @@
         "op": "replace",
         "path": "/floranDescription",
         "value": "녹슬고 안 안전하다. 플로란 이런거 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 녹슨 플랫폼은 곧 부숴질 것 같다."
     }
 ]

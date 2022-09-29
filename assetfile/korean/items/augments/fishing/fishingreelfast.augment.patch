@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "고속 릴"
+        "path": "/description",
+        "value": "하중이 없을때 빠르게 되감을수있는 릴이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "하중이 없을때 빠르게 되감을수있는 릴이다."
+        "path": "/shortdescription",
+        "value": "고속 릴"
     },
     {
         "op": "replace",

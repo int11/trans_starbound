@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "감압실이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "문이다."
+        "path": "/description",
+        "value": "보호국 학원 문이다."
     },
     {
         "op": "replace",
@@ -16,13 +11,18 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "보호국 학원 문이다."
+        "path": "/apexDescription",
+        "value": "一扇气密门。"
     },
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "一扇气密门。"
+        "path": "/avianDescription",
+        "value": "감압실이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "문이다."
     },
     {
         "op": "replace",

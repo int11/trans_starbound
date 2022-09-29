@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "가압 문"
+        "path": "/description",
+        "value": "압력을 받기 좋은 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "압력을 받기 좋은 문이다."
+        "path": "/shortdescription",
+        "value": "가압 문"
     },
     {
         "op": "replace",

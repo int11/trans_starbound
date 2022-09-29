@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "노란색 손전등"
+        "path": "/description",
+        "value": "노란 손전등이다! 두려워 하지 말자."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "노란 손전등이다! 두려워 하지 말자."
+        "path": "/shortdescription",
+        "value": "노란색 손전등"
     }
 ]

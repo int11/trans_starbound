@@ -1,23 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "함선의 텔레포터다. 어디 한 번 굴려보실까!"
+        "path": "/description",
+        "value": "믿음직한 텔레포터야, 너 없으면 어떻게 살까?"
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "텔레포터다. 순간이동하는 기분은 꼭 산 꼭대기에서 바닷속으로 다이빙하는 기분이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "텔레포터다! 순간이동하고 있으면 꼭 날아다니는 기분이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "텔레포터다! 순간이동만큼 서두르는 것도 없다니까."
+        "path": "/shortdescription",
+        "value": "텔레포터"
     },
     {
         "op": "replace",
@@ -26,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "자만. 텔레포터다. 난 순간이동 진행중 수면모드로 들어갈 수 있다."
+        "path": "/avianDescription",
+        "value": "텔레포터다! 순간이동하고 있으면 꼭 날아다니는 기분이다."
     },
     {
         "op": "replace",
@@ -36,12 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "믿음직한 텔레포터야, 너 없으면 어떻게 살까?"
+        "path": "/glitchDescription",
+        "value": "자만. 텔레포터다. 난 순간이동 진행중 수면모드로 들어갈 수 있다."
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텔레포터"
+        "path": "/humanDescription",
+        "value": "텔레포터다! 순간이동만큼 서두르는 것도 없다니까."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "텔레포터다. 순간이동하는 기분은 꼭 산 꼭대기에서 바닷속으로 다이빙하는 기분이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "함선의 텔레포터다. 어디 한 번 굴려보실까!"
     }
 ]

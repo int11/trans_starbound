@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "독성 활"
+        "path": "/description",
+        "value": "치명적인 독이 발려진 화살을 쏜다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "치명적인 독이 발려진 화살을 쏜다."
+        "path": "/shortdescription",
+        "value": "독성 활"
     },
     {
         "op": "replace",

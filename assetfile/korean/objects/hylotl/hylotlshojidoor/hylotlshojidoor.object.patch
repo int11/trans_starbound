@@ -1,18 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 문은 튼튼해 보이지 않는걸. 손가락으로 구멍도 뚫을 수 있을 것 같아."
+        "path": "/description",
+        "value": "창호지 칸막이 문이다."
     },
     {
         "op": "replace",
         "path": "/shortdescription",
         "value": "전통적인 창호지 문"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "창호지 칸막이 문이다."
     },
     {
         "op": "replace",
@@ -43,5 +38,10 @@
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "这扇门的轮廓和结构可以使其平滑地打开。"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 문은 튼튼해 보이지 않는걸. 손가락으로 구멍도 뚫을 수 있을 것 같아."
     }
 ]

@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 광고 눈이 멀었는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "모집 스테이션? 여긴 군 모집이 선택적인가 보군. 우리에게 선택은 사치지."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "군사 모집 구호라니. 불쾌하기 짝이 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "군 모집 광고라. 추락자들은 종종 전사를 택하곤 해."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "아, 군 모집 포스터라니. 점점 방식이 화려해지고 있는데."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "친절. 신병 모집 포스터로군. 자각하지 못한 글리치는 종종 전사가 되곤 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 전샤가 되지 않아. 이미 전샤로 태어나니깐."
+        "path": "/description",
+        "value": "신병 모집을 위해 전자식 빛을 내는 포스터이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "신병 모집을 위해 전자식 빛을 내는 포스터이다."
+        "path": "/apexDescription",
+        "value": "모집 스테이션? 여긴 군 모집이 선택적인가 보군. 우리에게 선택은 사치지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "군 모집 광고라. 추락자들은 종종 전사를 택하곤 해."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 전샤가 되지 않아. 이미 전샤로 태어나니깐."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "친절. 신병 모집 포스터로군. 자각하지 못한 글리치는 종종 전사가 되곤 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "아, 군 모집 포스터라니. 점점 방식이 화려해지고 있는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "군사 모집 구호라니. 불쾌하기 짝이 없어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 광고 눈이 멀었는데."
     }
 ]

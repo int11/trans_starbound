@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "바이킹 투구"
+        "path": "/description",
+        "value": "놀라울 정도로 역사적으로 부정확한 바이킹 투구이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "놀라울 정도로 역사적으로 부정확한 바이킹 투구이다."
+        "path": "/shortdescription",
+        "value": "바이킹 투구"
     }
 ]

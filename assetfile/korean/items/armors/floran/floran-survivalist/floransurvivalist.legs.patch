@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "생존가 다리 장식"
+        "path": "/description",
+        "value": "사냥감으로부터 구한 재료로 단장되어 있다. 좋은 사냥꾼은 모든 부위를 적절하게 활용한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사냥감으로부터 구한 재료로 단장되어 있다. 좋은 사냥꾼은 모든 부위를 적절하게 활용한다."
+        "path": "/shortdescription",
+        "value": "생존가 다리 장식"
     }
 ]

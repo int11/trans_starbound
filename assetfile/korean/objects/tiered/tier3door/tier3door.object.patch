@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "티타늄 문"
+        "path": "/description",
+        "value": "강한 티타늄 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강한 티타늄 문이다."
+        "path": "/shortdescription",
+        "value": "티타늄 문"
     },
     {
         "op": "replace",

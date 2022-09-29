@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "NPC 기관 권총"
+        "path": "/description",
+        "value": "작은 전자동 권총이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 전자동 권총이다."
+        "path": "/shortdescription",
+        "value": "NPC 기관 권총"
     }
 ]

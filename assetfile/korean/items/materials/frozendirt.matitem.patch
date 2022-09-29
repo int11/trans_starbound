@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 흙은 단단하게 얼어있다."
+        "path": "/shortdescription",
+        "value": "얼어붙은 흙"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "얼어붙은 흙"
+        "path": "/description",
+        "value": "이 흙은 단단하게 얼어있다."
     },
     {
         "op": "replace",

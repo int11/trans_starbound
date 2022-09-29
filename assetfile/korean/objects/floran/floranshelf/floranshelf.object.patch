@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 트로피 올려놓을려고 책장 만들지만 트로피 너무 커. 그래서 플로란은 책장을 트로피로 쎠."
+        "path": "/description",
+        "value": "나무와 뼈로 된 책장이다. 기념품과 물자를 보관하는데 쓰였다."
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "나무와 뼈로 만들어진 이 책장은 트로피의 한 종류인 것 같다."
+        "path": "/shortdescription",
+        "value": "원시 책장"
     },
     {
         "op": "replace",
@@ -16,23 +16,18 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "인상. 이 뼈는 어떤 커다란 생물의 갈비뼈인 것 같군."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "나무와 뼈로 된 책장이다. 기념품과 물자를 보관하는데 쓰였다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "적어도 책장은 비어 있군."
-    },
-    {
-        "op": "replace",
         "path": "/avianDescription",
         "value": "이 책장 자체가 트로피인것 같아. 굳이 더 꾸밀 필요는 없겠네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 트로피 올려놓을려고 책장 만들지만 트로피 너무 커. 그래서 플로란은 책장을 트로피로 쎠."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "인상. 이 뼈는 어떤 커다란 생물의 갈비뼈인 것 같군."
     },
     {
         "op": "replace",
@@ -41,7 +36,12 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "원시 책장"
+        "path": "/hylotlDescription",
+        "value": "적어도 책장은 비어 있군."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "나무와 뼈로 만들어진 이 책장은 트로피의 한 종류인 것 같다."
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/completionText",
-        "value": "정말 감사합니다! 이건 아비안 전시품의 메인을 장식할 거에요. 전 누루가 정말 멋진 조각을 즐길 거라 확신해요! 물론 다른 사람들도요, 물론..."
+        "path": "/title",
+        "value": "^green;코이치의 부탁"
     },
     {
         "op": "replace",
@@ -11,7 +11,7 @@
     },
     {
         "op": "replace",
-        "path": "/title",
-        "value": "^green;코이치의 부탁"
+        "path": "/completionText",
+        "value": "정말 감사합니다! 이건 아비안 전시품의 메인을 장식할 거에요. 전 누루가 정말 멋진 조각을 즐길 거라 확신해요! 물론 다른 사람들도요, 물론..."
     }
 ]

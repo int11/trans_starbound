@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/altAbility/name",
-        "value": "혼돈의 화살"
+        "path": "/description",
+        "value": "레이저 사슴을 잡는 데 쓰이던 전통적인 무기."
     },
     {
         "op": "replace",
@@ -11,7 +11,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "레이저 사슴을 잡는 데 쓰이던 전통적인 무기."
+        "path": "/altAbility/name",
+        "value": "혼돈의 화살"
     }
 ]

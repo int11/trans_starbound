@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "버섯 위장 마스크"
+        "path": "/description",
+        "value": "버섯으로 위장한다. 일단은"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "버섯으로 위장한다. 일단은"
+        "path": "/shortdescription",
+        "value": "버섯 위장 마스크"
     }
 ]

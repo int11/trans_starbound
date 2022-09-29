@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "연고"
+        "path": "/description",
+        "value": "작은 상처를 치료하기 위한 연고다. 10초 동안 50 만큼의 체력을 회복한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "작은 상처를 치료하기 위한 연고다. 10초 동안 50 만큼의 체력을 회복한다."
+        "path": "/shortdescription",
+        "value": "연고"
     }
 ]

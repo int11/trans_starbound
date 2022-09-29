@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "창자 채찍"
+        "path": "/description",
+        "value": "커다란 창자로 만들어진, 놀라울 정도로 멀리 늘릴 수 있는 채찍이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "커다란 창자로 만들어진, 놀라울 정도로 멀리 늘릴 수 있는 채찍이다."
+        "path": "/shortdescription",
+        "value": "창자 채찍"
     },
     {
         "op": "replace",

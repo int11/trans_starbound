@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 단지는 생전 아비안 물품을 내세로 옮겨주는 용도다."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "사격 연습용으로 딱 좋아보이는 조류 단지다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "커다란 새 모양 단지라. 안에 뭐가 있을까 궁금한데..."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이걸 안 부수고 그냥 지나칠 수 있을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "커다랗고 잘 박살나는 새 단지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "호기심. 단지 안에 보물이 들어있진 않을까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "웃긴 섀 단지 잘 박샬난다."
+        "path": "/description",
+        "value": "호화로운 새 모양의 항아리다. 부술 수 있을 것 같다..."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "호화로운 새 모양의 항아리다. 부술 수 있을 것 같다..."
+        "path": "/apexDescription",
+        "value": "커다란 새 모양 단지라. 안에 뭐가 있을까 궁금한데..."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 단지는 생전 아비안 물품을 내세로 옮겨주는 용도다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "웃긴 섀 단지 잘 박샬난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "호기심. 단지 안에 보물이 들어있진 않을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "커다랗고 잘 박살나는 새 단지."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이걸 안 부수고 그냥 지나칠 수 있을까?"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "사격 연습용으로 딱 좋아보이는 조류 단지다."
     }
 ]

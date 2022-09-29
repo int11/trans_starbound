@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 살은 꽤 끔찍하게 생겼네."
+        "path": "/description",
+        "value": "우엑, 살아있는 것같은 물체다!"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "살 더미"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "살 더미"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "우엑, 살아있는 것같은 물체다!"
+        "path": "/novakidDescription",
+        "value": "이 살은 꽤 끔찍하게 생겼네."
     }
 ]

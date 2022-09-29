@@ -1,12 +1,7 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "서술. 꽃이군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
+        "path": "/description",
         "value": "꽃이다."
     },
     {
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
+        "path": "/floranDescription",
         "value": "꽃이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "서술. 꽃이군."
     }
 ]

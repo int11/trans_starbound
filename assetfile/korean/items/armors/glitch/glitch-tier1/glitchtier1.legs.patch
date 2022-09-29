@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "종자의 바지"
+        "path": "/description",
+        "value": "종자의 바지를 만들때 대부분의 철은 밸트 버클을 만들때 쓴다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "종자의 바지를 만들때 대부분의 철은 밸트 버클을 만들때 쓴다."
+        "path": "/shortdescription",
+        "value": "종자의 바지"
     }
 ]

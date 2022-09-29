@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "함선 사물함"
+        "path": "/description",
+        "value": "어떤 사물을 저장한다, 왜 안하겠어?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "어떤 사물을 저장한다, 왜 안하겠어?"
+        "path": "/shortdescription",
+        "value": "함선 사물함"
     },
     {
         "op": "replace",

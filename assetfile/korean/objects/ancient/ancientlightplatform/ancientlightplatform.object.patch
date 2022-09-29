@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "고체 에너지, 우리 노바키드와 비슷하다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 에너지 베리어는 보기보다 많은 무게를 지탱할 수 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이게 내 무게를 충분히 지탱할 것으로 보이진 않아."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 플렛폼은 일종의 포스 필드 기술로 만들어졌어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "그저 평범한 홀로그래픽 플렛폼이야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "긴장됨. 플렛폼이 마치 떨어질 것 같이 보임."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 눈부신 빛이 수샹해."
+        "path": "/description",
+        "value": "눈부신 빛줄기로 만드는 플렛폼."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "눈부신 빛줄기로 만드는 플렛폼."
+        "path": "/apexDescription",
+        "value": "그저 평범한 홀로그래픽 플렛폼이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이게 내 무게를 충분히 지탱할 것으로 보이진 않아."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 눈부신 빛이 수샹해."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "긴장됨. 플렛폼이 마치 떨어질 것 같이 보임."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 플렛폼은 일종의 포스 필드 기술로 만들어졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 에너지 베리어는 보기보다 많은 무게를 지탱할 수 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "고체 에너지, 우리 노바키드와 비슷하다."
     }
 ]

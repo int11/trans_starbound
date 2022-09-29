@@ -1,17 +1,14 @@
 [
     {
         "op": "replace",
-        "path": "/destinations/0/name",
-        "value": "관문으로 돌아가기"
-    },
-    {
-        "op": "replace",
-        "path": "/destinations/0",
-        "value": {
-            "name": "관문으로 돌아가기",
-            "planetName": "",
-            "warpAction": "Return",
-            "icon": "ancientgateway"
-        }
+        "path": "/destinations",
+        "value": [
+            {
+                "name": "관문으로 돌아가기",
+                "planetName": "",
+                "warpAction": "Return",
+                "icon": "ancientgateway"
+            }
+        ]
     }
 ]

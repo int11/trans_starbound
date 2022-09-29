@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "과일이 내 뒤를 봐주나? 글쎄..."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "눈깔레몬 일부는 위험하지만, 조심스럽게 다루면 괜찮다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성찰. 이 과일 자체가 자신의 영혼으로 통하는 창문 아닐까?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "진짜 눈깔 다음으로 좋다. 플로란은 좋은데, 나머지는 싫단다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "눈동자야 말로 이 기묘한 과일의 진미다."
     },
     {
         "op": "replace",
-        "path": "/avianDescription",
-        "value": "날카로운 시선을 가진 상큼한 과일."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "우주에 존재하는 모든 과일중에서 눈깔레몬이 제일 징그러울 거야."
+        "path": "/shortdescription",
+        "value": "눈깔레몬"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈깔레몬"
+        "path": "/avianDescription",
+        "value": "날카로운 시선을 가진 상큼한 과일."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "진짜 눈깔 다음으로 좋다. 플로란은 좋은데, 나머지는 싫단다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성찰. 이 과일 자체가 자신의 영혼으로 통하는 창문 아닐까?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "우주에 존재하는 모든 과일중에서 눈깔레몬이 제일 징그러울 거야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "눈깔레몬 일부는 위험하지만, 조심스럽게 다루면 괜찮다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "과일이 내 뒤를 봐주나? 글쎄..."
     }
 ]

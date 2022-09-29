@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "지속 스위치"
+        "path": "/description",
+        "value": "한번 스위치를 작동시키면 바뀐 상태로 남게된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "한번 스위치를 작동시키면 바뀐 상태로 남게된다."
+        "path": "/shortdescription",
+        "value": "지속 스위치"
     },
     {
         "op": "replace",

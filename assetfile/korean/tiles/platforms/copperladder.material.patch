@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "구리로 만든 사다리다."
+        "path": "/shortdescription",
+        "value": "구리 사다리"
     },
     {
         "op": "replace",
@@ -16,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "구리 사다리"
+        "path": "/novakidDescription",
+        "value": "구리로 만든 사다리다."
     },
     {
         "op": "replace",

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "그냥 나무로 만들어진 플랫폼이다."
+        "path": "/shortdescription",
+        "value": "나무 플랫폼"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "비설명 나무 플랫폼."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "나무 플랫폼"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "비설명 나무 플랫폼."
+        "path": "/novakidDescription",
+        "value": "그냥 나무로 만들어진 플랫폼이다."
     }
 ]

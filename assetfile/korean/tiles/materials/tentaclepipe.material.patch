@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "일종의 촉수인 것 같아."
+        "path": "/shortdescription",
+        "value": "큰 촉수"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "커다란 촉수다."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "큰 촉수"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "커다란 촉수다."
+        "path": "/novakidDescription",
+        "value": "일종의 촉수인 것 같아."
     }
 ]

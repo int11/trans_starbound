@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "운석 조각"
+        "path": "/description",
+        "value": "대기권 밖에서 찾아낸 매우 단단한 돌."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "대기권 밖에서 찾아낸 매우 단단한 돌."
+        "path": "/shortdescription",
+        "value": "운석 조각"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "더할 나위 없이 윤기나는 오래된 벽돌이다."
+        "path": "/shortdescription",
+        "value": "윤기나는 무덤 벽돌"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "윤기나는 무덤 벽돌"
+        "path": "/description",
+        "value": "더할 나위 없이 윤기나는 오래된 벽돌이다."
     },
     {
         "op": "replace",

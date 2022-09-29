@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "전기 저항 확장 부품"
+        "path": "/description",
+        "value": "전기에 높은 저항을 갖게 해주는 EPP 확장 부품이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전기에 높은 저항을 갖게 해주는 EPP 확장 부품이다."
+        "path": "/shortdescription",
+        "value": "전기 저항 확장 부품"
     },
     {
         "op": "replace",

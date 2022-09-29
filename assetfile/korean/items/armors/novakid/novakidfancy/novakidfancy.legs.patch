@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "총잡이 바지"
+        "path": "/description",
+        "value": "편안하고 캐주얼하다. 군중속에서도 눈에 띈다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "편안하고 캐주얼하다. 군중속에서도 눈에 띈다."
+        "path": "/shortdescription",
+        "value": "총잡이 바지"
     }
 ]

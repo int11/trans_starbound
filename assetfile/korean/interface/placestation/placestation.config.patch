@@ -31,6 +31,11 @@
     },
     {
         "op": "replace",
+        "path": "/gui/configure/children/saveButton/caption",
+        "value": "저장"
+    },
+    {
+        "op": "replace",
         "path": "/connect/connectText",
         "value": "^green;S.A.I.L.에 연결하는 중"
     },
@@ -38,6 +43,11 @@
         "op": "replace",
         "path": "/connect/failText",
         "value": "^red;S.A.I.L. 고대역폭 연결 실패\n당신의 함선에서 다시 시도하세요"
+    },
+    {
+        "op": "replace",
+        "path": "/connect/successText",
+        "value": "^green;고대역폭 연결 설정\n시스템 데이터 전송 중"
     },
     {
         "op": "replace",
@@ -68,16 +78,6 @@
         "op": "replace",
         "path": "/deployingText/error",
         "value": "프로브 전개 실패.\n연결 끊김"
-    },
-    {
-        "op": "replace",
-        "path": "/gui/configure/children/saveButton/caption",
-        "value": "저장"
-    },
-    {
-        "op": "replace",
-        "path": "/connect/successText",
-        "value": "^green;고대역폭 연결 설정\n시스템 데이터 전송 중"
     },
     {
         "op": "replace",

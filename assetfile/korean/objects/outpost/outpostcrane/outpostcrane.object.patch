@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "커다란 기계식 집게"
+        "path": "/description",
+        "value": "집게다. 화물 운반이나 무기로 휘두를때 쓴다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "집게다. 화물 운반이나 무기로 휘두를때 쓴다."
+        "path": "/shortdescription",
+        "value": "커다란 기계식 집게"
     },
     {
         "op": "replace",

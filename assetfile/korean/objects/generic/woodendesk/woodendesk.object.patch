@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "책상에 앉아있을 시간 없어."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "글을 쓰기에 좋은 책상이야."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "일하기에 좋은 책상이야."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "좋은 나무 책상이야.  지금은 딱히 해야 할 서류 작업이 없지만 말이야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "단단한 나무 책상이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "평온. 데이터를 처리할 장소일세."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란은 책샹에 앉지 않아!"
+        "path": "/description",
+        "value": "비싸 보이는 목재 책상이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "비싸 보이는 목재 책상이다."
+        "path": "/apexDescription",
+        "value": "단단한 나무 책상이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "일하기에 좋은 책상이야."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란은 책샹에 앉지 않아!"
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "평온. 데이터를 처리할 장소일세."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "좋은 나무 책상이야.  지금은 딱히 해야 할 서류 작업이 없지만 말이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "글을 쓰기에 좋은 책상이야."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "책상에 앉아있을 시간 없어."
     }
 ]

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "큰 방탄문"
+        "path": "/description",
+        "value": "방탄 소재로 만든 문이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "방탄 소재로 만든 문이다."
+        "path": "/shortdescription",
+        "value": "큰 방탄문"
     },
     {
         "op": "replace",

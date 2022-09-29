@@ -1,13 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "성명. 매달린 얼음 조각"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "얼음 조오각이야."
+        "path": "/description",
+        "value": "매달려있는 얼음 조각이다."
     },
     {
         "op": "replace",
@@ -16,7 +11,12 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "매달려있는 얼음 조각이다."
+        "path": "/floranDescription",
+        "value": "얼음 조오각이야."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "성명. 매달린 얼음 조각"
     }
 ]

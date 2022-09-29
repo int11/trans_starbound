@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "흠. 육포 하나 기막히게 만드시겠다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "커튼이다. 아니면 반쯤 마르고 반쯤 먹힌 고기던가. 둘 중 하나다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 커튼... 만지고 싶지 않다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "커튼에 구멍이 있다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "저게 커튼인지 대에 걸어놓은 고깃덩인지 모르겠네..."
+        "path": "/shortdescription",
+        "value": "원시 커튼"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "놀람. 이 커튼은 고기로 만들어졌다."
+        "path": "/avianDescription",
+        "value": "커튼에 구멍이 있다."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "원시 커튼"
+        "path": "/glitchDescription",
+        "value": "놀람. 이 커튼은 고기로 만들어졌다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "저게 커튼인지 대에 걸어놓은 고깃덩인지 모르겠네..."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 커튼... 만지고 싶지 않다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "흠. 육포 하나 기막히게 만드시겠다."
     }
 ]

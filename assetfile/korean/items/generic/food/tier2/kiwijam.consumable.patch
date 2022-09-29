@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "키위 잼"
+        "path": "/description",
+        "value": "짜릿해서 기운이 난다. 토스트에 발라 보자!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "짜릿해서 기운이 난다. 토스트에 발라 보자!"
+        "path": "/shortdescription",
+        "value": "키위 잼"
     }
 ]

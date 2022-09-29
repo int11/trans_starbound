@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "편안한 반바지"
+        "path": "/description",
+        "value": "적당히 편안하고 합리적이고 안락하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "적당히 편안하고 합리적이고 안락하다."
+        "path": "/shortdescription",
+        "value": "편안한 반바지"
     }
 ]

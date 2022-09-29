@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "치즈버거"
+        "path": "/description",
+        "value": "육즙이 나는 햄버거에, 치즈를 얹었다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "육즙이 나는 햄버거에, 치즈를 얹었다."
+        "path": "/shortdescription",
+        "value": "치즈버거"
     }
 ]

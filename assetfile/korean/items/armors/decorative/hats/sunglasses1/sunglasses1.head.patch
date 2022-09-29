@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선글라스"
+        "path": "/description",
+        "value": "내 눈을 밝은 태양으로 부터 보호해주는 안경이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "내 눈을 밝은 태양으로 부터 보호해주는 안경이다."
+        "path": "/shortdescription",
+        "value": "선글라스"
     }
 ]

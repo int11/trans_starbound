@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "옥상 통기관"
+        "path": "/description",
+        "value": "여라가지로 더러워진 공기를 배출하기 위해 설치된다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "여라가지로 더러워진 공기를 배출하기 위해 설치된다."
+        "path": "/shortdescription",
+        "value": "옥상 통기관"
     },
     {
         "op": "replace",

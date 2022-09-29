@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "이그놈 모형"
+        "path": "/description",
+        "value": "\"의외로 이들의 새까맣게 탄 피부는 부드러워서, 촉감이 좋다. 불타고 있는게 아니라면!\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"의외로 이들의 새까맣게 탄 피부는 부드러워서, 촉감이 좋다. 불타고 있는게 아니라면!\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "이그놈 모형"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "캐주얼 반바지"
+        "path": "/description",
+        "value": "평균적인 반바지보다 조금 길다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "평균적인 반바지보다 조금 길다."
+        "path": "/shortdescription",
+        "value": "캐주얼 반바지"
     }
 ]

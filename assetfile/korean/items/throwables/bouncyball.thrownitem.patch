@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "던지면 통통 튀는 공입니다."
+        "path": "/shortdescription",
+        "value": "탱탱볼"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "탱탱볼"
+        "path": "/description",
+        "value": "던지면 통통 튀는 공입니다."
     }
 ]

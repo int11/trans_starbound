@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 쪼매난 친구는 꽤 귀여운 것 같아, 내 생각엔."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아아아! 끝내주는 곰인형이야. 완전 좋아!"
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "귀엽고 꼭 껴안고 싶은 곰인형이네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "난 그냥 이 곰인형이나 평생 껴안고 싶다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "사랑스럽고 껴안고 싶은 곰인형이야."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "환희. 이 곰인형은 아주 부드럽고 보송보송하구만!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "숌털인형이 플로란 노려본다."
+        "path": "/description",
+        "value": "깜찍한 곰인형이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "깜찍한 곰인형이다."
+        "path": "/apexDescription",
+        "value": "사랑스럽고 껴안고 싶은 곰인형이야."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "귀엽고 꼭 껴안고 싶은 곰인형이네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "숌털인형이 플로란 노려본다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "환희. 이 곰인형은 아주 부드럽고 보송보송하구만!"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "난 그냥 이 곰인형이나 평생 껴안고 싶다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아아아! 끝내주는 곰인형이야. 완전 좋아!"
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 쪼매난 친구는 꽤 귀여운 것 같아, 내 생각엔."
     }
 ]

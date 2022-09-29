@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "보강된 기술 블럭"
+        "path": "/description",
+        "value": "이 보강된 기술 블럭 아래에는 다양한 회로가 숨어있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 보강된 기술 블럭 아래에는 다양한 회로가 숨어있다."
+        "path": "/shortdescription",
+        "value": "보강된 기술 블럭"
     },
     {
         "op": "replace",

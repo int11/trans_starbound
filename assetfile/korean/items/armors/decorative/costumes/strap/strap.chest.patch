@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "상체 붕대"
+        "path": "/description",
+        "value": "상체를 붕대같은걸로 묶는다. 이게 유행이라고?"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "상체를 붕대같은걸로 묶는다. 이게 유행이라고?"
+        "path": "/shortdescription",
+        "value": "상체 붕대"
     }
 ]

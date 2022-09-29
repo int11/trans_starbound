@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "밥파이 모형"
+        "path": "/description",
+        "value": "\"능숙하게 날지 못하는 만큼, 밥파이란 종이 생존하는 건 의문스런 일이다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"능숙하게 날지 못하는 만큼, 밥파이란 종이 생존하는 건 의문스런 일이다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "밥파이 모형"
     }
 ]

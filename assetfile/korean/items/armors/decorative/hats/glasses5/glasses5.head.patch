@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "단순한 안경"
+        "path": "/description",
+        "value": "가장 원시적이고, 가장 뛰어나다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "가장 원시적이고, 가장 뛰어나다."
+        "path": "/shortdescription",
+        "value": "단순한 안경"
     }
 ]

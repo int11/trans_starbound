@@ -6,23 +6,8 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "지저분해보이는 그물망이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "익소둠이 만들어낸 불경한 그물망이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "익소둠의 그물이다. 살고 싶다면 피하는 게 좋아!"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "익소둠 그물이다. 역겨워!"
+        "path": "/shortdescription",
+        "value": "익소둠 그물"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "공포. 그저 크고 끈끈한 그물일 뿐이다. 두려워할 거 없다."
+        "path": "/avianDescription",
+        "value": "익소둠의 그물이다. 살고 싶다면 피하는 게 좋아!"
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "익소둠 그물"
+        "path": "/glitchDescription",
+        "value": "공포. 그저 크고 끈끈한 그물일 뿐이다. 두려워할 거 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "익소둠 그물이다. 역겨워!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "익소둠이 만들어낸 불경한 그물망이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "지저분해보이는 그물망이다."
     }
 ]

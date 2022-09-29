@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "함선 텔레포터다. 이 아가씨를 깨우려면 전원이 필요하겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이 텔레포터는 꺼져있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "텔레포터다! 전원이 공급될때의 이야기지만."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "텔레포터다! 켜지지 않아서 아쉽군."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "함선 텔레포터다. 전원을 켤 필요가 있겠군."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "실망. 전원이 꺼진 텔레포터. 전력을 공급해야한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "함션 텔레포터다. 이건 꺼졌어."
+        "path": "/description",
+        "value": "믿음직한 텔레포터, 너 없이 뭘하겠어?"
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "믿음직한 텔레포터, 너 없이 뭘하겠어?"
+        "path": "/apexDescription",
+        "value": "함선 텔레포터다. 전원을 켤 필요가 있겠군."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "텔레포터다! 전원이 공급될때의 이야기지만."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "함션 텔레포터다. 이건 꺼졌어."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "실망. 전원이 꺼진 텔레포터. 전력을 공급해야한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "텔레포터다! 켜지지 않아서 아쉽군."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이 텔레포터는 꺼져있어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "함선 텔레포터다. 이 아가씨를 깨우려면 전원이 필요하겠군."
     }
 ]

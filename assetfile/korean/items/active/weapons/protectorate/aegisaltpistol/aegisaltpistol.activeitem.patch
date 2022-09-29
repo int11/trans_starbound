@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "이지솔트 권총"
+        "path": "/description",
+        "value": "강력한 에너지 광선을 끊임없이 쏠 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "강력한 에너지 광선을 끊임없이 쏠 수 있다."
+        "path": "/shortdescription",
+        "value": "이지솔트 권총"
     }
 ]

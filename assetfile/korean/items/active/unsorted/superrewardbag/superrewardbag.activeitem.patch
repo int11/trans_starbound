@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "특별한 보상 가방"
+        "path": "/description",
+        "value": "사용하면 여러 보상이 나온다. 신난다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "사용하면 여러 보상이 나온다. 신난다!"
+        "path": "/shortdescription",
+        "value": "특별한 보상 가방"
     }
 ]

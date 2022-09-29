@@ -1,17 +1,7 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "임시 소품이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "임시 소품이다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
+        "path": "/description",
         "value": "임시 소품이다."
     },
     {
@@ -21,12 +11,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "임시 소품이다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
+        "path": "/apexDescription",
         "value": "임시 소품이다."
     },
     {
@@ -36,7 +21,22 @@
     },
     {
         "op": "replace",
+        "path": "/floranDescription",
+        "value": "임시 소품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "임시 소품이다."
+    },
+    {
+        "op": "replace",
         "path": "/humanDescription",
+        "value": "임시 소품이다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
         "value": "임시 소품이다."
     }
 ]

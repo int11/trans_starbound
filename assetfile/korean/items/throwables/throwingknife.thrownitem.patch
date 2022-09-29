@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 칼을 던질때는 꼼꼼함과 세심함이 필요합니다."
+        "path": "/shortdescription",
+        "value": "투척용 칼"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "투척용 칼"
+        "path": "/description",
+        "value": "이 칼을 던질때는 꼼꼼함과 세심함이 필요합니다."
     }
 ]

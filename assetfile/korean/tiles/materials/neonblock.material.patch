@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 블록은 진짜로 무슨 가스 같은걸로 채워진듯 한데."
+        "path": "/description",
+        "value": "네온 가스로 가득 찬 색칠된 블록."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "네온 블록"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "네온 가스로 가득 찬 색칠된 블록."
-    },
-    {
-        "op": "replace",
-        "path": "/shortdescription",
-        "value": "네온 블록"
+        "path": "/novakidDescription",
+        "value": "이 블록은 진짜로 무슨 가스 같은걸로 채워진듯 한데."
     }
 ]

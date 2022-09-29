@@ -1,33 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "네온멜론 속은 아주 맛나보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "네온멜론은 먹기엔 과도하게 달다. 겉보기엔 아주 정교한데."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "물 많은 네온멜론, 맛있고 반짝이는 씨앗이 차있다."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "즙 많고 맛있는 네온멜론. 색이 다양할 수록 맛도 좋다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "만족. 항상 네온멜론은 참 맛있게 생겼다고 생각했다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 쩍 쇼리 내려고 네온멜론 박샬낸다. 먹기도 한다."
+        "path": "/description",
+        "value": "이 화려한 네온멜론의 과육은 풍선껌 맛이 난다."
     },
     {
         "op": "replace",
@@ -36,12 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 화려한 네온멜론의 과육은 풍선껌 맛이 난다."
+        "path": "/apexDescription",
+        "value": "즙 많고 맛있는 네온멜론. 색이 다양할 수록 맛도 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "물 많은 네온멜론, 맛있고 반짝이는 씨앗이 차있다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 쩍 쇼리 내려고 네온멜론 박샬낸다. 먹기도 한다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "만족. 항상 네온멜론은 참 맛있게 생겼다고 생각했다."
     },
     {
         "op": "replace",
         "path": "/humanDescription",
         "value": "먹을 수도 있고, 방에 장식용으로 놔둘 수도 있다. 나라면 전자부터 하겠다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "네온멜론은 먹기엔 과도하게 달다. 겉보기엔 아주 정교한데."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "네온멜론 속은 아주 맛나보인다."
     }
 ]

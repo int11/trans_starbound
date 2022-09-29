@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "질퍽한 눈알의 떨어진 더미"
+        "path": "/shortdescription",
+        "value": "눈 더미"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "눈 더미"
+        "path": "/description",
+        "value": "질퍽한 눈알의 떨어진 더미"
     },
     {
         "op": "replace",

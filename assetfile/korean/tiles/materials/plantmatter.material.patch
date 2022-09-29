@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "식물 뭉텅이 와 이파리들이  한데 뭉쳐있어"
+        "path": "/description",
+        "value": "포장된 식물 물질의 블록이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "식물 물질"
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "식물 물질"
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "포장된 식물 물질의 블록이다."
+        "path": "/novakidDescription",
+        "value": "식물 뭉텅이 와 이파리들이  한데 뭉쳐있어"
     }
 ]

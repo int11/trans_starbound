@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "용접공의 마스크"
+        "path": "/description",
+        "value": "착용자가 용접을 하는 동안 얼굴로 오는 빛과 열을 차단한다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "착용자가 용접을 하는 동안 얼굴로 오는 빛과 열을 차단한다."
+        "path": "/shortdescription",
+        "value": "용접공의 마스크"
     }
 ]

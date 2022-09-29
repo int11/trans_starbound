@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "축전지 (Battery)"
+        "path": "/description",
+        "value": "이 배터리는 최첨단 조합대, 무기, 웨어러블에 전력을 공급하는 데 사용될 수 있다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 배터리는 최첨단 조합대, 무기, 웨어러블에 전력을 공급하는 데 사용될 수 있다!"
+        "path": "/shortdescription",
+        "value": "축전지 (Battery)"
     }
 ]

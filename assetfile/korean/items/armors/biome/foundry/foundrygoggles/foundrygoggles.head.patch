@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "주조소 고글"
+        "path": "/description",
+        "value": "나의 작은 눈을 보호하기 위한 큰 고글이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "나의 작은 눈을 보호하기 위한 큰 고글이다."
+        "path": "/shortdescription",
+        "value": "주조소 고글"
     }
 ]

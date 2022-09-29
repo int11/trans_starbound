@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "새끼 애벌레"
+        "path": "/description",
+        "value": "외계인의 새끼 애벌레이다. 작고, 찐득찐득하고, 무방비하다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "외계인의 새끼 애벌레이다. 작고, 찐득찐득하고, 무방비하다."
+        "path": "/shortdescription",
+        "value": "새끼 애벌레"
     }
 ]

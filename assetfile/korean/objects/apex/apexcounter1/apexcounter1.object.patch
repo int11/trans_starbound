@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "괜찮은 구식 부엌 카운터야."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "어떠한 접시들이 있을까 궁금해."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "음식을 저장하기 좋은 장소네."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "부엌 카운터처럼 보이는데."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "구닥다리지만 실용적이긴 하지."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "갈망. 음식이 있을 가능성이 글리치조차 들뜨게 하는군."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "음식 저장고야. 으음."
+        "path": "/description",
+        "value": "표준 규격의 부엌용 찬장 한 쌍이다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "표준 규격의 부엌용 찬장 한 쌍이다."
+        "path": "/apexDescription",
+        "value": "구닥다리지만 실용적이긴 하지."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "음식을 저장하기 좋은 장소네."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "음식 저장고야. 으음."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "갈망. 음식이 있을 가능성이 글리치조차 들뜨게 하는군."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "부엌 카운터처럼 보이는데."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "어떠한 접시들이 있을까 궁금해."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "괜찮은 구식 부엌 카운터야."
     }
 ]

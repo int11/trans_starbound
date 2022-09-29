@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금 난간"
+        "path": "/description",
+        "value": "진정 부유한 사람을 위한, 금으로 만든 난간"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "진정 부유한 사람을 위한, 금으로 만든 난간"
+        "path": "/shortdescription",
+        "value": "금 난간"
     },
     {
         "op": "replace",

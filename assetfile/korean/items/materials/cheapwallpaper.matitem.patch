@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "초라한 벽지"
+        "path": "/description",
+        "value": "싸고, 초라한 벽지다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "싸고, 초라한 벽지다."
+        "path": "/shortdescription",
+        "value": "초라한 벽지"
     },
     {
         "op": "replace",

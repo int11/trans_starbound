@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "일석이조, 탁자와 거울."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "고요한 호수처럼 반짝이는 탁자다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아름다운 수정 탁자다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "여기 딱 앉으면 아주 높으신 분이 된 기분이 들겠다. 아주 높으신 마법사."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "수정으로 만든 탁자다. 아름다워."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "질투. 어찌 이리 빛나는 탁자가 있을 쏘냐?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 슈정 도마로 쓴다. 흠집 안 난다."
+        "path": "/description",
+        "value": "수정으로 만들어진 탁자다. 고급진 음식에 완벽하다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "수정으로 만들어진 탁자다. 고급진 음식에 완벽하다."
+        "path": "/apexDescription",
+        "value": "수정으로 만든 탁자다. 아름다워."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아름다운 수정 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 슈정 도마로 쓴다. 흠집 안 난다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "질투. 어찌 이리 빛나는 탁자가 있을 쏘냐?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "여기 딱 앉으면 아주 높으신 분이 된 기분이 들겠다. 아주 높으신 마법사."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "고요한 호수처럼 반짝이는 탁자다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "일석이조, 탁자와 거울."
     }
 ]

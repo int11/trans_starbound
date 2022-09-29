@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "제논 팩"
+        "path": "/description",
+        "value": "제논 라이트가 부착된 가방이다. 평생 필요한 것 보다 많은 빛을 내뿜는다!"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "제논 라이트가 부착된 가방이다. 평생 필요한 것 보다 많은 빛을 내뿜는다!"
+        "path": "/shortdescription",
+        "value": "제논 팩"
     }
 ]

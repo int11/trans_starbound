@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "수습전사 바지"
+        "path": "/description",
+        "value": "전투 훈련을 할때 입는 수습전사의 바지이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "전투 훈련을 할때 입는 수습전사의 바지이다."
+        "path": "/shortdescription",
+        "value": "수습전사 바지"
     }
 ]

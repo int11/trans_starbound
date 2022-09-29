@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/speciesText/default/repeatButtonText",
-        "value": "지엄한 군주의 사원 재도전"
+        "path": "/speciesText/default/buttonText",
+        "value": "지엄한 군주의 사원"
     },
     {
         "op": "replace",
-        "path": "/speciesText/default/buttonText",
-        "value": "지엄한 군주의 사원"
+        "path": "/speciesText/default/repeatButtonText",
+        "value": "지엄한 군주의 사원 재도전"
     },
     {
         "op": "replace",

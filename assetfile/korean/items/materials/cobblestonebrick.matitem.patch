@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "조약돌로 만들어진 작은 벽돌이다."
+        "path": "/shortdescription",
+        "value": "조약돌 벽돌"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "조약돌 벽돌"
+        "path": "/description",
+        "value": "조약돌로 만들어진 작은 벽돌이다."
     },
     {
         "op": "replace",

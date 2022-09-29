@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/description",
-        "value": "다양한 표식이 인쇄되어있는 이 물채는, 인공 아비안 물질로 만들어져있다."
+        "path": "/shortdescription",
+        "value": "아비안 기술 블럭"
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "아비안 기술 블럭"
+        "path": "/description",
+        "value": "다양한 표식이 인쇄되어있는 이 물채는, 인공 아비안 물질로 만들어져있다."
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "의무병 전투 상의"
+        "path": "/description",
+        "value": "의무병을 위해 만들어진 군사용 전투 상의"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "의무병을 위해 만들어진 군사용 전투 상의"
+        "path": "/shortdescription",
+        "value": "의무병 전투 상의"
     }
 ]

@@ -1,8 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "뼈 무더기다. 누군가 이게 필요해!"
+        "path": "/description",
+        "value": "뼈로 빽빽하게 짜여진 무더기입니다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "뼈 무더기."
     },
     {
         "op": "replace",
@@ -16,12 +21,7 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "뼈 무더기."
-    },
-    {
-        "op": "replace",
-        "path": "/description",
-        "value": "뼈로 빽빽하게 짜여진 무더기입니다."
+        "path": "/novakidDescription",
+        "value": "뼈 무더기다. 누군가 이게 필요해!"
     }
 ]

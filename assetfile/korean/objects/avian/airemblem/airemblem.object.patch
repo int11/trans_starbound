@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "무너져가는 바람의 아비안 조각상 같아 보인다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "바람의 요소를 꽤 대충 묘사한 상징이다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안이 공기를 나타낼 때에 쓰는 무늬이다. 내가 어떻게 이것을 잊을 수 있겠나?"
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "이 문양은 공기나 바람을 뜻한다고 추측해 볼 수가 있겠어."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "공기를 상징하는 아비안 문장이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": " 지식. 이것은 아비안이 공기를 뜻할 때 쓰는 무늬의 상징이라고 생각한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "부드럽게 휘어지는 션은 바람을 뜻한댜."
+        "path": "/description",
+        "value": "이 무늬는 공기 원소의 흐름과 자유를 상징한다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 무늬는 공기 원소의 흐름과 자유를 상징한다."
+        "path": "/apexDescription",
+        "value": "공기를 상징하는 아비안 문장이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안이 공기를 나타낼 때에 쓰는 무늬이다. 내가 어떻게 이것을 잊을 수 있겠나?"
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "부드럽게 휘어지는 션은 바람을 뜻한댜."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": " 지식. 이것은 아비안이 공기를 뜻할 때 쓰는 무늬의 상징이라고 생각한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "이 문양은 공기나 바람을 뜻한다고 추측해 볼 수가 있겠어."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "바람의 요소를 꽤 대충 묘사한 상징이다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "무너져가는 바람의 아비안 조각상 같아 보인다."
     }
 ]

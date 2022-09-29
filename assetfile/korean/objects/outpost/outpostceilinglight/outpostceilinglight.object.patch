@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "금속 전등 고정기"
+        "path": "/description",
+        "value": "금속 제질로 만들어진 전등 고정기이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "금속 제질로 만들어진 전등 고정기이다."
+        "path": "/shortdescription",
+        "value": "금속 전등 고정기"
     },
     {
         "op": "replace",

@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "녹슨 금속"
+        "path": "/description",
+        "value": "부식되고 녹슨 낡은 금속"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "부식되고 녹슨 낡은 금속"
+        "path": "/shortdescription",
+        "value": "녹슨 금속"
     },
     {
         "op": "replace",

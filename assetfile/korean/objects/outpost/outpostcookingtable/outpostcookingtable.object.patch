@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "새련된 요리 탁자"
+        "path": "/description",
+        "value": "이 탁자야 말로 요리를 하기엔 안성맞춤이지."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "이 탁자야 말로 요리를 하기엔 안성맞춤이지."
+        "path": "/shortdescription",
+        "value": "새련된 요리 탁자"
     },
     {
         "op": "replace",

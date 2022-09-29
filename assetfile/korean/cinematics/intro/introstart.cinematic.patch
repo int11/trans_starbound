@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/panels/4/text",
-        "value": "일어나세요. 당신은 늦잠을 잤습니다."
+        "path": "/panels/3/text",
+        "value": "일어나세요..."
     },
     {
         "op": "replace",
-        "path": "/panels/3/text",
-        "value": "일어나세요..."
+        "path": "/panels/4/text",
+        "value": "일어나세요. 당신은 늦잠을 잤습니다."
     },
     {
         "op": "add",

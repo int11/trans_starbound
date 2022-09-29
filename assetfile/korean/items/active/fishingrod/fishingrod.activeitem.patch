@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "낚싯대"
+        "path": "/description",
+        "value": "티타늄이 장착된 간단한 나무 낚싯대다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "티타늄이 장착된 간단한 나무 낚싯대다."
+        "path": "/shortdescription",
+        "value": "낚싯대"
     },
     {
         "op": "replace",

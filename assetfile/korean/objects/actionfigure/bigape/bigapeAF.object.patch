@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "빅 에이프 모형"
+        "path": "/description",
+        "value": "\"지정부 정권의 명목상의 두목. 안정적으로 유지하기 위해선 홀로그램 프로젝터가 필요하다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"지정부 정권의 명목상의 두목. 안정적으로 유지하기 위해선 홀로그램 프로젝터가 필요하다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "빅 에이프 모형"
     }
 ]

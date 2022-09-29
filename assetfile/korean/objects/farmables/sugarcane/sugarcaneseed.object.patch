@@ -1,28 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "설탕처럼 달구나. 잠깐..."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "설탕은 향미를 증진시키는 데 쓰인다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "사탕수수는 섬유질이 많고 고급스러운 단맛이 나는 수액을 가지고있다."
     },
     {
         "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "음식을 달게 할 때 쓰인다. 왜 음식을 달게 하고 싶은지는 하이로틀이 이해할 수 없다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "사탕수수다. 너무 많이 먹으면 이에 안 좋다."
+        "path": "/shortdescription",
+        "value": "사탕수수 씨앗"
     },
     {
         "op": "replace",
@@ -31,8 +16,8 @@
     },
     {
         "op": "replace",
-        "path": "/glitchDescription",
-        "value": "장황. 이 식물은 날카로우며 쓸 줄 아는 자가 휘두르면 치명적일 수 있다."
+        "path": "/avianDescription",
+        "value": "설탕은 향미를 증진시키는 데 쓰인다."
     },
     {
         "op": "replace",
@@ -41,7 +26,22 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "사탕수수 씨앗"
+        "path": "/glitchDescription",
+        "value": "장황. 이 식물은 날카로우며 쓸 줄 아는 자가 휘두르면 치명적일 수 있다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "사탕수수다. 너무 많이 먹으면 이에 안 좋다."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "음식을 달게 할 때 쓰인다. 왜 음식을 달게 하고 싶은지는 하이로틀이 이해할 수 없다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "설탕처럼 달구나. 잠깐..."
     }
 ]

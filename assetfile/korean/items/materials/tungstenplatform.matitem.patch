@@ -1,13 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "텅스텐 플랫폼"
+        "path": "/description",
+        "value": "텅스텐으로 만들어진 강한 플랫폼이다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "텅스텐으로 만들어진 강한 플랫폼이다."
+        "path": "/shortdescription",
+        "value": "텅스텐 플랫폼"
     },
     {
         "op": "replace",

@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "봉봉"
+        "path": "/description",
+        "value": "완벽한 과자라 할 수 있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "완벽한 과자라 할 수 있다."
+        "path": "/shortdescription",
+        "value": "봉봉"
     }
 ]

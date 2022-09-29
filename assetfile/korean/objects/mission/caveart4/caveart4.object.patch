@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "요 근래엔 보기 싫은데."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "안 좋은 기억을 떠올린다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "설마 저 그림...? 아이고 맙소사."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "안 돼... 저게 어쩌다 여기까지 온 거야?!"
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "저 그림을 봤더니 의지 대신 공포심이 가득 차올랐다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "공포. 내가 틀렸을 수도 있겠지만... 저 그림 소름끼치게 낯이 익는다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "플로란 이거 다시 보기 싫다."
+        "path": "/description",
+        "value": "촉수로 된 존재를 묘사한 동굴벽화다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "촉수로 된 존재를 묘사한 동굴벽화다."
+        "path": "/apexDescription",
+        "value": "저 그림을 봤더니 의지 대신 공포심이 가득 차올랐다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "설마 저 그림...? 아이고 맙소사."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "플로란 이거 다시 보기 싫다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "공포. 내가 틀렸을 수도 있겠지만... 저 그림 소름끼치게 낯이 익는다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "안 돼... 저게 어쩌다 여기까지 온 거야?!"
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "안 좋은 기억을 떠올린다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "요 근래엔 보기 싫은데."
     }
 ]

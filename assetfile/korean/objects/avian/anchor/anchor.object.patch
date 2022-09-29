@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "무거워뵈는 철덩어리네."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "아, 닻. 하이로틀의 구조물에 부딫쳤다는 이야기를 들어본 적이 있어."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "아비안 비행선의 닻이야. 얄궃게도, 대부분의 배교자들은 땅에서 살기보다는 구름 사이에 둘러싸인 비행선에서 살고 있지."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "거대한 닻이야."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "무거운 철 조각, 아마도 닻이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "이상함. 글리치는 닻을 거대한 범선에 쓰려고 만들지. 그런데 왜 이게 여기 있는거지?"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "철 고리, 엄청 무거워."
+        "path": "/description",
+        "value": "무거운 금속 닻이다. 아으으."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "무거운 금속 닻이다. 아으으."
+        "path": "/apexDescription",
+        "value": "무거운 철 조각, 아마도 닻이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "아비안 비행선의 닻이야. 얄궃게도, 대부분의 배교자들은 땅에서 살기보다는 구름 사이에 둘러싸인 비행선에서 살고 있지."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "철 고리, 엄청 무거워."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "이상함. 글리치는 닻을 거대한 범선에 쓰려고 만들지. 그런데 왜 이게 여기 있는거지?"
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "거대한 닻이야."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "아, 닻. 하이로틀의 구조물에 부딫쳤다는 이야기를 들어본 적이 있어."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "무거워뵈는 철덩어리네."
     }
 ]

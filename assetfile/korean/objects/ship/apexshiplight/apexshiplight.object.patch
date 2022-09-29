@@ -1,38 +1,13 @@
 [
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "전구 하나 밝구만 그래."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "밝은 백색광이다. 중성적 분위기를 연출한다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "선명한 빛이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "밝은 백색광."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "경탄. 이 세간은 열보다 빛을 더 많이 발산한다."
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "함션 등불이 플로란 눈 망친다."
-    },
-    {
-        "op": "replace",
         "path": "/description",
         "value": "평범한 선등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "선등"
     },
     {
         "op": "replace",
@@ -41,7 +16,32 @@
     },
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "선등"
+        "path": "/avianDescription",
+        "value": "선명한 빛이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "함션 등불이 플로란 눈 망친다."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "경탄. 이 세간은 열보다 빛을 더 많이 발산한다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "밝은 백색광."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "밝은 백색광이다. 중성적 분위기를 연출한다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "전구 하나 밝구만 그래."
     }
 ]

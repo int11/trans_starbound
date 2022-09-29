@@ -1,8 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/apexDescription",
-        "value": "날카로운 돌 쐐기."
+        "path": "/description",
+        "value": "밟지 마시오..."
     },
     {
         "op": "replace",
@@ -11,8 +11,8 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "밟지 마시오..."
+        "path": "/apexDescription",
+        "value": "날카로운 돌 쐐기."
     },
     {
         "op": "replace",
@@ -21,8 +21,8 @@
     },
     {
         "op": "replace",
-        "path": "/humanDescription",
-        "value": "만지지 말아야지."
+        "path": "/floranDescription",
+        "value": "날카롭고 뾰족하다."
     },
     {
         "op": "replace",
@@ -31,17 +31,17 @@
     },
     {
         "op": "replace",
-        "path": "/novakidDescription",
-        "value": "날카로워 뵈는데. 이건 미친 짓이야 난 여기서 나가야겠어!"
-    },
-    {
-        "op": "replace",
-        "path": "/floranDescription",
-        "value": "날카롭고 뾰족하다."
+        "path": "/humanDescription",
+        "value": "만지지 말아야지."
     },
     {
         "op": "replace",
         "path": "/hylotlDescription",
         "value": "기꺼이 피해드리지."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "날카로워 뵈는데. 이건 미친 짓이야 난 여기서 나가야겠어!"
     }
 ]

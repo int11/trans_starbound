@@ -1,38 +1,8 @@
 [
     {
         "op": "replace",
-        "path": "/floranDescription",
-        "value": "키 크고 빛나는 램프."
-    },
-    {
-        "op": "replace",
-        "path": "/novakidDescription",
-        "value": "이 가로등불은 깜빡거리지 않아 진짜 불같다."
-    },
-    {
-        "op": "replace",
-        "path": "/hylotlDescription",
-        "value": "이런 가로등이면 수심에서도 제대로 작동할 것 같다."
-    },
-    {
-        "op": "replace",
-        "path": "/avianDescription",
-        "value": "이 가로등이 길을 밝혀줄 것이다."
-    },
-    {
-        "op": "replace",
-        "path": "/humanDescription",
-        "value": "파이프로 만들어진 귀여운 가로등."
-    },
-    {
-        "op": "replace",
-        "path": "/apexDescription",
-        "value": "고철로 만들어진 가로등이다."
-    },
-    {
-        "op": "replace",
-        "path": "/glitchDescription",
-        "value": "관찰. 금속으로 이루어진 가로등이다."
+        "path": "/description",
+        "value": "삐걱대는 가로등이다. 황동 파이프로 만들어졌다."
     },
     {
         "op": "replace",
@@ -41,7 +11,37 @@
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "삐걱대는 가로등이다. 황동 파이프로 만들어졌다."
+        "path": "/apexDescription",
+        "value": "고철로 만들어진 가로등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/avianDescription",
+        "value": "이 가로등이 길을 밝혀줄 것이다."
+    },
+    {
+        "op": "replace",
+        "path": "/floranDescription",
+        "value": "키 크고 빛나는 램프."
+    },
+    {
+        "op": "replace",
+        "path": "/glitchDescription",
+        "value": "관찰. 금속으로 이루어진 가로등이다."
+    },
+    {
+        "op": "replace",
+        "path": "/humanDescription",
+        "value": "파이프로 만들어진 귀여운 가로등."
+    },
+    {
+        "op": "replace",
+        "path": "/hylotlDescription",
+        "value": "이런 가로등이면 수심에서도 제대로 작동할 것 같다."
+    },
+    {
+        "op": "replace",
+        "path": "/novakidDescription",
+        "value": "이 가로등불은 깜빡거리지 않아 진짜 불같다."
     }
 ]

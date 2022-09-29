@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "클라리넷"
+        "path": "/description",
+        "value": "클라리넷. -끾끾 거리지 마시오-"
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "클라리넷. -끾끾 거리지 마시오-"
+        "path": "/shortdescription",
+        "value": "클라리넷"
     }
 ]

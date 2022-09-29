@@ -1,12 +1,12 @@
 [
     {
         "op": "replace",
-        "path": "/shortdescription",
-        "value": "미애즈몹 모형"
+        "path": "/description",
+        "value": "\"내뿜는 연기에 오래 노출되었다간 의식을 잃게 된다.\"라고 적혀있다."
     },
     {
         "op": "replace",
-        "path": "/description",
-        "value": "\"내뿜는 연기에 오래 노출되었다간 의식을 잃게 된다.\"라고 적혀있다."
+        "path": "/shortdescription",
+        "value": "미애즈몹 모형"
     }
 ]
