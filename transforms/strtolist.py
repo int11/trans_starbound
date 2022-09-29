@@ -1,5 +1,5 @@
 import os
-
+import shutil
 import trans_star
 
 os.chdir('../')
@@ -44,6 +44,12 @@ for patchfile in asset.patchfiles:
     print()
 
 new.save()
+
+for i in asset.outerfile_dirs:
+    if not os.path.exists(f"{new.dir}\\{os.path.dirname(i)}"):
+        os.makedirs(f"{new.dir}\\{os.path.dirname(i)}")
+    shutil.copy(f"{asset.dir}\\{i}", f"{new.dir}\\{i}")
+    print(f"{asset.dir}\\{i}", f"{new.dir}\\{i}")
 
 
 
