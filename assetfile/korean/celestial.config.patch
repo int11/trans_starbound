@@ -4,7 +4,7 @@
         "path": "/systemTypes/White/variationParameters/0",
         "value": {
             "magnitude": 3,
-            "description": "小白星",
+            "description": "소형 흰색 항성",
             "imageScale": 0.04,
             "twinkleFrames": "/celestial/stars/star7pxWhite.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star7px.png",
@@ -19,7 +19,7 @@
         "path": "/systemTypes/White/variationParameters/1",
         "value": {
             "magnitude": 5,
-            "description": "中白星",
+            "description": "중형 흰색 항성",
             "imageScale": 0.055,
             "twinkleFrames": "/celestial/stars/star13pxWhite.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star13px.png",
@@ -34,7 +34,7 @@
         "path": "/systemTypes/White/variationParameters/2",
         "value": {
             "magnitude": 7,
-            "description": "大白星",
+            "description": "대형 흰색 항성",
             "imageScale": 0.075,
             "twinkleFrames": "/celestial/stars/star17pxWhite.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star17px.png",
@@ -49,7 +49,7 @@
         "path": "/systemTypes/Orange/variationParameters/0",
         "value": {
             "magnitude": 3,
-            "description": "小橙星",
+            "description": "소형 주황색 항성",
             "imageScale": 0.04,
             "twinkleFrames": "/celestial/stars/star7pxOrange.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star7px.png",
@@ -64,7 +64,7 @@
         "path": "/systemTypes/Orange/variationParameters/1",
         "value": {
             "magnitude": 5,
-            "description": "中橙星",
+            "description": "중형 주황색 항성",
             "imageScale": 0.055,
             "twinkleFrames": "/celestial/stars/star13pxOrange.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star13px.png",
@@ -79,7 +79,7 @@
         "path": "/systemTypes/Orange/variationParameters/2",
         "value": {
             "magnitude": 7,
-            "description": "大橙星",
+            "description": "대형 주황색 항성",
             "imageScale": 0.075,
             "twinkleFrames": "/celestial/stars/star17pxOrange.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star17px.png",
@@ -94,7 +94,7 @@
         "path": "/systemTypes/Yellow/variationParameters/0",
         "value": {
             "magnitude": 3,
-            "description": "小黄星",
+            "description": "소형 노란색 항성",
             "imageScale": 0.04,
             "twinkleFrames": "/celestial/stars/star7pxYellow.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star7px.png",
@@ -109,7 +109,7 @@
         "path": "/systemTypes/Yellow/variationParameters/1",
         "value": {
             "magnitude": 5,
-            "description": "中黄星",
+            "description": "중형 노란색 항성",
             "imageScale": 0.055,
             "twinkleFrames": "/celestial/stars/star13pxYellow.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star13px.png",
@@ -124,7 +124,7 @@
         "path": "/systemTypes/Yellow/variationParameters/2",
         "value": {
             "magnitude": 7,
-            "description": "大黄星",
+            "description": "대형 노란색 항성",
             "imageScale": 0.075,
             "twinkleFrames": "/celestial/stars/star17pxYellow.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star17px.png",
@@ -139,7 +139,7 @@
         "path": "/systemTypes/Blue/variationParameters/0",
         "value": {
             "magnitude": 3,
-            "description": "小蓝星",
+            "description": "소형 파란색 항성",
             "imageScale": 0.04,
             "twinkleFrames": "/celestial/stars/star7pxBlue.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star7px.png",
@@ -154,7 +154,7 @@
         "path": "/systemTypes/Blue/variationParameters/1",
         "value": {
             "magnitude": 5,
-            "description": "中蓝星",
+            "description": "중형 파란색 항성",
             "imageScale": 0.055,
             "twinkleFrames": "/celestial/stars/star13pxBlue.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star13px.png",
@@ -169,7 +169,7 @@
         "path": "/systemTypes/Blue/variationParameters/2",
         "value": {
             "magnitude": 7,
-            "description": "大蓝星",
+            "description": "대형 파란색 항성",
             "imageScale": 0.075,
             "twinkleFrames": "/celestial/stars/star17pxBlue.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star17px.png",
@@ -184,7 +184,7 @@
         "path": "/systemTypes/Red/variationParameters/0",
         "value": {
             "magnitude": 3,
-            "description": "小红星",
+            "description": "소형 빨간색 항성",
             "imageScale": 0.04,
             "twinkleFrames": "/celestial/stars/star7pxRed.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star7px.png",
@@ -199,7 +199,7 @@
         "path": "/systemTypes/Red/variationParameters/1",
         "value": {
             "magnitude": 5,
-            "description": "中红星",
+            "description": "중형 빨간색 항성",
             "imageScale": 0.055,
             "twinkleFrames": "/celestial/stars/star13pxRed.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star13px.png",
@@ -214,7 +214,7 @@
         "path": "/systemTypes/Red/variationParameters/2",
         "value": {
             "magnitude": 7,
-            "description": "大红星",
+            "description": "대형 빨간색 항성",
             "imageScale": 0.075,
             "twinkleFrames": "/celestial/stars/star17pxRed.png",
             "twinkleBackground": "/celestial/stars/backgrounds/star17px.png",
@@ -227,91 +227,91 @@
     {
         "op": "replace",
         "path": "/planetaryTypes/Tier1/baseParameters/description",
-        "value": "1级星球"
+        "value": "1 단계 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/Tier2/baseParameters/description",
-        "value": "2级星球"
+        "value": "2 단계 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/Tier3/baseParameters/description",
-        "value": "3级星球"
+        "value": "3 단계 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/Tier4/baseParameters/description",
-        "value": "4级星球"
+        "value": "4 단계 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/Tier5/baseParameters/description",
-        "value": "5级星球"
+        "value": "5 단계 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/Tier6/baseParameters/description",
-        "value": "6级星球"
+        "value": "6 단계 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/Moon/baseParameters/description",
-        "value": "月球"
+        "value": "달 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/Barren/baseParameters/description",
-        "value": "贫瘠星球"
+        "value": "척박한 행성"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/AsteroidField/baseParameters/description",
-        "value": "小行星带"
+        "value": "소행성대"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/AncientGateway/baseParameters/description",
-        "value": "古门户"
+        "value": "고대 관문"
     },
     {
         "op": "replace",
         "path": "/planetaryTypes/GasGiant/baseParameters/description",
-        "value": "气体巨行星"
+        "value": "거대한 가스 행성"
     },
     {
         "op": "replace",
         "path": "/satelliteTypes/Tier1/baseParameters/description",
-        "value": "1级月亮"
+        "value": "1 단계 달"
     },
     {
         "op": "replace",
         "path": "/satelliteTypes/Tier2/baseParameters/description",
-        "value": "2级月亮"
+        "value": "2 단계 달"
     },
     {
         "op": "replace",
         "path": "/satelliteTypes/Tier3/baseParameters/description",
-        "value": "3级月亮"
+        "value": "3 단계 달"
     },
     {
         "op": "replace",
         "path": "/satelliteTypes/Tier4/baseParameters/description",
-        "value": "4级月亮"
+        "value": "4 단계 달"
     },
     {
         "op": "replace",
         "path": "/satelliteTypes/Tier5/baseParameters/description",
-        "value": "5级月亮"
+        "value": "5 단계 달"
     },
     {
         "op": "replace",
         "path": "/satelliteTypes/Tier6/baseParameters/description",
-        "value": "6级月亮"
+        "value": "6 단계 달"
     },
     {
         "op": "replace",
         "path": "/satelliteTypes/Moon/baseParameters/description",
-        "value": "标准沼泽月亮"
+        "value": "평범한 달"
     }
 ]
