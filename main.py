@@ -9,7 +9,6 @@ from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView,
     QHBoxLayout, QVBoxLayout
 from PyQt5 import QtWidgets
 from trans_star import *
-import time
 
 
 class patch_viewer(QTreeView):
@@ -86,14 +85,76 @@ class explorer(QTreeView):
         self.setModel(self.model)
         self.setRootIndex(self.model.index(self.model.rootPath()))
         self.setColumnWidth(0, int(parent.size().width() * 0.35))
+        self.model.directoryLoaded.connect(self.load)
+        self.key = None
+
+    @pyqtSlot(str)
+    def load(self, directory):
+        parentIndex = self.model.index(directory)
+        li = [parentIndex.child(row, 0) for row in range(self.model.rowCount(parentIndex)) if
+              self.model.isDir(parentIndex.child(row, 0))] + \
+             [parentIndex.child(row, 0) for row in range(self.model.rowCount(parentIndex)) if not
+              self.model.isDir(parentIndex.child(row, 0))]
+
+        if self.key == Qt.Key_Down:
+            self.setCurrentIndex(li[0])
+            if self.model.hasChildren(self.currentIndex()):
+                self.expand(self.currentIndex())
+            else:
+                self.parent0.cil(self.currentIndex())
+                self.key = None
+        elif self.key == Qt.Key_Up:
+            self.setCurrentIndex(li[-1])
+            if self.model.hasChildren(self.currentIndex()):
+                self.expand(self.currentIndex())
+            else:
+                self.parent0.cil(self.currentIndex())
+                self.key = None
 
     def keyPressEvent(self, e):
         super(explorer, self).keyPressEvent(e)
-
         if e.key() == Qt.Key_Down:
-            self.parent0.cil(self.currentIndex())
-            if self.model.hasChildren(self.currentIndex()):
-                self.expand(self.currentIndex())
+            while True:
+                if self.model.hasChildren(self.currentIndex()):
+                    self.expand(self.currentIndex())
+                    if self.model.rowCount(self.currentIndex()):
+                        self.setCurrentIndex(self.currentIndex().child(0, 0))
+                        continue
+                    else:
+                        self.key = Qt.Key_Down
+                        break
+                else:
+                    self.parent0.cil(self.currentIndex())
+                    break
+        elif e.key() == Qt.Key_Up:
+            b = True
+            while True:
+                if self.model.hasChildren(self.currentIndex()):
+                    if self.isExpanded(self.currentIndex()) and b:
+                        if self.currentIndex().parent() == self.rootIndex():
+                            self.parent0.cil(self.currentIndex())
+                            break
+                        while True:
+                            if self.currentIndex().row():
+                                self.setCurrentIndex(
+                                    self.currentIndex().parent().child(self.currentIndex().row() - 1, 0))
+                                break
+                            else:
+                                self.setCurrentIndex(self.currentIndex().parent())
+                                continue
+                        b = False
+
+                    self.expand(self.currentIndex())
+                    row = self.model.rowCount(self.currentIndex())
+                    if row:
+                        self.setCurrentIndex(self.currentIndex().child(row - 1, 0))
+                        continue
+                    else:
+                        self.key = Qt.Key_Up
+                        break
+                else:
+                    self.parent0.cil(self.currentIndex())
+                    break
 
 
 class Form(QtWidgets.QMainWindow):
@@ -143,12 +204,9 @@ class Form(QtWidgets.QMainWindow):
         viewer.clear()
 
         model = self.tab.currentWidget().findChildren(explorer)[0].model
-        indexitem = model.index(index.row(), 0, index.parent())
-        filename = model.fileName(indexitem)
-        filepath = model.filePath(indexitem)
-        ex = os.path.splitext(filename)[1]
+        filepath = model.filePath(index)
 
-        if ex == '.patch':
+        if model.type(index) == 'patch File':
             a = patchfile(filepath[len(model.rootPath()) + 1:], model.rootPath())
             lines = [i for i in a.get_lines()]
             viewer.reload(lines)
