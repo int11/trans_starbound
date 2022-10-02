@@ -152,13 +152,17 @@ class patchfile:
 
 
 class asset:
-    def __init__(self, name):
+    def __init__(self, name, load=True):
         self.name = name
         self.dir = os.path.join('assetfile', name)
-        patch_dirs = del_dir(glob(self.dir + '\\**', recursive=True))
-        self.patchfiles = [patchfile(del_absolute_path(i), self) for i in patch_dirs if
-                           'patch' in os.path.splitext(i)[1]]
-        self.outerfile_dirs = [del_absolute_path(i) for i in patch_dirs if 'patch' not in os.path.splitext(i)[1]]
+        if load:
+            patch_dirs = del_dir(glob(self.dir + '\\**', recursive=True))
+            self.patchfiles = [patchfile(del_absolute_path(i), self) for i in patch_dirs if
+                               'patch' in os.path.splitext(i)[1]]
+            self.outerfile_dirs = [del_absolute_path(i) for i in patch_dirs if 'patch' not in os.path.splitext(i)[1]]
+        else:
+            self.patchfiles = []
+            self.outerfile_dirs = []
 
     def get_dir(self, del_patch=False, del_absolute_path=False):
         for patchfile in self.patchfiles:

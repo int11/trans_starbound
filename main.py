@@ -1,3 +1,4 @@
+import glob
 import json
 import sys
 
@@ -31,10 +32,11 @@ class patch_viewer(QTreeView):
         self.originaltext = QPlainTextEdit(parent)
         self.originaltext.setReadOnly(True)
 
-    def reload(self, lines):
-        self.lines = lines
+    def reload(self, patch):
+        self.lines = [i for i in patch.get_lines()]
+
         self.model.removeRows(0, self.model.rowCount())
-        for e, i in enumerate(lines):
+        for e, i in enumerate(self.lines):
             self.model.insertRow(e)
             self.model.setData(self.model.index(e, 0), i.path)
             self.model.setData(self.model.index(e, 1),
@@ -60,18 +62,19 @@ class patch_viewer(QTreeView):
         self.selectindex = index.row()
         indexitem = self.model.index(index.row(), 1, index.parent())
         self.koreatext.setPlainText(indexitem.data())
+
         op = self.lines[self.selectindex].op
         if op == 'add':
-            self.originaltext.setPlainText("""This line "op" flag is "add" """)
+            self.originaltext.setPlainText("""This line don't have origianl value because it "op" flag is "add" """)
         elif op == 'replace':
             try:
                 org = self.lines[self.selectindex].original_value()
             except FileNotFoundError as f:
-                org = f"""{f}\n\nplease check "assetfile\\original" directory or if not exist download original asset"""
+                org = f"""{f}\n\nplease check "assetfile\\original" directory or if not exist download original asset 
+                with File menu """
             self.originaltext.setPlainText(org if isinstance(org, str) else json.dumps(org, ensure_ascii=False))
         else:
             print(f"Not consider this line op flag : {op}")
-            raise
 
 
 class explorer(QTreeView):
@@ -81,12 +84,33 @@ class explorer(QTreeView):
         self.model = QFileSystemModel()
         # set path
         self.model.setRootPath(path)
+        self.asset = asset(self.model.rootPath(), load=False)
         # set model
         self.setModel(self.model)
         self.setRootIndex(self.model.index(self.model.rootPath()))
         self.setColumnWidth(0, int(parent.size().width() * 0.35))
         self.model.directoryLoaded.connect(self.load)
+        self.clicked.connect(self.cil)
         self.key = None
+
+        self.setContextMenuPolicy(Qt.ActionsContextMenu)
+        open_explorer = QtWidgets.QAction("Open in Explorer", self)
+        open_explorer.triggered.connect(self.Eopen_explorer)
+        self.addAction(open_explorer)
+
+    def Eopen_explorer(self):
+        os.startfile(self.model.filePath(self.currentIndex()))
+
+    @pyqtSlot(QtCore.QModelIndex)
+    def cil(self, index):
+        viewer = self.parent0.tab.currentWidget().findChildren(patch_viewer)[0]
+        viewer.clear()
+
+        filepath = self.model.filePath(index)
+
+        if self.model.type(index) == 'patch File':
+            patch = patchfile(filepath[len(self.model.rootPath()) + 1:], self.asset)
+            viewer.reload(patch)
 
     @pyqtSlot(str)
     def load(self, directory):
@@ -94,21 +118,21 @@ class explorer(QTreeView):
         li = [parentIndex.child(row, 0) for row in range(self.model.rowCount(parentIndex)) if
               self.model.isDir(parentIndex.child(row, 0))] + \
              [parentIndex.child(row, 0) for row in range(self.model.rowCount(parentIndex)) if not
-              self.model.isDir(parentIndex.child(row, 0))]
+             self.model.isDir(parentIndex.child(row, 0))]
 
         if self.key == Qt.Key_Down:
             self.setCurrentIndex(li[0])
             if self.model.hasChildren(self.currentIndex()):
                 self.expand(self.currentIndex())
             else:
-                self.parent0.cil(self.currentIndex())
+                self.cil(self.currentIndex())
                 self.key = None
         elif self.key == Qt.Key_Up:
             self.setCurrentIndex(li[-1])
             if self.model.hasChildren(self.currentIndex()):
                 self.expand(self.currentIndex())
             else:
-                self.parent0.cil(self.currentIndex())
+                self.cil(self.currentIndex())
                 self.key = None
 
     def keyPressEvent(self, e):
@@ -124,7 +148,7 @@ class explorer(QTreeView):
                         self.key = Qt.Key_Down
                         break
                 else:
-                    self.parent0.cil(self.currentIndex())
+                    self.cil(self.currentIndex())
                     break
         elif e.key() == Qt.Key_Up:
             b = True
@@ -132,7 +156,7 @@ class explorer(QTreeView):
                 if self.model.hasChildren(self.currentIndex()):
                     if self.isExpanded(self.currentIndex()) and b:
                         if self.currentIndex().parent() == self.rootIndex():
-                            self.parent0.cil(self.currentIndex())
+                            self.cil(self.currentIndex())
                             break
                         while True:
                             if self.currentIndex().row():
@@ -153,7 +177,7 @@ class explorer(QTreeView):
                         self.key = Qt.Key_Up
                         break
                 else:
-                    self.parent0.cil(self.currentIndex())
+                    self.cil(self.currentIndex())
                     break
 
 
@@ -177,15 +201,18 @@ class Form(QtWidgets.QMainWindow):
         file_menu.addAction(action1)
 
         self.tab = QtWidgets.QTabWidget(self)
-        self.addtap('assetfile/korean')
-        self.addtap('assetfile/chinese')
-        self.addtap('assetfile/sb_korpatch_union-master')
+        astli = [i for i in glob('assetfile/*') if os.path.isdir(i) and i != 'assetfile\\original']
+        try:
+            self.addtap(astli.pop(astli.index('assetfile\\korean')))
+        except ValueError:
+            pass
+        finally:
+            for i in astli: self.addtap(i)
         self.setCentralWidget(self.tab)
 
     def addtap(self, path):
         widget = QWidget()
         new_explorer = explorer(self, os.path.abspath(path))
-        new_explorer.clicked.connect(self.cil)
         viewer = patch_viewer(self)
 
         hbox = QHBoxLayout(widget)
@@ -196,20 +223,7 @@ class Form(QtWidgets.QMainWindow):
         vbox.addWidget(viewer.originaltext)
         hbox.addLayout(vbox)
 
-        self.tab.addTab(widget, path[path.rfind('/') + 1:])
-
-    @pyqtSlot(QtCore.QModelIndex)
-    def cil(self, index):
-        viewer = self.tab.currentWidget().findChildren(patch_viewer)[0]
-        viewer.clear()
-
-        model = self.tab.currentWidget().findChildren(explorer)[0].model
-        filepath = model.filePath(index)
-
-        if model.type(index) == 'patch File':
-            a = patchfile(filepath[len(model.rootPath()) + 1:], model.rootPath())
-            lines = [i for i in a.get_lines()]
-            viewer.reload(lines)
+        self.tab.addTab(widget, path[path.rfind('\\') + 1:])
 
     def action0f(self):
         path = QtWidgets.QFileDialog.getExistingDirectory(self, "Open Asset Folder", './assetfile')
