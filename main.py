@@ -5,7 +5,7 @@ import sys
 from PyQt5 import QtCore
 from PyQt5.Qt import QFileSystemModel
 from PyQt5.QtCore import Qt, pyqtSlot
-from PyQt5.QtGui import QStandardItemModel
+from PyQt5.QtGui import QStandardItemModel, QStandardItem
 from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView, QPlainTextEdit, \
     QHBoxLayout, QVBoxLayout
 from PyQt5 import QtWidgets
@@ -16,7 +16,6 @@ class patch_viewer(QTreeView):
     def __init__(self, parent):
         super().__init__(parent)
         self.lines = None
-        self.selectindex = None
         self.setEditTriggers(QAbstractItemView.NoEditTriggers)
 
         self.model = QStandardItemModel()
@@ -34,47 +33,76 @@ class patch_viewer(QTreeView):
 
     def reload(self, patch):
         self.lines = [i for i in patch.get_lines()]
-
+        root = self.model.invisibleRootItem()
         self.model.removeRows(0, self.model.rowCount())
         for e, i in enumerate(self.lines):
-            self.model.insertRow(e)
-            self.model.setData(self.model.index(e, 0), i.path)
-            self.model.setData(self.model.index(e, 1),
-                               i.value if isinstance(i.value, str) else json.dumps(i.value, ensure_ascii=False))
+            path_item = QStandardItem(i.path)
+            value_item = QStandardItem(i.value if isinstance(i.value, str) else json.dumps(i.value, ensure_ascii=False))
+            root.appendRow([path_item, value_item])
+
+            if isinstance(i.value, dict):
+                for key, value in i.value.items():
+                    path_item.appendRow([QStandardItem(key), QStandardItem(str(value))])
+            elif isinstance(i.value, list):
+                for i in i.value:
+                    path_item.appendRow([QStandardItem(), QStandardItem(str(i))])
 
     def textchange(self):
-        if not self.selectindex is None:
+        if self.lines is not None:
             value = self.koreatext.toPlainText()
-            self.model.setData(self.model.index(self.selectindex, 1), value)
-            typ = type(self.lines[self.selectindex].value)
-            self.lines[self.selectindex].value = value if typ == str else json.loads(value, strict=False)
-            self.lines[self.selectindex].target_patch.save(False)
+            index = self.model.index(self.currentIndex().row(), 1, self.currentIndex().parent())
+            self.model.setData(index, value)
+
+            if index.parent().data() is None:
+                typ = type(self.lines[index.row()].value)
+                self.lines[index.row()].value = value if typ == str else json.loads(value, strict=False)
+            else:
+                target = self.lines[index.parent().row()].value
+                if isinstance(target, dict):
+                    key = self.model.index(index.row(), 0, index.parent()).data()
+                    typ = type(target[key])
+                    target[key] = value if typ == str else json.loads(value, strict=False)
+                elif isinstance(target, list):
+                    typ = type(target[index.row()])
+                    target[index.row()] = value if typ == str else json.loads(value, strict=False)
+                else:
+                    raise
+
+            self.lines[0].target_patch.save(False)
 
     def clear(self):
         self.lines = None
-        self.selectindex = None
         self.koreatext.clear()
         self.originaltext.clear()
         self.model.removeRows(0, self.model.rowCount())
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
-        self.selectindex = index.row()
-        indexitem = self.model.index(index.row(), 1, index.parent())
-        self.koreatext.setPlainText(indexitem.data())
+        index = self.model.index(index.row(), 1, index.parent())
+        self.koreatext.setPlainText(index.data())
 
-        op = self.lines[self.selectindex].op
+        op = self.lines[index.row()].op if index.parent().data() is None else self.lines[index.parent().row()].op
         if op == 'add':
-            self.originaltext.setPlainText("""This line don't have origianl value because it "op" flag is "add" """)
+            org = """This line don't have origianl value because it "op" flag is "add" """
         elif op == 'replace':
             try:
-                org = self.lines[self.selectindex].original_value()
+                if index.parent().data() is None:
+                    org = self.lines[index.row()].original_value()
+                else:
+                    org = self.lines[index.parent().row()].original_value()
+                    if isinstance(org, dict):
+                        key = self.model.index(index.row(), 0, index.parent()).data()
+                        org = org[key]
+                    elif isinstance(org, list):
+                        org = org[index.row()]
+                    else:
+                        raise
             except FileNotFoundError as f:
                 org = f"""{f}\n\nplease check "assetfile\\original" directory or if not exist download original asset 
                 with File menu """
-            self.originaltext.setPlainText(org if isinstance(org, str) else json.dumps(org, ensure_ascii=False))
         else:
-            print(f"Not consider this line op flag : {op}")
+            org = f"Not consider this line op flag : {op}"
+        self.originaltext.setPlainText(org if isinstance(org, str) else json.dumps(org, ensure_ascii=False))
 
 
 class explorer(QTreeView):

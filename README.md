@@ -1,6 +1,6 @@
 # Starbound translation
 
-This project made for translation Starbound which is indie game
+This project made for translation management progream of Starbound which is indie game
 
 Specifically, for Korean.
 
