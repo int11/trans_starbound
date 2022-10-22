@@ -10,6 +10,8 @@ from PyQt5.QtWidgets import QWidget, QTreeView, QApplication, QAbstractItemView,
     QHBoxLayout, QVBoxLayout
 from PyQt5 import QtWidgets
 from trans_star import *
+import urllib.request
+import webbrowser
 
 
 class patch_viewer(QTreeView):
@@ -51,12 +53,23 @@ class patch_viewer(QTreeView):
         if self.lines is not None:
             value = self.koreatext.toPlainText()
             index = self.model.index(self.currentIndex().row(), 1, self.currentIndex().parent())
+            # reload current index value
             self.model.setData(index, value)
 
-            if index.parent().data() is None:
+            if index.parent().data() is None:  # if current select index is not child
                 typ = type(self.lines[index.row()].value)
                 self.lines[index.row()].value = value if typ == str else json.loads(value, strict=False)
-            else:
+
+                # reload current index child value
+                index0 = self.model.index(self.currentIndex().row(), 0, self.currentIndex().parent())
+                childs = [index0.child(row, 1) for row in range(self.model.rowCount(index0))]
+                if typ == dict:
+                    for i, (key, value) in zip(childs, self.lines[index.row()].value.items()):
+                        self.model.setData(i, str(value))
+                elif typ == list:
+                    for i, value in zip(childs, self.lines[index.row()].value):
+                        self.model.setData(i, str(value))
+            else:  # if select index is child
                 target = self.lines[index.parent().row()].value
                 if isinstance(target, dict):
                     key = self.model.index(index.row(), 0, index.parent()).data()
@@ -67,6 +80,11 @@ class patch_viewer(QTreeView):
                     target[index.row()] = value if typ == str else json.loads(value, strict=False)
                 else:
                     raise
+
+                # reload current index parent value
+                parentindex = self.model.index(self.currentIndex().parent().row(), 1, index.parent().parent())
+                self.model.setData(parentindex,
+                                   target if isinstance(target, str) else json.dumps(target, ensure_ascii=False))
 
             self.lines[0].target_patch.save(False)
 
@@ -97,9 +115,8 @@ class patch_viewer(QTreeView):
                         org = org[index.row()]
                     else:
                         raise
-            except FileNotFoundError as f:
-                org = f"""{f}\n\nplease check "assetfile\\original" directory or if not exist download original asset 
-                with File menu """
+            except (FileNotFoundError, TypeError) as f:
+                org = f"""{f}\n\nplease check "assetfile\\original" directory or if not exist download original asset with File menu """
         else:
             org = f"Not consider this line op flag : {op}"
         self.originaltext.setPlainText(org if isinstance(org, str) else json.dumps(org, ensure_ascii=False))
@@ -128,6 +145,8 @@ class explorer(QTreeView):
 
     def Eopen_explorer(self):
         os.startfile(self.model.filePath(self.currentIndex()))
+        viewer = self.parent0.tab.currentWidget().findChildren(patch_viewer)[0]
+        viewer.clear()
 
     @pyqtSlot(QtCore.QModelIndex)
     def cil(self, index):
@@ -211,8 +230,9 @@ class explorer(QTreeView):
 
 class Form(QtWidgets.QMainWindow):
     def __init__(self):
+        self.current_version = "0.3.2"
         QWidget.__init__(self, flags=Qt.Widget)
-        self.setWindowTitle("Asset Editer")
+        self.setWindowTitle(f"Asset Editer {self.current_version}")
         rect = app.desktop().screenGeometry()
         size = (int(rect.height() * 0.8), int(rect.width() * 0.8))
         self.setGeometry(int(rect.height() * 0.1), int(rect.height() * 0.1), size[1], size[0])
@@ -223,10 +243,13 @@ class Form(QtWidgets.QMainWindow):
         action0.triggered.connect(self.action0f)
         action1 = QtWidgets.QAction("Original asset download", self)
         action1.triggered.connect(self.action1f)
+        action2 = QtWidgets.QAction("About", self)
+        action2.triggered.connect(self.action2f)
 
         file_menu = menubar.addMenu("File")
         file_menu.addAction(action0)
         file_menu.addAction(action1)
+        file_menu.addAction(action2)
 
         self.tab = QtWidgets.QTabWidget(self)
         astli = [i for i in glob('assetfile/*') if os.path.isdir(i) and i != 'assetfile\\original']
@@ -237,6 +260,22 @@ class Form(QtWidgets.QMainWindow):
         finally:
             for i in astli: self.addtap(i)
         self.setCentralWidget(self.tab)
+
+        # version check
+        try:
+            with urllib.request.urlopen("https://github.com/int11/Starbound-translation/releases/latest/") as url:
+                data = url.read().decode()
+                data = data[data.find("Release v") + 9:data.find("·") - 1]
+                if self.current_version != data:
+                    self.statusbar = QtWidgets.QStatusBar()
+                    self.setStatusBar(self.statusbar)
+                    text = QtWidgets.QLabel("<a href=\"https://github.com/int11/Starbound-translation/releases/latest"
+                                            "/download/main.exe\">New version available. Click here to download</a>",
+                                            self)
+                    self.statusbar.addWidget(text)
+                    text.setOpenExternalLinks(True)
+        except:
+            pass
 
     def addtap(self, path):
         widget = QWidget()
@@ -272,6 +311,9 @@ class Form(QtWidgets.QMainWindow):
                     QtWidgets.QMessageBox.critical(self, 'Fail', 'Unpacking Fail')
             elif option == QtWidgets.QMessageBox.No:
                 pass
+
+    def action2f(self):
+        webbrowser.open("https://github.com/int11/Starbound-translation")
 
 
 app = QApplication(sys.argv)
