@@ -139,11 +139,20 @@ class explorer(QTreeView):
         self.key = None
 
         self.setContextMenuPolicy(Qt.ActionsContextMenu)
-        open_explorer = QtWidgets.QAction("Open in Explorer", self)
-        open_explorer.triggered.connect(self.Eopen_explorer)
-        self.addAction(open_explorer)
+        qc1 = QtWidgets.QAction("Open folder in Explorer", self)
+        qc1.triggered.connect(self.folder_open)
+        qc2 = QtWidgets.QAction("Open file in Explorer", self)
+        qc2.triggered.connect(self.file_open)
 
-    def Eopen_explorer(self):
+        self.addAction(qc1)
+        self.addAction(qc2)
+
+    def folder_open(self):
+        os.startfile(os.path.dirname(self.model.filePath(self.currentIndex())))
+        viewer = self.parent0.tab.currentWidget().findChildren(patch_viewer)[0]
+        viewer.clear()
+
+    def file_open(self):
         os.startfile(self.model.filePath(self.currentIndex()))
         viewer = self.parent0.tab.currentWidget().findChildren(patch_viewer)[0]
         viewer.clear()
@@ -230,7 +239,7 @@ class explorer(QTreeView):
 
 class Form(QtWidgets.QMainWindow):
     def __init__(self):
-        self.current_version = "0.3.2"
+        self.current_version = "0.3.3"
         QWidget.__init__(self, flags=Qt.Widget)
         self.setWindowTitle(f"Asset Editer {self.current_version}")
         rect = app.desktop().screenGeometry()
