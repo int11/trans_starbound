@@ -1,4 +1,4 @@
-# Starbound translation
+# translation_management_Starbound
 
 This project made for translation management progream of Starbound which is indie game
 
